@@ -135,7 +135,7 @@
     - Automated Planning
     - Multiagent Systems
     - Air Traffic Control 
-  image: http://ai4reason.org/images/jjakubuv.jpg
+  image: https://usermap.cvut.cz/profile/photos/0c1ea120-069f-4234-8ddd-d0a86c3c5568?type=jpg
   email: jakubuv_AT_gmail_DOT_com
   homepage: http://people.ciirc.cvut.cz/~jakubja5
   scholar: 
@@ -156,7 +156,7 @@
   email:  thibault_gauthier (at) hotmail (dot) fr 
   homepage: 
   scholar:
-  dblp: 
+  dblp: pid/146/0608
   orcid:
   github:
 
@@ -173,7 +173,7 @@
   email: karel (at) chvalovsky.cz
   homepage: http://karel.chvalovsky.cz/
   scholar:
-  dblp: 
+  dblp: pid/39/11138
   orcid:
   github:
 
@@ -189,7 +189,7 @@
   email:
   homepage: 
   scholar:
-  dblp: 
+  dblp: pid/200/9929
   orcid:
   github:
 
@@ -206,7 +206,7 @@
   email:
   homepage: 
   scholar:
-  dblp: 
+  dblp: pid/v/RobertVeroff
   orcid:
   github:
 
@@ -222,7 +222,7 @@
   email: filip.bartek (at) cvut.cz
   homepage: 
   scholar:
-  dblp: 
+  dblp: pid/281/5411
   orcid:
   github: 
 
@@ -240,7 +240,7 @@
   email: lasse.blaauwbroek (at) cvut.cz
   homepage: 
   scholar:
-  dblp: 
+  dblp: pid/261/3275
   orcid:
   github: 
 
@@ -260,7 +260,7 @@
   email: zariuq (at) gmail (dot) com 
   homepage: 
   scholar:
-  dblp: 
+  dblp: pid/263/3219
   orcid:
   github: 
 
@@ -277,7 +277,7 @@
   email: 
   homepage: 
   scholar: U2cikqsAAAAJ
-  dblp: 
+  dblp: pid/21/607
   orcid:
   github: 
 
@@ -293,7 +293,7 @@
   email:
   homepage: 
   scholar:
-  dblp: 
+  dblp: pid/285/5325
   orcid:
   github: 
 
@@ -309,25 +309,106 @@
   email:  piotrbar (at) ciirc.cvut.cz 
   homepage: 
   scholar:
-  dblp: 
+  dblp: pid/215/3912
+  orcid:
+  github: 
+
+- name: Barbora Hudcová
+  role: student
+  groups:
+    - FAI
+  dblp: pid/298/8255
+  position: 
+  interests:
+    - Machine learning
+    - Artificial intelligence
+  image: /images/members/user.png
+  email:
+  homepage: 
+  scholar:
+  orcid:
+  github: 
+
+- name: Erik Derner
+  role: staff
+  groups:
+    - ML
+  dblp: pid/211/3939
+  position: 
+  interests:
+    - Machine learning
+    - Artificial intelligence
+  image: /images/members/user.png
+  email:
+  homepage: 
+  scholar:
+  orcid:
+  github: 
+
+- name: Jiří Kubalík
+  role: staff
+  groups:
+    - ML
+  dblp: pid/05/659
+  position: 
+  interests:
+    - Machine learning
+    - Artificial intelligence
+  image: /images/members/user.png
+  email:
+  homepage: 
+  scholar:
+  orcid:
+  github: 
+
+- name: Jan Zahálka
+  role: staff
+  groups:
+    - ML
+  dblp: pid/54/9476
+  position: 
+  interests:
+    - Machine learning
+    - Artificial intelligence
+  image: /images/members/user.png
+  email:
+  homepage: 
+  scholar:
+  orcid:
+  github: 
+
+- name: Baran Alikoc
+  role: alumni
+  groups:
+    - ML
+  dblp: pid/180/8715
+  position: 
+  interests:
+    - Machine learning
+    - Artificial intelligence
+  image: /images/members/user.png
+  email:
+  homepage: 
+  scholar:
   orcid:
   github: 
 
 
 
+
 - name: 
   role: staff
-  position: 
+  dblp: 
   groups:
     - main_
+  position: 
   interests:
-    - Automated Reasoning
-    - Artificial Intelligence
+    - Machine learning
+    - Artificial intelligence
   image: /images/members/user.png
   email:
   homepage: 
   scholar:
-  dblp: 
   orcid:
   github: 
 
