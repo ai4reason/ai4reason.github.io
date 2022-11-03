@@ -17,7 +17,7 @@ title: Department of Artificial Inteligence
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   at <b>Czech Institute of Informatics, Robotics and Cybernetics</b>
-baseurl: "/aid" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "ai4reason.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  ai4reason
