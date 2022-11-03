@@ -1,0 +1,333 @@
+- name: Josef Urban
+  role: pi 
+  position: Head of the AI Department
+  groups:
+    - main
+    - AR
+  interests:
+    - Automated Reasoning
+    - Inductive Reasoning
+    - Formalization and verification of Mathematics
+  image: https://www.ciirc.cvut.cz/wp-content/uploads/2021/10/Josef-Urban.png
+  email: Josef.Urban (at) gmail.com
+  homepage: http://people.ciirc.cvut.cz/~urbanjo3
+  scholar: 4pW-Je4AAAAJ
+  dblp: pid/63/5214
+  orcid: 0000-0002-1384-1613
+  github: JUrban
+
+- name: Mikoláš Janota
+  role: pi 
+  position: Head of the Formal Methods (FM) Group
+  groups:
+    - main
+    - FM
+  interests:
+    - Automated Reasoning
+    - Inductive Reasoning
+    - Formalization and verification of Mathematics
+  image: /images/members/janota.png
+  email: mikolas DOT janota AT gmail DOT com
+  homepage: http://sat.inesc-id.pt/~mikolas
+  scholar: SFg4raQAAAAJ
+  dblp: pid/56/2424
+  orcid: 0000-0003-3487-784X
+  github: 
+
+- name: Martin Suda
+  role: pi
+  position: Head of the Automated Reasoning (AR) Group
+  groups:
+    - main
+    - AR
+  interests:
+    - Automated Reasoning
+    - Linear Temporal Logic 
+    - Symbolic Reachability Analysis
+    - Hardware Verification
+    - Automated Planning
+    - Quantified Boolean Formulas 
+  image: /images/members/suda.jpg
+  email: Martin.Suda (at) cvut.cz
+  homepage: http://people.ciirc.cvut.cz/~sudamar2/
+  scholar: O0zcIe0AAAAJ
+  dblp: pid/24/5175-1
+  orcid: 0000-0003-0989-5800
+  github: 
+
+- name: Tomáš Mikolov
+  role: pi
+  position: Head of the Foundational AI (FAI) Group
+  groups:
+    - main
+    - FAI
+  interests:
+    - Artificial Intelligence
+    - Machine Learning
+    - Language Modeling
+    - Natural Language Processing
+  image: /images/members/mikolov.jpg
+  email: tomas.mikolov(at)cvut.cz
+  homepage: https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Mikolov
+  scholar: oBu8kMMAAAAJ
+  dblp: pid/45/8055
+  orcid: 0000-0002-6938-5426
+  github: 
+
+- name: Robert Babuška
+  role: pi
+  position: Head of the Machine Learning (ML) Group
+  groups:
+    - main
+    - ML
+  interests:
+    - Reinforcement learning
+    - Nonlinear control
+    - Data-driven model construction
+    - Deep learning
+  image: https://www.ciirc.cvut.cz/wp-content/uploads/2021/10/Robert_Babuska-254x300.jpg
+  email: robert_DOT_babuska_AT_cvut_DOT_cz
+  homepage: http://www.robertbabuska.com/
+  scholar: 0orN2FUAAAAJ
+  dblp: pid/65/1151
+  orcid: 0000-0001-9578-8598
+  github: 
+
+
+
+
+- name: Chad E. Brown
+  role: staff
+  position: Researcher
+  groups:
+    - AR
+  interests:
+    - Higher-Order Theorem Proving
+    - Semantics of Higher-Order Logic
+    - Generalizations of Henkin Models
+    - Extensionality Principles
+    - Set Comprehension Principles
+    - Cut-Elimination
+    - Completeness and Independence Results
+    - Automatic and Interactive Theorem Proving
+    - Proof Checking
+    - Proof Representations and Transformations 
+  image: http://ai4reason.org/images/cebrown.jpg
+  email:
+  homepage: https://en.wikipedia.org/wiki/Chad_of_Mercia
+  scholar:
+  dblp: 
+  orcid:
+  github:
+
+- name: Jan Jakubův
+  role: staff
+  position: Researcher
+  groups:
+    - AR
+    - FM
+  interests:
+    - Artificial Intelligence
+    - Machine Learning
+    - Automated Reasoning
+    - Process Calculi
+    - Type Systems
+    - Automated Planning
+    - Multiagent Systems
+    - Air Traffic Control 
+  image: http://ai4reason.org/images/jjakubuv.jpg
+  email: jakubuv_AT_gmail_DOT_com
+  homepage: http://people.ciirc.cvut.cz/~jakubja5
+  scholar: 
+  dblp: 
+  orcid: 
+  github: cbboyan
+
+- name: Thibault Gauthier
+  role: staff
+  position: Researcher
+  groups:
+    - AR
+  interests:
+    - Automated Reasoning
+    - Artificial Intelligence
+    - Automation in Interactive Theorem Proving 
+  image: http://ai4reason.org/images/tgauthier.jpg
+  email:  thibault_gauthier (at) hotmail (dot) fr 
+  homepage: 
+  scholar:
+  dblp: 
+  orcid:
+  github:
+
+- name: Karel Chvalovský
+  role: staff
+  position: Researcher
+  groups:
+    - AR
+  interests:
+    - Automated Theorem Proving
+    - Logic in Computer Science
+    - Algorithmic Learning Theory 
+  image: http://ai4reason.org/images/kchvalovsky.jpg
+  email: karel (at) chvalovsky.cz
+  homepage: http://karel.chvalovsky.cz/
+  scholar:
+  dblp: 
+  orcid:
+  github:
+
+- name: Jan Hůla
+  role: staff
+  position: Researcher
+  groups:
+    - AR
+  interests:
+    - Automated Reasoning
+    - Artificial Intelligence
+  image: /images/members/user.png
+  email:
+  homepage: 
+  scholar:
+  dblp: 
+  orcid:
+  github:
+
+- name: Robert Veroff
+  role: staff
+  position: Affiliated research professor
+  groups:
+    - AR
+  interests:
+    - Automated Theorem Proving
+    - Mathematical Structures
+    - Abelian Inner Mappings 
+  image: http://ai4reason.org/images/bveroff.jpg
+  email:
+  homepage: 
+  scholar:
+  dblp: 
+  orcid:
+  github:
+
+- name: Filip Bártek
+  role: student
+  position: PhD student 
+  groups:
+    - AR
+  interests:
+    - Saturation-based Automated Theorem Proving
+    - Machine Learning 
+  image: http://ai4reason.org/images/fbartek.jpg
+  email: filip.bartek (at) cvut.cz
+  homepage: 
+  scholar:
+  dblp: 
+  orcid:
+  github: 
+
+- name: Lasse Blaauwbroek
+  role: student
+  position: PhD student 
+  groups:
+    - AR
+  interests:
+    - Interactive Theorem Proving
+    - Machine Learning
+    - Type Theory
+    - Programming Languages 
+  image: http://ai4reason.org/images/lblaauwbroek.jpg
+  email: lasse.blaauwbroek (at) cvut.cz
+  homepage: 
+  scholar:
+  dblp: 
+  orcid:
+  github: 
+
+- name: Zarathustra A. Goertzel
+  role: student
+  position: PhD student 
+  groups:
+    - AR
+  interests:
+    - Automated Theorem Proving
+    - Artificial General Intelligence
+    - Automated Reasoning
+    - Inference Guidance
+    - Knolwedge Graph Learning
+    - Representation Learning 
+  image: http://ai4reason.org/images/zgoertzel.jpg
+  email: zariuq (at) gmail (dot) com 
+  homepage: 
+  scholar:
+  dblp: 
+  orcid:
+  github: 
+
+- name: Yutaka Nagashima
+  role: alumni
+  position: PhD student 
+  groups:
+    - AR
+  interests:
+    - Interactive Theorem Proving 
+    - Automated Reasoning
+    - Artificial Intelligence
+  image: http://ai4reason.org/images/ynagashima.jpg
+  email: 
+  homepage: 
+  scholar: U2cikqsAAAAJ
+  dblp: 
+  orcid:
+  github: 
+
+- name: Jelle Piepenbrock
+  role: student
+  position: PhD student 
+  groups:
+    - AR
+  interests:
+    - Automated Reasoning
+    - Artificial Intelligence
+  image: /images/members/user.png
+  email:
+  homepage: 
+  scholar:
+  dblp: 
+  orcid:
+  github: 
+
+- name: Bartosz P. Piotrowski
+  role: student
+  position: PhD student 
+  groups:
+    - AR
+  interests:
+    - Automated Reasoning
+    - Artificial Intelligence
+  image: http://ai4reason.org/images/BP1.jpg
+  email:  piotrbar (at) ciirc.cvut.cz 
+  homepage: 
+  scholar:
+  dblp: 
+  orcid:
+  github: 
+
+
+
+- name: 
+  role: staff
+  position: 
+  groups:
+    - main_
+  interests:
+    - Automated Reasoning
+    - Artificial Intelligence
+  image: /images/members/user.png
+  email:
+  homepage: 
+  scholar:
+  dblp: 
+  orcid:
+  github: 
+

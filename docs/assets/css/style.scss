@@ -1,0 +1,92 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  //padding: 25px 20px 40px 20px;
+  padding: 0px 20px 20px 20px;
+  //min-height: 76px;
+}
+
+#banner {
+   //right: 50%;
+  //top: 115px;
+  top: 75px;
+}
+
+section {
+  //width:590px;
+  //margin-top: 190px;
+  margin-top: 135px;
+}
+
+nav {
+  //width: 230px;
+  //left:50%;
+  //top: 220px;
+  top: 165px;
+}
+
+header h1 {
+   font: 32px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header p { 
+   font-size: 22px; 
+}
+
+#ctulogo {
+   position: absolute; 
+   height: 36px; 
+   width: 36px;
+   right: 7px; 
+   top: 7px; 
+   display: block;
+   opacity: 0.7;
+}
+
+.pushed {
+    border: 1px solid #dba500;
+    //background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
+    border-radius: 2px;
+    box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
+    //background-color: #FFE788;
+    margin-left: 5px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height:14px;
+    font-size:14px;
+    color:#333;
+    font-weight: bold;
+    display:inline-block;
+    text-align:center;
+   
+    //background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 231));
+    background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 231));
+    background-color: #ffeca0;
+}
+
+.imglink {
+   height: 28px;
+   width: 28px;
+   padding-right: 15px;
+   padding-left: 10px;
+}
+
+.imgphoto {
+   //height: 200px;
+   width: 150px;
+}
+
+.name {
+   color: #888;
+   font-size: 150%;
+   font-weight:bold;
+}
+
+.position {
+   color: #333;
+   font-size: 120%;
+}
+

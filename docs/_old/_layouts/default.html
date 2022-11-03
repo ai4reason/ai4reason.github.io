@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    {% include head-custom.html %}
+  </head>
+  <body>
+
+  {% assign buttons = "" | split: "," %}
+  {%- for btn in site.pages -%}
+     {% if btn.group == page.group and btn.name != "index.md" %}
+        {% assign buttons = buttons | push: btn %}
+     {% endif %}
+  {%- endfor -%}
+
+      <header>
+        <h1 class="hdr">{{ page.header | default: site.header }}</h1>
+        <p class="sub">{{ page.subheader | default: site.subheader }}</p>
+      </header>
+
+      <div id="banner">
+        <img id="ctulogo" src="/images/cvut.png" />
+
+         <div class="downloads">
+            <span style="margin-left: 1em">AI dep:</span>
+            <ul>
+              <li><a href="/" class="{% if page.url == "/" %}pushed{% else %}button{% endif %}">Home</a></li>
+              {%- for btn in buttons -%}
+              <li><a href="{{ btn.url }}" class="{% if btn.url == page.url %}pushed{% else %}button{% endif %}">{{ btn.button | default: btn.title }}</a></li>
+              {%- endfor -%}
+            </ul>
+            <span style="margin-left: 1em">Groups:</span>
+            <ul>
+              {%- for group in site.groups -%}
+                <li><a href="/groups/{{group}}/" class="button">{{group}}</a></li>
+              {%- endfor -%}
+            </ul>
+          </div>
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
+
+        {{ content }}
+
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
+      </footer>
+    </div>
+  </body>
+</html>

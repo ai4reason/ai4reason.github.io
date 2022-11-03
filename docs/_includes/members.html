@@ -1,0 +1,51 @@
+
+{% assign group = include.group | default: page.layout %}
+{% assign role = include.role | default: "pi" %}
+
+{% assign members = "" | split: "," %}
+{% for member in site.data.members %}
+   {% if member.groups contains group and member.role == role %}
+      {% assign members = members | push: member %}
+   {% endif %}
+{% endfor %}
+
+<div id="container">
+   <hr/>
+{% for member in members %}
+    <div style="float: left; padding-right: 10px">
+      <img class="imgphoto" src="{{member.image | relative_url }}" />
+    </div>
+    <div style="float: left">
+      {% if member.email %}
+      <a href="mailto:{{member.email}}"> <img class="imglink" src="{{site.baseurl}}/images/mail.png" /> </a><br/>
+      {% endif %}
+      {% if member.homepage %}
+      <a href="{{member.homepage}}"> <img class="imglink" src="{{site.baseurl}}//images/homepage.png" /> </a><br/>
+      {% endif %}
+      {% if member.scholar %}
+        <a href="http://scholar.google.com/citations?user={{member.scholar}}"> <img class="imglink" src="{{site.baseurl}}//images/scholar.png" /> </a><br/>
+      {% endif %}
+      {% if member.dblp %}
+      <a href="https://dblp.uni-trier.de/{{member.dblp}}.html"> <img class="imglink" src="{{site.baseurl}}//images/dblp.png" /> </a><br/>
+      {% endif %}
+      {% if member.orcid %}
+      <a href="https://orcid.org/{{member.orcid}}"> <img class="imglink" src="{{site.baseurl}}//images/orcid.png" /> </a><br/>
+      {% endif %}
+      {% if member.github %}
+      <a href="https://github.com/{{member.github}}"> <img class="imglink" src="{{site.baseurl}}//images/github.png" /> </a><br/>
+      {% endif %}
+    </div>
+    <div style="float: left">
+      <span class="name">{{member.name}}</span><br/>
+      <span class="position">{{member.position}}</span><br/>
+      <i>Research interests:</i>
+      <ul>
+         {% for interest in member.interests %}
+         <li>{{interest}}</li>
+         {% endfor %}
+      </ul>
+    </div>
+    <div style="clear: both"></div>
+    <hr/>
+{% endfor %}
+</div>

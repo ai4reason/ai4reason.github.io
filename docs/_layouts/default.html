@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    {% include head-custom.html %}
+  </head>
+  <body>
+
+  {% assign buttons = "" | split: "," %}
+  {%- for btn in site.pages -%}
+     {% if btn.layout and btn.layout == layout.group  %}
+        {% assign btn.index = btn.index | default: btn.button | default: bt.title %}
+        {% assign buttons = buttons | push: btn %}
+     {% endif %}
+  {%- endfor -%}
+  {% assign buttons = buttons | sort: "index" %}
+
+      <header>
+        <h1 class="hdr">{{ page.header | default: layout.header | default: site.header }}</h1>
+        <p class="sub">{{ page.subheader | default: layout.subheader | default: site.subheader }}</p>
+      </header>
+
+      <div id="banner">
+         <img id="ctulogo" src="{{ '/images/cvut.png' | relative_url }}" />
+
+         <div class="downloads">
+            <ul>
+              {%- for btn in buttons -%}
+              <li><a href="{{site.baseurl}}/{{btn.url}}" class="{% if btn.url == page.url %}pushed{% else %}button{% endif %}">{{ btn.button | default: btn.title }}</a></li>
+              {%- endfor -%}
+            </ul>
+            <span style="margin-left: 1em">Groups:</span>
+            <ul>
+              {% if layout.group != "main" %}
+              <li><a href="{{ '/' | relative_url }}" class="{% if page.url == "/" %}pushed{% else %}button{% endif %}">&#8617; AI &#10006;</a></li>
+              {% endif %}
+              {%- for group in site.groups -%}
+              <li><a href="{{site.baseurl}}/groups/{{group}}/" class="{% if group == layout.group %}pushed{% else %}button{% endif %}">{{group}}</a></li>
+              {%- endfor -%}
+            </ul>
+          </div>
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
+
+        {{ content }}
+
+      </section>
+      <footer>
+        {% if site.github.is_project_page %}
+          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
+      </footer>
+    </div>
+  </body>
+</html>
