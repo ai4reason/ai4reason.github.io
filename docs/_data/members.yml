@@ -100,7 +100,7 @@
   role: staff
   position: Researcher
   groups:
-    - AR
+    - FM
   interests:
     - Higher-Order Theorem Proving
     - Semantics of Higher-Order Logic
@@ -165,6 +165,7 @@
   position: Researcher
   groups:
     - AR
+    - FM
   interests:
     - Automated Theorem Proving
     - Logic in Computer Science
@@ -181,7 +182,7 @@
   role: staff
   position: Researcher
   groups:
-    - AR
+    - FM
   interests:
     - Automated Reasoning
     - Artificial Intelligence
@@ -285,7 +286,7 @@
   role: student
   position: PhD student 
   groups:
-    - AR
+    - FM
   interests:
     - Automated Reasoning
     - Artificial Intelligence
@@ -301,7 +302,7 @@
   role: student
   position: PhD student 
   groups:
-    - AR
+    - FM
   interests:
     - Automated Reasoning
     - Artificial Intelligence
