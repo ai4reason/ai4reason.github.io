@@ -5,11 +5,7 @@ index: 1
 
 # Institution
 
-## Principal Investigators
+{% include members.html role="pi" title="Principal Investigators" %}
 
-{% include members.html role="pi" %}
-
-## Administration
-
-{% include members.html role="admin" %}
+{% include members.html role="admin" title="Administratives" %}
 

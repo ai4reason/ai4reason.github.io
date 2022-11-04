@@ -5,19 +5,11 @@ index: 20
 
 # Members
 
-## Principal Investigators
+{% include members.html role="pi" title="Principal Investigators" %}
 
-{% include members.html role="pi" %}
+{% include members.html role="staff" title="Researchers" %}
 
-## Researchers
+{% include members.html role="student" title="PhD Students" %}
 
-{% include members.html role="staff" %}
-
-## PhD Students
-
-{% include members.html role="student" %}
-
-## Alumni
-
-{% include members.html role="alumni" %}
+{% include members.html role="alumni" title="Alumni" %}
 

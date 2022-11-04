@@ -1,10 +1,19 @@
 
 {% assign group = include.group | default: page.layout %}
 {% assign year = include.year | default: 2021 %}
+{% assign title = include.title | default: year %}
 
-<ul>
+{% assign pubs = "" | split: "," %}
 {% for pub in site.data.bib %}
-{% if pub[1].year == year and pub[1].groups contains group %}
+   {% if pub[1].year == year and pub[1].groups contains group %}
+      {% assign pubs = pubs | push: pub %}
+   {% endif %}
+{% endfor %}
+
+{% if pubs != empty %}
+<h3>{{title}}</h3>
+<ul>
+{% for pub in pubs %}
 <li>
    <div class="title">{{ pub[1].title }}</div>
    <div class="author">{{ pub[1].authors }}</div>
@@ -28,7 +37,9 @@
       {% endif %}
    </div>
 </li> 
-{% endif %}
 {% endfor %}
 </ul>
+
+{% endif %}
+
 

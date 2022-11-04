@@ -1,6 +1,7 @@
 
 {% assign group = include.group | default: page.layout %}
 {% assign role = include.role | default: "pi" %}
+{% assign title = include.title | default: "Members" %}
 
 {% assign members = "" | split: "," %}
 {% for member in site.data.members %}
@@ -9,7 +10,9 @@
    {% endif %}
 {% endfor %}
 
-<div id="container">
+{% if members != empty %}
+   <h2>{{ title }}</h2>
+   <div id="container">
    <hr/>
 {% for member in members %}
     <div style="float: left; padding-right: 10px">
@@ -49,3 +52,5 @@
     <hr/>
 {% endfor %}
 </div>
+{% endif %}
+
