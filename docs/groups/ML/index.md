@@ -1,9 +1,10 @@
 ---
 layout: ML
 index: 10
+button: Home
 ---
 
-## About Us
+## Our goal
 
 Our group focuses on reinforcement learning, deep learning, nonlinear system identification, state estimation, and data analytics. We also employ evolutionary and hybrid algorithms to solve hard optimization problems. Applications of our methods range from robotics to dialog systems.
 

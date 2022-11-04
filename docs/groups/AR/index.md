@@ -1,7 +1,7 @@
 ---
 layout: AR
-button: About
-index: 1
+index: 10
+button: Home
 ---
 
 ## Our goal

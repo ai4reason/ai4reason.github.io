@@ -7,7 +7,8 @@ index: 4
 
 ## Publications
 
-{% for year in (2015..2030) reversed %}
+{% assign current = "now" | date: "%Y" %}
+{% for year in (2015..current) reversed %}
    {% include biblio.html year=year %}
 {% endfor %}
 

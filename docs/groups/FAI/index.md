@@ -1,7 +1,7 @@
 ---
 layout: FAI
-button: About
 index: 10
+button: Home
 ---
 
 ## Our goal
