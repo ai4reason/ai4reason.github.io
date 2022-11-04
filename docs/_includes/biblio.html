@@ -6,7 +6,9 @@
 {% assign pubs = "" | split: "," %}
 {% for pub in site.data.bib %}
    {% if pub[1].year == year and pub[1].groups contains group %}
-      {% assign pubs = pubs | push: pub %}
+      {% unless site.data.exclude contains pub[0] %}
+         {% assign pubs = pubs | push: pub %}
+      {% endunless %}
    {% endif %}
 {% endfor %}
 

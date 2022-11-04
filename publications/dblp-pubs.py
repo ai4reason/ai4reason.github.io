@@ -56,7 +56,7 @@ def normalize_entry(entry, groups):
    elif entry["TY"] == "CHAP":
       journal = "%s: %s-%s (%s)." % (entry["BT"], entry["SP"], entry["EP"], entry["PY"].rstrip("/"))
    elif entry["TY"] == "THES":
-      journal = "Thesis (%s)" % year
+      journal = "Thesis (%s)." % year
    elif entry["TY"] == "BOOK":
       journal = "%s, %s (%s)." % (entry["T3"], entry["PB"], year)
    elif entry["TY"] == "EDBOOK":
