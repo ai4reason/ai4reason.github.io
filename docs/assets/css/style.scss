@@ -74,6 +74,11 @@ header p {
    padding-left: 10px;
 }
 
+.imgbib {
+   height: 20px;
+   width: 20px;
+}
+
 .imgphoto {
    //height: 200px;
    width: 150px;
@@ -89,4 +94,30 @@ header p {
    color: #333;
    font-size: 120%;
 }
+
+.author {
+   font-style: italic;
+}
+
+.title {
+   font-weight: bold;
+   border-radius: 5px;
+   border: 2px groove skyblue;
+   margin: 2px;
+}
+
+.journal {
+   font-size: 85%;
+
+   border: 1px dotted #73AD21;
+   border-style: dotted dotted none dotted;
+}
+
+.links {
+   font-size: 70%;
+   border: 1px dotted #73AD21;
+   border-style: none dotted dotted dotted;
+}
+
+
 

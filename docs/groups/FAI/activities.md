@@ -1,6 +1,6 @@
 ---
-layout: AR
-index: 4
+layout: FAI
+index: 40
 ---
 
 # Activities

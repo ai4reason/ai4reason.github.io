@@ -1,5 +1,5 @@
 ---
-layout: AR
+layout: main
 index: 4
 ---
 

@@ -1,0 +1,34 @@
+
+{% assign group = include.group | default: page.layout %}
+{% assign year = include.year | default: 2021 %}
+
+<ul>
+{% for pub in site.data.bib %}
+{% if pub[1].year == year and pub[1].groups contains group %}
+<li>
+   <div class="title">{{ pub[1].title }}</div>
+   <div class="author">{{ pub[1].authors }}</div>
+   <div class="journal">{{ pub[1].source }} </div>
+   <div class="links">
+      {% if pub[1].dblp %}
+      <a target="_blank" href="https://dblp.uni-trier.de/rec/{{pub[1].dblp}}.html"> <img class="imgbib" src="/images/dblp.png" /> </a>
+      <a target="_blank" href="https://dblp.uni-trier.de/rec/{{pub[1].dblp}}.html?view=bibtex"> <img class="imgbib" src="/images/tex.png" /> </a>
+      {% endif %}
+      {% if pub[1].url %}
+      <a target="_blank" href="{{pub[1].url}}"> <img class="imgbib" src="/images/download.png" /> </a>
+      {% endif %}
+      {% if pub[1].doi %}
+      <a target="_blank" href="{{pub[1].doi}}"> <img class="imgbib" src="/images/doi.png" /> </a>
+      {% endif %}
+      {% if pub[1].arXiv %}
+      <a target="_blank" href="{{pub[1].arXiv}}"> <img class="imgbib" src="/images/arxiv.png" /> </a>
+      {% endif %}
+      {% if pub[1].easychair %}
+      <a target="_blank" href="{{pub[1].easychair}}"> <img class="imgbib" src="/images/easychair.png" /> </a>
+      {% endif %}
+   </div>
+</li> 
+{% endif %}
+{% endfor %}
+</ul>
+

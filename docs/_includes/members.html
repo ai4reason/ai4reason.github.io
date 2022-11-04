@@ -17,22 +17,22 @@
     </div>
     <div style="float: left">
       {% if member.email %}
-      <a href="mailto:{{member.email}}"> <img class="imglink" src="/images/mail.png" /> </a><br/>
+      <a target="_blank" href="mailto:{{member.email}}"> <img class="imglink" src="/images/mail.png" /> </a><br/>
       {% endif %}
       {% if member.homepage %}
-      <a href="{{member.homepage}}"> <img class="imglink" src="/images/homepage.png" /> </a><br/>
+      <a target="_blank" href="{{member.homepage}}"> <img class="imglink" src="/images/homepage.png" /> </a><br/>
       {% endif %}
       {% if member.scholar %}
-        <a href="http://scholar.google.com/citations?user={{member.scholar}}"> <img class="imglink" src="/images/scholar.png" /> </a><br/>
+        <a target="_blank" href="http://scholar.google.com/citations?user={{member.scholar}}"> <img class="imglink" src="/images/scholar.png" /> </a><br/>
       {% endif %}
       {% if member.dblp %}
-      <a href="https://dblp.uni-trier.de/{{member.dblp}}.html"> <img class="imglink" src="/images/dblp.png" /> </a><br/>
+      <a target="_blank" href="https://dblp.uni-trier.de/{{member.dblp}}.html"> <img class="imglink" src="/images/dblp.png" /> </a><br/>
       {% endif %}
       {% if member.orcid %}
-      <a href="https://orcid.org/{{member.orcid}}"> <img class="imglink" src="/images/orcid.png" /> </a><br/>
+      <a target="_blank" href="https://orcid.org/{{member.orcid}}"> <img class="imglink" src="/images/orcid.png" /> </a><br/>
       {% endif %}
       {% if member.github %}
-      <a href="https://github.com/{{member.github}}"> <img class="imglink" src="/images/github.png" /> </a><br/>
+      <a target="_blank" href="https://github.com/{{member.github}}"> <img class="imglink" src="/images/github.png" /> </a><br/>
       {% endif %}
     </div>
     <div style="float: left">
