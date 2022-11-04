@@ -26,6 +26,14 @@
   {%- endfor -%}
   {% assign buttons = buttons | sort: "index" %}
 
+{% if layout.group == "main" %}
+  {% assign clspushed = "pushed" %}
+  {% assign clsbutton = "button" %}
+{% else %}
+  {% assign clspushed = "grppushed" %}
+  {% assign clsbutton = "grpbutton" %}
+{% endif %}
+
       <header>
         <h1 class="hdr">{{ page.header | default: layout.header | default: site.header }}</h1>
         <p class="sub">{{ page.subheader | default: layout.subheader | default: site.subheader }}</p>
@@ -37,7 +45,7 @@
          <div class="downloads">
             <ul>
               {%- for btn in buttons -%}
-              <li><a href="{{btn.url}}" class="{% if btn.url == page.url %}pushed{% else %}button{% endif %}">{{ btn.button | default: btn.title }}</a></li>
+              <li><a href="{{btn.url}}" class="{% if btn.url == page.url %}{{clspushed}}{% else %}{{clsbutton}}{% endif %}">{{ btn.button | default: btn.title }}</a></li>
               {%- endfor -%}
             </ul>
             <span style="margin-left: 1em">Groups:</span>
@@ -46,7 +54,7 @@
               <li><a href="{{ '/' | relative_url }}" class="{% if page.url == "/" %}pushed{% else %}button{% endif %}">&#8617; AI &#10006;</a></li>
               {% endif %}
               {%- for group in site.groups -%}
-              <li><a href="/groups/{{group}}/" class="{% if group == layout.group %}pushed{% else %}button{% endif %}">{{group}}</a></li>
+              <li><a href="/groups/{{group}}/" class="{% if group == layout.group %}grppushed{% else %}grpbutton{% endif %}">{{group}}</a></li>
               {%- endfor -%}
             </ul>
           </div>
