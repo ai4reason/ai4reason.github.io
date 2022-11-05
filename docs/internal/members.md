@@ -33,6 +33,7 @@ Each department member is described by a YAML record with at least the following
   homepage: http://my.homepage.org/
   scholar: 
   orcid:
+  phone: +240-44333-4322
   github: githabino
 ```
 
@@ -43,6 +44,21 @@ Each department member is described by a YAML record with at least the following
 ### `name` :: string
 
 Member full name as a string.
+
+* * * 
+
+### `dblp` :: string
+
+
+The [DBLP](https://dblp.uni-trier.de/) persistent ID of the member.
+
+⚠️  This is essential for the list of publications to be automatically generated.
+
+ℹ️  To obtain the DBLP persistent ID, click
+[here](https://dblp.uni-trier.de/search/author){:target="_blank"} and search for
+the member on DBLP.
+On the author page, look at the url and extract the part starting with `pid` and ending before `.html`.
+Usually it looks like `pid/39/11138` but it can look like `pid/24/5175-1` or `pid/v/RobertVeroff`.
 
 * * * 
 
@@ -110,6 +126,12 @@ YAML list of strings with the research interests of this member.
 
 Member email as a string.
 
+* * *
+
+### `phone` :: string
+
+The phone number of this member in the format `+123-55555-4444`.
+
 * * * 
 
 ### `homepage` :: url
@@ -122,9 +144,10 @@ The URL of the homepage of this member.
 
 The Google Scholar identificator of this member.
 
-* * * 
-
-### `dblp` :: string
+ℹ️  To obtain the Google Scholar identificator, search for the member
+at [Google Scholar](https://scholar.google.com) and locate his profile.
+Then extract the value of the `user` parameter (the text between `user=` and `&` or the end of line). 
+Typically, it looks like `4pW-Je4AAAAJ`.
 
 * * *
 ### `orcid` :: string
