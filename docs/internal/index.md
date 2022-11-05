@@ -1,7 +1,7 @@
 ---
 layout: main
 hidden: true
-subheader: Internal information system
+subheader: internals
 ---
 
 # Pages Administration
@@ -51,13 +51,10 @@ format.
 🔥 **Make sure the list of members of your group is up to date.** 🔥
 See [members update](/internal/members.html) for more information.
 
-## Next
+## Continue ...
 
 + [Members update](/internal/members.html)
 + [Content update](/internal/content.html)
 + [Publication list](/internal/biblio.html)
-
-
-
 
 

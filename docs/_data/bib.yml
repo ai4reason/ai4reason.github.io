@@ -24,8 +24,8 @@ DBLP:books/sp/12/BusoniuLGMBS12:
   dblp: books/sp/12/BusoniuLGMBS12
   doi: https://doi.org/10.1007/978-3-642-27645-3_3
   groups:
-  - ML
   - main
+  - ML
   source: 'Reinforcement Learning: 75-109 (2012).'
   title: Least-Squares Methods for Policy Iteration.
   year: 2012
@@ -34,8 +34,8 @@ DBLP:books/sp/LendekGBS11:
   dblp: books/sp/LendekGBS11
   doi: https://doi.org/10.1007/978-3-642-16776-8
   groups:
-  - ML
   - main
+  - ML
   source: Studies in Fuzziness and Soft Computing, Springer (2011).
   title: Stability Analysis and Nonlinear Observer Design Using Takagi-Sugeno Fuzzy
     Models
@@ -45,8 +45,8 @@ DBLP:conf/IEEEares/KubalikM07:
   dblp: conf/IEEEares/KubalikM07
   doi: http://doi.ieeecomputersociety.org/10.1109/ARES.2007.113
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the The Second International Conference on Availability,
     Reliability and Security, ARES 2007, The International Dependability Conference
     - Bridging Theory and Practice, April 10-13 2007, Vienna, Austria: 1101-1107 (2007).'
@@ -57,8 +57,8 @@ DBLP:conf/IEEEcca/HidayatNBS12:
   authors: "Zulkifli Hidayat, Alfredo N\xFA\xF1ez, Robert Babuska, Bart De Schutter"
   dblp: conf/IEEEcca/HidayatNBS12
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the IEEE International Conference on Control Applications,
     CCA 2012, Dubrovnik, Croatia, October 3-5, 2012: 1014-1019 (2012).'
   title: Identification of distributed-parameter systems with missing data.
@@ -70,8 +70,8 @@ DBLP:conf/IEEEcca/StanoLBBK10:
   dblp: conf/IEEEcca/StanoLBBK10
   doi: https://doi.org/10.1109/CCA.2010.5611339
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the IEEE International Conference on Control Applications,
     CCA 2010, Yokohama, Japan, September 8-10, 2010: 292-297 (2010).'
   title: Particle Filters for Estimating Average Grain Diameter of Material Excavated
@@ -117,8 +117,8 @@ DBLP:conf/aaai/KielaGJM18:
   authors: "Douwe Kiela, Edouard Grave, Armand Joulin, Tom\xE1s Mikolov"
   dblp: conf/aaai/KielaGJM18
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence,
     (AAAI-18), the 30th innovative Applications of Artificial Intelligence (IAAI-18),
     and the 8th AAAI Symposium on Educational Advances in Artificial Intelligence
@@ -131,8 +131,8 @@ DBLP:conf/aamas/BusoniuESB07:
   dblp: conf/aamas/BusoniuESB07
   doi: https://doi.org/10.1007/978-3-540-77949-0_3
   groups:
-  - ML
   - main
+  - ML
   source: 'Adaptive Agents and Multi-Agent Systems III. Adaptation and Multi-Agent
     Learning, 5th, 6th, and 7th European Symposium, ALAMAS 2005-2007 on Adaptive and
     Learning Agents and Multi-Agent Systems, Revised Selected Papers: 27-43 (2007).'
@@ -142,8 +142,8 @@ DBLP:conf/acil/Babuska02:
   authors: Robert Babuska
   dblp: conf/acil/Babuska02
   groups:
-  - ML
   - main
+  - ML
   source: 'Advances in Computational Intelligence and Learning: Methods and Applications:
     3-16 (2002).'
   title: Accuracy and Transparency of Fuzzy Systems.
@@ -154,7 +154,7 @@ DBLP:conf/acl/WangHXPMPKTHYJC19:
     Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, Samuel R. Bowman
   dblp: conf/acl/WangHXPMPKTHYJC19
   groups:
-  - AR
+  - FM
   - main
   source: 'Proceedings of the 57th Conference of the Association for Computational
     Linguistics, ACL 2019, Florence, Italy, July 28- August 2, 2019, Volume 1: Long
@@ -168,8 +168,8 @@ DBLP:conf/adbis/MatousekKNV12:
   dblp: conf/adbis/MatousekKNV12
   doi: https://doi.org/10.1007/978-3-642-32518-2_28
   groups:
-  - ML
   - main
+  - ML
   source: "New Trends in Databases and Information Systems, Workshop Proceedings of\
     \ the 16th East European Conference, ADBIS 2012, Pozna\u0144, Poland, September\
     \ 17-21, 2012: 295-304 (2012)."
@@ -180,8 +180,8 @@ DBLP:conf/adprl/BusoniuDMB13:
   dblp: conf/adprl/BusoniuDMB13
   doi: https://doi.org/10.1109/ADPRL.2013.6614991
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 2013 IEEE Symposium on Adaptive Dynamic Programming
     and Reinforcement Learning, ADPRL 2013, IEEE Symposium Series on Computational
     Intelligence (SSCI), 16-19 April 2013, Singapore: 69-76 (2013).'
@@ -191,8 +191,8 @@ DBLP:conf/adprl/BusoniuESB09:
   authors: Lucian Busoniu, Damien Ernst, Bart De Schutter, Robert Babuska
   dblp: conf/adprl/BusoniuESB09
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning,
     ADPRL 2009, Nashville, TN, USA, March 31 - April 1, 2009: 153-160 (2009).'
   title: Policy search with cross-entropy optimization of basis functions.
@@ -202,8 +202,8 @@ DBLP:conf/adprl/BusoniuESB11:
   authors: Lucian Busoniu, Damien Ernst, Bart De Schutter, Robert Babuska
   dblp: conf/adprl/BusoniuESB11
   groups:
-  - ML
   - main
+  - ML
   source: '2011 IEEE Symposium on Adaptive Dynamic Programming And Reinforcement Learning,
     ADPRL 2011, Paris, France, April 12-14, 2011: 1-8 (2011).'
   title: 'Approximate reinforcement learning: An overview.'
@@ -213,8 +213,8 @@ DBLP:conf/adprl/BusoniuMSB11:
   authors: "Lucian Busoniu, R\xE9mi Munos, Bart De Schutter, Robert Babuska"
   dblp: conf/adprl/BusoniuMSB11
   groups:
-  - ML
   - main
+  - ML
   source: '2011 IEEE Symposium on Adaptive Dynamic Programming And Reinforcement Learning,
     ADPRL 2011, Paris, France, April 12-14, 2011: 48-55 (2011).'
   title: Optimistic planning for sparsely stochastic systems.
@@ -263,8 +263,8 @@ DBLP:conf/aips/TozickaJSK16:
   dblp: conf/aips/TozickaJSK16
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Proceedings of the Twenty-Sixth International Conference on Automated Planning
     and Scheduling, ICAPS 2016, London, UK, June 12-17, 2016.: 317-325 (2016).'
   title: Recursive Polynomial Reductions for Classical Planning.
@@ -327,8 +327,8 @@ DBLP:conf/akbc/JoulinGBNM17:
     s Mikolov"
   dblp: conf/akbc/JoulinGBNM17
   groups:
-  - FAI
   - main
+  - FAI
   source: '6th Workshop on Automated Knowledge Base Construction, AKBC@NIPS 2017,
     Long Beach, California, USA, December 8, 2017: (2017).'
   title: Fast Linear Model for Knowledge Graph Embeddings.
@@ -339,8 +339,8 @@ DBLP:conf/amcc/AbouheafLHBV13:
   dblp: conf/amcc/AbouheafLHBV13
   doi: https://doi.org/10.1109/ACC.2013.6580483
   groups:
-  - ML
   - main
+  - ML
   source: 'American Control Conference, ACC 2013, Washington, DC, USA, June 17-19,
     2013: 4189-4195 (2013).'
   title: 'Multi-agent discrete-time graphical games: interactive Nash equilibrium
@@ -351,8 +351,8 @@ DBLP:conf/amcc/AlirezaeiBB12:
   dblp: conf/amcc/AlirezaeiBB12
   doi: https://doi.org/10.1109/ACC.2012.6315457
   groups:
-  - ML
   - main
+  - ML
   source: 'American Control Conference, ACC 2012, Montreal, QC, Canada, June 27-29,
     2012: 1973-1978 (2012).'
   title: Max-plus algebra for optimal scheduling of multiple sheets in a printer.
@@ -361,8 +361,8 @@ DBLP:conf/amcc/AstBS09:
   authors: Jelmer van Ast, Robert Babuska, Bart De Schutter
   dblp: conf/amcc/AstBS09
   groups:
-  - ML
   - main
+  - ML
   source: 'American Control Conference, ACC 2009. St. Louis, Missouri, USA, June 10-12,
     2009: 1003-1008 (2009).'
   title: Fuzzy Ant Colony Optimization for optimal control.
@@ -373,8 +373,8 @@ DBLP:conf/amcc/BabuskaLBK06:
   dblp: conf/amcc/BabuskaLBK06
   doi: https://doi.org/10.1109/ACC.2006.1657642
   groups:
-  - ML
   - main
+  - ML
   source: 'American Control Conference, ACC 2006, Minneapolis, MN, USA, 14-16 June,
     2006: 1-6 (2006).'
   title: Particle filtering for on-line estimation of overflow losses in a hopper
@@ -385,8 +385,8 @@ DBLP:conf/amcc/BusoniuESB10:
   dblp: conf/amcc/BusoniuESB10
   doi: https://doi.org/10.1109/ACC.2010.5530856
   groups:
-  - ML
   - main
+  - ML
   source: 'American Control Conference, ACC 2010, Baltimore, Maryland, USA, June 30
     - July 2, 2010: 486-491 (2010).'
   title: Online least-squares policy iteration for reinforcement learning control.
@@ -397,8 +397,8 @@ DBLP:conf/amcc/KhalateBBWW10:
   dblp: conf/amcc/KhalateBBWW10
   doi: https://doi.org/10.1109/ACC.2010.5531291
   groups:
-  - ML
   - main
+  - ML
   source: 'American Control Conference, ACC 2010, Baltimore, Maryland, USA, June 30
     - July 2, 2010: 2182-2187 (2010).'
   title: Optimization-based feedforward control for a Drop-on-Demand inkjet printhead.
@@ -408,8 +408,8 @@ DBLP:conf/amcc/LendekBS10:
   dblp: conf/amcc/LendekBS10
   doi: https://doi.org/10.1109/ACC.2010.5530539
   groups:
-  - ML
   - main
+  - ML
   source: 'American Control Conference, ACC 2010, Baltimore, Maryland, USA, June 30
     - July 2, 2010: 2278-2283 (2010).'
   title: Fuzzy models and observers for freeway traffic state tracking.
@@ -419,8 +419,8 @@ DBLP:conf/amcc/SimonettoKB11:
   dblp: conf/amcc/SimonettoKB11
   doi: https://doi.org/10.1109/ACC.2011.5990911
   groups:
-  - ML
   - main
+  - ML
   source: 'American Control Conference, ACC 2011, San Francisco, CA, USA, June 29
     - July 1, 2011: 2180-2185 (2011).'
   title: On distributed maximization of algebraic connectivity in robotic networks.
@@ -430,8 +430,8 @@ DBLP:conf/amcc/StanoLB11:
   dblp: conf/amcc/StanoLB11
   doi: https://doi.org/10.1109/ACC.2011.5990757
   groups:
-  - ML
   - main
+  - ML
   source: 'American Control Conference, ACC 2011, San Francisco, CA, USA, June 29
     - July 1, 2011: 1819-1824 (2011).'
   title: Saturated particle filter.
@@ -441,8 +441,8 @@ DBLP:conf/amcc/TekinBTS09:
   dblp: conf/amcc/TekinBTS09
   doi: https://doi.org/10.1109/ACC.2009.5160184
   groups:
-  - ML
   - main
+  - ML
   source: 'American Control Conference, ACC 2009. St. Louis, Missouri, USA, June 10-12,
     2009: 4933-4938 (2009).'
   title: Toward a flexible control design framework to automatically generate control
@@ -464,8 +464,8 @@ DBLP:conf/ascc/BeyhanLAB13:
   dblp: conf/ascc/BeyhanLAB13
   doi: https://doi.org/10.1109/ASCC.2013.6606241
   groups:
-  - ML
   - main
+  - ML
   source: '9th Asian Control Conference, ASCC 2013, Istanbul, Turkey, June 23-26,
     2013: 1-6 (2013).'
   title: Takagi-Sugeno fuzzy observer and extended-Kalman filter for adaptive payload
@@ -476,8 +476,8 @@ DBLP:conf/ascc/LiuDPGB13:
   dblp: conf/ascc/LiuDPGB13
   doi: https://doi.org/10.1109/ASCC.2013.6606242
   groups:
-  - ML
   - main
+  - ML
   source: '9th Asian Control Conference, ASCC 2013, Istanbul, Turkey, June 23-26,
     2013: 1-6 (2013).'
   title: Model-free and model-based time-optimal control of a badminton robot.
@@ -501,8 +501,8 @@ DBLP:conf/asru/MikolovDPBC11:
   dblp: conf/asru/MikolovDPBC11
   doi: https://doi.org/10.1109/ASRU.2011.6163930
   groups:
-  - FAI
   - main
+  - FAI
   source: '2011 IEEE Workshop on Automatic Speech Recognition & Understanding, ASRU
     2011, Waikoloa, HI, USA, December 11-15, 2011: 196-201 (2011).'
   title: Strategies for training large scale neural network language models.
@@ -523,8 +523,8 @@ DBLP:conf/biostec/KlemaZAK14:
   dblp: conf/biostec/KlemaZAK14
   doi: https://doi.org/10.5220/0004752200310039
   groups:
-  - ML
   - main
+  - ML
   source: 'BIOINFORMATICS 2014 - Proceedings of the International Conference on Bioinformatics
     Models, Methods and Algorithms, ESEO, Angers, Loire Valley, France, 3-6 March,
     2014: 31-39 (2014).'
@@ -536,8 +536,8 @@ DBLP:conf/biostec/KlemaZAK14a:
   dblp: conf/biostec/KlemaZAK14a
   doi: https://doi.org/10.1007/978-3-319-26129-4_11
   groups:
-  - ML
   - main
+  - ML
   source: 'Biomedical Engineering Systems and Technologies - 7th International Joint
     Conference, BIOSTEC 2014, Angers, France, March 3-6, 2014, Revised Selected Papers:
     165-180 (2014).'
@@ -581,8 +581,8 @@ DBLP:conf/bnaic/BusoniuSB05:
   authors: Lucian Busoniu, Bart De Schutter, Robert Babuska
   dblp: conf/bnaic/BusoniuSB05
   groups:
-  - ML
   - main
+  - ML
   source: 'BNAIC 2005 - Proceedings of the Seventeenth Belgium-Netherlands Conference
     on Artificial Intelligence, Brussels, Belgium, October 17-18, 2005: 35-42 (2005).'
   title: Multiagent Reinforcement Learning with Adaptive State Focus.
@@ -660,7 +660,7 @@ DBLP:conf/cade/AndrewsB00:
   dblp: conf/cade/AndrewsB00
   doi: https://doi.org/10.1007/10721959_44
   groups:
-  - AR
+  - FM
   - main
   source: 'Automated Deduction - CADE-17, 17th International Conference on Automated
     Deduction, Pittsburgh, PA, USA, June 17-20, 2000, Proceedings: 511-512 (2000).'
@@ -672,7 +672,7 @@ DBLP:conf/cade/AndrewsBB00:
   dblp: conf/cade/AndrewsBB00
   doi: https://doi.org/10.1007/10721959_11
   groups:
-  - AR
+  - FM
   - main
   source: 'Automated Deduction - CADE-17, 17th International Conference on Automated
     Deduction, Pittsburgh, PA, USA, June 17-20, 2000, Proceedings: 164-169 (2000).'
@@ -683,7 +683,7 @@ DBLP:conf/cade/BackesB10:
   dblp: conf/cade/BackesB10
   doi: https://doi.org/10.1007/978-3-642-14203-1_7
   groups:
-  - AR
+  - FM
   - main
   source: 'Automated Reasoning, 5th International Joint Conference, IJCAR 2010, Edinburgh,
     UK, July 16-19, 2010. Proceedings: 76-90 (2010).'
@@ -719,7 +719,7 @@ DBLP:conf/cade/BenzmullerBK06:
   dblp: conf/cade/BenzmullerBK06
   doi: https://doi.org/10.1007/11814771_20
   groups:
-  - AR
+  - FM
   - main
   source: 'Automated Reasoning, Third International Joint Conference, IJCAR 2006,
     Seattle, WA, USA, August 17-20, 2006, Proceedings: 220-234 (2006).'
@@ -730,7 +730,7 @@ DBLP:conf/cade/Brown02:
   dblp: conf/cade/Brown02
   doi: https://doi.org/10.1007/3-540-45620-1_33
   groups:
-  - AR
+  - FM
   - main
   source: 'Automated Deduction - CADE-18, 18th International Conference on Automated
     Deduction, Copenhagen, Denmark, July 27-30, 2002, Proceedings: 408-422 (2002).'
@@ -741,7 +741,7 @@ DBLP:conf/cade/Brown05:
   dblp: conf/cade/Brown05
   doi: https://doi.org/10.1007/11532231_3
   groups:
-  - AR
+  - FM
   - main
   source: 'Automated Deduction - CADE-20, 20th International Conference on Automated
     Deduction, Tallinn, Estonia, July 22-27, 2005, Proceedings: 23-37 (2005).'
@@ -752,7 +752,7 @@ DBLP:conf/cade/Brown06:
   dblp: conf/cade/Brown06
   doi: https://doi.org/10.1007/11814771_19
   groups:
-  - AR
+  - FM
   - main
   source: 'Automated Reasoning, Third International Joint Conference, IJCAR 2006,
     Seattle, WA, USA, August 17-20, 2006, Proceedings: 205-219 (2006).'
@@ -763,7 +763,7 @@ DBLP:conf/cade/Brown11:
   dblp: conf/cade/Brown11
   doi: https://doi.org/10.1007/978-3-642-22438-6_13
   groups:
-  - AR
+  - FM
   - main
   source: 'Automated Deduction - CADE-23 - 23rd International Conference on Automated
     Deduction, Wroclaw, Poland, July 31 - August 5, 2011. Proceedings: 147-161 (2011).'
@@ -774,7 +774,7 @@ DBLP:conf/cade/Brown12:
   dblp: conf/cade/Brown12
   doi: https://doi.org/10.1007/978-3-642-31365-3_11
   groups:
-  - AR
+  - FM
   - main
   source: 'Automated Reasoning - 6th International Joint Conference, IJCAR 2012, Manchester,
     UK, June 26-29, 2012. Proceedings: 111-117 (2012).'
@@ -787,6 +787,7 @@ DBLP:conf/cade/BrownGKSU19:
   groups:
   - AR
   - main
+  - FM
   source: 'Automated Deduction - CADE 27 - 27th International Conference on Automated
     Deduction, Natal, Brazil, August 27-30, 2019, Proceedings: 123-141 (2019).'
   title: 'GRUNGE: A Grand Unified ATP Challenge.'
@@ -797,7 +798,7 @@ DBLP:conf/cade/BrownK22:
   dblp: conf/cade/BrownK22
   doi: https://doi.org/10.1007/978-3-031-10769-6_21
   groups:
-  - AR
+  - FM
   - main
   source: 'Automated Reasoning - 11th International Joint Conference, IJCAR 2022,
     Haifa, Israel, August 8-10, 2022, Proceedings: 350-358 (2022).'
@@ -808,7 +809,7 @@ DBLP:conf/cade/BrownR13:
   dblp: conf/cade/BrownR13
   doi: https://doi.org/10.29007/8p9q
   groups:
-  - AR
+  - FM
   - main
   source: 'Third International Workshop on Proof Exchange for Theorem Proving, PxTP
     2013, Lake Placid, NY, USA, June 9-10, 2013: 27-42 (2013).'
@@ -821,8 +822,8 @@ DBLP:conf/cade/ChvalovskyJ0U19:
   doi: https://doi.org/10.1007/978-3-030-29436-6_12
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Automated Deduction - CADE 27 - 27th International Conference on Automated
     Deduction, Natal, Brazil, August 27-30, 2019, Proceedings: 197-215 (2019).'
   title: 'ENIGMA-NG: Efficient Neural and Gradient-Boosted Inference Guidance for
@@ -833,7 +834,7 @@ DBLP:conf/cade/FarberB16:
   dblp: conf/cade/FarberB16
   doi: https://doi.org/10.1007/978-3-319-40229-1_24
   groups:
-  - AR
+  - FM
   - main
   source: 'Automated Reasoning - 8th International Joint Conference, IJCAR 2016, Coimbra,
     Portugal, June 27 - July 2, 2016, Proceedings: 349-361 (2016).'
@@ -926,8 +927,8 @@ DBLP:conf/cade/JakubuvCOP0U20:
   doi: https://doi.org/10.1007/978-3-030-51054-1_29
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Automated Reasoning - 10th International Joint Conference, IJCAR 2020,
     Paris, France, July 1-4, 2020, Proceedings, Part II: 448-463 (2020).'
   title: 'ENIGMA Anonymous: Symbol-Independent Inference Guiding Machine (System Description).'
@@ -1063,8 +1064,8 @@ DBLP:conf/cade/PiepenbrockHJU22:
   doi: https://doi.org/10.1007/978-3-031-10769-6_35
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Automated Reasoning - 11th International Joint Conference, IJCAR 2022,
     Haifa, Israel, August 8-10, 2022, Proceedings: 597-617 (2022).'
   title: Guiding an Automated Theorem Prover with Neural Rewriting.
@@ -1076,6 +1077,7 @@ DBLP:conf/cade/PiotrowskiU18:
   groups:
   - AR
   - main
+  - FM
   source: 'Automated Reasoning - 9th International Joint Conference, IJCAR 2018, Held
     as Part of the Federated Logic Conference, FloC 2018, Oxford, UK, July 14-17,
     2018, Proceedings: 566-574 (2018).'
@@ -1177,7 +1179,7 @@ DBLP:conf/cade/SutcliffeBBT09:
   dblp: conf/cade/SutcliffeBBT09
   doi: https://doi.org/10.1007/978-3-642-02959-2_8
   groups:
-  - AR
+  - FM
   - main
   source: 'Automated Deduction - CADE-22, 22nd International Conference on Automated
     Deduction, Montreal, Canada, August 2-7, 2009. Proceedings: 116-130 (2009).'
@@ -1248,6 +1250,7 @@ DBLP:conf/cade/ZomboriUB20:
   groups:
   - AR
   - main
+  - FM
   source: 'Automated Reasoning - 10th International Joint Conference, IJCAR 2020,
     Paris, France, July 1-4, 2020, Proceedings, Part II: 489-507 (2020).'
   title: Prolog Technology Reinforcement Learning Prover - (System Description).
@@ -1256,8 +1259,8 @@ DBLP:conf/caine/ShetaOAB09:
   authors: "Alaa F. Sheta, Ertan \xD6znergiz, M. A. Abdelrahman, Robert Babuska"
   dblp: conf/caine/ShetaOAB09
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the ISCA 22nd International Conference on Computer Applications
     in Industry and Engineering, CAINE 2009, November 4-6, 2009, Hilton San Francisco
     Fisherman''s Wharf, San Francisco, California, USA: 81-86 (2009).'
@@ -1268,8 +1271,8 @@ DBLP:conf/cason/VojtasPNSMKNM11:
     \ Kamil Matousek, Jir\xED Kubal\xEDk, Ota Novotn\xFD, Milos Maryska"
   dblp: conf/cason/VojtasPNSMKNM11
   groups:
-  - ML
   - main
+  - ML
   source: 'International Conference on Computational Aspects of Social Networks, CASoN
     2011, Salamanca, Spain, October 19-21, 2011: 108-113 (2011).'
   title: "SoSIRe\u010CR - IT professional social network."
@@ -1282,6 +1285,7 @@ DBLP:conf/cav/BrownKGU22:
   groups:
   - AR
   - main
+  - FM
   source: '4th International Workshop on Formal Methods for Blockchains, FMBC@CAV
     2022, August 11, 2022, Haifa, Israel.: 4:1-4:15 (2022).'
   title: 'Proofgold: Blockchain for Formal Methods.'
@@ -1302,8 +1306,8 @@ DBLP:conf/cbms/KlemaKP02:
   dblp: conf/cbms/KlemaKP02
   doi: http://doi.ieeecomputersociety.org/10.1109/CBMS.2002.1011355
   groups:
-  - ML
   - main
+  - ML
   source: '15th IEEE Symposium on Computer-Based Medical Systems (CBMS 2002), 4-7
     June 2002, Maribor, Slovenia: 59-64 (2002).'
   title: Optimized Model Tuning in Medical Systems.
@@ -1313,8 +1317,8 @@ DBLP:conf/cdc/AlibekovKB16:
   dblp: conf/cdc/AlibekovKB16
   doi: https://doi.org/10.1109/CDC.2016.7798684
   groups:
-  - ML
   - main
+  - ML
   source: '55th IEEE Conference on Decision and Control, CDC 2016, Las Vegas, NV,
     USA, December 12-14, 2016: 2789-2795 (2016).'
   title: Symbolic method for deriving policy in reinforcement learning.
@@ -1324,8 +1328,8 @@ DBLP:conf/cdc/BeyhanLBWA11:
   dblp: conf/cdc/BeyhanLBWA11
   doi: https://doi.org/10.1109/CDC.2011.6160802
   groups:
-  - ML
   - main
+  - ML
   source: '50th IEEE Conference on Decision and Control and European Control Conference,
     11th European Control Conference, CDC/ECC 2011, Orlando, FL, USA, December 12-15,
     2011: 8291-8296 (2011).'
@@ -1337,8 +1341,8 @@ DBLP:conf/cdc/DamsteegNB17:
   dblp: conf/cdc/DamsteegNB17
   doi: https://doi.org/10.1109/CDC.2017.8264140
   groups:
-  - ML
   - main
+  - ML
   source: '56th IEEE Annual Conference on Decision and Control, CDC 2017, Melbourne,
     Australia, December 12-15, 2017: 3277-3282 (2017).'
   title: Model-based real-time control of a magnetic manipulator system.
@@ -1348,8 +1352,8 @@ DBLP:conf/cdc/GrondmanBB12:
   dblp: conf/cdc/GrondmanBB12
   doi: https://doi.org/10.1109/CDC.2012.6426427
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 51th IEEE Conference on Decision and Control, CDC 2012,
     December 10-13, 2012, Maui, HI, USA: 5272-5277 (2012).'
   title: 'Model learning actor-critic algorithms: Performance evaluation in a motion
@@ -1361,8 +1365,8 @@ DBLP:conf/cdc/KhalateBBSB11:
   dblp: conf/cdc/KhalateBBSB11
   doi: https://doi.org/10.1109/CDC.2011.6160885
   groups:
-  - ML
   - main
+  - ML
   source: '50th IEEE Conference on Decision and Control and European Control Conference,
     11th European Control Conference, CDC/ECC 2011, Orlando, FL, USA, December 12-15,
     2011: 4183-4188 (2011).'
@@ -1374,8 +1378,8 @@ DBLP:conf/cdc/LopesKBSB11:
     Bart De Schutter, Robert Babuska
   dblp: conf/cdc/LopesKBSB11
   groups:
-  - ML
   - main
+  - ML
   source: '50th IEEE Conference on Decision and Control and European Control Conference,
     11th European Control Conference, CDC/ECC 2011, Orlando, FL, USA, December 12-15,
     2011: 1823-1828 (2011).'
@@ -1386,8 +1390,8 @@ DBLP:conf/cdc/MunkKB16:
   authors: Jelle Munk, Jens Kober, Robert Babuska
   dblp: conf/cdc/MunkKB16
   groups:
-  - ML
   - main
+  - ML
   source: '55th IEEE Conference on Decision and Control, CDC 2016, Las Vegas, NV,
     USA, December 12-14, 2016: 4667-4673 (2016).'
   title: Learning state representation for deep actor-critic control.
@@ -1398,8 +1402,8 @@ DBLP:conf/cdc/NajafiLB13:
   dblp: conf/cdc/NajafiLB13
   doi: https://doi.org/10.1109/CDC.2013.6761042
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 52nd IEEE Conference on Decision and Control, CDC 2013,
     Florence, Italy, December 10-13, 2013: 7265-7270 (2013).'
   title: Reinforcement learning for sequential composition control.
@@ -1409,8 +1413,8 @@ DBLP:conf/cdc/NajafiLNB14:
   dblp: conf/cdc/NajafiLNB14
   doi: https://doi.org/10.1109/CDC.2014.7040197
   groups:
-  - ML
   - main
+  - ML
   source: '53rd IEEE Conference on Decision and Control, CDC 2014, Los Angeles, CA,
     USA, December 15-17, 2014: 5171-5176 (2014).'
   title: Rapid learning in sequential composition control.
@@ -1420,8 +1424,8 @@ DBLP:conf/cdc/OosteromB00:
   dblp: conf/cdc/OosteromB00
   doi: https://doi.org/10.1109/CDC.2000.914204
   groups:
-  - ML
   - main
+  - ML
   source: '39th IEEE Conference on Decision and Control, CDC 2000, Sydney, Australia,
     December 12-15, 2000: 2645-2650 (2000).'
   title: Virtual sensor for fault detection and isolation in flight control systems
@@ -1432,8 +1436,8 @@ DBLP:conf/cdc/PaneNB16:
   dblp: conf/cdc/PaneNB16
   doi: https://doi.org/10.1109/CDC.2016.7799164
   groups:
-  - ML
   - main
+  - ML
   source: '55th IEEE Conference on Decision and Control, CDC 2016, Las Vegas, NV,
     USA, December 12-14, 2016: 5819-5826 (2016).'
   title: Actor-critic reinforcement learning for tracking control in robotics.
@@ -1443,8 +1447,8 @@ DBLP:conf/cec/AstBS08:
   dblp: conf/cec/AstBS08
   doi: https://doi.org/10.1109/CEC.2008.4631068
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the IEEE Congress on Evolutionary Computation, CEC 2008,
     June 1-6, 2008, Hong Kong, China: 2040-2046 (2008).'
   title: Ant Colony Optimization for optimal control.
@@ -1454,8 +1458,8 @@ DBLP:conf/cec/AstBS08a:
   dblp: conf/cec/AstBS08a
   doi: https://doi.org/10.1109/CEC.2008.4631312
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the IEEE Congress on Evolutionary Computation, CEC 2008,
     June 1-6, 2008, Hong Kong, China: 3795-3800 (2008).'
   title: A general modeling framework for swarms.
@@ -1464,8 +1468,8 @@ DBLP:conf/cec/AstBS10:
   authors: Jelmer van Ast, Robert Babuska, Bart De Schutter
   dblp: conf/cec/AstBS10
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the IEEE Congress on Evolutionary Computation, CEC 2010,
     Barcelona, Spain, 18-23 July 2010: 1-8 (2010).'
   title: Generalized pheromone update for Ant Colony Learning in continuous state
@@ -1476,8 +1480,8 @@ DBLP:conf/cec/CongSB13:
   authors: Zhe Cong, Bart De Schutter, Robert Babuska
   dblp: conf/cec/CongSB13
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the IEEE Congress on Evolutionary Computation, CEC 2013,
     Cancun, Mexico, June 20-23, 2013: 1876-1883 (2013).'
   title: On the convergence of Ant Colony Optimization with stench pheromone.
@@ -1488,8 +1492,8 @@ DBLP:conf/cec/Kubalik06:
   dblp: conf/cec/Kubalik06
   doi: https://doi.org/10.1109/CEC.2006.1688543
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE International Conference on Evolutionary Computation, CEC 2006, part
     of WCCI 2006, Vancouver, BC, Canada, 16-21 July 2006: 1932-1938 (2006).'
   title: Real-Parameter Optimization by Iterative Prototype Optimization with Evolved
@@ -1500,8 +1504,8 @@ DBLP:conf/cicling/MikolovJB16:
   dblp: conf/cicling/MikolovJB16
   doi: https://doi.org/10.1007/978-3-319-75477-2_2
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Computational Linguistics and Intelligent Text Processing - 17th International
     Conference, CICLing 2016, Konya, Turkey, April 3-9, 2016, Revised Selected Papers,
     Part I: 29-61 (2016).'
@@ -1549,8 +1553,8 @@ DBLP:conf/coling/Mikolov14:
   authors: "Tom\xE1s Mikolov"
   dblp: conf/coling/Mikolov14
   groups:
-  - FAI
   - main
+  - FAI
   source: 'COLING 2014, 25th International Conference on Computational Linguistics,
     Tutorial Abstracts, August 23-29, 2014, Dublin, Ireland: 3-4 (2014).'
   title: Using Neural Networks for Modeling and Representing Natural Languages.
@@ -1646,8 +1650,8 @@ DBLP:conf/cpp/JakubuvU17:
   dblp: conf/cpp/JakubuvU17
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Proceedings of the 6th ACM SIGPLAN Conference on Certified Programs and
     Proofs, CPP 2017, Paris, France, January 16-17, 2017: 43-52 (2017).'
   title: 'BliStrTune: hierarchical invention of theorem proving strategies.'
@@ -1681,6 +1685,7 @@ DBLP:conf/cpp/WangBKU20:
   groups:
   - AR
   - main
+  - FM
   source: 'Proceedings of the 9th ACM SIGPLAN International Conference on Certified
     Programs and Proofs, CPP 2020, New Orleans, LA, USA, January 20-21, 2020.: 85-98
     (2020).'
@@ -1693,8 +1698,8 @@ DBLP:conf/cscs/WensveenBB15:
   dblp: conf/cscs/WensveenBB15
   doi: https://doi.org/10.1109/CSCS.2015.64
   groups:
-  - ML
   - main
+  - ML
   source: '20th International Conference on Control Systems and Computer Science,
     CSCS 2015, Bucharest, Romania, May 27-29, 2015: 923-930 (2015).'
   title: Real-Time Optimistic Planning with Action Sequences.
@@ -1704,8 +1709,8 @@ DBLP:conf/dars/SimonettoKB10:
   dblp: conf/dars/SimonettoKB10
   doi: https://doi.org/10.1007/978-3-642-32723-0_20
   groups:
-  - ML
   - main
+  - ML
   source: 'Distributed Autonomous Robotic Systems - The 10th International Symposium,
     DARS 2010, Lausanne, Switzerland, November 1-3, 2010: 267-279 (2010).'
   title: 'Distributed Algebraic Connectivity Maximization for Robotic Networks: A
@@ -1738,8 +1743,8 @@ DBLP:conf/eacl/GraveMJB17:
   authors: "Armand Joulin, Edouard Grave, Piotr Bojanowski, Tom\xE1s Mikolov"
   dblp: conf/eacl/GraveMJB17
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Proceedings of the 15th Conference of the European Chapter of the Association
     for Computational Linguistics, EACL 2017, Valencia, Spain, April 3-7, 2017, Volume
     2: Short Papers: 427-431 (2017).'
@@ -1776,8 +1781,8 @@ DBLP:conf/ecai/TozickaJK14:
   doi: https://doi.org/10.3233/978-1-61499-419-0-1111
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'ECAI 2014 - 21st European Conference on Artificial Intelligence, 18-22
     August 2014, Prague, Czech Republic - Including Prestigious Applications of Intelligent
     Systems (PAIS 2014): 1111-1112 (2014).'
@@ -1789,8 +1794,8 @@ DBLP:conf/eccv/KulhanekDSB22:
   dblp: conf/eccv/KulhanekDSB22
   doi: https://doi.org/10.1007/978-3-031-19784-0_12
   groups:
-  - ML
   - main
+  - ML
   source: 'Computer Vision - ECCV 2022 - 17th European Conference, Tel Aviv, Israel,
     October 23-27, 2022, Proceedings, Part XV: 198-216 (2022).'
   title: 'ViewFormer: NeRF-Free Neural Rendering from Few Images Using Transformers.'
@@ -1802,8 +1807,8 @@ DBLP:conf/ecir/Khan0RZRGAW20:
   dblp: conf/ecir/Khan0RZRGAW20
   doi: https://doi.org/10.1007/978-3-030-45439-5_33
   groups:
-  - ML
   - main
+  - ML
   source: 'Advances in Information Retrieval - 42nd European Conference on IR Research,
     ECIR 2020, Lisbon, Portugal, April 14-17, 2020, Proceedings, Part I: 495-510 (2020).'
   title: Interactive Learning for Multimedia at Large.
@@ -1814,8 +1819,8 @@ DBLP:conf/ecmr/DernerGHBB19:
   dblp: conf/ecmr/DernerGHBB19
   doi: https://doi.org/10.1109/ECMR.2019.8870940
   groups:
-  - ML
   - main
+  - ML
   source: '2019 European Conference on Mobile Robots, ECMR 2019, Prague, Czech Republic,
     September 4-6, 2019: 1-6 (2019).'
   title: Towards Life-Long Autonomy of Mobile Robots Through Feature-Based Change
@@ -1826,8 +1831,8 @@ DBLP:conf/ecmr/GomezHDB19:
   dblp: conf/ecmr/GomezHDB19
   doi: https://doi.org/10.1109/ECMR.2019.8870972
   groups:
-  - ML
   - main
+  - ML
   source: '2019 European Conference on Mobile Robots, ECMR 2019, Prague, Czech Republic,
     September 4-6, 2019: 1-6 (2019).'
   title: Semantic Localization through Propagation of Scene Information in a Hierarchical
@@ -1838,8 +1843,8 @@ DBLP:conf/ecmr/HernandezGDB19:
   dblp: conf/ecmr/HernandezGDB19
   doi: https://doi.org/10.1109/ECMR.2019.8870931
   groups:
-  - ML
   - main
+  - ML
   source: '2019 European Conference on Mobile Robots, ECMR 2019, Prague, Czech Republic,
     September 4-6, 2019: 1-6 (2019).'
   title: Indoor Scene Recognition based on Weighted Voting Schemes.
@@ -1849,8 +1854,8 @@ DBLP:conf/ecmr/KulhanekDBB19:
   dblp: conf/ecmr/KulhanekDBB19
   doi: https://doi.org/10.1109/ECMR.2019.8870964
   groups:
-  - ML
   - main
+  - ML
   source: '2019 European Conference on Mobile Robots, ECMR 2019, Prague, Czech Republic,
     September 4-6, 2019: 1-8 (2019).'
   title: Vision-based Navigation Using Deep Reinforcement Learning.
@@ -1861,8 +1866,8 @@ DBLP:conf/ejc/KopeckyPVKMMNP12:
   dblp: conf/ejc/KopeckyPVKMMNP12
   doi: https://doi.org/10.3233/978-1-61499-177-9-127
   groups:
-  - ML
   - main
+  - ML
   source: 'Information Modelling and Knowledge Bases XXIV, 22nd European-Japanese
     Conference on Information Modelling and Knowledge Bases (EJC 2012), Prague, Czech
     Republic, June, 4-9, 2012: 127-141 (2012).'
@@ -1872,8 +1877,8 @@ DBLP:conf/emnlp/DeorasMC11:
   authors: "Anoop Deoras, Tom\xE1s Mikolov, Kenneth Church"
   dblp: conf/emnlp/DeorasMC11
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Proceedings of the 2011 Conference on Empirical Methods in Natural Language
     Processing, EMNLP 2011, 27-31 July 2011, John McIntyre Conference Centre, Edinburgh,
     UK, A meeting of SIGDAT, a Special Interest Group of the ACL: 1116-1127 (2011).'
@@ -1885,8 +1890,8 @@ DBLP:conf/emnlp/JoulinBMJG18:
     \ Edouard Grave"
   dblp: conf/emnlp/JoulinBMJG18
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Proceedings of the 2018 Conference on Empirical Methods in Natural Language
     Processing, Brussels, Belgium, October 31 - November 4, 2018: 2979-2984 (2018).'
   title: 'Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion.'
@@ -1898,8 +1903,8 @@ DBLP:conf/emo/JimenezGRB01:
   dblp: conf/emo/JimenezGRB01
   doi: https://doi.org/10.1007/3-540-44719-9_46
   groups:
-  - ML
   - main
+  - ML
   source: 'Evolutionary Multi-Criterion Optimization, First International Conference,
     EMO 2001, Zurich, Switzerland, March 7-9, 2001, Proceedings: 653-667 (2001).'
   title: Accurate, Transparent, and Compact Fuzzy Models for Function Approximation
@@ -1934,8 +1939,8 @@ DBLP:conf/etfa/HidayatBSN11:
     ez"
   dblp: conf/etfa/HidayatBSN11
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE 16th Conference on Emerging Technologies & Factory Automation, ETFA
     2011, Toulouse, France, September 5-9, 2011: 1-8 (2011).'
   title: 'Decentralized Kalman filter comparison for distributed-parameter systems:
@@ -1947,8 +1952,8 @@ DBLP:conf/eucc/BabuskaSV99:
   dblp: conf/eucc/BabuskaSV99
   doi: https://doi.org/10.23919/ECC.1999.7099935
   groups:
-  - ML
   - main
+  - ML
   source: '5th European Control Conference, ECC 1999, Karlsruhe, Germany, August 31
     - September 3, 1999: 3868-3873 (1999).'
   title: Predictive control of nonlinear systems based on fuzzy and neural models.
@@ -1958,8 +1963,8 @@ DBLP:conf/eucc/MollovVB01:
   dblp: conf/eucc/MollovVB01
   doi: https://doi.org/10.23919/ECC.2001.7076080
   groups:
-  - ML
   - main
+  - ML
   source: '6th European Control Conference, ECC 2001, Porto, Portugal, September 4-7,
     2001: 1204-1210 (2001).'
   title: Nonlinear model predictive control of a GDI engine.
@@ -1968,8 +1973,8 @@ DBLP:conf/eucc/SatyavadaBB16:
   authors: Harish Satyavada, Robert Babuska, Simone Baldi
   dblp: conf/eucc/SatyavadaBB16
   groups:
-  - ML
   - main
+  - ML
   source: '15th European Control Conference, ECC 2016, Aalborg, Denmark, June 29 -
     July 1, 2016: 1171-1176 (2016).'
   title: Integrated dynamic modelling and multivariable control of HVAC components.
@@ -1980,8 +1985,8 @@ DBLP:conf/eucc/VeenBV99:
   dblp: conf/eucc/VeenBV99
   doi: https://doi.org/10.23919/ECC.1999.7100056
   groups:
-  - ML
   - main
+  - ML
   source: '5th European Control Conference, ECC 1999, Karlsruhe, Germany, August 31
     - September 3, 1999: 4573-4577 (1999).'
   title: Comparison of nonlinear predictive control methods for a waste-water treatment
@@ -1991,8 +1996,8 @@ DBLP:conf/eucc/VerbertSB15:
   authors: Kim Verbert, Bart De Schutter, Robert Babuska
   dblp: conf/eucc/VerbertSB15
   groups:
-  - ML
   - main
+  - ML
   source: '14th European Control Conference, ECC 2015, Linz, Austria, July 15-17,
     2015: 3047-3052 (2015).'
   title: 'Exploiting spatial and temporal dependencies to enhance fault diagnosis:
@@ -2004,8 +2009,8 @@ DBLP:conf/eumas/TozickaJK15:
   dblp: conf/eumas/TozickaJK15
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Multi-Agent Systems and Agreement Technologies - 13th European Conference,
     EUMAS 2015, and Third International Conference, AT 2015, Athens, Greece, December
     17-18, 2015, Revised Selected Papers: 21-33 (2015).'
@@ -2017,8 +2022,8 @@ DBLP:conf/eurogp/KubalikF06:
   dblp: conf/eurogp/KubalikF06
   doi: https://doi.org/10.1007/11729976_14
   groups:
-  - ML
   - main
+  - ML
   source: 'Genetic Programming, 9th European Conference, EuroGP 2006, Budapest, Hungary,
     April 10-12, 2006, Proceedings: 154-165 (2006).'
   title: Iterative Prototype Optimisation with Evolved Improvement Steps.
@@ -2028,8 +2033,8 @@ DBLP:conf/eurogp/KubalikKR03:
   dblp: conf/eurogp/KubalikKR03
   doi: https://doi.org/10.1007/3-540-36599-0_33
   groups:
-  - ML
   - main
+  - ML
   source: 'Genetic Programming, 6th European Conference, EuroGP 2003, Essex, UK, April
     14-16, 2003. Proceedings: 354-363 (2003).'
   title: Grammatical Evolution with Bidirectional Representation.
@@ -2039,8 +2044,8 @@ DBLP:conf/eurogp/SuchyK05:
   dblp: conf/eurogp/SuchyK05
   doi: https://doi.org/10.1007/978-3-540-31989-4_27
   groups:
-  - ML
   - main
+  - ML
   source: 'Genetic Programming, 8th European Conference, EuroGP2005, Lausanne, Switzerland,
     March 30 - April 1, 2005, Proceedings: 301-310 (2005).'
   title: Inducing Diverse Decision Forests with Genetic Programing.
@@ -2049,8 +2054,8 @@ DBLP:conf/eusflat/Babuska03:
   authors: Robert Babuska
   dblp: conf/eusflat/Babuska03
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 3rd Conference of the European Society for Fuzzy Logic
     and Technology, Zittau, Germany, September 10-12, 2003: 797-797 (2003).'
   title: 'Advances in fuzzy control: from heuristic control to modern model-based
@@ -2062,8 +2067,8 @@ DBLP:conf/evoW/CernyK13:
   dblp: conf/evoW/CernyK13
   doi: https://doi.org/10.1007/978-3-642-37192-9_55
   groups:
-  - ML
   - main
+  - ML
   source: 'Applications of Evolutionary Computation - 16th European Conference, EvoApplications
     2013, Vienna, Austria, April 3-5, 2013. Proceedings: 550-559 (2013).'
   title: Co-evolutionary Approach to Design of Robotic Gait.
@@ -2073,8 +2078,8 @@ DBLP:conf/evoW/Kubalik12:
   dblp: conf/evoW/Kubalik12
   doi: https://doi.org/10.1007/978-3-642-29124-1_13
   groups:
-  - ML
   - main
+  - ML
   source: "Evolutionary Computation in Combinatorial Optimization - 12th European\
     \ Conference, EvoCOP 2012, M\xE1laga, Spain, April 11-13, 2012. Proceedings: 148-159\
     \ (2012)."
@@ -2085,8 +2090,8 @@ DBLP:conf/evoW/KubalikMB08:
   dblp: conf/evoW/KubalikMB08
   doi: https://doi.org/10.1007/978-3-540-78604-7_19
   groups:
-  - ML
   - main
+  - ML
   source: 'Evolutionary Computation in Combinatorial Optimization, 8th European Conference,
     EvoCOP 2008, Naples, Italy, March 26-28, 2008. Proceedings: 218-229 (2008).'
   title: Multiobjective Prototype Optimization with Evolved Improvement Steps.
@@ -2156,8 +2161,8 @@ DBLP:conf/frocos/GoertzelCJOU21:
   doi: https://doi.org/10.1007/978-3-030-86205-3_10
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Frontiers of Combining Systems - 13th International Symposium, FroCoS 2021,
     Birmingham, UK, September 8-10, 2021, Proceedings: 173-191 (2021).'
   title: Fast and Slow Enigmas and Parental Guidance.
@@ -2200,8 +2205,8 @@ DBLP:conf/fuzzIEEE/AbonyiB00:
   dblp: conf/fuzzIEEE/AbonyiB00
   doi: https://doi.org/10.1109/FUZZY.2000.839140
   groups:
-  - ML
   - main
+  - ML
   source: 'The Ninth IEEE International Conference on Fuzzy Systems, FUZZ-IEEE 2000,
     San Antonio, Texas, USA, May 7-10, 2000. Proceedings.: 835-840 (2000).'
   title: Local and global identification and interpretation of parameters in Takagi-Sugeno
@@ -2212,8 +2217,8 @@ DBLP:conf/fuzzIEEE/AbonyiB04:
   dblp: conf/fuzzIEEE/AbonyiB04
   doi: https://doi.org/10.1109/FUZZY.2004.1375750
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE International Conference on Fuzzy Systems, FUZZ-IEEE 2004, Budapest,
     Hungary, July 25-29, 2004.: 365-370 (2004).'
   title: FUZZSAM - visualization of fuzzy clustering results by modified Sammon mapping.
@@ -2223,8 +2228,8 @@ DBLP:conf/fuzzIEEE/Babuska01:
   dblp: conf/fuzzIEEE/Babuska01
   doi: https://doi.org/10.1109/FUZZ.2001.1009129
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 10th IEEE International Conference on Fuzzy Systems,
     Melbourne, Australia, December 2-5, 2001: 999-1003 (2001).'
   title: Fault-Tolerant Output-Feedback Control Via Fuzzy State Blending.
@@ -2234,8 +2239,8 @@ DBLP:conf/fuzzIEEE/BabuskaAM06:
   dblp: conf/fuzzIEEE/BabuskaAM06
   doi: https://doi.org/10.1109/FUZZY.2006.1681879
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE International Conference on Fuzzy Systems, FUZZ-IEEE 2006, Vancouver,
     BC, Canada, July 16-21, 2006: 1310-1315 (2006).'
   title: A Fuzzy-logic System for Detecting Oscillations in Control Loops.
@@ -2245,8 +2250,8 @@ DBLP:conf/fuzzIEEE/BabuskaO03:
   dblp: conf/fuzzIEEE/BabuskaO03
   doi: https://doi.org/10.1109/FUZZ.2003.1209410
   groups:
-  - ML
   - main
+  - ML
   source: 'The 12th IEEE International Conference on Fuzzy Systems, FUZZ-IEEE 2003,
     St. Louis, Missouri, USA, 25-28 May 2003: 476-481 (2003).'
   title: Design of optimal membership functions for fuzzy gain-scheduled control.
@@ -2256,8 +2261,8 @@ DBLP:conf/fuzzIEEE/BabuskaVK02:
   dblp: conf/fuzzIEEE/BabuskaVK02
   doi: https://doi.org/10.1109/FUZZ.2002.1006654
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 2002 IEEE International Conference on Fuzzy Systems,
     FUZZ-IEEE''02, Honolulu, Hawaii, USA, May 12 - 17, 2002.: 1081-1085 (2002).'
   title: Improved covariance estimation for Gustafson-Kessel clustering.
@@ -2267,8 +2272,8 @@ DBLP:conf/fuzzIEEE/BellomoNB05:
   dblp: conf/fuzzIEEE/BellomoNB05
   doi: https://doi.org/10.1109/FUZZY.2005.1452544
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE International Conference on Fuzzy Systems, FUZZ-IEEE 2005, Reno, Nevada,
     USA, May 22-25, 2005.: 1074-1079 (2005).'
   title: 'Evaluation of adaptive fuzzy controllers: a real-world experiment.'
@@ -2278,8 +2283,8 @@ DBLP:conf/fuzzIEEE/BusoniuESB07:
   dblp: conf/fuzzIEEE/BusoniuESB07
   doi: https://doi.org/10.1109/FUZZY.2007.4295497
   groups:
-  - ML
   - main
+  - ML
   source: 'FUZZ-IEEE 2007, IEEE International Conference on Fuzzy Systems, Imperial
     College, London, UK, 23-26 July, 2007, Proceedings: 1-6 (2007).'
   title: Fuzzy Approximation for Convergent Model-Based Reinforcement Learning.
@@ -2289,8 +2294,8 @@ DBLP:conf/fuzzIEEE/BusoniuESB08:
   dblp: conf/fuzzIEEE/BusoniuESB08
   doi: https://doi.org/10.1109/FUZZY.2008.4630417
   groups:
-  - ML
   - main
+  - ML
   source: 'FUZZ-IEEE 2008, IEEE International Conference on Fuzzy Systems, Hong Kong,
     China, 1-6 June, 2008, Proceedings: 518-524 (2008).'
   title: Consistency of fuzzy model-based reinforcement learning.
@@ -2301,8 +2306,8 @@ DBLP:conf/fuzzIEEE/CaraLBPR10:
   dblp: conf/fuzzIEEE/CaraLBPR10
   doi: https://doi.org/10.1109/FUZZY.2010.5584027
   groups:
-  - ML
   - main
+  - ML
   source: 'FUZZ-IEEE 2010, IEEE International Conference on Fuzzy Systems, Barcelona,
     Spain, 18-23 July, 2010, Proceedings: 1-8 (2010).'
   title: 'Online self-organizing adaptive fuzzy controller: Application to a nonlinear
@@ -2313,8 +2318,8 @@ DBLP:conf/fuzzIEEE/GirimonteBA04:
   dblp: conf/fuzzIEEE/GirimonteBA04
   doi: https://doi.org/10.1109/FUZZY.2004.1375754
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE International Conference on Fuzzy Systems, FUZZ-IEEE 2004, Budapest,
     Hungary, July 25-29, 2004.: 383-387 (2004).'
   title: Fuzzy clustering for selecting structure of nonlinear models with mixed discrete
@@ -2325,8 +2330,8 @@ DBLP:conf/fuzzIEEE/IchtevHB01:
   dblp: conf/fuzzIEEE/IchtevHB01
   doi: https://doi.org/10.1109/FUZZ.2001.1008946
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 10th IEEE International Conference on Fuzzy Systems,
     Melbourne, Australia, December 2-5, 2001: 1498-1502 (2001).'
   title: Fault Detection and Isolation Using Multiple Takagi-Sugeno Fuzzy Models.
@@ -2336,8 +2341,8 @@ DBLP:conf/fuzzIEEE/IchtevHBM02:
   dblp: conf/fuzzIEEE/IchtevHBM02
   doi: https://doi.org/10.1109/FUZZ.2002.1005014
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 2002 IEEE International Conference on Fuzzy Systems,
     FUZZ-IEEE''02, Honolulu, Hawaii, USA, May 12 - 17, 2002.: 346-351 (2002).'
   title: Fault-tolerant model-based predictive control using multiple Takagi-Sugeno
@@ -2348,8 +2353,8 @@ DBLP:conf/fuzzIEEE/LendekBS07:
   dblp: conf/fuzzIEEE/LendekBS07
   doi: https://doi.org/10.1109/FUZZY.2007.4295418
   groups:
-  - ML
   - main
+  - ML
   source: 'FUZZ-IEEE 2007, IEEE International Conference on Fuzzy Systems, Imperial
     College, London, UK, 23-26 July, 2007, Proceedings: 1-6 (2007).'
   title: Stability of Cascaded Takagi-Sugeno Fuzzy Systems.
@@ -2359,8 +2364,8 @@ DBLP:conf/fuzzIEEE/LendekBS08:
   dblp: conf/fuzzIEEE/LendekBS08
   doi: https://doi.org/10.1109/FUZZY.2008.4630435
   groups:
-  - ML
   - main
+  - ML
   source: 'FUZZ-IEEE 2008, IEEE International Conference on Fuzzy Systems, Hong Kong,
     China, 1-6 June, 2008, Proceedings: 631-636 (2008).'
   title: Stability analysis and observer design for decentralized TS fuzzy systems.
@@ -2370,8 +2375,8 @@ DBLP:conf/fuzzIEEE/LendekGB10:
   dblp: conf/fuzzIEEE/LendekGB10
   doi: https://doi.org/10.1109/FUZZY.2010.5584650
   groups:
-  - ML
   - main
+  - ML
   source: 'FUZZ-IEEE 2010, IEEE International Conference on Fuzzy Systems, Barcelona,
     Spain, 18-23 July, 2010, Proceedings: 1-7 (2010).'
   title: On non-PDC local observers for TS fuzzy systems.
@@ -2381,8 +2386,8 @@ DBLP:conf/fuzzIEEE/MollovBV00:
   dblp: conf/fuzzIEEE/MollovBV00
   doi: https://doi.org/10.1109/FUZZY.2000.838696
   groups:
-  - ML
   - main
+  - ML
   source: 'The Ninth IEEE International Conference on Fuzzy Systems, FUZZ-IEEE 2000,
     San Antonio, Texas, USA, May 7-10, 2000. Proceedings.: 417-422 (2000).'
   title: Decoupling MBPC using fuzzy models.
@@ -2392,8 +2397,8 @@ DBLP:conf/fuzzIEEE/MollovBV01:
   dblp: conf/fuzzIEEE/MollovBV01
   doi: https://doi.org/10.1109/FUZZ.2001.1009068
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 10th IEEE International Conference on Fuzzy Systems,
     Melbourne, Australia, December 2-5, 2001: 769-773 (2001).'
   title: Analysis of Interactions in MIMO Takagi-Sugeno Fuzzy Models.
@@ -2403,8 +2408,8 @@ DBLP:conf/fuzzIEEE/NageshLKB12:
   dblp: conf/fuzzIEEE/NageshLKB12
   doi: https://doi.org/10.1109/FUZZ-IEEE.2012.6250787
   groups:
-  - ML
   - main
+  - ML
   source: 'FUZZ-IEEE 2012, IEEE International Conference on Fuzzy Systems, Brisbane,
     Australia, June 10-15, 2012, Proceedings.: 1-7 (2012).'
   title: Adaptive fuzzy observer and robust controller for a 2-DOF robot arm.
@@ -2414,8 +2419,8 @@ DBLP:conf/fuzzIEEE/OosteromB01:
   dblp: conf/fuzzIEEE/OosteromB01
   doi: https://doi.org/10.1109/FUZZ.2001.1009055
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 10th IEEE International Conference on Fuzzy Systems,
     Melbourne, Australia, December 2-5, 2001: 716-719 (2001).'
   title: Fuzzy Gain Scheduling for Flight Control Laws.
@@ -2425,8 +2430,8 @@ DBLP:conf/fuzzIEEE/OosteromB06:
   dblp: conf/fuzzIEEE/OosteromB06
   doi: https://doi.org/10.1109/FUZZY.2006.1681892
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE International Conference on Fuzzy Systems, FUZZ-IEEE 2006, Vancouver,
     BC, Canada, July 16-21, 2006: 1396-1403 (2006).'
   title: Virtual Sensor for the Angle-of-Attack Signal in Small Commercial Aircraft.
@@ -2436,8 +2441,8 @@ DBLP:conf/fuzzIEEE/PalitB01:
   dblp: conf/fuzzIEEE/PalitB01
   doi: https://doi.org/10.1109/FUZZ.2001.1008912
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 10th IEEE International Conference on Fuzzy Systems,
     Melbourne, Australia, December 2-5, 2001: 1367-1371 (2001).'
   title: Efficient Training Algorithm for Takagi-Sugeno Type Neuro-Fuzzy Network.
@@ -2447,8 +2452,8 @@ DBLP:conf/fuzzIEEE/PassaquayBBBT00:
   dblp: conf/fuzzIEEE/PassaquayBBBT00
   doi: https://doi.org/10.1109/FUZZY.2000.838697
   groups:
-  - ML
   - main
+  - ML
   source: 'The Ninth IEEE International Conference on Fuzzy Systems, FUZZ-IEEE 2000,
     San Antonio, Texas, USA, May 7-10, 2000. Proceedings.: 423-428 (2000).'
   title: Performance evaluation of a fuzzy rule base for control purpose.
@@ -2459,8 +2464,8 @@ DBLP:conf/gcai/JakubuvSU17:
   doi: https://doi.org/10.29007/xghj
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'GCAI 2017, 3rd Global Conference on Artificial Intelligence, Miami, FL,
     USA, 18-22 October 2017.: 121-133 (2017).'
   title: Automated Invention of Strategies and Term Orderings for Vampire.
@@ -2514,8 +2519,8 @@ DBLP:conf/gecco/Babuska19:
   dblp: conf/gecco/Babuska19
   doi: https://doi.org/10.1145/3321707.3326935
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the Genetic and Evolutionary Computation Conference, GECCO
     2019, Prague, Czech Republic, July 13-17, 2019: (2019).'
   title: Genetic programming methods for reinforcement learning.
@@ -2525,8 +2530,8 @@ DBLP:conf/gecco/BuryanK10:
   dblp: conf/gecco/BuryanK10
   doi: https://doi.org/10.1145/1830483.1830680
   groups:
-  - ML
   - main
+  - ML
   source: 'Genetic and Evolutionary Computation Conference, GECCO 2010, Proceedings,
     Portland, Oregon, USA, July 7-11, 2010: 1071-1072 (2010).'
   title: Context-sensitive refinements for stochasticoptimization algorithms in inductive
@@ -2537,8 +2542,8 @@ DBLP:conf/gecco/HruskaK15:
   dblp: conf/gecco/HruskaK15
   doi: https://doi.org/10.1145/2739482.2764686
   groups:
-  - ML
   - main
+  - ML
   source: 'Genetic and Evolutionary Computation Conference, GECCO 2015, Madrid, Spain,
     July 11-15, 2015, Companion Material Proceedings: 1401-1402 (2015).'
   title: Selection Hyper-Heuristic Using a Portfolio of Derivative Heuristics.
@@ -2548,8 +2553,8 @@ DBLP:conf/gecco/KremmelKB10:
   dblp: conf/gecco/KremmelKB10
   doi: https://doi.org/10.1145/1830483.1830738
   groups:
-  - ML
   - main
+  - ML
   source: 'Genetic and Evolutionary Computation Conference, GECCO 2010, Proceedings,
     Portland, Oregon, USA, July 7-11, 2010: 1389-1390 (2010).'
   title: Multiobjective evolutionary algorithm for software project portfolio optimization.
@@ -2559,8 +2564,8 @@ DBLP:conf/gecco/Kubalik09:
   dblp: conf/gecco/Kubalik09
   doi: https://doi.org/10.1145/1569901.1569944
   groups:
-  - ML
   - main
+  - ML
   source: "Genetic and Evolutionary Computation Conference, GECCO 2009, Proceedings,\
     \ Montreal, Qu\xE9bec, Canada, July 8-12, 2009: 301-308 (2009)."
   title: Solving the sorting network problem using iterative optimization with evolved
@@ -2571,8 +2576,8 @@ DBLP:conf/gecco/Kubalik09a:
   dblp: conf/gecco/Kubalik09a
   doi: https://doi.org/10.1145/1570256.1570321
   groups:
-  - ML
   - main
+  - ML
   source: "Genetic and Evolutionary Computation Conference, GECCO 2009, Proceedings,\
     \ Montreal, Qu\xE9bec, Canada, July 8-12, 2009, Companion Material: 2303-2308\
     \ (2009)."
@@ -2584,8 +2589,8 @@ DBLP:conf/gecco/Kubalik10:
   dblp: conf/gecco/Kubalik10
   doi: https://doi.org/10.1145/1830483.1830529
   groups:
-  - ML
   - main
+  - ML
   source: 'Genetic and Evolutionary Computation Conference, GECCO 2010, Proceedings,
     Portland, Oregon, USA, July 7-11, 2010: 249-256 (2010).'
   title: Efficient stochastic local search algorithm for solving the shortest common
@@ -2596,8 +2601,8 @@ DBLP:conf/gecco/Kubalik10a:
   dblp: conf/gecco/Kubalik10a
   doi: https://doi.org/10.1145/1830761.1830774
   groups:
-  - ML
   - main
+  - ML
   source: 'Genetic and Evolutionary Computation Conference, GECCO 2010, Proceedings,
     Portland, Oregon, USA, July 7-11, 2010, Companion Material: 1567-1574 (2010).'
   title: Black-box optimization benchmarking of two variants of the POEMS algorithm
@@ -2608,8 +2613,8 @@ DBLP:conf/gecco/Kubalik11:
   dblp: conf/gecco/Kubalik11
   doi: https://doi.org/10.1145/2001576.2001620
   groups:
-  - ML
   - main
+  - ML
   source: '13th Annual Genetic and Evolutionary Computation Conference, GECCO 2011,
     Proceedings, Dublin, Ireland, July 12-16, 2011: 315-322 (2011).'
   title: Evolutionary-based iterative local search algorithm for the shortest common
@@ -2620,8 +2625,8 @@ DBLP:conf/gecco/KubalikBW10:
   dblp: conf/gecco/KubalikBW10
   doi: https://doi.org/10.1145/1830483.1830522
   groups:
-  - ML
   - main
+  - ML
   source: 'Genetic and Evolutionary Computation Conference, GECCO 2010, Proceedings,
     Portland, Oregon, USA, July 7-11, 2010: 213-214 (2010).'
   title: Solving the DNA fragment assembly problem efficiently using iterative optimization
@@ -2632,8 +2637,8 @@ DBLP:conf/gecco/KubalikDB20:
   dblp: conf/gecco/KubalikDB20
   doi: https://doi.org/10.1145/3377930.3390152
   groups:
-  - ML
   - main
+  - ML
   source: "GECCO '20: Genetic and Evolutionary Computation Conference, Canc\xFAn Mexico,\
     \ July 8-12, 2020: 958-966 (2020)."
   title: Symbolic regression driven by training data and prior knowledge.
@@ -2643,8 +2648,8 @@ DBLP:conf/gecco/MlejnekK13:
   dblp: conf/gecco/MlejnekK13
   doi: https://doi.org/10.1145/2464576.2464684
   groups:
-  - ML
   - main
+  - ML
   source: 'Genetic and Evolutionary Computation Conference, GECCO ''13, Amsterdam,
     The Netherlands, July 6-10, 2013, Companion Material Proceedings: 219-220 (2013).'
   title: Evolutionary hyperheuristic for capacitated vehicle routing problem.
@@ -2665,8 +2670,8 @@ DBLP:conf/gecco/PosikK10:
   dblp: conf/gecco/PosikK10
   doi: https://doi.org/10.1145/1830761.1830792
   groups:
-  - ML
   - main
+  - ML
   source: 'Genetic and Evolutionary Computation Conference, GECCO 2010, Proceedings,
     Portland, Oregon, USA, July 7-11, 2010, Companion Material: 1703-1710 (2010).'
   title: Comparison of cauchy EDA and pPOEMS algorithms on the BBOB noiseless testbed.
@@ -2677,8 +2682,8 @@ DBLP:conf/holomas/KubalikKJKP19:
   dblp: conf/holomas/KubalikKJKP19
   doi: https://doi.org/10.1007/978-3-030-27878-6_14
   groups:
-  - ML
   - main
+  - ML
   source: 'Industrial Applications of Holonic and Multi-Agent Systems - 9th International
     Conference, HoloMAS 2019, Linz, Austria, August 26-29, 2019, Proceedings: 173-188
     (2019).'
@@ -2689,8 +2694,8 @@ DBLP:conf/humanoids/WangHB14:
   dblp: conf/humanoids/WangHB14
   doi: https://doi.org/10.1109/HUMANOIDS.2014.7041419
   groups:
-  - ML
   - main
+  - ML
   source: '14th IEEE-RAS International Conference on Humanoid Robots, Humanoids 2014,
     Madrid, Spain, November 18-20, 2014: 566-572 (2014).'
   title: Active learning of affordances for robot use of household objects.
@@ -2700,8 +2705,8 @@ DBLP:conf/iat/MengBBCT05:
   dblp: conf/iat/MengBBCT05
   doi: http://doi.ieeecomputersociety.org/10.1109/IAT.2005.42
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 2005 IEEE/WIC/ACM International Conference on Intelligent
     Agent Technology, Compiegne, France, September 19-22, 2005: 337-343 (2005).'
   title: An Improved Multiagent Reinforcement Learning Algorithm.
@@ -2722,8 +2727,8 @@ DBLP:conf/icaart/JakubuvTK15:
   dblp: conf/icaart/JakubuvTK15
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'ICAART 2015 - Proceedings of the International Conference on Agents and
     Artificial Intelligence, Volume 2, Lisbon, Portugal, 10-12 January, 2015.: 173-182
     (2015).'
@@ -2734,8 +2739,8 @@ DBLP:conf/icaart/JakubuvTK15a:
   dblp: conf/icaart/JakubuvTK15a
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Agents and Artificial Intelligence - 7th International Conference, ICAART
     2015, Lisbon, Portugal, January 10-12, 2015, Revised Selected Papers: 245-261
     (2015).'
@@ -2748,8 +2753,8 @@ DBLP:conf/icaart/TozickaJDKP14:
   doi: https://doi.org/10.5220/0004918701780189
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'ICAART 2014 - Proceedings of the 6th International Conference on Agents
     and Artificial Intelligence, Volume 1, ESEO, Angers, Loire Valley, France, 6-8
     March, 2014: 178-189 (2014).'
@@ -2761,8 +2766,8 @@ DBLP:conf/icaart/TozickaJK16:
   doi: https://doi.org/10.5220/0005754901810191
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Proceedings of the 8th International Conference on Agents and Artificial
     Intelligence (ICAART 2016), Volume 2, Rome, Italy, February 24-26, 2016.: 181-191
     (2016).'
@@ -2773,8 +2778,8 @@ DBLP:conf/icaisc/KubalikKK04:
   dblp: conf/icaisc/KubalikKK04
   doi: https://doi.org/10.1007/978-3-540-24844-6_139
   groups:
-  - ML
   - main
+  - ML
   source: 'Artificial Intelligence and Soft Computing - ICAISC 2004, 7th International
     Conference, Zakopane, Poland, June 7-11, 2004, Proceedings: 897-902 (2004).'
   title: Application of Soft Computing Techniques to Rescue Operation Planning.
@@ -2784,8 +2789,8 @@ DBLP:conf/icannga/Kubalik09:
   dblp: conf/icannga/Kubalik09
   doi: https://doi.org/10.1007/978-3-642-04921-7_19
   groups:
-  - ML
   - main
+  - ML
   source: 'Adaptive and Natural Computing Algorithms, 9th International Conference,
     ICANNGA 2009, Kuopio, Finland, April 23-25, 2009, Revised Selected Papers: 183-192
     (2009).'
@@ -2797,8 +2802,8 @@ DBLP:conf/icarcv/BusoniuBS06:
   dblp: conf/icarcv/BusoniuBS06
   doi: https://doi.org/10.1109/ICARCV.2006.345353
   groups:
-  - ML
   - main
+  - ML
   source: 'Ninth International Conference on Control, Automation, Robotics and Vision,
     ICARCV 2006, Singapore, 5-8 December 2006, Proceedings: 1-6 (2006).'
   title: 'Multi-Agent Reinforcement Learning: A Survey.'
@@ -2808,8 +2813,8 @@ DBLP:conf/icarcv/BusoniuSB06:
   dblp: conf/icarcv/BusoniuSB06
   doi: https://doi.org/10.1109/ICARCV.2006.345351
   groups:
-  - ML
   - main
+  - ML
   source: 'Ninth International Conference on Control, Automation, Robotics and Vision,
     ICARCV 2006, Singapore, 5-8 December 2006, Proceedings: 1-6 (2006).'
   title: Decentralized Reinforcement Learning Control of a Robotic Manipulator.
@@ -2820,8 +2825,8 @@ DBLP:conf/icassp/DeorasMKKK11:
   dblp: conf/icassp/DeorasMKKK11
   doi: https://doi.org/10.1109/ICASSP.2011.5947612
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Proceedings of the IEEE International Conference on Acoustics, Speech,
     and Signal Processing, ICASSP 2011, May 22-27, 2011, Prague Congress Center, Prague,
     Czech Republic: 5532-5535 (2011).'
@@ -2832,8 +2837,8 @@ DBLP:conf/icassp/KombrinkMKB12:
   dblp: conf/icassp/KombrinkMKB12
   doi: https://doi.org/10.1109/ICASSP.2012.6288896
   groups:
-  - FAI
   - main
+  - FAI
   source: '2012 IEEE International Conference on Acoustics, Speech and Signal Processing,
     ICASSP 2012, Kyoto, Japan, March 25-30, 2012: 4405-4408 (2012).'
   title: Improving language models for ASR using translated in-domain data.
@@ -2844,8 +2849,8 @@ DBLP:conf/icassp/MikolovKBCK11:
   dblp: conf/icassp/MikolovKBCK11
   doi: https://doi.org/10.1109/ICASSP.2011.5947611
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Proceedings of the IEEE International Conference on Acoustics, Speech,
     and Signal Processing, ICASSP 2011, May 22-27, 2011, Prague Congress Center, Prague,
     Czech Republic: 5528-5531 (2011).'
@@ -2857,8 +2862,8 @@ DBLP:conf/icassp/MikolovKBGC09:
   dblp: conf/icassp/MikolovKBGC09
   doi: http://doi.ieeecomputersociety.org/10.1109/ICASSP.2009.4960686
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Proceedings of the IEEE International Conference on Acoustics, Speech,
     and Signal Processing, ICASSP 2009, 19-24 April 2009, Taipei, Taiwan: 4725-4728
     (2009).'
@@ -2869,8 +2874,8 @@ DBLP:conf/icdl-epirob/WangHB14:
   dblp: conf/icdl-epirob/WangHB14
   doi: https://doi.org/10.1109/DEVLRN.2014.6983025
   groups:
-  - ML
   - main
+  - ML
   source: '4th International Conference on Development and Learning and on Epigenetic
     Robotics, ICDL-EPIROB 2014, Genoa, Italy, October 13-16, 2014: 469-475 (2014).'
   title: Effective transfer learning of affordances for household robots.
@@ -2891,8 +2896,8 @@ DBLP:conf/icinco/BellomoNB04:
   authors: Domenico Bellomo, David Naso, Robert Babuska
   dblp: conf/icinco/BellomoNB04
   groups:
-  - ML
   - main
+  - ML
   source: "ICINCO 2004, Proceedings of the First International Conference on Informatics\
     \ in Control, Automation and Robotics, Set\xFAbal, Portugal, August 25-28, 2004:\
     \ 135-142 (2004)."
@@ -2902,8 +2907,8 @@ DBLP:conf/icinco/BraaksmaKBK04:
   authors: Jelmer Braaksma, J. Ben Klaassens, Robert Babuska, Cees de Keizer
   dblp: conf/icinco/BraaksmaKBK04
   groups:
-  - ML
   - main
+  - ML
   source: "ICINCO 2004, Proceedings of the First International Conference on Informatics\
     \ in Control, Automation and Robotics, Set\xFAbal, Portugal, August 25-28, 2004:\
     \ 185-192 (2004)."
@@ -2914,8 +2919,8 @@ DBLP:conf/iclr/BaroniJJKLSM17:
     \ Lazaridou, Klemen Simonic, Tom\xE1s Mikolov"
   dblp: conf/iclr/BaroniJJKLSM17
   groups:
-  - FAI
   - main
+  - FAI
   source: '5th International Conference on Learning Representations, ICLR 2017, Toulon,
     France, April 24-26, 2017, Workshop Track Proceedings: (2017).'
   title: 'CommAI: Evaluating the first steps towards a useful general AI.'
@@ -2927,6 +2932,7 @@ DBLP:conf/iclr/Chvalovsky19:
   groups:
   - AR
   - main
+  - FM
   source: '7th International Conference on Learning Representations, ICLR 2019, New
     Orleans, LA, USA, May 6-9, 2019: (2019).'
   title: Top-Down Neural Model For Formulae.
@@ -2936,8 +2942,8 @@ DBLP:conf/iclr/JerniteGJM17:
   authors: "Yacine Jernite, Edouard Grave, Armand Joulin, Tom\xE1s Mikolov"
   dblp: conf/iclr/JerniteGJM17
   groups:
-  - FAI
   - main
+  - FAI
   source: '5th International Conference on Learning Representations, ICLR 2017, Toulon,
     France, April 24-26, 2017, Conference Track Proceedings: (2017).'
   title: Variable Computation in Recurrent Neural Networks.
@@ -2947,8 +2953,8 @@ DBLP:conf/icml/LeM14:
   authors: "Quoc V. Le, Tom\xE1s Mikolov"
   dblp: conf/icml/LeM14
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Proceedings of the 31th International Conference on Machine Learning, ICML
     2014, Beijing, China, 21-26 June 2014: 1188-1196 (2014).'
   title: Distributed Representations of Sentences and Documents.
@@ -2958,8 +2964,8 @@ DBLP:conf/icml/PascanuMB13:
   authors: "Razvan Pascanu, Tom\xE1s Mikolov, Yoshua Bengio"
   dblp: conf/icml/PascanuMB13
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Proceedings of the 30th International Conference on Machine Learning, ICML
     2013, Atlanta, GA, USA, 16-21 June 2013: 1310-1318 (2013).'
   title: On the difficulty of training recurrent neural networks.
@@ -2969,8 +2975,8 @@ DBLP:conf/icml/ZarembaMJF16:
   authors: "Wojciech Zaremba, Tom\xE1s Mikolov, Armand Joulin, Rob Fergus"
   dblp: conf/icml/ZarembaMJF16
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Proceedings of the 33nd International Conference on Machine Learning, ICML
     2016, New York City, NY, USA, June 19-24, 2016: 421-429 (2016).'
   title: Learning Simple Algorithms from Examples.
@@ -2992,8 +2998,8 @@ DBLP:conf/icms/JakubuvK18:
   dblp: conf/icms/JakubuvK18
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Mathematical Software - ICMS 2018 - 6th International Conference, South
     Bend, IN, USA, July 24-27, 2018, Proceedings: 245-254 (2018).'
   title: Towards a Unified Ordering for Superposition-Based Automated Reasoning.
@@ -3014,8 +3020,8 @@ DBLP:conf/icnsc/CongSB13:
   authors: Zhe Cong, Bart De Schutter, Robert Babuska
   dblp: conf/icnsc/CongSB13
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of 10th IEEE International Conference on Networking, Sensing
     and Control, ICNSC 2013, Evry, France, April 10-12, 2013: 424-429 (2013).'
   title: Optimal routing in freeway networks via sequential linear programming.
@@ -3026,8 +3032,8 @@ DBLP:conf/icra/BehrensSB20:
   dblp: conf/icra/BehrensSB20
   doi: https://doi.org/10.1109/ICRA40945.2020.9197103
   groups:
-  - ML
   - main
+  - ML
   source: '2020 IEEE International Conference on Robotics and Automation, ICRA 2020,
     Paris, France, May 31 - August 31, 2020: 11443-11449 (2020).'
   title: Simultaneous task allocation and motion scheduling for complex tasks executed
@@ -3038,8 +3044,8 @@ DBLP:conf/icra/BurgerBBB17:
   dblp: conf/icra/BurgerBBB17
   doi: https://doi.org/10.1109/ICRA.2017.7989504
   groups:
-  - ML
   - main
+  - ML
   source: '2017 IEEE International Conference on Robotics and Automation, ICRA 2017,
     Singapore, Singapore, May 29 - June 3, 2017: 4371-4376 (2017).'
   title: Automated tuning and configuration of path planning algorithms.
@@ -3049,8 +3055,8 @@ DBLP:conf/icra/DernerKB18:
   dblp: conf/icra/DernerKB18
   doi: https://doi.org/10.1109/ICRA.2018.8461182
   groups:
-  - ML
   - main
+  - ML
   source: '2018 IEEE International Conference on Robotics and Automation, ICRA 2018,
     Brisbane, Australia, May 21-25, 2018: 1-8 (2018).'
   title: Data-driven Construction of Symbolic Process Models for Reinforcement Learning.
@@ -3061,8 +3067,8 @@ DBLP:conf/icra/LodelBSFBA22:
   dblp: conf/icra/LodelBSFBA22
   doi: https://doi.org/10.1109/ICRA46639.2022.9812190
   groups:
-  - ML
   - main
+  - ML
   source: '2022 International Conference on Robotics and Automation, ICRA 2022, Philadelphia,
     PA, USA, May 23-27, 2022: 4466-4472 (2022).'
   title: 'Where to Look Next: Learning Viewpoint Recommendations for Informative Trajectory
@@ -3073,8 +3079,8 @@ DBLP:conf/icra/PenCWB13:
   dblp: conf/icra/PenCWB13
   doi: https://doi.org/10.1109/ICRA.2013.6631170
   groups:
-  - ML
   - main
+  - ML
   source: '2013 IEEE International Conference on Robotics and Automation, Karlsruhe,
     Germany, May 6-10, 2013: 4195-4202 (2013).'
   title: Evolutionary co-optimization of control and system parameters for a resonating
@@ -3085,8 +3091,8 @@ DBLP:conf/icra/ShahbaziBL15:
   dblp: conf/icra/ShahbaziBL15
   doi: https://doi.org/10.1109/ICRA.2015.7140005
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE International Conference on Robotics and Automation, ICRA 2015, Seattle,
     WA, USA, 26-30 May, 2015: 5754-5760 (2015).'
   title: Analytical approximation for the double-stance phase of a walking robot.
@@ -3096,8 +3102,8 @@ DBLP:conf/icra/SimonettoKB10:
   dblp: conf/icra/SimonettoKB10
   doi: https://doi.org/10.1109/ROBOT.2010.5509143
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE International Conference on Robotics and Automation, ICRA 2010, Anchorage,
     Alaska, USA, 3-7 May 2010: 3026-3031 (2010).'
   title: Distributed nonlinear estimation for robot localization using weighted consensus.
@@ -3108,8 +3114,8 @@ DBLP:conf/icra/VerboomTWRBC15:
   dblp: conf/icra/VerboomTWRBC15
   doi: https://doi.org/10.1109/ICRA.2015.7140017
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE International Conference on Robotics and Automation, ICRA 2015, Seattle,
     WA, USA, 26-30 May, 2015: 5846-5851 (2015).'
   title: Attitude and altitude estimation and control on board a Flapping Wing Micro
@@ -3131,7 +3137,6 @@ DBLP:conf/ictai/HulaMJ21:
   dblp: conf/ictai/HulaMJ21
   doi: https://doi.org/10.1109/ICTAI52525.2021.00072
   groups:
-  - AR
   - FM
   - main
   source: '33rd IEEE International Conference on Tools with Artificial Intelligence,
@@ -3143,8 +3148,8 @@ DBLP:conf/ieeevast/ZahalkaW14:
   dblp: conf/ieeevast/ZahalkaW14
   doi: http://doi.ieeecomputersociety.org/10.1109/VAST.2014.7042476
   groups:
-  - ML
   - main
+  - ML
   source: '9th IEEE Conference on Visual Analytics Science and Technology, IEEE VAST
     2014, Paris, France, October 25-31, 2014: 3-12 (2014).'
   title: Towards interactive, intelligent, and integrated multimedia analytics.
@@ -3155,8 +3160,8 @@ DBLP:conf/ifip5-3/KubalikJSLS04:
   dblp: conf/ifip5-3/KubalikJSLS04
   doi: https://doi.org/10.1007/0-387-22829-2_52
   groups:
-  - ML
   - main
+  - ML
   source: 'Emerging Solutions for Future Manufacturing Systems, IFIP TC5 / WG5.5 Sixth
     IFIP International Conference on Information Technology for Balanced Automation
     Systems in Manufacturing and Services, 27-29 September 2004, Vienna, Austria:
@@ -3167,8 +3172,8 @@ DBLP:conf/ifip5-3/KubalikLZ02:
   authors: "Jir\xED Kubal\xEDk, Jir\xED Lazansk\xFD, Petr Zikl"
   dblp: conf/ifip5-3/KubalikLZ02
   groups:
-  - ML
   - main
+  - ML
   source: 'Knowledge and Technology Integration in Production and Services: Balancing
     Knowledge in Product and Service Life Cycle, IFIP TC5/WG5.3 Fifth IFIP/IEEE International
     Conference on Information Technology for Balanced Automation Systems in Manufacturing
@@ -3180,8 +3185,8 @@ DBLP:conf/ifip5-3/RolloNKP04:
   dblp: conf/ifip5-3/RolloNKP04
   doi: https://doi.org/10.1007/0-387-22829-2_12
   groups:
-  - ML
   - main
+  - ML
   source: 'Emerging Solutions for Future Manufacturing Systems, IFIP TC5 / WG5.5 Sixth
     IFIP International Conference on Information Technology for Balanced Automation
     Systems in Manufacturing and Services, 27-29 September 2004, Vienna, Austria:
@@ -3264,8 +3269,8 @@ DBLP:conf/ijcci/CernyK13:
   dblp: conf/ijcci/CernyK13
   doi: https://doi.org/10.5220/0004554900370046
   groups:
-  - ML
   - main
+  - ML
   source: 'IJCCI 2013 - Proceedings of the 5th International Joint Conference on Computational
     Intelligence, Vilamoura, Algarve, Portugal, 20-22 September, 2013: 37-46 (2013).'
   title: Analysis of Co-evolutionary Approach for Robotic Gait Generation.
@@ -3274,8 +3279,8 @@ DBLP:conf/ijcci/KubalikB15:
   authors: "Jir\xED Kubal\xEDk, Robert Babuska"
   dblp: conf/ijcci/KubalikB15
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 7th International Joint Conference on Computational
     Intelligence (IJCCI 2015) - Volume 1: ECTA, Lisbon, Portugal, November 12-14,
     2015.: 244-251 (2015).'
@@ -3287,8 +3292,8 @@ DBLP:conf/ijcci/KubalikDB17:
   dblp: conf/ijcci/KubalikDB17
   doi: https://doi.org/10.5220/0006505200910100
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 9th International Joint Conference on Computational
     Intelligence, IJCCI 2017, Funchal, Madeira, Portugal, November 1-3, 2017.: 91-100
     (2017).'
@@ -3299,8 +3304,8 @@ DBLP:conf/ijcnn/AstB06:
   dblp: conf/ijcnn/AstB06
   doi: https://doi.org/10.1109/IJCNN.2006.246657
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the International Joint Conference on Neural Networks, IJCNN
     2006, part of the IEEE World Congress on Computational Intelligence, WCCI 2006,
     Vancouver, BC, Canada, 16-21 July 2006: 41-46 (2006).'
@@ -3311,8 +3316,8 @@ DBLP:conf/ijcnn/Faghih-RoohiHNB16:
     \ Bart De Schutter"
   dblp: conf/ijcnn/Faghih-RoohiHNB16
   groups:
-  - ML
   - main
+  - ML
   source: '2016 International Joint Conference on Neural Networks, IJCNN 2016, Vancouver,
     BC, Canada, July 24-29, 2016: 2584-2589 (2016).'
   title: Deep convolutional neural networks for detection of rail surface defects.
@@ -3323,8 +3328,8 @@ DBLP:conf/ijcnn/GrondmanXJB13:
   dblp: conf/ijcnn/GrondmanXJB13
   doi: https://doi.org/10.1109/IJCNN.2013.6706755
   groups:
-  - ML
   - main
+  - ML
   source: 'The 2013 International Joint Conference on Neural Networks, IJCNN 2013,
     Dallas, TX, USA, August 4-9, 2013: 1-7 (2013).'
   title: Solutions to finite horizon cost problems using actor-critic reinforcement
@@ -3335,8 +3340,8 @@ DBLP:conf/ijcnn/WangBBH06:
   dblp: conf/ijcnn/WangBBH06
   doi: https://doi.org/10.1109/IJCNN.2006.246966
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the International Joint Conference on Neural Networks, IJCNN
     2006, part of the IEEE World Congress on Computational Intelligence, WCCI 2006,
     Vancouver, BC, Canada, 16-21 July 2006: 4173-4178 (2006).'
@@ -3347,8 +3352,8 @@ DBLP:conf/interspeech/ChelbaMSGBKR14:
     \ Phillipp Koehn, Tony Robinson"
   dblp: conf/interspeech/ChelbaMSGBKR14
   groups:
-  - FAI
   - main
+  - FAI
   source: 'INTERSPEECH 2014, 15th Annual Conference of the International Speech Communication
     Association, Singapore, September 14-18, 2014: 2635-2639 (2014).'
   title: One billion word benchmark for measuring progress in statistical language
@@ -3359,8 +3364,8 @@ DBLP:conf/interspeech/GlembekMBM08:
   authors: "Ondrej Glembek, Pavel Matejka, Luk\xE1s Burget, Tom\xE1s Mikolov"
   dblp: conf/interspeech/GlembekMBM08
   groups:
-  - FAI
   - main
+  - FAI
   source: 'INTERSPEECH 2008, 9th Annual Conference of the International Speech Communication
     Association, Brisbane, Australia, September 22-26, 2008: 743-746 (2008).'
   title: Advances in phonotactic language recognition.
@@ -3370,8 +3375,8 @@ DBLP:conf/interspeech/KombrinkMKB11:
   authors: "Stefan Kombrink, Tom\xE1s Mikolov, Martin Karafi\xE1t, Luk\xE1s Burget"
   dblp: conf/interspeech/KombrinkMKB11
   groups:
-  - FAI
   - main
+  - FAI
   source: 'INTERSPEECH 2011, 12th Annual Conference of the International Speech Communication
     Association, Florence, Italy, August 27-31, 2011: 2877-2880 (2011).'
   title: Recurrent Neural Network Based Language Modeling in Meeting Recognition.
@@ -3382,8 +3387,8 @@ DBLP:conf/interspeech/MatejkaBGSHFMPC08:
     \ Hubeika, Michal Fapso, Tom\xE1s Mikolov, Oldrich Plchot, Jan Cernock\xFD"
   dblp: conf/interspeech/MatejkaBGSHFMPC08
   groups:
-  - FAI
   - main
+  - FAI
   source: 'INTERSPEECH 2008, 9th Annual Conference of the International Speech Communication
     Association, Brisbane, Australia, September 22-26, 2008: 739-742 (2008).'
   title: BUT language recognition system for NIST 2007 evaluations.
@@ -3393,8 +3398,8 @@ DBLP:conf/interspeech/Mikolov21:
   authors: "Tom\xE1s Mikolov"
   dblp: conf/interspeech/Mikolov21
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Interspeech 2021, 22nd Annual Conference of the International Speech Communication
     Association, Brno, Czechia, 30 August - 3 September 2021.: (2021).'
   title: Language Modeling and Artificial Intelligence.
@@ -3405,8 +3410,8 @@ DBLP:conf/interspeech/MikolovDKBC11:
     \ Cernock\xFD"
   dblp: conf/interspeech/MikolovDKBC11
   groups:
-  - FAI
   - main
+  - FAI
   source: 'INTERSPEECH 2011, 12th Annual Conference of the International Speech Communication
     Association, Florence, Italy, August 27-31, 2011: 605-608 (2011).'
   title: Empirical Evaluation and Combination of Advanced Language Modeling Techniques.
@@ -3417,8 +3422,8 @@ DBLP:conf/interspeech/MikolovKBCK10:
     , Sanjeev Khudanpur"
   dblp: conf/interspeech/MikolovKBCK10
   groups:
-  - FAI
   - main
+  - FAI
   source: 'INTERSPEECH 2010, 11th Annual Conference of the International Speech Communication
     Association, Makuhari, Chiba, Japan, September 26-30, 2010: 1045-1048 (2010).'
   title: Recurrent neural network based language model.
@@ -3429,7 +3434,7 @@ DBLP:conf/ipmu/HulaMA22:
   dblp: conf/ipmu/HulaMA22
   doi: https://doi.org/10.1007/978-3-031-08974-9_34
   groups:
-  - AR
+  - FM
   - main
   source: 'Information Processing and Management of Uncertainty in Knowledge-Based
     Systems - 19th International Conference, IPMU 2022, Milan, Italy, July 11-15,
@@ -3440,8 +3445,8 @@ DBLP:conf/iros/BruinKTB16:
   authors: Tim de Bruin, Jens Kober, Karl Tuyls, Robert Babuska
   dblp: conf/iros/BruinKTB16
   groups:
-  - ML
   - main
+  - ML
   source: '2016 IEEE/RSJ International Conference on Intelligent Robots and Systems,
     IROS 2016, Daejeon, South Korea, October 9-14, 2016: 3947-3952 (2016).'
   title: Improved deep reinforcement learning for robotics through distribution-based
@@ -3453,8 +3458,8 @@ DBLP:conf/iros/DernerKB18:
   dblp: conf/iros/DernerKB18
   doi: https://doi.org/10.1109/IROS.2018.8593881
   groups:
-  - ML
   - main
+  - ML
   source: '2018 IEEE/RSJ International Conference on Intelligent Robots and Systems,
     IROS 2018, Madrid, Spain, October 1-5, 2018: 3004-3009 (2018).'
   title: Reinforcement Learning with Symbolic Input-Output Models.
@@ -3464,8 +3469,8 @@ DBLP:conf/iros/DernerKB21:
   dblp: conf/iros/DernerKB21
   doi: https://doi.org/10.1109/IROS51168.2021.9635831
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS
     2021, Prague, Czech Republic, September 27 - Oct. 1, 2021: 7112-7118 (2021).'
   title: Guiding Robot Model Construction with Prior Features.
@@ -3475,8 +3480,8 @@ DBLP:conf/iros/HeijdenFKB21:
   dblp: conf/iros/HeijdenFKB21
   doi: https://doi.org/10.1109/IROS51168.2021.9636408
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS
     2021, Prague, Czech Republic, September 27 - Oct. 1, 2021: 183-189 (2021).'
   title: 'DeepKoCo: Efficient latent planning with a task-relevant Koopman representation.'
@@ -3487,8 +3492,8 @@ DBLP:conf/iros/HernandezDGBB20:
   dblp: conf/iros/HernandezDGBB20
   doi: https://doi.org/10.1109/IROS45743.2020.9340989
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS
     2020, Las Vegas, NV, USA, October 24, 2020 - January 24, 2021: 6172-6179 (2020).'
   title: Efficient Object Search Through Probability-Based Viewpoint Selection.
@@ -3499,8 +3504,8 @@ DBLP:conf/iros/KersbergenLBSB11:
   dblp: conf/iros/KersbergenLBSB11
   doi: https://doi.org/10.1109/IROS.2011.6095166
   groups:
-  - ML
   - main
+  - ML
   source: '2011 IEEE/RSJ International Conference on Intelligent Robots and Systems,
     IROS 2011, San Francisco, CA, USA, September 25-30, 2011: 2729-2734 (2011).'
   title: Optimal gait switching for legged locomotion.
@@ -3510,8 +3515,8 @@ DBLP:conf/iros/KooiB21:
   dblp: conf/iros/KooiB21
   doi: https://doi.org/10.1109/IROS51168.2021.9636096
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS
     2021, Prague, Czech Republic, September 27 - Oct. 1, 2021: 2361-2368 (2021).'
   title: Inclined Quadrotor Landing using Deep Reinforcement Learning.
@@ -3521,8 +3526,8 @@ DBLP:conf/iros/LijnLB10:
   dblp: conf/iros/LijnLB10
   doi: https://doi.org/10.1109/IROS.2010.5653247
   groups:
-  - ML
   - main
+  - ML
   source: '2010 IEEE/RSJ International Conference on Intelligent Robots and Systems,
     October 18-22, 2010, Taipei, Taiwan: 3435-3440 (2010).'
   title: Motion estimation based on predator/prey vision.
@@ -3532,8 +3537,8 @@ DBLP:conf/iros/SchuitemaBBJ10:
   dblp: conf/iros/SchuitemaBBJ10
   doi: https://doi.org/10.1109/IROS.2010.5650345
   groups:
-  - ML
   - main
+  - ML
   source: '2010 IEEE/RSJ International Conference on Intelligent Robots and Systems,
     October 18-22, 2010, Taipei, Taiwan: 3226-3231 (2010).'
   title: 'Control delay in Reinforcement Learning for real-time dynamic systems: A
@@ -3544,8 +3549,8 @@ DBLP:conf/iros/WangHB13:
   dblp: conf/iros/WangHB13
   doi: https://doi.org/10.1109/IROS.2013.6696676
   groups:
-  - ML
   - main
+  - ML
   source: '2013 IEEE/RSJ International Conference on Intelligent Robots and Systems,
     Tokyo, Japan, November 3-7, 2013: 2288-2294 (2013).'
   title: Robot learning and use of affordances in goal-directed tasks.
@@ -3566,8 +3571,8 @@ DBLP:conf/isalalife/CisnerosSM20:
   dblp: conf/isalalife/CisnerosSM20
   doi: https://doi.org/10.1162/isal_a_00277
   groups:
-  - FAI
   - main
+  - FAI
   source: '2020 Conference on Artificial Life, ALIFE 2020, online, July 13-18, 2020:
     239-247 (2020).'
   title: Visualizing computation in large-scale cellular automata.
@@ -3577,8 +3582,8 @@ DBLP:conf/isalalife/HudcovaM20:
   dblp: conf/isalalife/HudcovaM20
   doi: https://doi.org/10.1162/isal_a_00260
   groups:
-  - FAI
   - main
+  - FAI
   source: '2020 Conference on Artificial Life, ALIFE 2020, online, July 13-18, 2020:
     367-375 (2020).'
   title: Classification of Complex Systems Based on Transients.
@@ -3588,8 +3593,8 @@ DBLP:conf/isalalife/HudcovaM21:
   dblp: conf/isalalife/HudcovaM21
   doi: https://doi.org/10.1162/isal_a_00447
   groups:
-  - FAI
   - main
+  - FAI
   source: '2021 Conference on Artificial Life, ALIFE 2021, online, July 19-23, 2021:
     (2021).'
   title: Computational Hierarchy of Elementary Cellular Automata.
@@ -3599,8 +3604,8 @@ DBLP:conf/isalalife/KruszewskiM20:
   dblp: conf/isalalife/KruszewskiM20
   doi: https://doi.org/10.1162/isal_a_00258
   groups:
-  - FAI
   - main
+  - FAI
   source: '2020 Conference on Artificial Life, ALIFE 2020, online, July 13-18, 2020:
     411-419 (2020).'
   title: 'Combinatory Chemistry: Towards a Simple Model of Emergent Evolution.'
@@ -3610,8 +3615,8 @@ DBLP:conf/isccsp/ErgencA14:
   dblp: conf/isccsp/ErgencA14
   doi: https://doi.org/10.1109/ISCCSP.2014.6877865
   groups:
-  - ML
   - main
+  - ML
   source: '6th International Symposium on Communications, Control and Signal Processing,
     ISCCSP 2014, Athens, Greece, May 21-23, 2014: 266-269 (2014).'
   title: Reduced order digital controller design for plants with large time delays.
@@ -3621,8 +3626,8 @@ DBLP:conf/isda/BuryanKI09:
   dblp: conf/isda/BuryanKI09
   doi: http://doi.ieeecomputersociety.org/10.1109/ISDA.2009.156
   groups:
-  - ML
   - main
+  - ML
   source: 'Ninth International Conference on Intelligent Systems Design and Applications,
     ISDA 2009, Pisa, Italy , November 30-December 2, 2009: 1450-1455 (2009).'
   title: Grammatical Concept Representation for Randomised Optimisation Algorithms
@@ -3633,8 +3638,8 @@ DBLP:conf/isda/KubalikS14:
   dblp: conf/isda/KubalikS14
   doi: https://doi.org/10.1109/ISDA.2014.7066254
   groups:
-  - ML
   - main
+  - ML
   source: '14th International Conference on Intelligent Systems Design and Applications,
     ISDA 2014, Okinawa, Japan, November 28-30, 2014: 156-161 (2014).'
   title: A novel evolutionary algorithm with indirect representation and extended
@@ -3645,8 +3650,8 @@ DBLP:conf/iser/KulkarniKB20:
   dblp: conf/iser/KulkarniKB20
   doi: https://doi.org/10.1007/978-3-030-71151-1_25
   groups:
-  - ML
   - main
+  - ML
   source: 'Experimental Robotics - The 17th International Symposium, ISER 2020, La
     Valletta, Malta, November 9-12, 2020 (postponed to 2021).: 277-284 (2020).'
   title: Tactile-Based Self-supervised Pose Estimation for Robust Grasping.
@@ -3655,7 +3660,7 @@ DBLP:conf/ismis/PiotrowskiK18:
   authors: Bartosz Pawel Piotrowski, Miron Bartosz Kursa
   dblp: conf/ismis/PiotrowskiK18
   groups:
-  - AR
+  - FM
   - main
   source: 'Foundations of Intelligent Systems - 24th International Symposium, ISMIS
     2018, Limassol, Cyprus, October 29-31, 2018, Proceedings: 3-12 (2018).'
@@ -3666,7 +3671,7 @@ DBLP:conf/itat/AdamczykH20:
   authors: David Adamczyk, Jan Hula
   dblp: conf/itat/AdamczykH20
   groups:
-  - AR
+  - FM
   - main
   source: "Proceedings of the 20th Conference Information Technologies - Applications\
     \ and Theory (ITAT 2020), Hotel Tyrapol, Oravsk\xE1 Lesn\xE1, Slovakia, September\
@@ -3678,7 +3683,7 @@ DBLP:conf/itat/ChenHD22:
   authors: "Xinying Chen, Jan Hula, Anton\xEDn Dvor\xE1k"
   dblp: conf/itat/ChenHD22
   groups:
-  - AR
+  - FM
   - main
   source: 'Proceedings of the 22nd Conference Information Technologies - Applications
     and Theory (ITAT 2022), Zuberec, Slovakia, September 23-27, 2022.: 103-110 (2022).'
@@ -3690,7 +3695,7 @@ DBLP:conf/itat/HulaAMM21:
   authors: "Jan Hula, David Adamczyk, David Mojz\xEDsek, Vojtech Molek"
   dblp: conf/itat/HulaAMM21
   groups:
-  - AR
+  - FM
   - main
   source: "Proceedings of the 21st Conference Information Technologies - Applications\
     \ and Theory (ITAT 2021), Hotel He\u013Epa, N\xEDzke Tatry and Mur\xE1nska planina,\
@@ -3702,7 +3707,7 @@ DBLP:conf/itat/MojzisekH22:
   authors: "David Mojz\xEDsek, Jan Hula"
   dblp: conf/itat/MojzisekH22
   groups:
-  - AR
+  - FM
   - main
   source: 'Proceedings of the 22nd Conference Information Technologies - Applications
     and Theory (ITAT 2022), Zuberec, Slovakia, September 23-27, 2022.: 68-74 (2022).'
@@ -3725,7 +3730,7 @@ DBLP:conf/itp/BrownKP19:
   dblp: conf/itp/BrownKP19
   doi: https://doi.org/10.4230/LIPIcs.ITP.2019.9
   groups:
-  - AR
+  - FM
   - main
   source: '10th International Conference on Interactive Theorem Proving, ITP 2019,
     September 9-12, 2019, Portland, OR, USA.: 9:1-9:16 (2019).'
@@ -3737,8 +3742,8 @@ DBLP:conf/itp/GoertzelJ0U18:
   doi: https://doi.org/10.1007/978-3-319-94821-8_16
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Interactive Theorem Proving - 9th International Conference, ITP 2018, Held
     as Part of the Federated Logic Conference, FloC 2018, Oxford, UK, July 9-12, 2018,
     Proceedings: 270-288 (2018).'
@@ -3751,8 +3756,8 @@ DBLP:conf/itp/GoertzelJKOPU22:
   doi: https://doi.org/10.4230/LIPIcs.ITP.2022.16
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: '13th International Conference on Interactive Theorem Proving, ITP 2022,
     August 7-10, 2022, Haifa, Israel.: 16:1-16:21 (2022).'
   title: The Isabelle ENIGMA.
@@ -3763,8 +3768,8 @@ DBLP:conf/itp/JakubuvU19:
   doi: https://doi.org/10.4230/LIPIcs.ITP.2019.34
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: '10th International Conference on Interactive Theorem Proving, ITP 2019,
     September 9-12, 2019, Portland, OR, USA.: 34:1-34:8 (2019).'
   title: Hammering Mizar by Learning Clause Guidance (Short Paper).
@@ -3842,8 +3847,8 @@ DBLP:conf/itsc/AlvesACSB10:
   authors: Diogo Alves, Jelmer van Ast, Zhe Cong, Bart De Schutter, Robert Babuska
   dblp: conf/itsc/AlvesACSB10
   groups:
-  - ML
   - main
+  - ML
   source: '13th International IEEE Conference on Intelligent Transportation Systems,
     Funchal, Madeira, Portugal, 19-22 September 2010: 683-688 (2010).'
   title: Ant Colony Optimization for traffic dispersion routing.
@@ -3853,8 +3858,8 @@ DBLP:conf/itsc/CongSB11:
   authors: Zhe Cong, Bart De Schutter, Robert Babuska
   dblp: conf/itsc/CongSB11
   groups:
-  - ML
   - main
+  - ML
   source: '14th International IEEE Conference on Intelligent Transportation Systems,
     ITSC 2011, Washington, DC, USA, October 5-7, 2011: 1369-1374 (2011).'
   title: A new ant colony routing approach with a trade-off between system and user
@@ -3865,8 +3870,8 @@ DBLP:conf/itsc/CongSBB14:
   authors: Zhe Cong, Bart De Schutter, Mernout Burger, Robert Babuska
   dblp: conf/itsc/CongSBB14
   groups:
-  - ML
   - main
+  - ML
   source: '17th International IEEE Conference on Intelligent Transportation Systems,
     ITSC 2014, Qingdao, China, October 8-11, 2014: 792-797 (2014).'
   title: Monitoring of traffic networks using mobile sensors.
@@ -3877,8 +3882,8 @@ DBLP:conf/itsc/HegyiGBS06:
   dblp: conf/itsc/HegyiGBS06
   doi: https://doi.org/10.1109/ITSC.2006.1707357
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Intelligent Transportation Systems Conference, ITSC 2006, Toronto,
     Ontario, Canada, 17-20 September 2006: 1029-1034 (2006).'
   title: A comparison of filter configurations for freeway traffic state estimation.
@@ -3887,8 +3892,8 @@ DBLP:conf/itsc/HidayatLBS10:
   authors: "Zulkifli Hidayat, Zs\xF3fia Lendek, Robert Babuska, Bart De Schutter"
   dblp: conf/itsc/HidayatLBS10
   groups:
-  - ML
   - main
+  - ML
   source: '13th International IEEE Conference on Intelligent Transportation Systems,
     Funchal, Madeira, Portugal, 19-22 September 2010: 19-24 (2010).'
   title: Fuzzy observer for state estimation of the METANET traffic model.
@@ -3899,7 +3904,7 @@ DBLP:conf/iwann/HulaPM17:
   dblp: conf/iwann/HulaPM17
   doi: https://doi.org/10.1007/978-3-319-59147-6_63
   groups:
-  - AR
+  - FM
   - main
   source: 'Advances in Computational Intelligence - 14th International Work-Conference
     on Artificial Neural Networks, IWANN 2017, Cadiz, Spain, June 14-16, 2017, Proceedings,
@@ -3910,8 +3915,8 @@ DBLP:conf/jcis/KubalikRL02:
   authors: "Jir\xED Kubal\xEDk, L\xE9on J. M. Rothkrantz, Jir\xED Lazansk\xFD"
   dblp: conf/jcis/KubalikRL02
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 6th Joint Conference on Information Science, March 8-13,
     2002, Research Triangle Park, North Carolina, USA: 610-613 (2002).'
   title: Genetic Algorithm with Limited Convergence.
@@ -4029,6 +4034,7 @@ DBLP:conf/lpar/ChvalovskyC10:
   groups:
   - AR
   - main
+  - FM
   source: 'Short papers for 17th International Conference on Logic for Programming,
     Artificial intelligence, and Reasoning, LPAR-17-short, Yogyakarta, Indonesia,
     October 10-15, 2010: 26-29 (2010).'
@@ -4074,8 +4080,8 @@ DBLP:conf/lpar/GoertzelJU18:
   doi: https://doi.org/10.29007/z7qx
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'LPAR-22 Workshop and Short Paper Proceedings, Awassa, Ethiopia, 16-21 November
     2018: 15-22 (2018).'
   title: 'ProofWatch Meets ENIGMA: First Experiments.'
@@ -4157,6 +4163,7 @@ DBLP:conf/lpar/PiotrowskiU20:
   groups:
   - AR
   - main
+  - FM
   source: 'LPAR 2020: 23rd International Conference on Logic for Programming, Artificial
     Intelligence and Reasoning, Alicante, Spain, May 22-27, 2020.: 409-422 (2020).'
   title: Stateful Premise Selection by Recurrent Neural Networks.
@@ -4260,8 +4267,8 @@ DBLP:conf/lrec/GraveBGJM18:
     s Mikolov"
   dblp: conf/lrec/GraveBGJM18
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Proceedings of the Eleventh International Conference on Language Resources
     and Evaluation, LREC 2018, Miyazaki, Japan, May 7-12, 2018.: (2018).'
   title: Learning Word Vectors for 157 Languages.
@@ -4272,8 +4279,8 @@ DBLP:conf/lrec/MikolovGBPJ18:
     \ Armand Joulin"
   dblp: conf/lrec/MikolovGBPJ18
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Proceedings of the Eleventh International Conference on Language Resources
     and Evaluation, LREC 2018, Miyazaki, Japan, May 7-12, 2018.: (2018).'
   title: Advances in Pre-Training Distributed Word Representations.
@@ -4284,8 +4291,8 @@ DBLP:conf/med/EngulesHA15:
   dblp: conf/med/EngulesHA15
   doi: https://doi.org/10.1109/MED.2015.7158918
   groups:
-  - ML
   - main
+  - ML
   source: '23rd Mediterranean Conference on Control and Automation, MED 2015, Torremolinos,
     Malaga, Spain, June 16-19, 2015: 1198-1203 (2015).'
   title: Level control of a coupled-tank system via eigenvalue assignment and LQG
@@ -4309,8 +4316,8 @@ DBLP:conf/mir/Khan0ZRW19:
   dblp: conf/mir/Khan0ZRW19
   doi: https://doi.org/10.1145/3326460.3329156
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the ACM Workshop on Lifelog Search Challenge, LSC@ICMR 2019,
     Ottawa, ON, Canada, 10 June 2019.: 7-11 (2019).'
   title: Exquisitor at the Lifelog Search Challenge 2019.
@@ -4321,8 +4328,8 @@ DBLP:conf/mir/Khan0ZRW21:
   dblp: conf/mir/Khan0ZRW21
   doi: https://doi.org/10.1145/3460426.3463663
   groups:
-  - ML
   - main
+  - ML
   source: 'ICMR ''21: International Conference on Multimedia Retrieval, Taipei, Taiwan,
     August 21-24, 2021: 590-598 (2021).'
   title: Impact of Interaction Strategies on User Relevance Feedback.
@@ -4333,8 +4340,8 @@ DBLP:conf/mir/KhanD0ZRW21:
   dblp: conf/mir/KhanD0ZRW21
   doi: https://doi.org/10.1145/3463948.3469255
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 4th Annual on Lifelog Search Challenge, LSC@ICMR 2021,
     Taipei, Taiwan, 21 August 2021: 3-6 (2021).'
   title: 'Exquisitor at the Lifelog Search Challenge 2021: Relationships Between Semantic
@@ -4347,8 +4354,8 @@ DBLP:conf/mir/KhanLP0ZRKW20:
   dblp: conf/mir/KhanLP0ZRKW20
   doi: https://doi.org/10.1145/3379172.3391718
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the Third ACM Workshop on Lifelog Search Challenge, LSC@ICMR
     2020, Dublin, Ireland, June 8-11, 2020.: 19-22 (2020).'
   title: Exquisitor at the Lifelog Search Challenge 2020.
@@ -4359,8 +4366,8 @@ DBLP:conf/mir/ZahalkaR0KW16:
   dblp: conf/mir/ZahalkaR0KW16
   doi: https://doi.org/10.1145/2911996.2912062
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 2016 ACM on International Conference on Multimedia Retrieval,
     ICMR 2016, New York, New York, USA, June 6-9, 2016: 333-337 (2016).'
   title: Interactive Multimodal Learning on 100 Million Images.
@@ -4478,7 +4485,7 @@ DBLP:conf/mkm/Brown06:
   dblp: conf/mkm/Brown06
   doi: https://doi.org/10.1007/11812289_10
   groups:
-  - AR
+  - FM
   - main
   source: 'Mathematical Knowledge Management, 5th International Conference, MKM 2006,
     Wokingham, UK, August 11-12, 2006, Proceedings: 110-123 (2006).'
@@ -4489,7 +4496,7 @@ DBLP:conf/mkm/BrownP19:
   dblp: conf/mkm/BrownP19
   doi: https://doi.org/10.1007/978-3-030-23250-4_4
   groups:
-  - AR
+  - FM
   - main
   source: 'Intelligent Computer Mathematics - 12th International Conference, CICM
     2019, Prague, Czech Republic, July 8-12, 2019, Proceedings: 44-60 (2019).'
@@ -4502,6 +4509,7 @@ DBLP:conf/mkm/BrownU16:
   groups:
   - AR
   - main
+  - FM
   source: 'Intelligent Computer Mathematics - 9th International Conference, CICM 2016,
     Bialystok, Poland, July 25-29, 2016, Proceedings: 99-114 (2016).'
   title: Extracting Higher-Order Goals from the Mizar Mathematical Library.
@@ -4544,7 +4552,7 @@ DBLP:conf/mkm/HorozalB07:
   dblp: conf/mkm/HorozalB07
   doi: https://doi.org/10.1007/978-3-540-73086-6_22
   groups:
-  - AR
+  - FM
   - main
   source: 'Towards Mechanized Mathematical Assistants, 14th Symposium, Calculemus
     2007, 6th International Conference, MKM 2007, Hagenberg, Austria, June 27-30,
@@ -4557,8 +4565,8 @@ DBLP:conf/mkm/HulaJJK22:
   doi: https://doi.org/10.1007/978-3-031-16681-5_18
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Intelligent Computer Mathematics - 15th International Conference, CICM
     2022, Tbilisi, Georgia, September 19-23, 2022, Proceedings: 256-271 (2022).'
   title: Targeted Configuration of an SMT Solver.
@@ -4568,8 +4576,8 @@ DBLP:conf/mkm/JakubuvU16:
   dblp: conf/mkm/JakubuvU16
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Intelligent Computer Mathematics - 9th International Conference, CICM 2016,
     Bialystok, Poland, July 25-29, 2016, Proceedings: 151-156 (2016).'
   title: Extending E Prover with Similarity Based Clause Selection Strategies.
@@ -4580,8 +4588,8 @@ DBLP:conf/mkm/JakubuvU17:
   dblp: conf/mkm/JakubuvU17
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Intelligent Computer Mathematics - 10th International Conference, CICM
     2017, Edinburgh, UK, July 17-21, 2017, Proceedings: 292-302 (2017).'
   title: 'ENIGMA: Efficient Learning-Based Inference Guiding Machine.'
@@ -4593,8 +4601,8 @@ DBLP:conf/mkm/JakubuvU18:
   doi: https://doi.org/10.1007/978-3-319-96812-4_11
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Intelligent Computer Mathematics - 11th International Conference, CICM
     2018, Hagenberg, Austria, August 13-17, 2018, Proceedings: 118-124 (2018).'
   title: Enhancing ENIGMA Given Clause Guidance.
@@ -4701,6 +4709,7 @@ DBLP:conf/mkm/PiotrowskiU20:
   groups:
   - AR
   - main
+  - FM
   source: 'Intelligent Computer Mathematics - 13th International Conference, CICM
     2020, Bertinoro, Italy, July 26-31, 2020, Proceedings: 309-314 (2020).'
   title: Guiding Inferences in Connection Tableau by Recurrent Neural Networks.
@@ -4745,8 +4754,8 @@ DBLP:conf/mkm/UrbanJ20:
   doi: https://doi.org/10.1007/978-3-030-53518-6_24
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Intelligent Computer Mathematics - 13th International Conference, CICM
     2020, Bertinoro, Italy, July 26-31, 2020, Proceedings: 315-323 (2020).'
   title: First Neural Conjecturing Datasets and Experiments.
@@ -4770,6 +4779,7 @@ DBLP:conf/mkm/ZhangBPCKU21:
   groups:
   - AR
   - main
+  - FM
   source: 'Intelligent Computer Mathematics - 14th International Conference, CICM
     2021, Timisoara, Romania, July 26-31, 2021, Proceedings: 67-83 (2021).'
   title: 'Online Machine Learning Techniques for Coq: A Comparison.'
@@ -4780,8 +4790,8 @@ DBLP:conf/mm/GulBPSHKZ21:
   dblp: conf/mm/GulBPSHKZ21
   doi: https://doi.org/10.1145/3474085.3477936
   groups:
-  - ML
   - main
+  - ML
   source: 'MM ''21: ACM Multimedia Conference, Virtual Event, China, October 20 -
     24, 2021: 3619-3621 (2021).'
   title: 'Reproducibility Companion Paper: Kalman Filter-Based Head Motion Prediction
@@ -4793,8 +4803,8 @@ DBLP:conf/mm/HoangDCRZ20:
   dblp: conf/mm/HoangDCRZ20
   doi: https://doi.org/10.1145/3394171.3414814
   groups:
-  - ML
   - main
+  - ML
   source: 'MM ''20: The 28th ACM International Conference on Multimedia, Virtual Event
     / Seattle, WA, USA, October 12-16, 2020: 4448-4452 (2020).'
   title: 'Reproducibility Companion Paper: Selective Deep Convolutional Features for
@@ -4806,8 +4816,8 @@ DBLP:conf/mm/NawalaJCRKZ21:
   dblp: conf/mm/NawalaJCRKZ21
   doi: https://doi.org/10.1145/3474085.3477935
   groups:
-  - ML
   - main
+  - ML
   source: 'MM ''21: ACM Multimedia Conference, Virtual Event, China, October 20 -
     24, 2021: 3627-3629 (2021).'
   title: 'Reproducibility Companion Paper: Describing Subjective Experiment Consistency
@@ -4820,8 +4830,8 @@ DBLP:conf/mm/RagnarsdottirK19:
   dblp: conf/mm/RagnarsdottirK19
   doi: https://doi.org/10.1145/3343031.3350580
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 27th ACM International Conference on Multimedia, MM
     2019, Nice, France, October 21-25, 2019: 1029-1031 (2019).'
   title: 'Exquisitor: Breaking the Interaction Barrier for Exploration of 100 Million
@@ -4832,8 +4842,8 @@ DBLP:conf/mm/WangWZHZ20:
   dblp: conf/mm/WangWZHZ20
   doi: https://doi.org/10.1145/3394171.3414812
   groups:
-  - ML
   - main
+  - ML
   source: 'MM ''20: The 28th ACM International Conference on Multimedia, Virtual Event
     / Seattle, WA, USA, October 12-16, 2020: 4439-4443 (2020).'
   title: 'Reproducibility Companion Paper: Outfit Compatibility Prediction and Diagnosis
@@ -4844,8 +4854,8 @@ DBLP:conf/mm/ZahalkaRW14:
   dblp: conf/mm/ZahalkaRW14
   doi: https://doi.org/10.1145/2647868.2656403
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the ACM International Conference on Multimedia, MM ''14,
     Orlando, FL, USA, November 03 - 07, 2014: 205-208 (2014).'
   title: 'New Yorker Melange: Interactive Brew of Personalized Venue Recommendations.'
@@ -4855,8 +4865,8 @@ DBLP:conf/mm/ZahalkaRW15:
   dblp: conf/mm/ZahalkaRW15
   doi: https://doi.org/10.1145/2733373.2806279
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the 23rd Annual ACM Conference on Multimedia Conference,
     MM ''15, Brisbane, Australia, October 26 - 30, 2015: 231-240 (2015).'
   title: 'Analytic Quality: Evaluation of Performance and Insight in Multimedia Collection
@@ -4868,8 +4878,8 @@ DBLP:conf/mmm/0001KKRWZ20:
   dblp: conf/mmm/0001KKRWZ20
   doi: https://doi.org/10.1007/978-3-030-37734-2_72
   groups:
-  - ML
   - main
+  - ML
   source: 'MultiMedia Modeling - 26th International Conference, MMM 2020, Daejeon,
     South Korea, January 5-8, 2020, Proceedings, Part II: 796-802 (2020).'
   title: Exquisitor at the Video Browser Showdown 2020.
@@ -4880,8 +4890,8 @@ DBLP:conf/mmm/0001WZRA16:
   dblp: conf/mmm/0001WZRA16
   doi: https://doi.org/10.1007/978-3-319-27674-8_26
   groups:
-  - ML
   - main
+  - ML
   source: 'MultiMedia Modeling - 22nd International Conference, MMM 2016, Miami, FL,
     USA, January 4-6, 2016, Proceedings, Part II: 290-302 (2016).'
   title: Ten Research Questions for Scalable Multimedia Analytics.
@@ -4892,8 +4902,8 @@ DBLP:conf/mmm/BagiSKZJ21:
   dblp: conf/mmm/BagiSKZJ21
   doi: https://doi.org/10.1007/978-3-030-67835-7_24
   groups:
-  - ML
   - main
+  - ML
   source: 'MultiMedia Modeling - 27th International Conference, MMM 2021, Prague,
     Czech Republic, June 22-24, 2021, Proceedings, Part II: 281-293 (2021).'
   title: 'XQM: Interactive Learning on Mobile Phones.'
@@ -4905,8 +4915,8 @@ DBLP:conf/mmm/KhanJLPKRWZ21:
   dblp: conf/mmm/KhanJLPKRWZ21
   doi: https://doi.org/10.1007/978-3-030-67835-7_37
   groups:
-  - ML
   - main
+  - ML
   source: 'MultiMedia Modeling - 27th International Conference, MMM 2021, Prague,
     Czech Republic, June 22-24, 2021, Proceedings, Part II: 410-416 (2021).'
   title: 'Exquisitor at the Video Browser Showdown 2021: Relationships Between Semantic
@@ -4918,8 +4928,8 @@ DBLP:conf/mmm/KhanSJKRWZ22:
   dblp: conf/mmm/KhanSJKRWZ22
   doi: https://doi.org/10.1007/978-3-030-98355-0_47
   groups:
-  - ML
   - main
+  - ML
   source: 'MultiMedia Modeling - 28th International Conference, MMM 2022, Phu Quoc,
     Vietnam, June 6-10, 2022, Proceedings, Part II: 511-517 (2022).'
   title: Exquisitor at the Video Browser Showdown 2022.
@@ -4929,8 +4939,8 @@ DBLP:conf/mmm/RudinacZW17:
   dblp: conf/mmm/RudinacZW17
   doi: https://doi.org/10.1007/978-3-319-51814-5_13
   groups:
-  - ML
   - main
+  - ML
   source: 'MultiMedia Modeling - 23rd International Conference, MMM 2017, Reykjavik,
     Iceland, January 4-6, 2017, Proceedings, Part II: 148-159 (2017).'
   title: Discovering Geographic Regions in the City Using Social Multimedia and Open
@@ -4942,8 +4952,8 @@ DBLP:conf/mmm/SchildBMKZJ22:
   dblp: conf/mmm/SchildBMKZJ22
   doi: https://doi.org/10.1007/978-3-030-98355-0_39
   groups:
-  - ML
   - main
+  - ML
   source: 'MultiMedia Modeling - 28th International Conference, MMM 2022, Phu Quoc,
     Vietnam, June 6-10, 2022, Proceedings, Part II: 458-464 (2022).'
   title: 'XQM: Search-Oriented vs. Classifier-Oriented Relevance Feedback on Mobile
@@ -4988,8 +4998,8 @@ DBLP:conf/naacl/MikolovYZ13:
   authors: "Tom\xE1s Mikolov, Wen-tau Yih, Geoffrey Zweig"
   dblp: conf/naacl/MikolovYZ13
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Human Language Technologies: Conference of the North American Chapter of
     the Association of Computational Linguistics, Proceedings, June 9-14, 2013, Westin
     Peachtree Plaza Hotel, Atlanta, Georgia, USA: 746-751 (2013).'
@@ -5000,8 +5010,8 @@ DBLP:conf/naacl/ZhilaYMZM13:
   authors: "Alisa Zhila, Wen-tau Yih, Christopher Meek, Geoffrey Zweig, Tom\xE1s Mikolov"
   dblp: conf/naacl/ZhilaYMZM13
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Human Language Technologies: Conference of the North American Chapter of
     the Association of Computational Linguistics, Proceedings, June 9-14, 2013, Westin
     Peachtree Plaza Hotel, Atlanta, Georgia, USA: 1000-1009 (2013).'
@@ -5013,8 +5023,8 @@ DBLP:conf/nips/FromeCSBDRM13:
     \ Dean, Marc'Aurelio Ranzato, Tom\xE1s Mikolov"
   dblp: conf/nips/FromeCSBDRM13
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Advances in Neural Information Processing Systems 26: 27th Annual Conference
     on Neural Information Processing Systems 2013. Proceedings of a meeting held December
     5-8, 2013, Lake Tahoe, Nevada, United States.: 2121-2129 (2013).'
@@ -5038,8 +5048,8 @@ DBLP:conf/nips/JoulinM15:
   authors: "Armand Joulin, Tom\xE1s Mikolov"
   dblp: conf/nips/JoulinM15
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Advances in Neural Information Processing Systems 28: Annual Conference
     on Neural Information Processing Systems 2015, December 7-12, 2015, Montreal,
     Quebec, Canada: 190-198 (2015).'
@@ -5063,8 +5073,8 @@ DBLP:conf/nips/MikolovSCCD13:
     \ Dean"
   dblp: conf/nips/MikolovSCCD13
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Advances in Neural Information Processing Systems 26: 27th Annual Conference
     on Neural Information Processing Systems 2013. Proceedings of a meeting held December
     5-8, 2013, Lake Tahoe, Nevada, United States.: 3111-3119 (2013).'
@@ -5077,8 +5087,8 @@ DBLP:conf/odyssey/JancikPBBGHKMMSC10:
     \ Albert Strasheim, Jan Cernock\xFD"
   dblp: conf/odyssey/JancikPBBGHKMMSC10
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Odyssey 2010: The Speaker and Language Recognition Workshop, Brno, Czech
     Republic, June 28 - July 1, 2010: (2010).'
   title: Data selection and calibration issues in automatic language recognition -
@@ -5090,8 +5100,8 @@ DBLP:conf/odyssey/MikolovPGBC10:
     \ Cernock\xFD"
   dblp: conf/odyssey/MikolovPGBC10
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Odyssey 2010: The Speaker and Language Recognition Workshop, Brno, Czech
     Republic, June 28 - July 1, 2010: (2010).'
   title: PCA-based Feature Extraction for Phonotactic Language Recognition.
@@ -5126,8 +5136,8 @@ DBLP:conf/ppsn/KubalikPH06:
   dblp: conf/ppsn/KubalikPH06
   doi: https://doi.org/10.1007/11844297_97
   groups:
-  - ML
   - main
+  - ML
   source: 'Parallel Problem Solving from Nature - PPSN IX, 9th International Conference,
     Reykjavik, Iceland, September 9-13, 2006, Procedings: 959-968 (2006).'
   title: A Selecto-recombinative Genetic Algorithm with Continuous Chromosome Reconfiguration.
@@ -5149,8 +5159,8 @@ DBLP:conf/robio/LopesBSB09:
   dblp: conf/robio/LopesBSB09
   doi: https://doi.org/10.1109/ROBIO.2009.5420626
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE International Conference on Robotics and Biomimetics, ROBIO 2009,
     December 19-13, 2009, Guilin, Guangxi, China: 221-226 (2009).'
   title: Switching Max-Plus models for legged locomotion.
@@ -5160,8 +5170,8 @@ DBLP:conf/robio/ShahbaziLB13:
   dblp: conf/robio/ShahbaziLB13
   doi: https://doi.org/10.1109/ROBIO.2013.6739575
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE International Conference on Robotics and Biomimetics, ROBIO 2013,
     Shenzhen, China, December 12-14, 2013: 891-896 (2013).'
   title: Observer-based postural balance control for humanoid robots.
@@ -5171,8 +5181,8 @@ DBLP:conf/robio/ZhangLB13:
   dblp: conf/robio/ZhangLB13
   doi: https://doi.org/10.1109/ROBIO.2013.6739729
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE International Conference on Robotics and Biomimetics, ROBIO 2013,
     Shenzhen, China, December 12-14, 2013: 1801-1806 (2013).'
   title: Stiffness and damping scheduling for legged locomotion.
@@ -5183,8 +5193,8 @@ DBLP:conf/robocup/LeottauVRB16:
   dblp: conf/robocup/LeottauVRB16
   doi: https://doi.org/10.1007/978-3-319-68792-6_31
   groups:
-  - ML
   - main
+  - ML
   source: 'RoboCup 2016: Robot World Cup XX [Leipzig, Germany, June 30 - July 4, 2016]:
     368-379 (2016).'
   title: Decentralized Reinforcement Learning Applied to Mobile Robots.
@@ -5194,8 +5204,8 @@ DBLP:conf/romoco/NajafiBL15:
   dblp: conf/romoco/NajafiBL15
   doi: https://doi.org/10.1109/RoMoCo.2015.7219707
   groups:
-  - ML
   - main
+  - ML
   source: "10th International Workshop on Robot Motion and Control, RoMoCo 2015, Pozna\u0144\
     , Poland, July 6-8, 2015: 15-20 (2015)."
   title: An application of sequential composition control to cooperative systems.
@@ -5205,8 +5215,8 @@ DBLP:conf/rose/HidayatBSN11:
     ez"
   dblp: conf/rose/HidayatBSN11
   groups:
-  - ML
   - main
+  - ML
   source: "2011 IEEE International Symposium on Robotic and Sensors Environments,\
     \ ROSE 2012, Montr\xE9al, Canada, September 17-18, 2011: 166-171 (2011)."
   title: 'Observers for linear distributed-parameter systems: A survey.'
@@ -5341,7 +5351,6 @@ DBLP:conf/sat/JanotaPP22:
   dblp: conf/sat/JanotaPP22
   doi: https://doi.org/10.4230/LIPIcs.SAT.2022.7
   groups:
-  - AR
   - FM
   - main
   source: '25th International Conference on Theory and Applications of Satisfiability
@@ -5423,8 +5432,8 @@ DBLP:conf/slt/MikolovZ12:
   dblp: conf/slt/MikolovZ12
   doi: https://doi.org/10.1109/SLT.2012.6424228
   groups:
-  - FAI
   - main
+  - FAI
   source: '2012 IEEE Spoken Language Technology Workshop (SLT), Miami, FL, USA, December
     2-5, 2012: 234-239 (2012).'
   title: Context dependent recurrent neural network language model.
@@ -5435,8 +5444,8 @@ DBLP:conf/smc/AbonyiFNAB04:
   dblp: conf/smc/AbonyiFNAB04
   doi: https://doi.org/10.1109/ICSMC.2004.1400684
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the IEEE International Conference on Systems, Man & Cybernetics:
     The Hague, Netherlands, 10-13 October 2004: 2374-2380 (2004).'
   title: State-space reconstruction and prediction of chaotic time series based on
@@ -5447,8 +5456,8 @@ DBLP:conf/smc/GirimonteB04:
   dblp: conf/smc/GirimonteB04
   doi: https://doi.org/10.1109/ICSMC.2004.1400687
   groups:
-  - ML
   - main
+  - ML
   source: 'Proceedings of the IEEE International Conference on Systems, Man & Cybernetics:
     The Hague, Netherlands, 10-13 October 2004: 2392-2397 (2004).'
   title: 'Structure selection for nonlinear models with mixed discrete and continuous
@@ -5459,8 +5468,8 @@ DBLP:conf/smc/MolSBS16:
   dblp: conf/smc/MolSBS16
   doi: https://doi.org/10.1109/SMC.2016.7844650
   groups:
-  - ML
   - main
+  - ML
   source: '2016 IEEE International Conference on Systems, Man, and Cybernetics, SMC
     2016, Budapest, Hungary, October 9-12, 2016: 2717-2722 (2016).'
   title: Nested compliant admittance control for robotic mechanical assembly of misaligned
@@ -5483,7 +5492,6 @@ DBLP:conf/smt/BrownJK22:
   authors: "Chad E. Brown, Mikol\xE1s Janota, Cezary Kaliszyk"
   dblp: conf/smt/BrownJK22
   groups:
-  - AR
   - FM
   - main
   source: 'Proceedings of the 20th Internal Workshop on Satisfiability Modulo Theories
@@ -5498,8 +5506,8 @@ DBLP:conf/smt/JakubuvJR21:
   dblp: conf/smt/JakubuvJR21
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Proceedings of the 19th International Workshop on Satisfiability Modulo
     Theories co-located with 33rd International Conference on Computer Aided Verification(CAV
     2021), Online (initially located in Los Angeles, USA), July 18-19, 2021.: 53-63
@@ -5559,8 +5567,8 @@ DBLP:conf/ssci/CisnerosSM19:
   dblp: conf/ssci/CisnerosSM19
   doi: https://doi.org/10.1109/SSCI44817.2019.9002840
   groups:
-  - FAI
   - main
+  - FAI
   source: 'IEEE Symposium Series on Computational Intelligence, SSCI 2019, Xiamen,
     China, December 6-9, 2019: 230-237 (2019).'
   title: Evolving Structures in Complex Systems.
@@ -5570,8 +5578,8 @@ DBLP:conf/ssci/DiggelenBE20:
   dblp: conf/ssci/DiggelenBE20
   doi: https://doi.org/10.1109/SSCI47803.2020.9308557
   groups:
-  - ML
   - main
+  - ML
   source: '2020 IEEE Symposium Series on Computational Intelligence, SSCI 2020, Canberra,
     Australia, December 1-4, 2020: 2117-2124 (2020).'
   title: The Effects of Adaptive Control on Learning Directed Locomotion.
@@ -5625,7 +5633,7 @@ DBLP:conf/tableaux/BrownS09:
   dblp: conf/tableaux/BrownS09
   doi: https://doi.org/10.1007/978-3-642-02716-1_11
   groups:
-  - AR
+  - FM
   - main
   source: 'Automated Reasoning with Analytic Tableaux and Related Methods, 18th International
     Conference, TABLEAUX 2009, Oslo, Norway, July 6-10, 2009. Proceedings: 138-151
@@ -5638,8 +5646,8 @@ DBLP:conf/tableaux/ChvalovskyJOU21:
   doi: https://doi.org/10.1007/978-3-030-86059-2_16
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Automated Reasoning with Analytic Tableaux and Related Methods - 30th International
     Conference, TABLEAUX 2021, Birmingham, UK, September 6-9, 2021, Proceedings: 266-278
     (2021).'
@@ -5651,8 +5659,8 @@ DBLP:conf/tableaux/GoertzelJU19:
   doi: https://doi.org/10.1007/978-3-030-29026-9_21
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Automated Reasoning with Analytic Tableaux and Related Methods - 28th International
     Conference, TABLEAUX 2019, London, UK, September 3-5, 2019, Proceedings: 374-388
     (2019).'
@@ -5750,8 +5758,8 @@ DBLP:conf/tgc/JakubuvW10:
   dblp: conf/tgc/JakubuvW10
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Trustworthly Global Computing - 5th International Symposium, TGC 2010,
     Munich, Germany, February 24-26, 2010, Revised Selected Papers: 103-119 (2010).'
   title: Expressiveness of Generic Process Shape Types.
@@ -5762,7 +5770,7 @@ DBLP:conf/tphol/BenzmullerB05:
   dblp: conf/tphol/BenzmullerB05
   doi: https://doi.org/10.1007/11541868_5
   groups:
-  - AR
+  - FM
   - main
   source: 'Theorem Proving in Higher Order Logics, 18th International Conference,
     TPHOLs 2005, Oxford, UK, August 22-25, 2005, Proceedings: 66-81 (2005).'
@@ -5773,7 +5781,7 @@ DBLP:conf/tphol/BrownS09:
   dblp: conf/tphol/BrownS09
   doi: https://doi.org/10.1007/978-3-642-03359-9_13
   groups:
-  - AR
+  - FM
   - main
   source: 'Theorem Proving in Higher Order Logics, 22nd International Conference,
     TPHOLs 2009, Munich, Germany, August 17-20, 2009. Proceedings: 164-179 (2009).'
@@ -5818,8 +5826,8 @@ DBLP:conf/wise/KubalikPVV14:
   dblp: conf/wise/KubalikPVV14
   doi: https://doi.org/10.1007/978-3-319-20370-6_3
   groups:
-  - ML
   - main
+  - ML
   source: 'Web Information Systems Engineering - WISE 2014 Workshops - 15th International
     Workshops IWCSN 2014, Org2 2014, PCS 2014, and QUAT 2014, Thessaloniki, Greece,
     October 12-14, 2014, Revised Selected Papers: 27-41 (2014).'
@@ -5830,8 +5838,8 @@ DBLP:conf/wodes/LopesBSB10:
   dblp: conf/wodes/LopesBSB10
   doi: https://doi.org/10.3182/20100830-3-DE-4013.00063
   groups:
-  - ML
   - main
+  - ML
   source: '10th International Workshop on Discrete Event Systems, WODES 2010, Berlin,
     Germany, August 30 - September 01, 2010.: 382-387 (2010).'
   title: Modeling and control of legged locomotion via switching max-plus systems.
@@ -5841,8 +5849,8 @@ DBLP:conf/www/YangHM019:
   dblp: conf/www/YangHM019
   doi: https://doi.org/10.1145/3308558.3313456
   groups:
-  - FAI
   - main
+  - FAI
   source: 'The World Wide Web Conference, WWW 2019, San Francisco, CA, USA, May 13-17,
     2019: 3420-3426 (2019).'
   title: Place Deduplication with Embeddings.
@@ -5852,8 +5860,8 @@ DBLP:journals/access/DernerKB21:
   dblp: journals/access/DernerKB21
   doi: https://doi.org/10.1109/ACCESS.2021.3052130
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Access 9: 14148-14158 (2021).'
   title: Selecting Informative Data Samples for Model Learning Through Symbolic Regression.
   year: 2021
@@ -5862,8 +5870,8 @@ DBLP:journals/access/KubalikDZB21:
   dblp: journals/access/KubalikDZB21
   doi: https://doi.org/10.1109/ACCESS.2021.3119000
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Access 9: 139697-139711 (2021).'
   title: Symbolic Regression Methods for Reinforcement Learning.
   year: 2021
@@ -5922,8 +5930,8 @@ DBLP:journals/ai/LeottauRB18:
   dblp: journals/ai/LeottauRB18
   doi: https://doi.org/10.1016/j.artint.2017.12.001
   groups:
-  - ML
   - main
+  - ML
   source: 'Artif. Intell. 256: 130-159 (2018).'
   title: Decentralized Reinforcement Learning of Robot Behaviors.
   year: 2018
@@ -5964,8 +5972,8 @@ DBLP:journals/aicom/JakubuvU18:
   doi: https://doi.org/10.3233/AIC-180761
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'AI Commun. 31: 237-250 (2018).'
   title: Hierarchical invention of theorem proving strategies.
   year: 2018
@@ -5994,8 +6002,8 @@ DBLP:journals/air/BuryanK11:
   dblp: journals/air/BuryanK11
   doi: https://doi.org/10.1007/s10462-010-9181-y
   groups:
-  - ML
   - main
+  - ML
   source: 'Artif. Intell. Rev. 35: 19-36 (2011).'
   title: Context-sensitive refinements for stochastic optimisation algorithms in inductive
     logic programming.
@@ -6005,8 +6013,8 @@ DBLP:journals/aisy/KulkarniKBS22:
   dblp: journals/aisy/KulkarniKBS22
   doi: https://doi.org/10.1002/aisy.202100095
   groups:
-  - ML
   - main
+  - ML
   source: 'Adv. Intell. Syst. 4: (2022).'
   title: Learning Assembly Tasks in a Few Minutes by Combining Impedance Control and
     Residual Recurrent Reinforcement Learning.
@@ -6027,8 +6035,8 @@ DBLP:journals/arc/BabuskaV03:
   dblp: journals/arc/BabuskaV03
   doi: https://doi.org/10.1016/S1367-5788(03)00009-9
   groups:
-  - ML
   - main
+  - ML
   source: 'Annu. Rev. Control. 27: 73-85 (2003).'
   title: Neuro-fuzzy methods for nonlinear system identification.
   year: 2003
@@ -6037,8 +6045,8 @@ DBLP:journals/arc/HalangSBR06:
   dblp: journals/arc/HalangSBR06
   doi: https://doi.org/10.1016/j.arcontrol.2006.03.001
   groups:
-  - ML
   - main
+  - ML
   source: 'Annu. Rev. Control. 30: 31-40 (2006).'
   title: 'Information and communication technology embraces control: Status report
     prepared by the IFAC Coordinating Committee on Computers, Cognition and Communication.'
@@ -6048,8 +6056,8 @@ DBLP:journals/asc/DernerKAB20:
   dblp: journals/asc/DernerKAB20
   doi: https://doi.org/10.1016/j.asoc.2020.106432
   groups:
-  - ML
   - main
+  - ML
   source: 'Appl. Soft Comput. 94: (2020).'
   title: Constructing parsimonious analytic models for dynamic systems via symbolic
     regression.
@@ -6059,8 +6067,8 @@ DBLP:journals/asc/KremmelKB11:
   dblp: journals/asc/KremmelKB11
   doi: https://doi.org/10.1016/j.asoc.2010.04.013
   groups:
-  - ML
   - main
+  - ML
   source: 'Appl. Soft Comput. 11: 1416-1426 (2011).'
   title: Software project portfolio optimization with advanced multiobjective evolutionary
     algorithms.
@@ -6071,8 +6079,8 @@ DBLP:journals/automatica/AbouheafLVHB14:
   dblp: journals/automatica/AbouheafLVHB14
   doi: https://doi.org/10.1016/j.automatica.2014.10.047
   groups:
-  - ML
   - main
+  - ML
   source: 'Autom. 50: 3038-3053 (2014).'
   title: Multi-agent discrete-time graphical games and reinforcement learning solutions.
   year: 2014
@@ -6080,8 +6088,8 @@ DBLP:journals/automatica/BusoniuESB10:
   authors: Lucian Busoniu, Damien Ernst, Bart De Schutter, Robert Babuska
   dblp: journals/automatica/BusoniuESB10
   groups:
-  - ML
   - main
+  - ML
   source: 'Autom. 46: 804-814 (2010).'
   title: Approximate dynamic programming with a fuzzy parameterization.
   url: https://www.wikidata.org/entity/Q108430518
@@ -6092,8 +6100,8 @@ DBLP:journals/automatica/ModaresNLBL16:
   dblp: journals/automatica/ModaresNLBL16
   doi: https://doi.org/10.1016/j.automatica.2016.05.017
   groups:
-  - ML
   - main
+  - ML
   source: 'Autom. 71: 334-341 (2016).'
   title: Optimal model-free output synchronization of heterogeneous systems using
     off-policy reinforcement learning.
@@ -6103,8 +6111,8 @@ DBLP:journals/automatica/SimonettoKB13:
   dblp: journals/automatica/SimonettoKB13
   doi: https://doi.org/10.1016/j.automatica.2013.02.031
   groups:
-  - ML
   - main
+  - ML
   source: 'Autom. 49: 1348-1357 (2013).'
   title: Constrained distributed algebraic connectivity maximization in robotic networks.
   year: 2013
@@ -6113,8 +6121,8 @@ DBLP:journals/automatica/StanoDLB14:
   dblp: journals/automatica/StanoDLB14
   doi: https://doi.org/10.1016/j.automatica.2014.08.026
   groups:
-  - ML
   - main
+  - ML
   source: 'Autom. 50: 2494-2503 (2014).'
   title: Convex saturated particle filter.
   year: 2014
@@ -6123,8 +6131,8 @@ DBLP:journals/automatica/StanoLB13:
   dblp: journals/automatica/StanoLB13
   doi: https://doi.org/10.1016/j.automatica.2012.10.006
   groups:
-  - ML
   - main
+  - ML
   source: 'Autom. 49: 147-159 (2013).'
   title: 'Saturated Particle Filter: Almost sure convergence and improved resampling.'
   year: 2013
@@ -6144,8 +6152,8 @@ DBLP:journals/cim/Babuska07:
   dblp: journals/cim/Babuska07
   doi: https://doi.org/10.1109/MCI.2007.906693
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Comput. Intell. Mag. 2: 42-43 (2007).'
   title: 'Complexity Management in Fuzzy Systems: A Rule Base Compression Approach
     [Book Review].'
@@ -6154,8 +6162,8 @@ DBLP:journals/cmpb/KlemaKL05:
   authors: "Jir\xED Kl\xE9ma, Jir\xED Kubal\xEDk, Lenka Lhotsk\xE1"
   dblp: journals/cmpb/KlemaKL05
   groups:
-  - ML
   - main
+  - ML
   source: 'Comput. Methods Programs Biomed. 80: S17-S28 (2005).'
   title: Optimized model tuning in medical systems.
   url: https://www.wikidata.org/entity/Q51984282
@@ -6165,8 +6173,8 @@ DBLP:journals/complexity/BrablcZGB21:
   dblp: journals/complexity/BrablcZGB21
   doi: https://doi.org/10.1155/2021/6617309
   groups:
-  - ML
   - main
+  - ML
   source: 'Complex. 2021: 6617309:1-6617309:12 (2021).'
   title: Control of Magnetic Manipulator Using Reinforcement Learning Based on Incrementally
     Adapted Local Linear Models.
@@ -6197,8 +6205,8 @@ DBLP:journals/cor/BenediktASCH21:
   dblp: journals/cor/BenediktASCH21
   doi: https://doi.org/10.1016/j.cor.2020.105167
   groups:
-  - ML
   - main
+  - ML
   source: 'Comput. Oper. Res. 128: (2021).'
   title: 'A polynomial-time scheduling approach to minimise idle energy consumption:
     An application to an industrial furnace.'
@@ -6220,8 +6228,8 @@ DBLP:journals/corr/BaroniJJKLSM17:
     \ Lazaridou, Klemen Simonic, Tom\xE1s Mikolov"
   dblp: journals/corr/BaroniJJKLSM17
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1701.08954 (2017).
   title: 'CommAI: Evaluating the first steps towards a useful general AI.'
   year: 2017
@@ -6240,8 +6248,8 @@ DBLP:journals/corr/BojanowskiGJM16:
   authors: "Piotr Bojanowski, Edouard Grave, Armand Joulin, Tom\xE1s Mikolov"
   dblp: journals/corr/BojanowskiGJM16
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1607.04606 (2016).
   title: Enriching Word Vectors with Subword Information.
   year: 2016
@@ -6250,8 +6258,8 @@ DBLP:journals/corr/BojanowskiJM15:
   authors: "Piotr Bojanowski, Armand Joulin, Tom\xE1s Mikolov"
   dblp: journals/corr/BojanowskiJM15
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1511.06303 (2015).
   title: Alternative structures for character-level RNNs.
   year: 2015
@@ -6262,6 +6270,7 @@ DBLP:journals/corr/BrownU16:
   groups:
   - AR
   - main
+  - FM
   source: arXiv CoRR abs/1605.06996 (2016).
   title: Extracting Higher-Order Goals from the Mizar Mathematical Library.
   year: 2016
@@ -6271,8 +6280,8 @@ DBLP:journals/corr/ChelbaMSGBK13:
     \ Phillipp Koehn"
   dblp: journals/corr/ChelbaMSGBK13
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1312.3005 (2013).
   title: One Billion Word Benchmark for Measuring Progress in Statistical Language
     Modeling.
@@ -6282,7 +6291,7 @@ DBLP:journals/corr/FarberB16:
   authors: "Michael F\xE4rber, Chad E. Brown"
   dblp: journals/corr/FarberB16
   groups:
-  - AR
+  - FM
   - main
   source: arXiv CoRR abs/1605.09293 (2016).
   title: Internal Guidance for Satallax.
@@ -6332,8 +6341,8 @@ DBLP:journals/corr/HaesaertBA14:
   authors: Sofie Haesaert, Robert Babuska, Alessandro Abate
   dblp: journals/corr/HaesaertBA14
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/1409.0553 (2014).
   title: Sampling-based Approximations with Quantitative Performance for the Probabilistic
     Reach-Avoid Problem over General Markov Processes.
@@ -6358,8 +6367,8 @@ DBLP:journals/corr/JakubuvU16:
   dblp: journals/corr/JakubuvU16
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/1606.03888 (2016).
   title: Extending E Prover with Similarity Based Clause Selection Strategies.
   year: 2016
@@ -6369,8 +6378,8 @@ DBLP:journals/corr/JakubuvU16a:
   dblp: journals/corr/JakubuvU16a
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/1611.08733 (2016).
   title: 'BliStrTune: Hierarchical Invention of Theorem Proving Strategies.'
   year: 2016
@@ -6380,8 +6389,8 @@ DBLP:journals/corr/JakubuvU17:
   dblp: journals/corr/JakubuvU17
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/1701.06532 (2017).
   title: 'ENIGMA: Efficient Learning-based Inference Guiding Machine.'
   year: 2017
@@ -6420,8 +6429,8 @@ DBLP:journals/corr/JerniteGJM16:
   authors: "Yacine Jernite, Edouard Grave, Armand Joulin, Tom\xE1s Mikolov"
   dblp: journals/corr/JerniteGJM16
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1611.06188 (2016).
   title: Variable Computation in Recurrent Neural Networks.
   year: 2016
@@ -6442,8 +6451,8 @@ DBLP:journals/corr/JoulinGBDJM16:
     \ J\xE9gou, Tom\xE1s Mikolov"
   dblp: journals/corr/JoulinGBDJM16
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1612.03651 (2016).
   title: 'FastText.zip: Compressing text classification models.'
   year: 2016
@@ -6452,8 +6461,8 @@ DBLP:journals/corr/JoulinGBM16:
   authors: "Armand Joulin, Edouard Grave, Piotr Bojanowski, Tom\xE1s Mikolov"
   dblp: journals/corr/JoulinGBM16
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1607.01759 (2016).
   title: Bag of Tricks for Efficient Text Classification.
   year: 2016
@@ -6462,8 +6471,8 @@ DBLP:journals/corr/JoulinM15:
   authors: "Armand Joulin, Tom\xE1s Mikolov"
   dblp: journals/corr/JoulinM15
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1503.01007 (2015).
   title: Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets.
   year: 2015
@@ -6584,8 +6593,8 @@ DBLP:journals/corr/LeM14:
   authors: "Quoc V. Le, Tom\xE1s Mikolov"
   dblp: journals/corr/LeM14
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1405.4053 (2014).
   title: Distributed Representations of Sentences and Documents.
   year: 2014
@@ -6604,8 +6613,8 @@ DBLP:journals/corr/MesnilMRB14:
   authors: "Gr\xE9goire Mesnil, Tom\xE1s Mikolov, Marc'Aurelio Ranzato, Yoshua Bengio"
   dblp: journals/corr/MesnilMRB14
   groups:
-  - FAI
   - main
+  - FAI
   source: '3rd International Conference on Learning Representations, ICLR 2015, San
     Diego, CA, USA, May 7-9, 2015, Workshop Track Proceedings: (2015).'
   title: Ensemble of Generative and Discriminative Techniques for Sentiment Analysis
@@ -6616,8 +6625,8 @@ DBLP:journals/corr/MikolovJB15:
   authors: "Tom\xE1s Mikolov, Armand Joulin, Marco Baroni"
   dblp: journals/corr/MikolovJB15
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1511.08130 (2015).
   title: A Roadmap towards Machine Intelligence.
   year: 2015
@@ -6627,8 +6636,8 @@ DBLP:journals/corr/MikolovJCMR14:
     \ Ranzato"
   dblp: journals/corr/MikolovJCMR14
   groups:
-  - FAI
   - main
+  - FAI
   source: '3rd International Conference on Learning Representations, ICLR 2015, San
     Diego, CA, USA, May 7-9, 2015, Workshop Track Proceedings: (2015).'
   title: Learning Longer Memory in Recurrent Neural Networks.
@@ -6638,8 +6647,8 @@ DBLP:journals/corr/MikolovLS13:
   authors: "Tom\xE1s Mikolov, Quoc V. Le, Ilya Sutskever"
   dblp: journals/corr/MikolovLS13
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1309.4168 (2013).
   title: Exploiting Similarities among Languages for Machine Translation.
   year: 2013
@@ -6648,8 +6657,8 @@ DBLP:journals/corr/MikolovSCCD13:
   authors: "Tom\xE1s Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean"
   dblp: journals/corr/MikolovSCCD13
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1310.4546 (2013).
   title: Distributed Representations of Words and Phrases and their Compositionality.
   year: 2013
@@ -6701,8 +6710,8 @@ DBLP:journals/corr/NorouziMBSSFCD13:
     \ Shlens, Andrea Frome, Greg Corrado, Jeffrey Dean"
   dblp: journals/corr/NorouziMBSSFCD13
   groups:
-  - FAI
   - main
+  - FAI
   source: '2nd International Conference on Learning Representations, ICLR 2014, Banff,
     AB, Canada, April 14-16, 2014, Conference Track Proceedings: (2014).'
   title: Zero-Shot Learning by Convex Combination of Semantic Embeddings.
@@ -6724,8 +6733,8 @@ DBLP:journals/corr/OrorbiaMR17:
   authors: "II Alexander G. Ororbia, Tom\xE1s Mikolov, David Reitter"
   dblp: journals/corr/OrorbiaMR17
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1703.08864 (2017).
   title: Learning Simpler Language Models with the Delta Recurrent Neural Network
     Framework.
@@ -6767,8 +6776,8 @@ DBLP:journals/corr/RuelensCQSBB15:
     Babuska, Ronnie Belmans
   dblp: journals/corr/RuelensCQSBB15
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/1512.00408 (2015).
   title: 'Reinforcement Learning Applied to an Electric Water Heater: From Theory
     to Practice.'
@@ -6779,8 +6788,8 @@ DBLP:journals/corr/RuelensCVSBB15:
     Babuska, Ronnie Belmans
   dblp: journals/corr/RuelensCVSBB15
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/1504.02125 (2015).
   title: Residential Demand Response Applications Using Batch Reinforcement Learning.
   year: 2015
@@ -6809,8 +6818,8 @@ DBLP:journals/corr/WestonBCM15:
   authors: "Jason Weston, Antoine Bordes, Sumit Chopra, Tom\xE1s Mikolov"
   dblp: journals/corr/WestonBCM15
   groups:
-  - FAI
   - main
+  - FAI
   source: '4th International Conference on Learning Representations, ICLR 2016, San
     Juan, Puerto Rico, May 2-4, 2016, Conference Track Proceedings: (2016).'
   title: 'Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks.'
@@ -6820,8 +6829,8 @@ DBLP:journals/corr/ZarembaMJF15:
   authors: "Wojciech Zaremba, Tom\xE1s Mikolov, Armand Joulin, Rob Fergus"
   dblp: journals/corr/ZarembaMJF15
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1511.07275 (2015).
   title: Learning Simple Algorithms from Examples.
   year: 2015
@@ -6830,7 +6839,7 @@ DBLP:journals/corr/abs-0902-0043:
   authors: "Christoph Benzm\xFCller, Chad E. Brown, Michael Kohlhase"
   dblp: journals/corr/abs-0902-0043
   groups:
-  - AR
+  - FM
   - main
   source: 'Log. Methods Comput. Sci. 5: (2009).'
   title: Cut-Simulation and Impredicativity
@@ -6861,8 +6870,8 @@ DBLP:journals/corr/abs-1003-6096:
   dblp: journals/corr/abs-1003-6096
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/1003.6096 (2010).
   title: Expressiveness of Generic Process Shape Types
   year: 2010
@@ -6871,7 +6880,7 @@ DBLP:journals/corr/abs-1004-1947:
   authors: Chad E. Brown, Gert Smolka
   dblp: journals/corr/abs-1004-1947
   groups:
-  - AR
+  - FM
   - main
   source: 'Log. Methods Comput. Sci. 6: (2010).'
   title: Analytic Tableaux for Simple Type Theory and its First-Order Fragment
@@ -6995,8 +7004,8 @@ DBLP:journals/corr/abs-1206-3460:
   authors: "Andrea Simonetto, Tam\xE1s Keviczky, Robert Babuska"
   dblp: journals/corr/abs-1206-3460
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/1206.3460 (2012).
   title: Constrained Distributed Algebraic Connectivity Maximization in Robotic Networks
   year: 2012
@@ -7015,8 +7024,8 @@ DBLP:journals/corr/abs-1211-5063:
   authors: "Razvan Pascanu, Tom\xE1s Mikolov, Yoshua Bengio"
   dblp: journals/corr/abs-1211-5063
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1211.5063 (2012).
   title: Understanding the exploding gradient problem
   year: 2012
@@ -7035,8 +7044,8 @@ DBLP:journals/corr/abs-1212-5524:
   authors: Olivier Sprangers, Gabriel A. D. Lopes, Robert Babuska
   dblp: journals/corr/abs-1212-5524
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/1212.5524 (2012).
   title: Energy-balancing passivity-based control through reinforcement learning
   year: 2012
@@ -7046,8 +7055,8 @@ DBLP:journals/corr/abs-1212-5525:
     J. J. van den Boom, Robert Babuska
   dblp: journals/corr/abs-1212-5525
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/1212.5525 (2012).
   title: Synchronization of a class of cyclic discrete-event systems describing legged
     locomotion
@@ -7067,8 +7076,8 @@ DBLP:journals/corr/abs-1301-3781:
   authors: "Tom\xE1s Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean"
   dblp: journals/corr/abs-1301-3781
   groups:
-  - FAI
   - main
+  - FAI
   source: '1st International Conference on Learning Representations, ICLR 2013, Scottsdale,
     Arizona, USA, May 2-4, 2013, Workshop Track Proceedings: (2013).'
   title: Efficient Estimation of Word Representations in Vector Space
@@ -7119,8 +7128,8 @@ DBLP:journals/corr/abs-1710-10881:
     s Mikolov"
   dblp: journals/corr/abs-1710-10881
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1710.10881 (2017).
   title: Fast Linear Model for Knowledge Graph Embeddings.
   year: 2017
@@ -7140,8 +7149,8 @@ DBLP:journals/corr/abs-1712-09405:
     \ Armand Joulin"
   dblp: journals/corr/abs-1712-09405
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1712.09405 (2017).
   title: Advances in Pre-Training Distributed Word Representations.
   year: 2017
@@ -7150,8 +7159,8 @@ DBLP:journals/corr/abs-1802-02892:
   authors: "Douwe Kiela, Edouard Grave, Armand Joulin, Tom\xE1s Mikolov"
   dblp: journals/corr/abs-1802-02892
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1802.02892 (2018).
   title: Efficient Large-Scale Multi-Modal Classification.
   year: 2018
@@ -7162,6 +7171,7 @@ DBLP:journals/corr/abs-1802-03375:
   groups:
   - AR
   - main
+  - FM
   source: arXiv CoRR abs/1802.03375 (2018).
   title: 'ATPboost: Learning Premise Selection in Binary Setting with ATP Feedback.'
   year: 2018
@@ -7171,8 +7181,8 @@ DBLP:journals/corr/abs-1802-04007:
   dblp: journals/corr/abs-1802-04007
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/1802.04007 (2018).
   title: 'ProofWatch: Watchlist Guidance for Large Theories in E.'
   year: 2018
@@ -7182,8 +7192,8 @@ DBLP:journals/corr/abs-1802-06893:
     s Mikolov"
   dblp: journals/corr/abs-1802-06893
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1802.06893 (2018).
   title: Learning Word Vectors for 157 Languages.
   year: 2018
@@ -7213,8 +7223,8 @@ DBLP:journals/corr/abs-1804-07745:
   authors: "Armand Joulin, Piotr Bojanowski, Tom\xE1s Mikolov, Edouard Grave"
   dblp: journals/corr/abs-1804-07745
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1804.07745 (2018).
   title: Improving Supervised Bilingual Mapping of Word Embeddings.
   year: 2018
@@ -7285,7 +7295,7 @@ DBLP:journals/corr/abs-1812-10860:
     Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen
   dblp: journals/corr/abs-1812-10860
   groups:
-  - AR
+  - FM
   - main
   source: arXiv CoRR abs/1812.10860 (2018).
   title: 'Looking for ELMo''s friends: Sentence-Level Pretraining Beyond Language
@@ -7307,8 +7317,8 @@ DBLP:journals/corr/abs-1901-08335:
     \ Jir\xED Sedl\xE1r, Michal Vavrecka, Robert Babuska, Josef Sivic"
   dblp: journals/corr/abs-1901-08335
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/1901.08335 (2019).
   title: Teaching robots to imitate a human with no on-teacher sensors. What are the
     key challenges?
@@ -7321,6 +7331,7 @@ DBLP:journals/corr/abs-1903-02539:
   groups:
   - AR
   - main
+  - FM
   source: arXiv CoRR abs/1903.02539 (2019).
   title: 'GRUNGE: A Grand Unified ATP Challenge.'
   year: 2019
@@ -7330,8 +7341,8 @@ DBLP:journals/corr/abs-1903-03182:
   dblp: journals/corr/abs-1903-03182
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/1903.03182 (2019).
   title: 'ENIGMA-NG: Efficient Neural and Gradient-Boosted Inference Guidance for
     E.'
@@ -7341,8 +7352,8 @@ DBLP:journals/corr/abs-1903-09688:
   authors: "Jir\xED Kubal\xEDk, Jan Zegklitz, Erik Derner, Robert Babuska"
   dblp: journals/corr/abs-1903-09688
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/1903.09688 (2019).
   title: Symbolic Regression Methods for Reinforcement Learning.
   year: 2019
@@ -7351,8 +7362,8 @@ DBLP:journals/corr/abs-1903-11483:
   authors: "Erik Derner, Jir\xED Kubal\xEDk, Nicola Ancona, Robert Babuska"
   dblp: journals/corr/abs-1903-11483
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/1903.11483 (2019).
   title: Symbolic Regression for Constructing Analytic Models in Reinforcement Learning.
   year: 2019
@@ -7362,8 +7373,8 @@ DBLP:journals/corr/abs-1904-01677:
   dblp: journals/corr/abs-1904-01677
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/1904.01677 (2019).
   title: Hammering Mizar by Learning Clause Guidance.
   year: 2019
@@ -7384,8 +7395,8 @@ DBLP:journals/corr/abs-1904-08689:
     \ \xDE\xF3r Gu\xF0mundsson, Laurent Amsaleg, Marcel Worring"
   dblp: journals/corr/abs-1904-08689
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/1904.08689 (2019).
   title: 'Exquisitor: Interactive Learning at Large.'
   year: 2019
@@ -7394,7 +7405,7 @@ DBLP:journals/corr/abs-1904-09193:
   authors: Pierre Pradic, Chad E. Brown
   dblp: journals/corr/abs-1904-09193
   groups:
-  - AR
+  - FM
   - main
   source: arXiv CoRR abs/1904.09193 (2019).
   title: Cantor-Bernstein implies Excluded Middle.
@@ -7404,7 +7415,7 @@ DBLP:journals/corr/abs-1905-06782:
   authors: Waren Long, Vadim Markovtsev, Hugo Mougard, Egor Bulychev, Jan Hula
   dblp: journals/corr/abs-1905-06782
   groups:
-  - AR
+  - FM
   - main
   source: arXiv CoRR abs/1905.06782 (2019).
   title: Identifying collaborators in large codebases.
@@ -7416,6 +7427,7 @@ DBLP:journals/corr/abs-1905-07961:
   groups:
   - AR
   - main
+  - FM
   source: arXiv CoRR abs/1905.07961 (2019).
   title: Guiding Theorem Proving by Recurrent Neural Networks.
   year: 2019
@@ -7425,8 +7437,8 @@ DBLP:journals/corr/abs-1905-09565:
   dblp: journals/corr/abs-1905-09565
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/1905.09565 (2019).
   title: 'ENIGMAWatch: ProofWatch Meets ENIGMA.'
   year: 2019
@@ -7476,7 +7488,7 @@ DBLP:journals/corr/abs-1907-08368:
   authors: Chad E. Brown, Karol Pak
   dblp: journals/corr/abs-1907-08368
   groups:
-  - AR
+  - FM
   - main
   source: arXiv CoRR abs/1907.08368 (2019).
   title: A Tale of Two Set Theories.
@@ -7486,8 +7498,8 @@ DBLP:journals/corr/abs-1908-03627:
   authors: "Jon\xE1s Kulh\xE1nek, Erik Derner, Tim de Bruin, Robert Babuska"
   dblp: journals/corr/abs-1908-03627
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/1908.03627 (2019).
   title: Vision-based Navigation Using Deep Reinforcement Learning.
   year: 2019
@@ -7496,8 +7508,8 @@ DBLP:journals/corr/abs-1910-04861:
   authors: "Carl Yang, Do Huy Hoang, Tom\xE1s Mikolov, Jiawei Han"
   dblp: journals/corr/abs-1910-04861
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1910.04861 (2019).
   title: Place Deduplication with Embeddings.
   year: 2019
@@ -7507,8 +7519,8 @@ DBLP:journals/corr/abs-1910-06241:
     \ Joulin"
   dblp: journals/corr/abs-1910-06241
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1910.06241 (2019).
   title: Updating Pre-trained Word Vectors and Text Classifiers using Monolingual
     Alignment.
@@ -7519,8 +7531,8 @@ DBLP:journals/corr/abs-1910-07501:
     \ Hanz\xE1lek"
   dblp: journals/corr/abs-1910-07501
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/1910.07501 (2019).
   title: A scheduling and control approach for an industrial furnace to minimize idle
     energy consumption.
@@ -7540,8 +7552,8 @@ DBLP:journals/corr/abs-1911-01086:
   authors: "Hugo Cisneros, Josef Sivic, Tom\xE1s Mikolov"
   dblp: journals/corr/abs-1911-01086
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/1911.01086 (2019).
   title: Evolving Structures in Complex Systems.
   year: 2019
@@ -7552,6 +7564,7 @@ DBLP:journals/corr/abs-1911-04873:
   groups:
   - AR
   - main
+  - FM
   source: arXiv CoRR abs/1911.04873 (2019).
   title: Can Neural Networks Learn Symbolic Rewriting?
   year: 2019
@@ -7560,8 +7573,8 @@ DBLP:journals/corr/abs-1911-10359:
   authors: Baran Alikoc, Kristian Hengster-Movric
   dblp: journals/corr/abs-1911-10359
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/1911.10359 (2019).
   title: Robust cooperative synchronization of homogeneous agents with delays on directed
     communication graphs.
@@ -7582,6 +7595,7 @@ DBLP:journals/corr/abs-1912-01525:
   dblp: journals/corr/abs-1912-01525
   groups:
   - AR
+  - FM
   - main
   source: arXiv CoRR abs/1912.01525 (2019).
   title: Self-Learned Formula Synthesis in Set Theory.
@@ -7593,6 +7607,7 @@ DBLP:journals/corr/abs-1912-02636:
   groups:
   - AR
   - main
+  - FM
   source: arXiv CoRR abs/1912.02636 (2019).
   title: Exploration of Neural Machine Translation in Autoformalization of Mathematics
     in Mizar.
@@ -7636,8 +7651,8 @@ DBLP:journals/corr/abs-2002-05406:
   dblp: journals/corr/abs-2002-05406
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/2002.05406 (2020).
   title: 'ENIGMA Anonymous: Symbol-Independent Inference Guiding Machine (system description).'
   year: 2020
@@ -7646,8 +7661,8 @@ DBLP:journals/corr/abs-2003-07916:
   authors: "Germ\xE1n Kruszewski, Tom\xE1s Mikolov"
   dblp: journals/corr/abs-2003-07916
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/2003.07916 (2020).
   title: 'Combinatory Chemistry: Towards a Simple Model of Emergent Evolution.'
   year: 2020
@@ -7666,8 +7681,8 @@ DBLP:journals/corr/abs-2004-03340:
   authors: "Germ\xE1n Kruszewski, Ionut-Teodor Sorodoc, Tom\xE1s Mikolov"
   dblp: journals/corr/abs-2004-03340
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/2004.03340 (2020).
   title: Class-Agnostic Continual Learning of Alternating Languages and Domains.
   year: 2020
@@ -7678,6 +7693,7 @@ DBLP:journals/corr/abs-2004-06997:
   groups:
   - AR
   - main
+  - FM
   source: arXiv CoRR abs/2004.06997 (2020).
   title: Prolog Technology Reinforcement Learning Prover.
   year: 2020
@@ -7688,6 +7704,7 @@ DBLP:journals/corr/abs-2004-08212:
   groups:
   - AR
   - main
+  - FM
   source: arXiv CoRR abs/2004.08212 (2020).
   title: Stateful Premise Selection by Recurrent Neural Networks.
   year: 2020
@@ -7716,8 +7733,8 @@ DBLP:journals/corr/abs-2004-11947:
   authors: "Jir\xED Kubal\xEDk, Erik Derner, Robert Babuska"
   dblp: journals/corr/abs-2004-11947
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/2004.11947 (2020).
   title: Symbolic Regression Driven by Training Data and Prior Knowledge.
   year: 2020
@@ -7726,8 +7743,8 @@ DBLP:journals/corr/abs-2005-02149:
   authors: "Jan Zah\xE1lka, Marcel Worring, Jarke J. van Wijk"
   dblp: journals/corr/abs-2005-02149
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/2005.02149 (2020).
   title: 'II-20: Intelligent and pragmatic analytic categorization of image collections.'
   year: 2020
@@ -7747,7 +7764,7 @@ DBLP:journals/corr/abs-2005-13243:
     \ Tomas Nejezchleba"
   dblp: journals/corr/abs-2005-13243
   groups:
-  - AR
+  - FM
   - main
   source: arXiv CoRR abs/2005.13243 (2020).
   title: 'Poly-YOLO: higher speed, more precise detection and instance segmentation
@@ -7759,8 +7776,8 @@ DBLP:journals/corr/abs-2005-14664:
   dblp: journals/corr/abs-2005-14664
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/2005.14664 (2020).
   title: First Neural Conjecturing Datasets and Experiments.
   year: 2020
@@ -7769,8 +7786,8 @@ DBLP:journals/corr/abs-2007-10085:
   authors: "Miroslav Kulich, Jir\xED Kubal\xEDk, Libor Preucil"
   dblp: journals/corr/abs-2007-10085
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/2007.10085 (2020).
   title: An Integrated Approach to Goal Selection in Mobile Robot Exploration.
   year: 2020
@@ -7790,8 +7807,8 @@ DBLP:journals/corr/abs-2008-13503:
   authors: "Barbora Hudcov\xE1, Tom\xE1s Mikolov"
   dblp: journals/corr/abs-2008-13503
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/2008.13503 (2020).
   title: Classification of Complex Systems Based on Transients.
   year: 2020
@@ -7830,8 +7847,8 @@ DBLP:journals/corr/abs-2010-10903:
   authors: "Jon\xE1s Kulh\xE1nek, Erik Derner, Robert Babuska"
   dblp: journals/corr/abs-2010-10903
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/2010.10903 (2020).
   title: Visual Navigation in Real-World Indoor Environments Using End-to-End Deep
     Reinforcement Learning.
@@ -7841,8 +7858,8 @@ DBLP:journals/corr/abs-2011-12690:
   authors: Bas van der Heijden, Laura Ferranti, Jens Kober, Robert Babuska
   dblp: journals/corr/abs-2011-12690
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/2011.12690 (2020).
   title: 'DeepKoCo: Efficient latent planning with an invariant Koopman representation.'
   year: 2020
@@ -7862,8 +7879,8 @@ DBLP:journals/corr/abs-2102-05547:
   dblp: journals/corr/abs-2102-05547
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/2102.05547 (2021).
   title: Learning Equational Theorem Proving.
   year: 2021
@@ -7872,8 +7889,8 @@ DBLP:journals/corr/abs-2102-12319:
   authors: Osama Mazhar, Jens Kober, Robert Babuska
   dblp: journals/corr/abs-2102-12319
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/2102.12319 (2021).
   title: 'GEM: Glare or Gloom, I Can Still See You - End-to-End Multimodal Object
     Detector.'
@@ -7893,8 +7910,8 @@ DBLP:journals/corr/abs-2103-01272:
   authors: Taeke de Haan, Padmaja Kulkarni, Robert Babuska
   dblp: journals/corr/abs-2103-01272
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/2103.01272 (2021).
   title: Geometry-Based Grasping of Vine Tomatoes.
   year: 2021
@@ -7903,8 +7920,8 @@ DBLP:journals/corr/abs-2103-08245:
   authors: "Germ\xE1n Kruszewski, Tom\xE1s Mikolov"
   dblp: journals/corr/abs-2103-08245
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/2103.08245 (2021).
   title: Emergence of self-reproducing metabolisms as recursive algorithms in an Artificial
     Chemistry.
@@ -7914,8 +7931,8 @@ DBLP:journals/corr/abs-2103-09043:
   authors: Jacob E. Kooi, Robert Babuska
   dblp: journals/corr/abs-2103-09043
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/2103.09043 (2021).
   title: Inclined Quadrotor Landing using Deep Reinforcement Learning.
   year: 2021
@@ -7924,8 +7941,8 @@ DBLP:journals/corr/abs-2104-01008:
   authors: "Hugo Cisneros, Josef Sivic, Tom\xE1s Mikolov"
   dblp: journals/corr/abs-2104-01008
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/2104.01008 (2021).
   title: Visualizing computation in large-scale cellular automata.
   year: 2021
@@ -7937,6 +7954,7 @@ DBLP:journals/corr/abs-2104-05207:
   groups:
   - AR
   - main
+  - FM
   source: arXiv CoRR abs/2104.05207 (2021).
   title: 'Online Machine Learning Techniques for Coq: A Comparison.'
   year: 2021
@@ -7978,8 +7996,8 @@ DBLP:journals/corr/abs-2107-06750:
   dblp: journals/corr/abs-2107-06750
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/2107.06750 (2021).
   title: Fast and Slow Enigmas and Parental Guidance.
   year: 2021
@@ -7989,8 +8007,8 @@ DBLP:journals/corr/abs-2107-10034:
   dblp: journals/corr/abs-2107-10034
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/2107.10034 (2021).
   title: Learning Theorem Proving Components.
   year: 2021
@@ -7999,8 +8017,8 @@ DBLP:journals/corr/abs-2108-00415:
   authors: "Barbora Hudcov\xE1, Tom\xE1s Mikolov"
   dblp: journals/corr/abs-2108-00415
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/2108.00415 (2021).
   title: Computational Hierarchy of Elementary Cellular Automata.
   year: 2021
@@ -8009,8 +8027,8 @@ DBLP:journals/corr/abs-2108-01573:
   authors: "Barbora Hudcov\xE1, Tom\xE1s Mikolov"
   dblp: journals/corr/abs-2108-01573
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/2108.01573 (2021).
   title: Classification of Discrete Dynamical Systems Based on Transients.
   year: 2021
@@ -8065,8 +8083,8 @@ DBLP:journals/corr/abs-2203-00403:
   dblp: journals/corr/abs-2203-00403
   doi: https://doi.org/10.48550/arXiv.2203.00403
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/2203.00403 (2022).
   title: 'OpenDR: An Open Toolkit for Enabling High Performance, Low Footprint Deep
     Learning for Robotics.'
@@ -8077,8 +8095,8 @@ DBLP:journals/corr/abs-2203-02381:
   dblp: journals/corr/abs-2203-02381
   doi: https://doi.org/10.48550/arXiv.2203.02381
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/2203.02381 (2022).
   title: 'Where to Look Next: Learning Viewpoint Recommendations for Informative Trajectory
     Planning.'
@@ -8088,8 +8106,8 @@ DBLP:journals/corr/abs-2203-10157:
   dblp: journals/corr/abs-2203-10157
   doi: https://doi.org/10.48550/arXiv.2203.10157
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/2203.10157 (2022).
   title: 'ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers.'
   year: 2022
@@ -8112,8 +8130,8 @@ DBLP:journals/corr/abs-2205-01981:
   doi: https://doi.org/10.48550/arXiv.2205.01981
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/2205.01981 (2022).
   title: The Isabelle ENIGMA.
   year: 2022
@@ -8122,7 +8140,7 @@ DBLP:journals/corr/abs-2205-06640:
   dblp: journals/corr/abs-2205-06640
   doi: https://doi.org/10.48550/arXiv.2205.06640
   groups:
-  - AR
+  - FM
   - main
   source: arXiv CoRR abs/2205.06640 (2022).
   title: Lash 1.0 (System Description).
@@ -8133,8 +8151,8 @@ DBLP:journals/corr/abs-2205-15764:
   dblp: journals/corr/abs-2205-15764
   doi: https://doi.org/10.48550/arXiv.2205.15764
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/2205.15764 (2022).
   title: 'SymFormer: End-to-end symbolic regression using transformer-based architecture.'
   year: 2022
@@ -8164,8 +8182,8 @@ DBLP:journals/corr/abs-2207-04857:
   dblp: journals/corr/abs-2207-04857
   doi: https://doi.org/10.48550/arXiv.2207.04857
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/2207.04857 (2022).
   title: Emergence of Novelty in Evolutionary Algorithms.
   year: 2022
@@ -8187,8 +8205,8 @@ DBLP:journals/corr/abs-2209-00526:
   dblp: journals/corr/abs-2209-00526
   doi: https://doi.org/10.48550/arXiv.2209.00526
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/2209.00526 (2022).
   title: 'Reproducibility Companion Paper: Describing Subjective Experiment Consistency
     by $p$-Value P-P Plot.'
@@ -8199,8 +8217,8 @@ DBLP:journals/corr/abs-2209-07976:
   dblp: journals/corr/abs-2209-07976
   doi: https://doi.org/10.48550/arXiv.2209.07976
   groups:
-  - ML
   - main
+  - ML
   source: arXiv CoRR abs/2209.07976 (2022).
   title: 'Imitrob: Imitation Learning Dataset for Training and Evaluating 6D Object
     Pose Estimators.'
@@ -8210,8 +8228,8 @@ DBLP:journals/corr/abs-2210-02549:
   dblp: journals/corr/abs-2210-02549
   doi: https://doi.org/10.48550/arXiv.2210.02549
   groups:
-  - FAI
   - main
+  - FAI
   source: arXiv CoRR abs/2210.02549 (2022).
   title: Benchmarking Learning Efficiency in Deep Reservoir Computing.
   year: 2022
@@ -8222,8 +8240,8 @@ DBLP:journals/corr/abs-2210-03590:
   doi: https://doi.org/10.48550/arXiv.2210.03590
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: arXiv CoRR abs/2210.03590 (2022).
   title: Machine Learning Meets The Herbrand Universe.
   year: 2022
@@ -8242,8 +8260,8 @@ DBLP:journals/deds/LopesKSBB16:
     Boom, Robert Babuska
   dblp: journals/deds/LopesKSBB16
   groups:
-  - ML
   - main
+  - ML
   source: 'Discret. Event Dyn. Syst. 26: 225-261 (2016).'
   title: Synchronization of a class of cyclic discrete-event systems describing legged
     locomotion.
@@ -8263,8 +8281,8 @@ DBLP:journals/eaai/AlibekovKB18:
   authors: "Eduard Alibekov, Jir\xED Kubal\xEDk, Robert Babuska"
   dblp: journals/eaai/AlibekovKB18
   groups:
-  - ML
   - main
+  - ML
   source: 'Eng. Appl. Artif. Intell. 69: 178-187 (2018).'
   title: Policy derivation methods for critic-only reinforcement learning in continuous
     spaces.
@@ -8275,8 +8293,8 @@ DBLP:journals/eaai/BellomoNB08:
   dblp: journals/eaai/BellomoNB08
   doi: https://doi.org/10.1016/j.engappai.2007.11.002
   groups:
-  - ML
   - main
+  - ML
   source: 'Eng. Appl. Artif. Intell. 21: 846-857 (2008).'
   title: 'Adaptive fuzzy control of a non-linear servo-drive: Theory and experimental
     results.'
@@ -8286,8 +8304,8 @@ DBLP:journals/eaai/BusoniuDB16:
   dblp: journals/eaai/BusoniuDB16
   doi: https://doi.org/10.1016/j.engappai.2016.05.003
   groups:
-  - ML
   - main
+  - ML
   source: 'Eng. Appl. Artif. Intell. 55: 70-82 (2016).'
   title: Online learning for optimistic planning.
   year: 2016
@@ -8296,8 +8314,8 @@ DBLP:journals/eaai/LendekBS08:
   dblp: journals/eaai/LendekBS08
   doi: https://doi.org/10.1016/j.engappai.2007.05.002
   groups:
-  - ML
   - main
+  - ML
   source: 'Eng. Appl. Artif. Intell. 21: 457-469 (2008).'
   title: Distributed Kalman filtering for cascaded systems.
   year: 2008
@@ -8306,8 +8324,8 @@ DBLP:journals/eaai/PaneNKB19:
   dblp: journals/eaai/PaneNKB19
   doi: https://doi.org/10.1016/j.engappai.2018.11.006
   groups:
-  - ML
   - main
+  - ML
   source: 'Eng. Appl. Artif. Intell. 78: 236-247 (2019).'
   title: Reinforcement learning based compensation methods for robot manipulators.
   year: 2019
@@ -8315,8 +8333,8 @@ DBLP:journals/eaai/VerbertBS17:
   authors: Kim Verbert, Robert Babuska, Bart De Schutter
   dblp: journals/eaai/VerbertBS17
   groups:
-  - ML
   - main
+  - ML
   source: 'Eng. Appl. Artif. Intell. 59: 260-273 (2017).'
   title: Combining knowledge and historical data for system-level fault diagnosis
     of HVAC systems.
@@ -8326,8 +8344,8 @@ DBLP:journals/eaai/VerbertBS17a:
   authors: Kim Verbert, Robert Babuska, Bart De Schutter
   dblp: journals/eaai/VerbertBS17a
   groups:
-  - ML
   - main
+  - ML
   source: 'Eng. Appl. Artif. Intell. 60: 136-150 (2017).'
   title: Bayesian and Dempster-Shafer reasoning for knowledge-based fault diagnosis-A
     comparative study.
@@ -8337,8 +8355,8 @@ DBLP:journals/eaai/VerbertSB16:
   authors: Kim Verbert, Bart De Schutter, Robert Babuska
   dblp: journals/eaai/VerbertSB16
   groups:
-  - ML
   - main
+  - ML
   source: 'Eng. Appl. Artif. Intell. 56: 200-211 (2016).'
   title: Fault diagnosis using spatial and temporal information with application to
     railway track circuits.
@@ -8348,8 +8366,8 @@ DBLP:journals/ec/PosikK12:
   authors: "Petr Pos\xEDk, Jir\xED Kubal\xEDk"
   dblp: journals/ec/PosikK12
   groups:
-  - ML
   - main
+  - ML
   source: 'Evol. Comput. 20: 483-508 (2012).'
   title: Experimental Comparison of Six Population-Based Algorithms for Continuous
     Black Box Optimization.
@@ -8430,7 +8448,7 @@ DBLP:journals/entcs/Brown07:
   dblp: journals/entcs/Brown07
   doi: https://doi.org/10.1016/j.entcs.2007.01.022
   groups:
-  - AR
+  - FM
   - main
   source: 'Electron. Notes Theor. Comput. Sci. 174: 127-139 (2007).'
   title: Encoding Functional Relations in Scunak.
@@ -8460,8 +8478,8 @@ DBLP:journals/eswa/KubalikDB21:
   dblp: journals/eswa/KubalikDB21
   doi: https://doi.org/10.1016/j.eswa.2021.115210
   groups:
-  - ML
   - main
+  - ML
   source: 'Expert Syst. Appl. 182: (2021).'
   title: Multi-objective symbolic regression for physics-aware dynamic modeling.
   year: 2021
@@ -8471,8 +8489,8 @@ DBLP:journals/evs/CaraPRLB10:
   dblp: journals/evs/CaraPRLB10
   doi: https://doi.org/10.1007/s12530-010-9016-8
   groups:
-  - ML
   - main
+  - ML
   source: 'Evol. Syst. 1: 225-239 (2010).'
   title: Online self-evolving fuzzy controller with global learning capabilities.
   year: 2010
@@ -8481,7 +8499,7 @@ DBLP:journals/fm/BrownP19:
   dblp: journals/fm/BrownP19
   doi: https://doi.org/10.2478/forma-2019-0027
   groups:
-  - AR
+  - FM
   - main
   source: 'Formaliz. Math. 27: 321-335 (2019).'
   title: AIM Loops and the AIM Conjecture.
@@ -8493,6 +8511,7 @@ DBLP:journals/fss/Chvalovsky12:
   groups:
   - AR
   - main
+  - FM
   source: 'Fuzzy Sets Syst. 197: 123-129 (2012).'
   title: On the independence of axioms in BL and MTL.
   year: 2012
@@ -8500,8 +8519,8 @@ DBLP:journals/fss/LendekBS11:
   authors: "Zs\xF3fia Lendek, Robert Babuska, Bart De Schutter"
   dblp: journals/fss/LendekBS11
   groups:
-  - ML
   - main
+  - ML
   source: 'Fuzzy Sets Syst. 174: 1-30 (2011).'
   title: Sequential stability analysis and observer design for distributed TS fuzzy
     systems.
@@ -8512,8 +8531,8 @@ DBLP:journals/fss/LendekLGBS10:
     \ Bart De Schutter"
   dblp: journals/fss/LendekLGBS10
   groups:
-  - ML
   - main
+  - ML
   source: 'Fuzzy Sets Syst. 161: 2043-2065 (2010).'
   title: Adaptive observers for TS fuzzy systems with unknown polynomial inputs.
   url: https://www.wikidata.org/entity/Q108430509
@@ -8523,8 +8542,8 @@ DBLP:journals/fss/LendekLGBS11:
     \ Bart De Schutter"
   dblp: journals/fss/LendekLGBS11
   groups:
-  - ML
   - main
+  - ML
   source: 'Fuzzy Sets Syst. 171: 106-107 (2011).'
   title: Erratum to "Adaptive observers for TS fuzzy systems with unknown polynomial
     inputs" [Fuzzy Sets and Systems 161 (2010) 2043-2065].
@@ -8535,8 +8554,8 @@ DBLP:journals/fss/SalaGB05:
   dblp: journals/fss/SalaGB05
   doi: https://doi.org/10.1016/j.fss.2005.05.041
   groups:
-  - ML
   - main
+  - ML
   source: 'Fuzzy Sets Syst. 156: 432-444 (2005).'
   title: Perspectives of fuzzy systems and control.
   year: 2005
@@ -8545,7 +8564,7 @@ DBLP:journals/glottometrics/HulaKCCCPM19:
     \ Pelegrinov\xE1, Jir\xED Milicka"
   dblp: journals/glottometrics/HulaKCCCPM19
   groups:
-  - AR
+  - FM
   - main
   source: 'Glottometrics 45: 7-23 (2019).'
   title: Context Specificity of Lemma. Diachronic Analysis.
@@ -8568,8 +8587,8 @@ DBLP:journals/ijar/HartogBDGVV97:
   dblp: journals/ijar/HartogBDGVV97
   doi: https://doi.org/10.1016/S0888-613X(96)00118-1
   groups:
-  - ML
   - main
+  - ML
   source: 'Int. J. Approx. Reason. 16: 43-66 (1997).'
   title: Knowledge-based fuzzy model for performance prediction of a rock-cutting
     trencher.
@@ -8579,8 +8598,8 @@ DBLP:journals/ijar/RoubosMBV99:
   dblp: journals/ijar/RoubosMBV99
   doi: https://doi.org/10.1016/S0888-613X(99)00020-1
   groups:
-  - ML
   - main
+  - ML
   source: 'Int. J. Approx. Reason. 22: 3-30 (1999).'
   title: Fuzzy model-based predictive control using Takagi-Sugeno models.
   year: 1999
@@ -8588,8 +8607,8 @@ DBLP:journals/ijicc/AstBS09:
   authors: Jelmer Marinus van Ast, Robert Babuska, Bart De Schutter
   dblp: journals/ijicc/AstBS09
   groups:
-  - ML
   - main
+  - ML
   source: 'Int. J. Intell. Comput. Cybern. 2: 414-434 (2009).'
   title: Novel ant colony optimization approach to optimal control.
   url: https://www.wikidata.org/entity/Q108430664
@@ -8599,8 +8618,8 @@ DBLP:journals/ijmms/SetnesBV98:
   dblp: journals/ijmms/SetnesBV98
   doi: https://doi.org/10.1006/ijhc.1998.0197
   groups:
-  - ML
   - main
+  - ML
   source: 'Int. J. Hum. Comput. Stud. 49: 159-179 (1998).'
   title: Transparent Fuzzy Modelling.
   year: 1998
@@ -8609,8 +8628,8 @@ DBLP:journals/ijsysc/AbonyiBVS00:
   dblp: journals/ijsysc/AbonyiBVS00
   doi: https://doi.org/10.1080/002077200290966
   groups:
-  - ML
   - main
+  - ML
   source: 'Int. J. Syst. Sci. 31: 657-667 (2000).'
   title: Incorporating prior knowledge in fuzzy model identification.
   year: 2000
@@ -8620,8 +8639,8 @@ DBLP:journals/ijsysc/BaranyiBBKTV98:
   dblp: journals/ijsysc/BaranyiBBKTV98
   doi: https://doi.org/10.1080/00207729808929565
   groups:
-  - ML
   - main
+  - ML
   source: 'Int. J. Syst. Sci. 29: 711-721 (1998).'
   title: A method to invert a linguistic fuzzy model.
   year: 1998
@@ -8630,8 +8649,8 @@ DBLP:journals/irob/BreijsKB05:
   dblp: journals/irob/BreijsKB05
   doi: https://doi.org/10.1108/01439910510573264
   groups:
-  - ML
   - main
+  - ML
   source: 'Ind. Robot 32: 32-34 (2005).'
   title: Automated design environment for serial industrial manipulators.
   year: 2005
@@ -8645,8 +8664,8 @@ DBLP:journals/jagi/MonettLTBBGBCCS20:
   dblp: journals/jagi/MonettLTBBGBCCS20
   doi: https://doi.org/10.2478/jagi-2020-0003
   groups:
-  - FAI
   - main
+  - FAI
   source: 'J. Artif. Gen. Intell. 11: 1-100 (2020).'
   title: Special Issue "On Defining Artificial Intelligence" - Commentaries and Author's
     Response.
@@ -8666,7 +8685,7 @@ DBLP:journals/japll/AndrewsB06:
   dblp: journals/japll/AndrewsB06
   doi: https://doi.org/10.1016/j.jal.2005.10.002
   groups:
-  - AR
+  - FM
   - main
   source: 'J. Appl. Log. 4: 367-395 (2006).'
   title: 'TPS: A hybrid automatic-interactive system for developing proofs.'
@@ -8699,7 +8718,7 @@ DBLP:journals/jar/AndrewsBPBIX04:
   dblp: journals/jar/AndrewsBPBIX04
   doi: https://doi.org/10.1023/B:JARS.0000021871.18776.94
   groups:
-  - AR
+  - FM
   - main
   source: 'J. Autom. Reason. 32: 75-92 (2004).'
   title: 'ETPS: A System to Help Students Write Formal Proofs.'
@@ -8709,7 +8728,7 @@ DBLP:journals/jar/BackesB11:
   dblp: journals/jar/BackesB11
   doi: https://doi.org/10.1007/s10817-011-9233-2
   groups:
-  - AR
+  - FM
   - main
   source: 'J. Autom. Reason. 47: 451-479 (2011).'
   title: Analytic Tableaux for Higher-Order Logic with Choice.
@@ -8741,7 +8760,7 @@ DBLP:journals/jar/Brown13:
   dblp: journals/jar/Brown13
   doi: https://doi.org/10.1007/s10817-013-9283-8
   groups:
-  - AR
+  - FM
   - main
   source: 'J. Autom. Reason. 51: 57-77 (2013).'
   title: Reducing Higher-Order Theorem Proving to a Sequence of SAT Problems.
@@ -8751,7 +8770,7 @@ DBLP:journals/jar/Brown15:
   dblp: journals/jar/Brown15
   doi: https://doi.org/10.1007/s10817-015-9340-6
   groups:
-  - AR
+  - FM
   - main
   source: 'J. Autom. Reason. 55: 199-210 (2015).'
   title: Reconsidering Pairs and Functions as Sets.
@@ -8953,8 +8972,8 @@ DBLP:journals/jfi/LendekRSB14:
   authors: "Zs\xF3fia Lendek, Paula Raica, Bart De Schutter, Robert Babuska"
   dblp: journals/jfi/LendekRSB14
   groups:
-  - ML
   - main
+  - ML
   source: 'J. Frankl. Inst. 351: 3577-3592 (2014).'
   title: Analysis and design for continuous-time string-connected Takagi-Sugeno systems.
   url: https://www.wikidata.org/entity/Q107155750
@@ -8985,8 +9004,8 @@ DBLP:journals/jim/BabuskaDHM03:
   dblp: journals/jim/BabuskaDHM03
   doi: https://doi.org/10.1023/A%3A1022963716905
   groups:
-  - ML
   - main
+  - ML
   source: 'J. Intell. Manuf. 14: 255-265 (2003).'
   title: Intelligent adaptive control of bioreactors.
   year: 2003
@@ -8994,8 +9013,8 @@ DBLP:journals/jmlr/BruinKTB18:
   authors: Tim de Bruin, Jens Kober, Karl Tuyls, Robert Babuska
   dblp: journals/jmlr/BruinKTB18
   groups:
-  - ML
   - main
+  - ML
   source: 'J. Mach. Learn. Res. 19: 9:1-9:56 (2018).'
   title: Experience Selection in Deep Reinforcement Learning for Control.
   url: http://jmlr.org/papers/v19/17-131.html
@@ -9005,7 +9024,7 @@ DBLP:journals/jql/CechHKCM19:
   dblp: journals/jql/CechHKCM19
   doi: https://doi.org/10.1080/09296174.2018.1491748
   groups:
-  - AR
+  - FM
   - main
   source: 'J. Quant. Linguistics 26: 187-204 (2019).'
   title: The Development of Context Specificity of Lemma. A Word Embeddings Approach.
@@ -9105,7 +9124,7 @@ DBLP:journals/jsyml/BenzmullerBK04:
   authors: "Christoph Benzm\xFCller, Chad E. Brown, Michael Kohlhase"
   dblp: journals/jsyml/BenzmullerBK04
   groups:
-  - AR
+  - FM
   - main
   source: 'J. Symb. Log. 69: 1027-1088 (2004).'
   title: Higher-order semantics and extensionality.
@@ -9116,7 +9135,7 @@ DBLP:journals/jsyml/BrownR14:
   dblp: journals/jsyml/BrownR14
   doi: https://doi.org/10.1017/jsl.2013.10
   groups:
-  - AR
+  - FM
   - main
   source: 'J. Symb. Log. 79: 485-495 (2014).'
   title: Glivenko and Kuroda for Simple Type Theory.
@@ -9128,6 +9147,7 @@ DBLP:journals/jsyml/Chvalovsky15:
   groups:
   - AR
   - main
+  - FM
   source: 'J. Symb. Log. 80: 567-586 (2015).'
   title: Undecidability of Consequence Relation in Full non-Associative Lambek Calculus.
   year: 2015
@@ -9138,6 +9158,7 @@ DBLP:journals/jsyml/ChvalovskyH16:
   groups:
   - AR
   - main
+  - FM
   source: 'J. Symb. Log. 81: 524-540 (2016).'
   title: Full Lambek Calculus with Contraction is Undecidable.
   year: 2016
@@ -9146,8 +9167,8 @@ DBLP:journals/kais/TozickaJKP16:
   dblp: journals/kais/TozickaJKP16
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Knowl. Inf. Syst. 48: 581-618 (2016).'
   title: Privacy-concerned multiagent planning.
   url: https://www.wikidata.org/entity/Q62044875
@@ -9167,8 +9188,8 @@ DBLP:journals/mics/JakubuvK20:
   dblp: journals/mics/JakubuvK20
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Math. Comput. Sci. 14: 657-670 (2020).'
   title: Relaxed Weighted Path Order in Theorem Proving.
   url: https://www.wikidata.org/entity/Q108482108
@@ -9219,8 +9240,8 @@ DBLP:journals/ml/ZahalkaZ11:
   dblp: journals/ml/ZahalkaZ11
   doi: https://doi.org/10.1007/s10994-010-5227-2
   groups:
-  - ML
   - main
+  - ML
   source: 'Mach. Learn. 82: 475-481 (2011).'
   title: An experimental test of Occam's razor in classification.
   year: 2011
@@ -9231,6 +9252,7 @@ DBLP:journals/mlq/ChvalovskyC12:
   groups:
   - AR
   - main
+  - FM
   source: 'Math. Log. Q. 58: 236-243 (2012).'
   title: Note on Deduction Theorems in contraction-free logics.
   year: 2012
@@ -9240,7 +9262,7 @@ DBLP:journals/nca/HurtikMHVVN22:
   dblp: journals/nca/HurtikMHVVN22
   doi: https://doi.org/10.1007/s00521-021-05978-9
   groups:
-  - AR
+  - FM
   - main
   source: 'Neural Comput. Appl. 34: 8275-8290 (2022).'
   title: 'Poly-YOLO: higher speed, more precise detection and instance segmentation
@@ -9251,7 +9273,7 @@ DBLP:journals/nca/HurtikTHH22:
   dblp: journals/nca/HurtikTHH22
   doi: https://doi.org/10.1007/s00521-022-07091-x
   groups:
-  - AR
+  - FM
   - main
   source: 'Neural Comput. Appl. 34: 12029-12041 (2022).'
   title: Binary cross-entropy with dynamical clipping.
@@ -9271,8 +9293,8 @@ DBLP:journals/neco/OrorbiaMR17:
   authors: "II Alexander G. Ororbia, Tom\xE1s Mikolov, David Reitter"
   dblp: journals/neco/OrorbiaMR17
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Neural Comput. 29: (2017).'
   title: Learning Simpler Language Models with the Differential State Framework.
   url: https://www.wikidata.org/entity/Q47908146
@@ -9281,8 +9303,8 @@ DBLP:journals/ral/BruinKTB18:
   authors: Tim de Bruin, Jens Kober, Karl Tuyls, Robert Babuska
   dblp: journals/ral/BruinKTB18
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Robotics Autom. Lett. 3: 1394-1401 (2018).'
   title: Integrating State Representation Learning Into Deep Reinforcement Learning.
   url: https://www.wikidata.org/entity/Q57539268
@@ -9293,8 +9315,8 @@ DBLP:journals/ral/GomezHDBB20:
   dblp: journals/ral/GomezHDBB20
   doi: https://doi.org/10.1109/LRA.2020.3007402
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Robotics Autom. Lett. 5: 5401-5408 (2020).'
   title: Object-Based Pose Graph for Dynamic Indoor Environments.
   year: 2020
@@ -9303,8 +9325,8 @@ DBLP:journals/ral/KoryakovskiyKVB18:
     Caarls
   dblp: journals/ral/KoryakovskiyKVB18
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Robotics Autom. Lett. 3: 2471-2477 (2018).'
   title: Model-Plant Mismatch Compensation Using Reinforcement Learning.
   url: https://www.wikidata.org/entity/Q62562053
@@ -9314,8 +9336,8 @@ DBLP:journals/ral/KulhanekDB21:
   dblp: journals/ral/KulhanekDB21
   doi: https://doi.org/10.1109/LRA.2021.3068106
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Robotics Autom. Lett. 6: 4345-4352 (2021).'
   title: Visual Navigation in Real-World Indoor Environments Using End-to-End Deep
     Reinforcement Learning.
@@ -9325,8 +9347,8 @@ DBLP:journals/ral/MazharBK21:
   dblp: journals/ral/MazharBK21
   doi: https://doi.org/10.1109/LRA.2021.3093871
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Robotics Autom. Lett. 6: 6321-6328 (2021).'
   title: 'GEM: Glare or Gloom, I Can Still See You - End-to-End Multi-Modal Object
     Detection.'
@@ -9336,8 +9358,8 @@ DBLP:journals/ram/PreucilB22:
   dblp: journals/ram/PreucilB22
   doi: https://doi.org/10.1109/MRA.2022.3143189
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Robotics Autom. Mag. 29: 108-111 (2022).'
   title: IROS 2021 Online in Prague [Society News].
   year: 2022
@@ -9347,8 +9369,8 @@ DBLP:journals/ras/DernerGHBB21:
   dblp: journals/ras/DernerGHBB21
   doi: https://doi.org/10.1016/j.robot.2020.103676
   groups:
-  - ML
   - main
+  - ML
   source: 'Robotics Auton. Syst. 135: (2021).'
   title: Change detection using weighted features for image-based localization.
   year: 2021
@@ -9357,8 +9379,8 @@ DBLP:journals/ras/KoryakovskiyKBC17:
     \ Kirches, Katja D. Mombaur, Johannes P. Schl\xF6der, Heike Vallery"
   dblp: journals/ras/KoryakovskiyKBC17
   groups:
-  - ML
   - main
+  - ML
   source: 'Robotics Auton. Syst. 92: 81-90 (2017).'
   title: Benchmarking model-free and model-based optimal control.
   url: https://www.wikidata.org/entity/Q59309652
@@ -9368,8 +9390,8 @@ DBLP:journals/ras/WolfslagPBW15:
   dblp: journals/ras/WolfslagPBW15
   doi: https://doi.org/10.1016/j.robot.2014.12.017
   groups:
-  - ML
   - main
+  - ML
   source: 'Robotics Auton. Syst. 66: 27-34 (2015).'
   title: Learning robustly stable open-loop motions for robotic manipulation.
   year: 2015
@@ -9377,8 +9399,8 @@ DBLP:journals/ress/VerbertSB17:
   authors: Kim Verbert, Bart De Schutter, Robert Babuska
   dblp: journals/ress/VerbertSB17
   groups:
-  - ML
   - main
+  - ML
   source: 'Reliab. Eng. Syst. Saf. 159: 310-321 (2017).'
   title: Timely condition-based maintenance planning for multi-component systems.
   url: https://www.wikidata.org/entity/Q107155205
@@ -9418,8 +9440,8 @@ DBLP:journals/scholarpedia/BabuskaM08:
   dblp: journals/scholarpedia/BabuskaM08
   doi: https://doi.org/10.4249/scholarpedia.2103
   groups:
-  - ML
   - main
+  - ML
   source: 'Scholarpedia 3: (2008).'
   title: Fuzzy control.
   year: 2008
@@ -9427,8 +9449,8 @@ DBLP:journals/sensors/KulichKP19:
   authors: "Miroslav Kulich, Jir\xED Kubal\xEDk, Libor Preucil"
   dblp: journals/sensors/KulichKP19
   groups:
-  - ML
   - main
+  - ML
   source: 'Sensors 19: (2019).'
   title: An Integrated Approach to Goal Selection in Mobile Robot Exploration.
   url: https://www.wikidata.org/entity/Q64068119
@@ -9438,8 +9460,8 @@ DBLP:journals/siamco/AlikocE17:
   dblp: journals/siamco/AlikocE17
   doi: https://doi.org/10.1137/16M1077726
   groups:
-  - ML
   - main
+  - ML
   source: 'SIAM J. Control. Optim. 55: 2661-2683 (2017).'
   title: A Polynomial Method for Stability Analysis of LTI Systems Independent of
     Delays.
@@ -9449,8 +9471,8 @@ DBLP:journals/soco/MaertensBB06:
   dblp: journals/soco/MaertensBB06
   doi: https://doi.org/10.1007/s00500-005-0008-8
   groups:
-  - ML
   - main
+  - ML
   source: 'Soft Comput. 10: 785-795 (2006).'
   title: Genetic polynomial regression as input selection algorithm for non-linear
     identification.
@@ -9460,8 +9482,8 @@ DBLP:journals/speech/DeorasMKC13:
   dblp: journals/speech/DeorasMKC13
   doi: https://doi.org/10.1016/j.specom.2012.08.004
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Speech Commun. 55: 162-177 (2013).'
   title: 'Approximate inference: A sampling based modeling technique to capture complex
     dependencies in a language model.'
@@ -9471,8 +9493,8 @@ DBLP:journals/tac/NageshraoLJB16:
   dblp: journals/tac/NageshraoLJB16
   doi: https://doi.org/10.1109/TAC.2015.2458491
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Autom. Control. 61: 1223-1238 (2016).'
   title: 'Port-Hamiltonian Systems in Adaptive and Learning Control: A Survey.'
   year: 2016
@@ -9480,8 +9502,8 @@ DBLP:journals/tacl/BojanowskiGJM17:
   authors: "Piotr Bojanowski, Edouard Grave, Armand Joulin, Tom\xE1s Mikolov"
   dblp: journals/tacl/BojanowskiGJM17
   groups:
-  - FAI
   - main
+  - FAI
   source: 'Trans. Assoc. Comput. Linguistics 5: 135-146 (2017).'
   title: Enriching Word Vectors with Subword Information.
   url: https://www.wikidata.org/entity/Q28775150
@@ -9490,8 +9512,8 @@ DBLP:journals/tbe/MesicBHV03:
   authors: Samir Mesic, Robert Babuska, Henk C. Hoogsteden, Anton F. M. Verbraak
   dblp: journals/tbe/MesicBHV03
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Biomed. Eng. 50: 731-743 (2003).'
   title: Computer-controlled mechanical simulation of the artificially ventilated
     human respiratory system.
@@ -9502,8 +9524,8 @@ DBLP:journals/tcci/KubalikAZB16:
   dblp: journals/tcci/KubalikAZB16
   doi: https://doi.org/10.1007/978-3-662-53525-7_4
   groups:
-  - ML
   - main
+  - ML
   source: 'Trans. Comput. Collect. Intell. 24: 61-82 (2016).'
   title: Hybrid Single Node Genetic Programming for Symbolic Regression.
   year: 2016
@@ -9512,8 +9534,8 @@ DBLP:journals/tcci/TozickaJDK15:
   dblp: journals/tcci/TozickaJDK15
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Trans. Comput. Collect. Intell. 20: 117-139 (2015).'
   title: Extensibility Based Multiagent Planner with Plan Diversity Metrics.
   url: https://www.wikidata.org/entity/Q62044876
@@ -9523,8 +9545,8 @@ DBLP:journals/tcci/TozickaJK18:
   dblp: journals/tcci/TozickaJK18
   groups:
   - AR
-  - FM
   - main
+  - FM
   source: 'Trans. Comput. Collect. Intell. 28: 66-92 (2018).'
   title: Recursive Reductions of Action Dependencies for Coordination-Based Multiagent
     Planning.
@@ -9546,8 +9568,8 @@ DBLP:journals/tcst/BestemanLBOV98:
   dblp: journals/tcst/BestemanLBOV98
   doi: https://doi.org/10.1109/87.654879
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Control. Syst. Technol. 6: 88-102 (1998).'
   title: Modeling and identification of a strip guidance process with internal feedback.
   year: 1998
@@ -9555,8 +9577,8 @@ DBLP:journals/tcyb/NajafiBL16:
   authors: Esmaeil Najafi, Robert Babuska, Gabriel A. D. Lopes
   dblp: journals/tcyb/NajafiBL16
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Cybern. 46: 2559-2569 (2016).'
   title: Learning Sequential Composition Control.
   url: https://www.wikidata.org/entity/Q50555285
@@ -9566,8 +9588,8 @@ DBLP:journals/tcyb/SprangersBNL15:
     Lopes
   dblp: journals/tcyb/SprangersBNL15
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Cybern. 45: 1003-1013 (2015).'
   title: Reinforcement Learning for Port-Hamiltonian Systems.
   url: https://www.wikidata.org/entity/Q50638072
@@ -9577,8 +9599,8 @@ DBLP:journals/tcyb/StanoLBBKD13:
     \ Keizer, Arnold J. den Dekker"
   dblp: journals/tcyb/StanoLBBKD13
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Cybern. 43: 1607-1624 (2013).'
   title: 'Parametric Bayesian Filters for Nonlinear Stochastic Dynamical Systems:
     A Survey.'
@@ -9589,8 +9611,8 @@ DBLP:journals/tfs/BuijtenenSBV98:
   dblp: journals/tfs/BuijtenenSBV98
   doi: https://doi.org/10.1109/91.669012
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Fuzzy Syst. 6: 185-194 (1998).'
   title: Adaptive fuzzy control of satellite attitude by reinforcement learning.
   year: 1998
@@ -9599,7 +9621,7 @@ DBLP:journals/tfs/HurtikMH20:
   dblp: journals/tfs/HurtikMH20
   doi: https://doi.org/10.1109/TFUZZ.2019.2911494
   groups:
-  - AR
+  - FM
   - main
   source: 'IEEE Trans. Fuzzy Syst. 28: 1195-1204 (2020).'
   title: Data Preprocessing Technique for Neural Networks Based on Image Represented
@@ -9610,8 +9632,8 @@ DBLP:journals/tfs/JohansenB03:
   dblp: journals/tfs/JohansenB03
   doi: https://doi.org/10.1109/TFUZZ.2003.819824
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Fuzzy Syst. 11: 847-860 (2003).'
   title: Multiobjective identification of Takagi-Sugeno fuzzy models.
   year: 2003
@@ -9620,8 +9642,8 @@ DBLP:journals/tfs/KorbaBVF03:
   dblp: journals/tfs/KorbaBVF03
   doi: https://doi.org/10.1109/TFUZZ.2003.812680
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Fuzzy Syst. 11: 285-298 (2003).'
   title: 'Fuzzy gain scheduling: controller and observer design based on Lyapunov
     method and convex optimization.'
@@ -9631,8 +9653,8 @@ DBLP:journals/tfs/LendekBS09:
   dblp: journals/tfs/LendekBS09
   doi: https://doi.org/10.1109/TFUZZ.2008.924353
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Fuzzy Syst. 17: 641-653 (2009).'
   title: Stability of Cascaded Fuzzy Systems and Observers.
   year: 2009
@@ -9641,8 +9663,8 @@ DBLP:journals/tfs/MollovBAV04:
   dblp: journals/tfs/MollovBAV04
   doi: https://doi.org/10.1109/TFUZZ.2004.834812
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Fuzzy Syst. 12: 661-675 (2004).'
   title: Effective optimization for fuzzy model predictive control.
   year: 2004
@@ -9652,8 +9674,8 @@ DBLP:journals/tfs/MollovBCOB02:
   dblp: journals/tfs/MollovBCOB02
   doi: https://doi.org/10.1109/91.983278
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Fuzzy Syst. 10: 50-64 (2002).'
   title: Robust stability constraints for fuzzy model predictive control.
   year: 2002
@@ -9662,8 +9684,8 @@ DBLP:journals/tfs/RoubosB03:
   dblp: journals/tfs/RoubosB03
   doi: https://doi.org/10.1109/TFUZZ.2003.819822
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Fuzzy Syst. 11: 861-865 (2003).'
   title: Comments on the benchmarks in "A proposal for improving the accuracy of Linguistic
     Modeling" and related articles.
@@ -9673,8 +9695,8 @@ DBLP:journals/tfs/SindelarB04:
   dblp: journals/tfs/SindelarB04
   doi: https://doi.org/10.1109/TFUZZ.2004.834810
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Fuzzy Syst. 12: 688-696 (2004).'
   title: Input selection for nonlinear regression models.
   year: 2004
@@ -9683,8 +9705,8 @@ DBLP:journals/tmm/WorringKZ16:
   dblp: journals/tmm/WorringKZ16
   doi: https://doi.org/10.1109/TMM.2016.2614380
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Multim. 18: 2217-2227 (2016).'
   title: Multimedia Pivot Tables for Multimedia Analytics on Image Collections.
   year: 2016
@@ -9694,8 +9716,8 @@ DBLP:journals/tmm/ZahalkaRJKW18:
   dblp: journals/tmm/ZahalkaRJKW18
   doi: https://doi.org/10.1109/TMM.2017.2755986
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Multim. 20: 687-698 (2018).'
   title: 'Blackthorn: Large-Scale Interactive Multimodal Learning.'
   year: 2018
@@ -9704,8 +9726,8 @@ DBLP:journals/tmm/ZahalkaRW15:
   dblp: journals/tmm/ZahalkaRW15
   doi: https://doi.org/10.1109/TMM.2015.2480007
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Multim. 17: 2235-2244 (2015).'
   title: Interactive Multimodal Learning for Venue Recommendation.
   year: 2015
@@ -9713,8 +9735,8 @@ DBLP:journals/tnn/BruinVB17:
   authors: Tim de Bruin, Kim Verbert, Robert Babuska
   dblp: journals/tnn/BruinVB17
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Neural Networks Learn. Syst. 28: 523-533 (2017).'
   title: Railway Track Circuit Fault Diagnosis Using Recurrent Neural Networks.
   url: https://www.wikidata.org/entity/Q39820150
@@ -9733,8 +9755,8 @@ DBLP:journals/tr/VerbertSB18:
   authors: Kim Verbert, Bart De Schutter, Robert Babuska
   dblp: journals/tr/VerbertSB18
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Reliab. 67: 1364-1376 (2018).'
   title: A Multiple-Model Reliability Prediction Approach for Condition-Based Maintenance.
   url: https://www.wikidata.org/entity/Q107155161
@@ -9744,8 +9766,8 @@ DBLP:journals/trob/LopesKBSB14:
     Robert Babuska
   dblp: journals/trob/LopesKBSB14
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Robotics 30: 652-665 (2014).'
   title: Modeling and Control of Legged Locomotion via Switching Max-Plus Models.
   url: https://www.wikidata.org/entity/Q107155778
@@ -9755,8 +9777,8 @@ DBLP:journals/trob/ShahbaziBL16:
   dblp: journals/trob/ShahbaziBL16
   doi: https://doi.org/10.1109/TRO.2016.2593483
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Robotics 32: 1178-1195 (2016).'
   title: Unified Modeling and Control of Walking and Running on the Spring-Loaded
     Inverted Pendulum.
@@ -9766,8 +9788,8 @@ DBLP:journals/tsg/RuelensCQSBB18:
     Babuska, Ronnie Belmans
   dblp: journals/tsg/RuelensCQSBB18
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Smart Grid 9: 3792-3800 (2018).'
   title: 'Reinforcement Learning Applied to an Electric Water Heater: From Theory
     to Practice.'
@@ -9778,8 +9800,8 @@ DBLP:journals/tsg/RuelensCVSBB17:
     Babuska, Ronnie Belmans
   dblp: journals/tsg/RuelensCVSBB17
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Smart Grid 8: 2149-2159 (2017).'
   title: Residential Demand Response of Thermostatically Controlled Loads Using Batch
     Reinforcement Learning.
@@ -9789,8 +9811,8 @@ DBLP:journals/tsmc/AbonyiBS01:
   authors: "J\xE1nos Abonyi, Robert Babuska, Ferenc Szeifert"
   dblp: journals/tsmc/AbonyiBS01
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Syst. Man Cybern. Part B 31: 755-767 (2001).'
   title: 'Fuzzy modeling with multivariate membership functions: gray-box identification
     and control design.'
@@ -9800,8 +9822,8 @@ DBLP:journals/tsmc/AbonyiBS02:
   authors: "J\xE1nos Abonyi, Robert Babuska, Ferenc Szeifert"
   dblp: journals/tsmc/AbonyiBS02
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Syst. Man Cybern. Part B 32: 612-621 (2002).'
   title: Modified Gath-Geva fuzzy clustering for identification of Takagi-Sugeno fuzzy
     models.
@@ -9812,8 +9834,8 @@ DBLP:journals/tsmc/AdamBB12:
   dblp: journals/tsmc/AdamBB12
   doi: https://doi.org/10.1109/TSMCC.2011.2106494
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Syst. Man Cybern. Part C 42: 201-212 (2012).'
   title: Experience Replay for Real-Time Reinforcement Learning Control.
   year: 2012
@@ -9822,8 +9844,8 @@ DBLP:journals/tsmc/BusoniuBS08:
   dblp: journals/tsmc/BusoniuBS08
   doi: https://doi.org/10.1109/TSMCC.2007.913919
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Syst. Man Cybern. Part C 38: 156-172 (2008).'
   title: A Comprehensive Survey of Multiagent Reinforcement Learning.
   year: 2008
@@ -9831,8 +9853,8 @@ DBLP:journals/tsmc/BusoniuESB11:
   authors: Lucian Busoniu, Damien Ernst, Bart De Schutter, Robert Babuska
   dblp: journals/tsmc/BusoniuESB11
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Syst. Man Cybern. Part B 41: 196-209 (2011).'
   title: Cross-Entropy Optimization of Control Policies With Adaptive Basis Functions.
   url: https://www.wikidata.org/entity/Q51686976
@@ -9842,8 +9864,8 @@ DBLP:journals/tsmc/GrondmanBLB12:
   dblp: journals/tsmc/GrondmanBLB12
   doi: https://doi.org/10.1109/TSMCC.2012.2218595
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Syst. Man Cybern. Part C 42: 1291-1307 (2012).'
   title: 'A Survey of Actor-Critic Reinforcement Learning: Standard and Natural Policy
     Gradients.'
@@ -9853,8 +9875,8 @@ DBLP:journals/tsmc/GrondmanVBBS12:
     Schuitema
   dblp: journals/tsmc/GrondmanVBBS12
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Syst. Man Cybern. Part B 42: 591-602 (2012).'
   title: Efficient Model Learning Methods for Actor-Critic Control.
   url: https://www.wikidata.org/entity/Q51477000
@@ -9864,8 +9886,8 @@ DBLP:journals/tsmc/KubalikTSS10:
   dblp: journals/tsmc/KubalikTSS10
   doi: https://doi.org/10.1109/TSMCC.2009.2031093
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Syst. Man Cybern. Part C 40: 78-86 (2010).'
   title: Clustering Methods for Agent Distribution Optimization.
   year: 2010
@@ -9874,8 +9896,8 @@ DBLP:journals/tsmc/OosteromBV02:
   dblp: journals/tsmc/OosteromBV02
   doi: https://doi.org/10.1109/TSMCC.2002.801357
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Syst. Man Cybern. Part C 32: 125-139 (2002).'
   title: Soft computing applications in aircraft sensor management and flight control
     law reconfiguration.
@@ -9885,8 +9907,8 @@ DBLP:journals/tsmc/SetnesB01:
   dblp: journals/tsmc/SetnesB01
   doi: https://doi.org/10.1109/5326.941843
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Syst. Man Cybern. Syst. 31: 199-206 (2001).'
   title: 'Rule base reduction: some comments on the use of orthogonal transforms.'
   year: 2001
@@ -9894,8 +9916,8 @@ DBLP:journals/tsmc/SetnesB99:
   authors: Magne Setnes, Robert Babuska
   dblp: journals/tsmc/SetnesB99
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Syst. Man Cybern. Part B 29: 619-625 (1999).'
   title: Fuzzy relational classifier trained by fuzzy clustering.
   url: https://www.wikidata.org/entity/Q38392411
@@ -9904,8 +9926,8 @@ DBLP:journals/tsmc/SetnesBKL98:
   authors: Magne Setnes, Robert Babuska, Uzay Kaymak, H. R. van Nauta Lemke
   dblp: journals/tsmc/SetnesBKL98
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Syst. Man Cybern. Part B 28: 376-386 (1998).'
   title: Similarity measures in fuzzy rule base simplification.
   url: https://www.wikidata.org/entity/Q80648853
@@ -9915,8 +9937,8 @@ DBLP:journals/tsmc/SetnesBV98:
   dblp: journals/tsmc/SetnesBV98
   doi: https://doi.org/10.1109/5326.661100
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Syst. Man Cybern. Part C 28: 165-169 (1998).'
   title: 'Rule-based modeling: precision and transparency.'
   year: 1998
@@ -9924,8 +9946,8 @@ DBLP:journals/tsmc/WangCB12:
   authors: Shouyi Wang, Wanpracha Art Chaovalitwongse, Robert Babuska
   dblp: journals/tsmc/WangCB12
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Syst. Man Cybern. Part C 42: 728-743 (2012).'
   title: Machine Learning Algorithms in Bipedal Robot Control.
   url: https://www.wikidata.org/entity/Q56420187
@@ -9934,8 +9956,8 @@ DBLP:journals/tvcg/ZahalkaWW21:
   authors: "Jan Zah\xE1lka, Marcel Worring, Jarke J. van Wijk"
   dblp: journals/tvcg/ZahalkaWW21
   groups:
-  - ML
   - main
+  - ML
   source: 'IEEE Trans. Vis. Comput. Graph. 27: 422-431 (2021).'
   title: 'II-20: Intelligent and pragmatic analytic categorization of image collections.'
   url: https://www.wikidata.org/entity/Q100732326
@@ -9958,7 +9980,7 @@ DBLP:phd/dnb/Suda15:
   groups:
   - AR
   - main
-  source: Thesis (2015)
+  source: Thesis (2015).
   title: Resolution-based methods for linear temporal reasoning.
   url: https://d-nb.info/1078261164
   year: 2015
@@ -9987,8 +10009,8 @@ DBLP:series/sci/2010-281:
   dblp: series/sci/2010-281
   doi: https://doi.org/10.1007/978-3-642-11688-9
   groups:
-  - ML
   - main
+  - ML
   source: Studies in Computational Intelligence, Springer (2010).
   title: Interactive Collaborative Information Systems
   year: 2010
@@ -9996,8 +10018,8 @@ DBLP:series/sci/AstBS10:
   authors: Jelmer Marinus van Ast, Robert Babuska, Bart De Schutter
   dblp: series/sci/AstBS10
   groups:
-  - ML
   - main
+  - ML
   source: 'Interactive Collaborative Information Systems: 155-182 (2010).'
   title: Ant Colony Learning Algorithm for Optimal Control.
   url: https://www.wikidata.org/entity/Q108430513
@@ -10006,8 +10028,8 @@ DBLP:series/sci/BusoniuSB10:
   authors: Lucian Busoniu, Bart De Schutter, Robert Babuska
   dblp: series/sci/BusoniuSB10
   groups:
-  - ML
   - main
+  - ML
   source: 'Interactive Collaborative Information Systems: 3-44 (2010).'
   title: Approximate Dynamic Programming and Reinforcement Learning.
   url: https://www.wikidata.org/entity/Q108430517

@@ -1,21 +1,26 @@
 ---
 layout: main
 hidden: true
-subheader: Internal information system
+subheader: internals
 ---
 
 # Members update
 
+The list of members of the department is stored in the repository file 
+[docs/_data/members.yml](https://github.com/ai4reason/ai4reason.github.io/blob/main/docs/_data/members.yml/){:target="_blank"}
+in the 
+[YAML](https://en.wikipedia.org/wiki/YAML/){:target="_blank"} 
+format.
+
 ## Quickstart
 
-The list of department members is stored in [docs/_data/members.yml](https://github.com/ai4reason/ai4reason.github.io/blob/main/docs/_data/members.yml/){:target="_blank"} in the repository.
-Each department member is described by a YAML record with at least the following items.
+To edit the list of department members proceed as follows.
 
-🔴 Make sure the `dblp` key is set correctly.  Otherwise the list of publications will not contain publications of this member. ❗ 
+1️⃣  Open the members file [docs/_data/members.yml](https://github.com/ai4reason/ai4reason.github.io/blob/main/docs/_data/members.yml/){:target="_blank"} in the Github web interface.
 
-+ 🔴 `dblp` ⚠️ 
+2️⃣  Click on the edit button.  You need to login to Github for this.
 
-## Member record
+3️⃣  Locate the YAML record to edit or create a new one in the following form.
 
 ```yaml
 - name: Jan Z. Rokycan
@@ -37,7 +42,18 @@ Each department member is described by a YAML record with at least the following
   github: githabino
 ```
 
-## ➡️  Required entries
+4️⃣  Edit the fields appropriately.  See below for field descriptions.
+
+⚠️  At least the [required fields](#--required-fields) `name`, `dblp`, `role`, and `groups` should be set.
+
+🔴 Make sure the `dblp` [field](#dblp--string) is set correctly.  Otherwise the list of publications will not contain publications of this member. ❗ 
+
+5️⃣  Describe _Commit changes_ and  start a pull request.  Once the pull request is merged, the web page will become updated in a couple of minutes.
+
+
+## ➡️  Required fields
+
+The required fields should be set for every record.
 
 * * * 
 
@@ -95,13 +111,33 @@ Allowed list items are:
 in the department [institution](/institution.html) page (as *main* members).
 
 
-## ➡️  Informal entries
+## ➡️  Informal fields
+
+Informal fields provide basic member information to be displayed on the members page.
+
+* * * 
+
+### `image` :: url
+
+A photo of the member, preferably in a 4:3 format (vertical).
+The url can be
++ an external link, like `https://my.page/image.png`, or 
++ a local link like `/images/members/user.png`.
+
+The local links are relative to directory
+[/docs](https://github.com/ai4reason/ai4reason.github.io/tree/main/docs){:target="_blank"} 
+in the repo.
+Photos can be uploaded into folder
+[/docs/images/members](https://github.com/ai4reason/ai4reason.github.io/tree/main/docs/images/members){:target="_blank"}.
+
+
+ℹ️  Generic photo `/images/members/user.png` should be used if no photo is available.
 
 * * * 
 
 ### `position` :: string
 
-Informal position description as a string.
+Informal position description as a string, like _Junior Researcher_.
 
 * * *
 
@@ -114,11 +150,10 @@ YAML list of strings with the research interests of this member.
 
 * * * 
 
-### `image` :: url
+## ➡️  Link fields
 
-* * * 
-
-## ➡️  Link entries
+Link fields are rendered as linked images next to the member photo.
+Additional link fields can be implemented on demand.
 
 * * *
 
@@ -165,11 +200,11 @@ should point to the Github's user page.
 * * * 
 
 
-## Next
+## Continue ...
 
-+ [Members update](/internal/members.html)
 + [Content update](/internal/content.html)
 + [Publication list](/internal/biblio.html)
++ [General pages administration](/internal/index.html)
 
 
 [YAML]: https://en.wikipedia.org/wiki/YAML/
