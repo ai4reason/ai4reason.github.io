@@ -44,7 +44,7 @@ See [content update](/internal/content.html) and
 For the automatically generated content to be valid, the list of group members
 must be up to date.
 The list of members of the department is stored in the repository file 
-[doc/_data/members.yml](https://github.com/ai4reason/ai4reason.github.io/blob/main/docs/_data/members.yml/){:target="_blank"}
+[docs/_data/members.yml](https://github.com/ai4reason/ai4reason.github.io/blob/main/docs/_data/members.yml/){:target="_blank"}
 in the 
 [YAML](https://en.wikipedia.org/wiki/YAML/){:target="_blank"} 
 format.
