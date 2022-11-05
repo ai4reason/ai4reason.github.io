@@ -113,11 +113,11 @@
     - Proof Checking
     - Proof Representations and Transformations 
   image: http://ai4reason.org/images/cebrown.jpg
-  email:
+  email: no@way.man
   homepage: https://en.wikipedia.org/wiki/Chad_of_Mercia
   scholar:
   dblp: pid/51/552
-  orcid:
+  orcid: 
   github:
 
 - name: Jan Jakubův
@@ -138,9 +138,9 @@
   image: https://usermap.cvut.cz/profile/photos/0c1ea120-069f-4234-8ddd-d0a86c3c5568?type=jpg
   email: jakubuv_AT_gmail_DOT_com
   homepage: http://people.ciirc.cvut.cz/~jakubja5
-  scholar: 
+  scholar: -9PelKYAAAAJ
   dblp: pid/88/7998
-  orcid: 
+  orcid: 0000-0002-8848-5537
   github: cbboyan
 
 - name: Thibault Gauthier
@@ -395,6 +395,35 @@
   github: 
 
 
+- name: Jana Popelová
+  role: admin
+  dblp: 
+  groups:
+    - main
+  position: Secretary
+  interests:
+  image: /images/members/user.png
+  email: jana.popelova_AT_cvut.cz
+  phone: +420-22435-4243
+  homepage: https://usermap.cvut.cz/profile/9f438846-1e91-484f-8902-a349c6a564b7?lang=en
+  scholar:
+  orcid:
+  github: 
+
+- name: Eva Trčálková Ludwigová
+  role: admin
+  dblp: 
+  groups:
+    - main
+  position: Secretary
+  interests:
+  image: /images/members/user.png
+  email: eva.trcalkova.ludwigova_AT_cvut.cz
+  phone: +420-22435-4258
+  homepage: https://usermap.cvut.cz/profile/98ddaad3-4193-4985-a8ac-b1e9593d3f9a?lang=en
+  scholar:
+  orcid:
+  github: 
 
 
 - name: 

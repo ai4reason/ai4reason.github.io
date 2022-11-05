@@ -20,8 +20,10 @@
   {% assign buttons = "" | split: "," %}
   {%- for btn in site.pages -%}
      {% if btn.layout and btn.layout == layout.group  %}
-        {% assign btn.index = btn.index | default: btn.button | default: btn.title %}
-        {% assign buttons = buttons | push: btn %}
+        {% unless btn.hidden %}
+           {% assign btn.index = btn.index | default: btn.button | default: btn.title %}
+           {% assign buttons = buttons | push: btn %}
+        {% endunless %}
      {% endif %}
   {%- endfor -%}
   {% assign buttons = buttons | sort: "index" %}

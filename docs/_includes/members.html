@@ -37,16 +37,21 @@
       {% if member.github %}
       <a target="_blank" href="https://github.com/{{member.github}}"> <img class="imglink" src="/images/github.png" /> </a><br/>
       {% endif %}
+      {% if member.phone %}
+      <a target="_blank" href="tel:{{member.phone}}"> <img class="imglink" src="/images/phone.png" /> </a><br/>
+      {% endif %}
     </div>
     <div style="float: left">
       <span class="name">{{member.name}}</span><br/>
       <span class="position">{{member.position}}</span><br/>
+      {% if member.interests %}
       <i>Research interests:</i>
       <ul>
          {% for interest in member.interests %}
          <li>{{interest}}</li>
          {% endfor %}
       </ul>
+      {% endif %}
     </div>
     <div style="clear: both"></div>
     <hr/>
