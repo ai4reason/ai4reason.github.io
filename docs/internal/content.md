@@ -85,7 +85,7 @@ index: 20
 
 Each page automatically generates a section button in the page menu.
 Use `button` to adjust the title of the section button for this page. 
-The default value is `title` which, in turn, defaults to the first heading of the page.
+The default value is `title` which, in turn, defaults to the first heading on the page.
 
 ℹ️  To prevent the page button to be generated in the menu, use `hidden: true`.
 
