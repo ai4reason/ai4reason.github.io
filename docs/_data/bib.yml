@@ -1075,8 +1075,8 @@ DBLP:conf/cade/PiotrowskiU18:
   dblp: conf/cade/PiotrowskiU18
   doi: https://doi.org/10.1007/978-3-319-94205-6_37
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: 'Automated Reasoning - 9th International Joint Conference, IJCAR 2018, Held
     as Part of the Federated Logic Conference, FloC 2018, Oxford, UK, July 14-17,
@@ -1248,8 +1248,8 @@ DBLP:conf/cade/ZomboriUB20:
   dblp: conf/cade/ZomboriUB20
   doi: https://doi.org/10.1007/978-3-030-51054-1_33
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: 'Automated Reasoning - 10th International Joint Conference, IJCAR 2020,
     Paris, France, July 1-4, 2020, Proceedings, Part II: 489-507 (2020).'
@@ -1683,8 +1683,8 @@ DBLP:conf/cpp/WangBKU20:
   authors: Qingxiang Wang, Chad E. Brown, Cezary Kaliszyk, Josef Urban
   dblp: conf/cpp/WangBKU20
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: 'Proceedings of the 9th ACM SIGPLAN International Conference on Certified
     Programs and Proofs, CPP 2020, New Orleans, LA, USA, January 20-21, 2020.: 85-98
@@ -4103,8 +4103,8 @@ DBLP:conf/lpar/JanotaS18:
   dblp: conf/lpar/JanotaS18
   doi: https://doi.org/10.29007/w42s
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: 'LPAR-22. 22nd International Conference on Logic for Programming, Artificial
     Intelligence and Reasoning, Awassa, Ethiopia, 16-21 November 2018: 454-470 (2018).'
@@ -4161,8 +4161,8 @@ DBLP:conf/lpar/PiotrowskiU20:
   dblp: conf/lpar/PiotrowskiU20
   doi: https://doi.org/10.29007/j5hd
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: 'LPAR 2020: 23rd International Conference on Logic for Programming, Artificial
     Intelligence and Reasoning, Alicante, Spain, May 22-27, 2020.: 409-422 (2020).'
@@ -4507,8 +4507,8 @@ DBLP:conf/mkm/BrownU16:
   dblp: conf/mkm/BrownU16
   doi: https://doi.org/10.1007/978-3-319-42547-4_8
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: 'Intelligent Computer Mathematics - 9th International Conference, CICM 2016,
     Bialystok, Poland, July 25-29, 2016, Proceedings: 99-114 (2016).'
@@ -4707,8 +4707,8 @@ DBLP:conf/mkm/PiotrowskiU20:
   dblp: conf/mkm/PiotrowskiU20
   doi: https://doi.org/10.1007/978-3-030-53518-6_23
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: 'Intelligent Computer Mathematics - 13th International Conference, CICM
     2020, Bertinoro, Italy, July 26-31, 2020, Proceedings: 309-314 (2020).'
@@ -4777,8 +4777,8 @@ DBLP:conf/mkm/ZhangBPCKU21:
   dblp: conf/mkm/ZhangBPCKU21
   doi: https://doi.org/10.1007/978-3-030-81097-9_5
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: 'Intelligent Computer Mathematics - 14th International Conference, CICM
     2021, Timisoara, Romania, July 26-31, 2021, Proceedings: 67-83 (2021).'
@@ -6268,8 +6268,8 @@ DBLP:journals/corr/BrownU16:
   authors: Chad E. Brown, Josef Urban
   dblp: journals/corr/BrownU16
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: arXiv CoRR abs/1605.06996 (2016).
   title: Extracting Higher-Order Goals from the Mizar Mathematical Library.
@@ -7169,8 +7169,8 @@ DBLP:journals/corr/abs-1802-03375:
   authors: Bartosz Piotrowski, Josef Urban
   dblp: journals/corr/abs-1802-03375
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: arXiv CoRR abs/1802.03375 (2018).
   title: 'ATPboost: Learning Premise Selection in Binary Setting with ATP Feedback.'
@@ -7425,8 +7425,8 @@ DBLP:journals/corr/abs-1905-07961:
   authors: Bartosz Piotrowski, Josef Urban
   dblp: journals/corr/abs-1905-07961
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: arXiv CoRR abs/1905.07961 (2019).
   title: Guiding Theorem Proving by Recurrent Neural Networks.
@@ -7594,8 +7594,8 @@ DBLP:journals/corr/abs-1912-01525:
   authors: Chad E. Brown, Thibault Gauthier
   dblp: journals/corr/abs-1912-01525
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: arXiv CoRR abs/1912.01525 (2019).
   title: Self-Learned Formula Synthesis in Set Theory.
@@ -7605,8 +7605,8 @@ DBLP:journals/corr/abs-1912-02636:
   authors: Qingxiang Wang, Chad E. Brown, Cezary Kaliszyk, Josef Urban
   dblp: journals/corr/abs-1912-02636
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: arXiv CoRR abs/1912.02636 (2019).
   title: Exploration of Neural Machine Translation in Autoformalization of Mathematics
@@ -7691,8 +7691,8 @@ DBLP:journals/corr/abs-2004-06997:
   authors: Zsolt Zombori, Josef Urban, Chad E. Brown
   dblp: journals/corr/abs-2004-06997
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: arXiv CoRR abs/2004.06997 (2020).
   title: Prolog Technology Reinforcement Learning Prover.
@@ -7702,8 +7702,8 @@ DBLP:journals/corr/abs-2004-08212:
   authors: Bartosz Piotrowski, Josef Urban
   dblp: journals/corr/abs-2004-08212
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: arXiv CoRR abs/2004.08212 (2020).
   title: Stateful Premise Selection by Recurrent Neural Networks.
@@ -7952,8 +7952,8 @@ DBLP:journals/corr/abs-2104-05207:
     \ Kaliszyk, Josef Urban"
   dblp: journals/corr/abs-2104-05207
   groups:
-  - FM
   - AR
+  - FM
   - main
   source: arXiv CoRR abs/2104.05207 (2021).
   title: 'Online Machine Learning Techniques for Coq: A Comparison.'
