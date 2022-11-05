@@ -96,7 +96,7 @@ def update_db(db, new):
 
 def finalize_db(db):
    for entry in db.values():
-      entry["groups"] = list(entry["groups"])
+      entry["groups"] = sorted(entry["groups"])
       entry["authors"] = ", ".join(entry["authors"])
       (typ, link) = entry["url"]
       del entry["url"]
