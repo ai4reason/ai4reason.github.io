@@ -1,0 +1,39 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Update bibliography database
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  schedule:
+    - cron: "0 0 * * *" #runs at 00:00 UTC everyday
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.7"
+#    - run: pip3 install pandas openpyxl
+    - name: download bibliography
+      run: |
+        ./update-bib.sh
+    - name: update the repo
+      run: |
+        git config --local user.name "biblio updater"
+        git config --local user.email "ai4reason@github.com"
+        git add .
+        git commit -m "Auto update pubs"
+    - name: push changes 
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        force: true
