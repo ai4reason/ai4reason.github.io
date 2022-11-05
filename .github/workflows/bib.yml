@@ -23,7 +23,7 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: "3.7"
-#    - run: pip3 install pandas openpyxl
+    - run: pip3 install yaml
     - name: download bibliography
       run: |
         ./update-bib.sh
