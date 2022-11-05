@@ -65,7 +65,7 @@ Select the member position inside the department from the following values.
 
 ### `groups` :: [group]
 
-A YAML list of groups of the member belongs to.
+A YAML list of groups the member belongs to.
 At least one group should be specified.
 Allowed list items are:
 
