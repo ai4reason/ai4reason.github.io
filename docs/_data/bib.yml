@@ -2,8 +2,8 @@ DBLP:books/daglib/0068045:
   authors: Paul Helman, Robert Veroff, Frank R. Carrano
   dblp: books/daglib/0068045
   groups:
-  - main
   - AR
+  - main
   source: Benjamin/Cummings series in computer science, Benjamin/Cummings (1991).
   title: Intermediate problem solving and data structures - walls and mirrors (2.
     ed.).
@@ -12,8 +12,8 @@ DBLP:books/ox/LAI2Hb1994/WosV94:
   authors: Larry Wos, Robert Veroff
   dblp: books/ox/LAI2Hb1994/WosV94
   groups:
-  - main
   - AR
+  - main
   source: 'Handbook of Logic in Artificial Intelligence and Logic Programming, Volume2,
     Deduction Methodologies: 1-40 (1994).'
   title: 'Logical basis for the automation of reasoning: Case studies.'
@@ -262,9 +262,9 @@ DBLP:conf/aips/TozickaJSK16:
   authors: "Jan Tozicka, Jan Jakubuv, Martin Svatos, Anton\xEDn Komenda"
   dblp: conf/aips/TozickaJSK16
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'Proceedings of the Twenty-Sixth International Conference on Automated Planning
     and Scheduling, ICAPS 2016, London, UK, June 12-17, 2016.: 317-325 (2016).'
   title: Recursive Polynomial Reductions for Classical Planning.
@@ -453,8 +453,8 @@ DBLP:conf/aplas/Nagashima19:
   dblp: conf/aplas/Nagashima19
   doi: https://doi.org/10.1007/978-3-030-34175-6_14
   groups:
-  - main
   - AR
+  - main
   source: 'Programming Languages and Systems - 17th Asian Symposium, APLAS 2019, Nusa
     Dua, Bali, Indonesia, December 1-4, 2019, Proceedings: 266-287 (2019).'
   title: 'LiFtEr: Language to Encode Induction Heuristics for Isabelle/HOL.'
@@ -489,8 +489,8 @@ DBLP:conf/asplos/AmaniHCRCOBNLST16:
   dblp: conf/asplos/AmaniHCRCOBNLST16
   doi: https://doi.org/10.1145/2980024.2872404
   groups:
-  - main
   - AR
+  - main
   source: 'Proceedings of the Twenty-First International Conference on Architectural
     Support for Programming Languages and Operating Systems, ASPLOS 2016, Atlanta,
     GA, USA, April 2-6, 2016: 175-188 (2016).'
@@ -549,8 +549,8 @@ DBLP:conf/birthday/KinyonVV13:
   dblp: conf/birthday/KinyonVV13
   doi: https://doi.org/10.1007/978-3-642-36675-8_8
   groups:
-  - main
   - AR
+  - main
   source: 'Automated Reasoning and Mathematics - Essays in Memory of William W. McCune:
     151-164 (2013).'
   title: 'Loops with Abelian Inner Mapping Groups: An Application of Automated Deduction.'
@@ -560,8 +560,8 @@ DBLP:conf/birthday/PadmanabhanV13:
   dblp: conf/birthday/PadmanabhanV13
   doi: https://doi.org/10.1007/978-3-642-36675-8_7
   groups:
-  - main
   - AR
+  - main
   source: 'Automated Reasoning and Mathematics - Essays in Memory of William W. McCune:
     139-150 (2013).'
   title: A Geometric Procedure with Prover9.
@@ -856,8 +856,8 @@ DBLP:conf/cade/GauthierKKN14:
   dblp: conf/cade/GauthierKKN14
   doi: https://doi.org/10.29007/8xbv
   groups:
-  - main
   - AR
+  - main
   source: '4th Workshop on Practical Aspects of Automated Reasoning, PAAR@IJCAR 2014,
     Vienna, Austria, 2014: 50-59 (2014).'
   title: Beagle as a HOL4 external ATP method.
@@ -903,8 +903,8 @@ DBLP:conf/cade/Goertzel20:
   dblp: conf/cade/Goertzel20
   doi: https://doi.org/10.1007/978-3-030-51054-1_26
   groups:
-  - main
   - AR
+  - main
   source: 'Automated Reasoning - 10th International Joint Conference, IJCAR 2020,
     Paris, France, July 1-4, 2020, Proceedings, Part II: 408-415 (2020).'
   title: Make E Smart Again (Short Paper).
@@ -1052,8 +1052,8 @@ DBLP:conf/cade/NagashimaK17:
   dblp: conf/cade/NagashimaK17
   doi: https://doi.org/10.1007/978-3-319-63046-5_32
   groups:
-  - main
   - AR
+  - main
   source: 'Automated Deduction - CADE 26 - 26th International Conference on Automated
     Deduction, Gothenburg, Sweden, August 6-11, 2017, Proceedings: 528-545 (2017).'
   title: A Proof Strategy Language and Proof Script Generation for Isabelle/HOL.
@@ -1237,8 +1237,8 @@ DBLP:conf/cade/WosVSM84:
   dblp: conf/cade/WosVSM84
   doi: https://doi.org/10.1007/978-0-387-34768-4_19
   groups:
-  - main
   - AR
+  - main
   source: '7th International Conference on Automated Deduction, Napa, California,
     USA, May 14-16, 1984, Proceedings: 316-332 (1984).'
   title: 'The Linked Inference Principle, II: The User''s Viewpoint.'
@@ -1516,8 +1516,8 @@ DBLP:conf/cie/HolubV17:
   dblp: conf/cie/HolubV17
   doi: https://doi.org/10.1007/978-3-319-58741-7_3
   groups:
-  - main
   - AR
+  - main
   source: 'Unveiling Dynamics and Complexity - 13th Conference on Computability in
     Europe, CiE 2017, Turku, Finland, June 12-16, 2017, Proceedings: 24-31 (2017).'
   title: Formalizing a Fragment of Combinatorics on Words.
@@ -1638,8 +1638,8 @@ DBLP:conf/cpp/GauthierK15:
   authors: Thibault Gauthier, Cezary Kaliszyk
   dblp: conf/cpp/GauthierK15
   groups:
-  - main
   - AR
+  - main
   source: 'Proceedings of the 2015 Conference on Certified Programs and Proofs, CPP
     2015, Mumbai, India, January 15-17, 2015: 49-57 (2015).'
   title: Premise Selection and External Provers for HOL4.
@@ -1780,9 +1780,9 @@ DBLP:conf/ecai/TozickaJK14:
   dblp: conf/ecai/TozickaJK14
   doi: https://doi.org/10.3233/978-1-61499-419-0-1111
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'ECAI 2014 - 21st European Conference on Artificial Intelligence, 18-22
     August 2014, Prague, Czech Republic - Including Prestigious Applications of Intelligent
     Systems (PAIS 2014): 1111-1112 (2014).'
@@ -2008,9 +2008,9 @@ DBLP:conf/eumas/TozickaJK15:
   authors: "Jan Tozicka, Jan Jakubuv, Anton\xEDn Komenda"
   dblp: conf/eumas/TozickaJK15
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'Multi-Agent Systems and Agreement Technologies - 13th European Conference,
     EUMAS 2015, and Third International Conference, AT 2015, Athens, Greece, December
     17-18, 2015, Revised Selected Papers: 21-33 (2015).'
@@ -2148,8 +2148,8 @@ DBLP:conf/fmcad/Nagashima20:
   dblp: conf/fmcad/Nagashima20
   doi: https://doi.org/10.34727/2020/isbn.978-3-85448-042-6_32
   groups:
-  - main
   - AR
+  - main
   source: '2020 Formal Methods in Computer Aided Design, FMCAD 2020, Haifa, Israel,
     September 21-24, 2020: 245-254 (2020).'
   title: Smart Induction for Isabelle/HOL (Tool Paper).
@@ -2659,8 +2659,8 @@ DBLP:conf/gecco/Nagashima19:
   dblp: conf/gecco/Nagashima19
   doi: https://doi.org/10.1145/3319619.3321921
   groups:
-  - main
   - AR
+  - main
   source: 'Proceedings of the Genetic and Evolutionary Computation Conference Companion,
     GECCO 2019, Prague, Czech Republic, July 13-17, 2019.: 419-420 (2019).'
   title: Towards evolutionary theorem proving for isabelle/HOL.
@@ -2726,9 +2726,9 @@ DBLP:conf/icaart/JakubuvTK15:
   authors: "Jan Jakubuv, Jan Tozicka, Anton\xEDn Komenda"
   dblp: conf/icaart/JakubuvTK15
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'ICAART 2015 - Proceedings of the International Conference on Agents and
     Artificial Intelligence, Volume 2, Lisbon, Portugal, 10-12 January, 2015.: 173-182
     (2015).'
@@ -2738,9 +2738,9 @@ DBLP:conf/icaart/JakubuvTK15a:
   authors: "Jan Jakubuv, Jan Tozicka, Anton\xEDn Komenda"
   dblp: conf/icaart/JakubuvTK15a
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'Agents and Artificial Intelligence - 7th International Conference, ICAART
     2015, Lisbon, Portugal, January 10-12, 2015, Revised Selected Papers: 245-261
     (2015).'
@@ -2752,9 +2752,9 @@ DBLP:conf/icaart/TozickaJDKP14:
   dblp: conf/icaart/TozickaJDKP14
   doi: https://doi.org/10.5220/0004918701780189
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'ICAART 2014 - Proceedings of the 6th International Conference on Agents
     and Artificial Intelligence, Volume 1, ESEO, Angers, Loire Valley, France, 6-8
     March, 2014: 178-189 (2014).'
@@ -2765,9 +2765,9 @@ DBLP:conf/icaart/TozickaJK16:
   dblp: conf/icaart/TozickaJK16
   doi: https://doi.org/10.5220/0005754901810191
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'Proceedings of the 8th International Conference on Agents and Artificial
     Intelligence (ICAART 2016), Volume 2, Rome, Italy, February 24-26, 2016.: 181-191
     (2016).'
@@ -2886,8 +2886,8 @@ DBLP:conf/icfp/OConnorCRALMNSK16:
   dblp: conf/icfp/OConnorCRALMNSK16
   doi: https://doi.org/10.1145/3022670.2951940
   groups:
-  - main
   - AR
+  - main
   source: 'Proceedings of the 21st ACM SIGPLAN International Conference on Functional
     Programming, ICFP 2016, Nara, Japan, September 18-22, 2016: 89-102 (2016).'
   title: 'Refinement through restraint: bringing down the cost of verification.'
@@ -2930,9 +2930,9 @@ DBLP:conf/iclr/Chvalovsky19:
   authors: "Karel Chvalovsk\xFD"
   dblp: conf/iclr/Chvalovsky19
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: '7th International Conference on Learning Representations, ICLR 2019, New
     Orleans, LA, USA, May 6-9, 2019: (2019).'
   title: Top-Down Neural Model For Formulae.
@@ -2997,9 +2997,9 @@ DBLP:conf/icms/JakubuvK18:
   authors: Jan Jakubuv, Cezary Kaliszyk
   dblp: conf/icms/JakubuvK18
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'Mathematical Software - ICMS 2018 - 6th International Conference, South
     Bend, IN, USA, July 24-27, 2018, Proceedings: 245-254 (2018).'
   title: Towards a Unified Ordering for Superposition-Based Automated Reasoning.
@@ -3246,8 +3246,8 @@ DBLP:conf/ijcai/Nagashima21:
   dblp: conf/ijcai/Nagashima21
   doi: https://doi.org/10.24963/ijcai.2021/273
   groups:
-  - main
   - AR
+  - main
   source: 'Proceedings of the Thirtieth International Joint Conference on Artificial
     Intelligence, IJCAI 2021, Virtual Event / Montreal, Canada, 19-27 August 2021.:
     1981-1988 (2021).'
@@ -3257,8 +3257,8 @@ DBLP:conf/ijcai/VeroffH81:
   authors: Robert Veroff, Lawrence J. Henschen
   dblp: conf/ijcai/VeroffH81
   groups:
-  - main
   - AR
+  - main
   source: 'Proceedings of the 7th International Joint Conference on Artificial Intelligence,
     IJCAI ''81, Vancouver, BC, Canada, August 24-28, 1981: 472-479 (1981).'
   title: Application of Automatic Transformations to Program Verification.
@@ -3814,8 +3814,8 @@ DBLP:conf/itp/RizkallahLNSCOM16:
   dblp: conf/itp/RizkallahLNSCOM16
   doi: https://doi.org/10.1007/978-3-319-43144-4_20
   groups:
-  - main
   - AR
+  - main
   source: 'Interactive Theorem Proving - 7th International Conference, ITP 2016, Nancy,
     France, August 22-25, 2016, Proceedings: 323-340 (2016).'
   title: A Framework for the Automatic Formal Verification of Refinement from Cogent
@@ -3938,8 +3938,8 @@ DBLP:conf/kbse/NagashimaH18:
   dblp: conf/kbse/NagashimaH18
   doi: https://doi.org/10.1145/3238147.3238210
   groups:
-  - main
   - AR
+  - main
   source: 'Proceedings of the 33rd ACM/IEEE International Conference on Automated
     Software Engineering, ASE 2018, Montpellier, France, September 3-7, 2018: 362-372
     (2018).'
@@ -4032,9 +4032,9 @@ DBLP:conf/lpar/ChvalovskyC10:
   dblp: conf/lpar/ChvalovskyC10
   doi: https://doi.org/10.29007/c66c
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'Short papers for 17th International Conference on Logic for Programming,
     Artificial intelligence, and Reasoning, LPAR-17-short, Yogyakarta, Indonesia,
     October 10-15, 2010: 26-29 (2010).'
@@ -4045,8 +4045,8 @@ DBLP:conf/lpar/Gauthier20:
   dblp: conf/lpar/Gauthier20
   doi: https://doi.org/10.29007/7jmg
   groups:
-  - main
   - AR
+  - main
   source: 'LPAR 2020: 23rd International Conference on Logic for Programming, Artificial
     Intelligence and Reasoning, Alicante, Spain, May 22-27, 2020.: 230-248 (2020).'
   title: Deep Reinforcement Learning for Synthesizing Functions in Higher-Order Logic.
@@ -4055,8 +4055,8 @@ DBLP:conf/lpar/GauthierK15:
   authors: Thibault Gauthier, Cezary Kaliszyk
   dblp: conf/lpar/GauthierK15
   groups:
-  - main
   - AR
+  - main
   source: 'Logic for Programming, Artificial Intelligence, and Reasoning - 20th International
     Conference, LPAR-20 2015, Suva, Fiji, November 24-28, 2015, Proceedings: 372-386
     (2015).'
@@ -4530,8 +4530,8 @@ DBLP:conf/mkm/Gauthier20:
   dblp: conf/mkm/Gauthier20
   doi: https://doi.org/10.1007/978-3-030-53518-6_18
   groups:
-  - main
   - AR
+  - main
   source: 'Intelligent Computer Mathematics - 13th International Conference, CICM
     2020, Bertinoro, Italy, July 26-31, 2020, Proceedings: 278-283 (2020).'
   title: Tree Neural Networks in HOL4.
@@ -4540,8 +4540,8 @@ DBLP:conf/mkm/GauthierK14:
   authors: Thibault Gauthier, Cezary Kaliszyk
   dblp: conf/mkm/GauthierK14
   groups:
-  - main
   - AR
+  - main
   source: 'Intelligent Computer Mathematics - International Conference, CICM 2014,
     Coimbra, Portugal, July 7-11, 2014. Proceedings: 267-281 (2014).'
   title: Matching Concepts across HOL Libraries.
@@ -4673,8 +4673,8 @@ DBLP:conf/mkm/MullerGKKR17:
     \ Florian Rabe"
   dblp: conf/mkm/MullerGKKR17
   groups:
-  - main
   - AR
+  - main
   source: 'Intelligent Computer Mathematics - 10th International Conference, CICM
     2017, Edinburgh, UK, July 17-21, 2017, Proceedings: 83-98 (2017).'
   title: Classification of Alignments Between Concepts of Formal Mathematical Systems.
@@ -4685,8 +4685,8 @@ DBLP:conf/mkm/Nagashima20:
   dblp: conf/mkm/Nagashima20
   doi: https://doi.org/10.1007/978-3-030-53518-6_21
   groups:
-  - main
   - AR
+  - main
   source: 'Intelligent Computer Mathematics - 13th International Conference, CICM
     2020, Bertinoro, Italy, July 26-31, 2020, Proceedings: 297-302 (2020).'
   title: Simple Dataset for Proof Method Recommendation in Isabelle/HOL.
@@ -4696,8 +4696,8 @@ DBLP:conf/mkm/NagashimaP18:
   dblp: conf/mkm/NagashimaP18
   doi: https://doi.org/10.1007/978-3-319-96812-4_19
   groups:
-  - main
   - AR
+  - main
   source: 'Intelligent Computer Mathematics - 11th International Conference, CICM
     2018, Hagenberg, Austria, August 13-17, 2018, Proceedings: 225-231 (2018).'
   title: Goal-Oriented Conjecturing for Isabelle/HOL.
@@ -4976,8 +4976,8 @@ DBLP:conf/mva/NagashimaI98:
   authors: Yutaka Nagashima, Takakazu Ishimatsu
   dblp: conf/mva/NagashimaI98
   groups:
-  - main
   - AR
+  - main
   source: 'Proceedings of IAPR Workshop on Machine Vision Applications, MVA 1998,
     November 17-19, 1998, Chiba, Japan: 306-309 (1998).'
   title: A Morphological Approach to Fish Discrimination.
@@ -4987,8 +4987,8 @@ DBLP:conf/mva/NagashimaNI96:
   authors: Yutaka Nagashima, Takeshi Nakazono, Takakazu Ishimatsu
   dblp: conf/mva/NagashimaNI96
   groups:
-  - main
   - AR
+  - main
   source: 'Proceedings of IAPR Workshop on Machine Vision Applications, MVA 1996,
     November 12-14, 1996, Tokyo, Japan: 426-429 (1996).'
   title: Parallel Implementation of Features Extraction Using Morphological Filter.
@@ -5736,8 +5736,8 @@ DBLP:conf/tap/Nagashima22:
   dblp: conf/tap/Nagashima22
   doi: https://doi.org/10.1007/978-3-031-09827-7_4
   groups:
-  - main
   - AR
+  - main
   source: 'Tests and Proofs - 16th International Conference, TAP 2022, Held as Part
     of STAF 2022, Nantes, France, July 5, 2022, Proceedings: 48-66 (2022).'
   title: Definitional Quantifiers Realise Semantic Reasoning for Proof by Induction.
@@ -5757,9 +5757,9 @@ DBLP:conf/tgc/JakubuvW10:
   authors: Jan Jakubuv, J. B. Wells
   dblp: conf/tgc/JakubuvW10
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'Trustworthly Global Computing - 5th International Symposium, TGC 2010,
     Munich, Germany, February 24-26, 2010, Revised Selected Papers: 103-119 (2010).'
   title: Expressiveness of Generic Process Shape Types.
@@ -5879,8 +5879,8 @@ DBLP:journals/afp/Nagashima16:
   authors: Yutaka Nagashima
   dblp: journals/afp/Nagashima16
   groups:
-  - main
   - AR
+  - main
   source: Arch. Formal Proofs (2016)
   title: Proof Strategy Language.
   url: https://www.isa-afp.org/entries/Proof_Strategy_Language.shtml
@@ -5950,8 +5950,8 @@ DBLP:journals/ai/WosWSVH84:
   dblp: journals/ai/WosWSVH84
   doi: https://doi.org/10.1016/0004-3702(84)90054-7
   groups:
-  - main
   - AR
+  - main
   source: 'Artif. Intell. 22: 303-356 (1984).'
   title: 'A New Use of an Automated Reasoning Assistant: Open Questions in Equivalential
     Calculus and the Study of Infinite Domains.'
@@ -6024,8 +6024,8 @@ DBLP:journals/amc/HelmanV01:
   dblp: journals/amc/HelmanV01
   doi: https://doi.org/10.1016/S0096-3003(99)00249-0
   groups:
-  - main
   - AR
+  - main
   source: 'Appl. Math. Comput. 120: 175-194 (2001).'
   title: The application of automated reasoning to formal models of combinatorial
     optimization.
@@ -6141,8 +6141,8 @@ DBLP:journals/cbm/GilfeatherHHHLLV07:
     C. Rick Lyons, Robert Veroff
   dblp: journals/cbm/GilfeatherHHHLLV07
   groups:
-  - main
   - AR
+  - main
   source: 'Comput. Biol. Medicine 37: 1539-1552 (2007).'
   title: Learning and modeling biosignatures from tissue images.
   url: https://www.wikidata.org/entity/Q33282059
@@ -6311,8 +6311,8 @@ DBLP:journals/corr/GauthierK14:
   authors: Thibault Gauthier, Cezary Kaliszyk
   dblp: journals/corr/GauthierK14
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1405.3906 (2014).
   title: Matching concepts across HOL libraries.
   year: 2014
@@ -6321,8 +6321,8 @@ DBLP:journals/corr/GauthierK15:
   authors: Thibault Gauthier, Cezary Kaliszyk
   dblp: journals/corr/GauthierK15
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1509.03527 (2015).
   title: Sharing HOL4 and HOL Light proof knowledge.
   year: 2015
@@ -6331,8 +6331,8 @@ DBLP:journals/corr/GauthierK15a:
   authors: Thibault Gauthier, Cezary Kaliszyk
   dblp: journals/corr/GauthierK15a
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1509.03534 (2015).
   title: Premise Selection and External Provers for HOL4.
   year: 2015
@@ -6667,8 +6667,8 @@ DBLP:journals/corr/Nagashima17:
   authors: Yutaka Nagashima
   dblp: journals/corr/Nagashima17
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1701.03037 (2017).
   title: Towards Smart Proof Search for Isabelle.
   year: 2017
@@ -6677,8 +6677,8 @@ DBLP:journals/corr/NagashimaK16:
   authors: Yutaka Nagashima, Ramana Kumar
   dblp: journals/corr/NagashimaK16
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1606.02941 (2016).
   title: A Proof Strategy Language and Proof Script Generation for Isabelle.
   year: 2016
@@ -6687,8 +6687,8 @@ DBLP:journals/corr/NagashimaO16:
   authors: Yutaka Nagashima, Liam O'Connor
   dblp: journals/corr/NagashimaO16
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1608.03350 (2016).
   title: Close Encounters of the Higher Kind Emulating Constructor Classes in Standard
     ML.
@@ -6723,8 +6723,8 @@ DBLP:journals/corr/OConnorRCALNSHK16:
     Gerwin Klein
   dblp: journals/corr/OConnorRCALNSHK16
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1601.05520 (2016).
   title: 'COGENT: Certified Compilation for a Functional Systems Language.'
   year: 2016
@@ -6869,9 +6869,9 @@ DBLP:journals/corr/abs-1003-6096:
   authors: Jan Jakubuv, J. B. Wells
   dblp: journals/corr/abs-1003-6096
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: arXiv CoRR abs/1003.6096 (2010).
   title: Expressiveness of Generic Process Shape Types
   year: 2010
@@ -7263,8 +7263,8 @@ DBLP:journals/corr/abs-1806-04774:
   authors: Yutaka Nagashima, Julian Parsert
   dblp: journals/corr/abs-1806-04774
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1806.04774 (2018).
   title: Goal-Oriented Conjecturing for Isabelle/HOL.
   year: 2018
@@ -7273,8 +7273,8 @@ DBLP:journals/corr/abs-1806-07239:
   authors: Yutaka Nagashima, Yilun He
   dblp: journals/corr/abs-1806-07239
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1806.07239 (2018).
   title: 'PaMpeR: Proof Method Recommendation System for Isabelle/HOL.'
   year: 2018
@@ -7283,8 +7283,8 @@ DBLP:journals/corr/abs-1812-04088:
   authors: Yutaka Nagashima
   dblp: journals/corr/abs-1812-04088
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1812.04088 (2018).
   title: Towards Machine Learning Mathematical Induction.
   year: 2018
@@ -7383,8 +7383,8 @@ DBLP:journals/corr/abs-1904-08468:
   authors: Yutaka Nagashima
   dblp: journals/corr/abs-1904-08468
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1904.08468 (2019).
   title: Towards Evolutionary Theorem Proving for Isabelle/HOL.
   year: 2019
@@ -7458,8 +7458,8 @@ DBLP:journals/corr/abs-1906-08084:
   authors: Yutaka Nagashima
   dblp: journals/corr/abs-1906-08084
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1906.08084 (2019).
   title: 'LiFtEr: Language to Encode Induction Heuristics for Isabelle/HOL.'
   year: 2019
@@ -7468,8 +7468,8 @@ DBLP:journals/corr/abs-1906-08549:
   authors: Yutaka Nagashima
   dblp: journals/corr/abs-1906-08549
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1906.08549 (2019).
   title: Designing Game of Theorems.
   year: 2019
@@ -7478,8 +7478,8 @@ DBLP:journals/corr/abs-1907-02594:
   authors: Yutaka Nagashima
   dblp: journals/corr/abs-1907-02594
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1907.02594 (2019).
   title: Domain-Specific Language to Encode Induction Heuristics.
   year: 2019
@@ -7542,8 +7542,8 @@ DBLP:journals/corr/abs-1910-11797:
   authors: Thibault Gauthier
   dblp: journals/corr/abs-1910-11797
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/1910.11797 (2019).
   title: Deep Reinforcement Learning in HOL4.
   year: 2019
@@ -7639,8 +7639,8 @@ DBLP:journals/corr/abs-2001-10834:
   authors: Yutaka Nagashima
   dblp: journals/corr/abs-2001-10834
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/2001.10834 (2020).
   title: Smart Induction for Isabelle/HOL (System Description).
   year: 2020
@@ -7713,8 +7713,8 @@ DBLP:journals/corr/abs-2004-08858:
   authors: Zarathustra Amadeus Goertzel
   dblp: journals/corr/abs-2004-08858
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/2004.08858 (2020).
   title: Make E Smart Again.
   year: 2020
@@ -7723,8 +7723,8 @@ DBLP:journals/corr/abs-2004-10667:
   authors: Yutaka Nagashima
   dblp: journals/corr/abs-2004-10667
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/2004.10667 (2020).
   title: Simple Dataset for Proof Method Recommendation in Isabelle/HOL (Dataset Description).
   year: 2020
@@ -7753,8 +7753,8 @@ DBLP:journals/corr/abs-2005-12737:
   authors: Yutaka Nagashima
   dblp: journals/corr/abs-2005-12737
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/2005.12737 (2020).
   title: Towards United Reasoning for Automatic Induction in Isabelle/HOL.
   year: 2020
@@ -7817,8 +7817,8 @@ DBLP:journals/corr/abs-2009-01827:
   authors: Thibault Gauthier
   dblp: journals/corr/abs-2009-01827
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/2009.01827 (2020).
   title: Tree Neural Networks in HOL4.
   year: 2020
@@ -7827,8 +7827,8 @@ DBLP:journals/corr/abs-2009-09215:
   authors: Yutaka Nagashima
   dblp: journals/corr/abs-2009-09215
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/2009.09215 (2020).
   title: Faster Smarter Induction in Isabelle/HOL with SeLFiE.
   year: 2020
@@ -7837,8 +7837,8 @@ DBLP:journals/corr/abs-2010-10296:
   authors: Yutaka Nagashima
   dblp: journals/corr/abs-2010-10296
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/2010.10296 (2020).
   title: 'SeLFiE: Modular Semantic Reasoning for Induction in Isabelle/HOL.'
   year: 2020
@@ -8037,8 +8037,8 @@ DBLP:journals/corr/abs-2109-03234:
   authors: Thibault Gauthier
   dblp: journals/corr/abs-2109-03234
   groups:
-  - main
   - AR
+  - main
   source: 'Proceedings of the 9th International Symposium on Symbolic Computation
     in Software Science, SCSS 2021, Hagenberg, Austria, September 8-10, 2021.: 78-85
     (2021).'
@@ -8070,8 +8070,8 @@ DBLP:journals/corr/abs-2202-11908:
   authors: Thibault Gauthier
   dblp: journals/corr/abs-2202-11908
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR abs/2202.11908 (2022).
   title: Program Synthesis for the OEIS.
   year: 2022
@@ -8250,8 +8250,8 @@ DBLP:journals/corr/cs-LO-0301026:
   authors: Michael Beeson, Robert Veroff, Larry Wos
   dblp: journals/corr/cs-LO-0301026
   groups:
-  - main
   - AR
+  - main
   source: arXiv CoRR cs.LO/0301026 (2003).
   title: Double-Negation Elimination in Some Propositional Logics
   year: 2003
@@ -8272,8 +8272,8 @@ DBLP:journals/dt/ChisholmELV99:
   dblp: journals/dt/ChisholmELV99
   doi: http://doi.ieeecomputersociety.org/10.1109/54.765201
   groups:
-  - main
   - AR
+  - main
   source: 'IEEE Des. Test Comput. 16: 26-37 (1999).'
   title: Understanding Integrated Circuits.
   year: 1999
@@ -8509,9 +8509,9 @@ DBLP:journals/fss/Chvalovsky12:
   dblp: journals/fss/Chvalovsky12
   doi: https://doi.org/10.1016/j.fss.2011.10.018
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'Fuzzy Sets Syst. 197: 123-129 (2012).'
   title: On the independence of axioms in BL and MTL.
   year: 2012
@@ -8801,8 +8801,8 @@ DBLP:journals/jar/HelmanV88:
   dblp: journals/jar/HelmanV88
   doi: https://doi.org/10.1007/BF00244512
   groups:
-  - main
   - AR
+  - main
   source: 'J. Autom. Reason. 4: 29-68 (1988).'
   title: Designing Deductive Databases.
   year: 1988
@@ -8861,8 +8861,8 @@ DBLP:journals/jar/McCuneVFHFW02:
     Feist, Larry Wos
   dblp: journals/jar/McCuneVFHFW02
   groups:
-  - main
   - AR
+  - main
   source: 'J. Autom. Reason. 29: 1-16 (2002).'
   title: Short Single Axioms for Boolean Algebra.
   url: https://www.wikidata.org/entity/Q60061107
@@ -8902,8 +8902,8 @@ DBLP:journals/jar/Veroff01:
   dblp: journals/jar/Veroff01
   doi: https://doi.org/10.1023/A:1010635625063
   groups:
-  - main
   - AR
+  - main
   source: 'J. Autom. Reason. 27: 123-139 (2001).'
   title: 'Finding Shortest Proofs: An Application of Linked Inference Rules.'
   year: 2001
@@ -8912,8 +8912,8 @@ DBLP:journals/jar/Veroff01a:
   dblp: journals/jar/Veroff01a
   doi: https://doi.org/10.1023/A:1010639725972
   groups:
-  - main
   - AR
+  - main
   source: 'J. Autom. Reason. 27: 157-174 (2001).'
   title: Solving Open Questions and Other Challenge Problems Using Proof Sketches.
   year: 2001
@@ -8922,8 +8922,8 @@ DBLP:journals/jar/Veroff03:
   dblp: journals/jar/Veroff03
   doi: https://doi.org/10.1023/A:1027322305654
   groups:
-  - main
   - AR
+  - main
   source: 'J. Autom. Reason. 31: 1-9 (2003).'
   title: A Shortest 2-Basis for Boolean Algebra in Terms of the Sheffer Stroke.
   year: 2003
@@ -8932,8 +8932,8 @@ DBLP:journals/jar/Veroff92:
   dblp: journals/jar/Veroff92
   doi: https://doi.org/10.1007/BF00244283
   groups:
-  - main
   - AR
+  - main
   source: 'J. Autom. Reason. 8: 213-274 (1992).'
   title: 'The Linked Inference Principle, I: The Formal Treatment.'
   year: 1992
@@ -8942,8 +8942,8 @@ DBLP:journals/jar/Veroff96:
   dblp: journals/jar/Veroff96
   doi: https://doi.org/10.1007/BF00252178
   groups:
-  - main
   - AR
+  - main
   source: 'J. Autom. Reason. 16: 223-239 (1996).'
   title: 'Using Hints to Increase the Effectiveness of an Automated Reasoning Program:
     Case Studies.'
@@ -8953,8 +8953,8 @@ DBLP:journals/jar/VeroffS06:
   dblp: journals/jar/VeroffS06
   doi: https://doi.org/10.1007/s10817-006-9029-y
   groups:
-  - main
   - AR
+  - main
   source: 'J. Autom. Reason. 37: 3-20 (2006).'
   title: Axiomatizing the Skew Boolean Propositional Calculus.
   year: 2006
@@ -8962,8 +8962,8 @@ DBLP:journals/jcb/HelmanVAW04:
   authors: Paul Helman, Robert Veroff, Susan R. Atlas, Cheryl Willman
   dblp: journals/jcb/HelmanVAW04
   groups:
-  - main
   - AR
+  - main
   source: 'J. Comput. Biol. 11: 581-615 (2004).'
   title: A Bayesian Network Classification Methodology for Gene Expression Data.
   url: https://www.wikidata.org/entity/Q33209551
@@ -9034,8 +9034,8 @@ DBLP:journals/jrm/NagashimaIM00:
   dblp: journals/jrm/NagashimaIM00
   doi: https://doi.org/10.20965/jrm.2000.p0060
   groups:
-  - main
   - AR
+  - main
   source: 'J. Robotics Mechatronics 12: 60-65 (2000).'
   title: AUV with Variable Vector Propeller.
   year: 2000
@@ -9044,8 +9044,8 @@ DBLP:journals/jrm/NagashimaTII02:
   dblp: journals/jrm/NagashimaTII02
   doi: https://doi.org/10.20965/jrm.2002.p0112
   groups:
-  - main
   - AR
+  - main
   source: 'J. Robotics Mechatronics 14: 112-117 (2002).'
   title: Development of a Compact Autonomous Underwater vehicle Using Varivec Propeller.
   year: 2002
@@ -9104,8 +9104,8 @@ DBLP:journals/jsc/GauthierK19:
   authors: Thibault Gauthier, Cezary Kaliszyk
   dblp: journals/jsc/GauthierK19
   groups:
-  - main
   - AR
+  - main
   source: 'J. Symb. Comput. 90: 89-123 (2019).'
   title: Aligning concepts across proof assistant libraries.
   url: https://www.wikidata.org/entity/Q108482111
@@ -9145,9 +9145,9 @@ DBLP:journals/jsyml/Chvalovsky15:
   dblp: journals/jsyml/Chvalovsky15
   doi: https://doi.org/10.1017/jsl.2014.39
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'J. Symb. Log. 80: 567-586 (2015).'
   title: Undecidability of Consequence Relation in Full non-Associative Lambek Calculus.
   year: 2015
@@ -9156,9 +9156,9 @@ DBLP:journals/jsyml/ChvalovskyH16:
   dblp: journals/jsyml/ChvalovskyH16
   doi: https://doi.org/10.1017/jsl.2015.18
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'J. Symb. Log. 81: 524-540 (2016).'
   title: Full Lambek Calculus with Contraction is Undecidable.
   year: 2016
@@ -9166,9 +9166,9 @@ DBLP:journals/kais/TozickaJKP16:
   authors: "Jan Tozicka, Jan Jakubuv, Anton\xEDn Komenda, Michal Pechoucek"
   dblp: journals/kais/TozickaJKP16
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'Knowl. Inf. Syst. 48: 581-618 (2016).'
   title: Privacy-concerned multiagent planning.
   url: https://www.wikidata.org/entity/Q62044875
@@ -9178,8 +9178,8 @@ DBLP:journals/lu/PaoliSV08:
   dblp: journals/lu/PaoliSV08
   doi: https://doi.org/10.1007/s11787-008-0034-2
   groups:
-  - main
   - AR
+  - main
   source: 'Logica Universalis 2: 209-233 (2008).'
   title: Abelian Logic and the Logics of Pointed Lattice-Ordered Varieties.
   year: 2008
@@ -9187,9 +9187,9 @@ DBLP:journals/mics/JakubuvK20:
   authors: Jan Jakubuv, Cezary Kaliszyk
   dblp: journals/mics/JakubuvK20
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'Math. Comput. Sci. 14: 657-670 (2020).'
   title: Relaxed Weighted Path Order in Theorem Proving.
   url: https://www.wikidata.org/entity/Q108482108
@@ -9250,9 +9250,9 @@ DBLP:journals/mlq/ChvalovskyC12:
   dblp: journals/mlq/ChvalovskyC12
   doi: https://doi.org/10.1002/malq.201110065
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'Math. Log. Q. 58: 236-243 (2012).'
   title: Note on Deduction Theorems in contraction-free logics.
   year: 2012
@@ -9283,8 +9283,8 @@ DBLP:journals/ndjfl/HenschenSVWW83:
   dblp: journals/ndjfl/HenschenSVWW83
   doi: https://doi.org/10.1305/ndjfl/1093870311
   groups:
-  - main
   - AR
+  - main
   source: 'Notre Dame J. Formal Log. 24: 205-223 (1983).'
   title: 'Questions concerning possible shortest single axioms for the equivalential
     calculus: an application of automated theorem proving to infinite domains.'
@@ -9410,8 +9410,8 @@ DBLP:journals/sLogica/BeesonVW05:
   dblp: journals/sLogica/BeesonVW05
   doi: https://doi.org/10.1007/s11225-005-8469-4
   groups:
-  - main
   - AR
+  - main
   source: 'Stud Logica 80: 195-234 (2005).'
   title: Double-Negation Elimination in Some Propositional Logics.
   year: 2005
@@ -9420,8 +9420,8 @@ DBLP:journals/sLogica/SpinksV08:
   dblp: journals/sLogica/SpinksV08
   doi: https://doi.org/10.1007/s11225-008-9113-x
   groups:
-  - main
   - AR
+  - main
   source: 'Stud Logica 88: 325-348 (2008).'
   title: Constructive Logic with Strong Negation is a Substructural Logic. I.
   year: 2008
@@ -9430,8 +9430,8 @@ DBLP:journals/sLogica/SpinksV08a:
   dblp: journals/sLogica/SpinksV08a
   doi: https://doi.org/10.1007/s11225-008-9138-1
   groups:
-  - main
   - AR
+  - main
   source: 'Stud Logica 89: 401-425 (2008).'
   title: Constructive Logic with Strong Negation is a Substructural Logic. II.
   year: 2008
@@ -9533,9 +9533,9 @@ DBLP:journals/tcci/TozickaJDK15:
   authors: "Jan Tozicka, Jan Jakubuv, Karel Durkota, Anton\xEDn Komenda"
   dblp: journals/tcci/TozickaJDK15
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'Trans. Comput. Collect. Intell. 20: 117-139 (2015).'
   title: Extensibility Based Multiagent Planner with Plan Diversity Metrics.
   url: https://www.wikidata.org/entity/Q62044876
@@ -9544,9 +9544,9 @@ DBLP:journals/tcci/TozickaJK18:
   authors: "Jan Tozicka, Jan Jakubuv, Anton\xEDn Komenda"
   dblp: journals/tcci/TozickaJK18
   groups:
+  - AR
   - FM
   - main
-  - AR
   source: 'Trans. Comput. Collect. Intell. 28: 66-92 (2018).'
   title: Recursive Reductions of Action Dependencies for Coordination-Based Multiagent
     Planning.
