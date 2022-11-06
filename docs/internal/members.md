@@ -201,8 +201,8 @@ should point to the Github's user page.
 
 ## Continue ...
 
++ [General pages administration](/internal/index.html)
 + [Content update](/internal/content.html)
 + [Publication list](/internal/biblio.html)
-+ [General pages administration](/internal/index.html)
 
 
