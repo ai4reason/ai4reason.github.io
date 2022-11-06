@@ -7,7 +7,8 @@ subheader: internals
 # Bibliography list
 
 The publication list is automatically downloaded from DBLP for all department members.
-The list of all publications of all group members is rendered in the _Activities_ page for each group,
+The list of all publications of all group members is rendered in the _Activities_ page for each group.
+The [Activities](/activities.html) page of the whole department lists the publications by all department members.
 
 
 ⚠️  
