@@ -7,7 +7,7 @@ index: 10
 # Internal administration
 
 The department web pages are hosted at 
-[github pages](https://pages.github.com/){:target="_blank"} 
+[GitHub pages](https://pages.github.com/){:target="_blank"} 
 and the content is stored in the
 [ai4reason.github.io](https://github.com/ai4reason/ai4reason.github.io){:target="_blank"}
 repository.
@@ -25,14 +25,14 @@ Clicking the group blue button will take you to the group web pages.
 
 Each group pages contain two sections with automatically generated content.
 
-1. **Members** with list of group _members_.
-2. **Activities** with list of _publications_ from [DBLP](https://dblp.uni-trier.de/){:target="_blank"}.
+1. **Members** with the list of group _members_.
+2. **Activities** with the list of _publications_ from [DBLP](https://dblp.uni-trier.de/){:target="_blank"}.
 
-Furthermore, there is a [collective list of publication](/activities.html) by all the department members.
+Furthermore, there is a [collective list of publications](/activities.html) by all the department members.
 Additional content can be added in the
 [Markdown](https://www.markdownguide.org/){:target="_blank"}
 syntax using the
-[github](https://github.com/ai4reason/ai4reason.github.io/tree/main/docs/groups){:target="_blank"}
+[GitHub](https://github.com/ai4reason/ai4reason.github.io/tree/main/docs/groups){:target="_blank"}
 web interface.
 See [content update](/internal/content.html) and 
 [publication list](/internal/biblio.html) for more information.
@@ -51,7 +51,7 @@ format.
 🔥 **Make sure the list of members of your group is up to date.** 🔥
 See [members update](/internal/members.html) for more information.
 
-💡 Check the members page for each group ([AR](/groups/AR/members.html),
+💡 Check the members' page for each group ([AR](/groups/AR/members.html),
 [FAI](/groups/FAI/members.html), [FM](/groups/FM/members.html),
 [ML](/groups/ML/members.html)) to see that all members are listed and each one
 has a DBLP icon next to his name.

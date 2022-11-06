@@ -16,9 +16,9 @@ format.
 
 To edit the list of department members proceed as follows.
 
-1️⃣  Open the members file [docs/_data/members.yml](https://github.com/ai4reason/ai4reason.github.io/blob/main/docs/_data/members.yml/){:target="_blank"} in the Github web interface.
+1️⃣  Open the members file [docs/_data/members.yml](https://github.com/ai4reason/ai4reason.github.io/blob/main/docs/_data/members.yml/){:target="_blank"} in the GitHub web interface.
 
-2️⃣  Click on the edit button.  You need to login to Github for this.
+2️⃣  Click on the edit button.  You need to log in to GitHub for this.
 
 3️⃣  Locate the YAML record to edit or create a new one in the following form.
 
@@ -46,7 +46,7 @@ To edit the list of department members proceed as follows.
 
 ⚠️  At least the [required fields](#--required-fields) `name`, `dblp`, `role`, and `groups` should be set.
 
-🔴 Make sure the `dblp` [field](#dblp--string) is set correctly.  Otherwise the list of publications will not contain publications of this member. ❗ 
+🔴 Make sure the `dblp` [field](#dblp--string) is set correctly.  Otherwise, the list of publications will not contain publications of this member. ❗ 
 
 5️⃣  Describe _Commit changes_ and  start a pull request.  Once the pull request is merged, the web page will become updated in a couple of minutes.
 
@@ -74,7 +74,7 @@ The [DBLP](https://dblp.uni-trier.de/) persistent ID of the member.
 [here](https://dblp.uni-trier.de/search/author){:target="_blank"} and search for
 the member on DBLP.
 On the author page, look at the url and extract the part starting with `pid` and ending before `.html`.
-Usually it looks like `pid/39/11138` but it can look like `pid/24/5175-1` or `pid/v/RobertVeroff`.
+Usually, it looks like `pid/39/11138` but it can look like `pid/24/5175-1` or `pid/v/RobertVeroff`.
 
 * * * 
 
@@ -88,7 +88,7 @@ Select the member position inside the department from the following values.
 | `pi` | principal investigators
 | `staff` | general researchers
 | `student` | PhD students
-| `admin` | administratives
+| `admin` | administrative
 | `alumni` | ex-members
 
 ℹ️  The roles are used to display members under different headings in the members page.
@@ -108,7 +108,7 @@ Allowed list items are:
 + `ML`
 
 ℹ️  The members with the `main` group and with the role `pi` or `admin`, are listed
-in the department [institution](/institution.html) page (as *main* members).
+on the department [institution](/institution.html) page (as *main* members).
 
 
 ## ➡️  Informal fields
@@ -124,7 +124,7 @@ The url can be
 + an external link, like `https://my.page/image.png`, or 
 + a local link like `/images/members/user.png`.
 
-The local links are relative to directory
+The local links are relative to the directory
 [/docs](https://github.com/ai4reason/ai4reason.github.io/tree/main/docs){:target="_blank"} 
 in the repo.
 Photos can be uploaded into folder
@@ -181,7 +181,7 @@ The Google Scholar identificator of this member.
 
 ℹ️  To obtain the Google Scholar identificator, search for the member
 at [Google Scholar](https://scholar.google.com) and locate his profile.
-Then extract the value of the `user` parameter (the text between `user=` and `&` or the end of line). 
+Then extract the value of the `user` parameter (the text between `user=` and `&` or the end of the line). 
 Typically, it looks like `4pW-Je4AAAAJ`.
 
 * * *
@@ -193,7 +193,7 @@ The [ORCID](https://orcid.org) ID of the member as a string.
 
 ### `github` :: string
 
-The [Github](https://github.com/) username of this member.
+The [GitHub](https://github.com/) username of this member.
 The link `https://github.com/${github}` with `${github}` substituted by the key value
 should point to the Github's user page.
 

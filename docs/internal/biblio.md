@@ -9,10 +9,10 @@ index: 40
 The publication list is automatically downloaded from DBLP for all department members.
 The database is periodically updated every day and with every repository update.
 
-The list of all publications of all group members is rendered in the _Activities_ page for each group.
+The list of all publications of all group members is rendered on the _Activities_ page for each group.
 The [Activities](/activities.html) page of the whole department lists the publications by all department members.
 
-⚠️  Publication information are downloaded from [DBLP](https://dblp.uni-trier.de/) using DBLP identificators from the member database.
+⚠️  Publications information is downloaded from [DBLP](https://dblp.uni-trier.de/) using DBLP identificators from the member database.
 The `dblp` fields must set correctly.  See [member updates](/internal/members.html) for more info.
 
 

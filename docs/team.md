@@ -7,5 +7,5 @@ index: 1
 
 {% include members.html role="pi" title="Principal Investigators" %}
 
-{% include members.html role="admin" title="Administratives" %}
+{% include members.html role="admin" title="Administrative" %}
 

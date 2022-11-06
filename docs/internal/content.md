@@ -8,29 +8,29 @@ index: 30
 
 💡 The links below open a new tab/window.
 
-The content of the web department is stored in the Github repository
+The content of the web department is stored in the GitHub repository
 [ai4reason.github.io](https://github.com/ai4reason/ai4reason.github.io/){:target="_blank"}.
-in 
+in the
 [/docs](https://github.com/ai4reason/ai4reason.github.io/blob/main/docs/){:target="_blank"} folder.
 Group web pages are stored in 
 [/docs/groups](https://github.com/ai4reason/ai4reason.github.io/blob/main/docs/groups/){:target="_blank"} subfolders.
 
 Most of the content is in the [Markdown](https://www.markdownguide.org/basic-syntax/){:target="_blank"} format.
-New content can be added by updating repository Markdown files, and this can be easily done using the Github web interface.
+New content can be added by updating repository Markdown files, and this can be easily done using the GitHub web interface.
 You can check a basic [Markdown demonstration](https://pages-themes.github.io/leap-day/){:target="_blank"}.
 
 ℹ️  The [kramdown](https://kramdown.gettalong.org/syntax.html){:target="_blank"} extension is used insted of standard Markdown, and it can be utilized.
 
 ## Edit an existing page
 
-1️⃣  Locate the file in the Github web interface for repository
+1️⃣  Locate the file in the GitHub web interface for repository
 [ai4reason.github.io](https://github.com/ai4reason/ai4reason.github.io/tree/main/docs){:target="_blank"},
 most likely inside 
 [/docs/groups/](https://github.com/ai4reason/ai4reason.github.io/tree/main/docs/groups){:target="_blank"} directory.
 
-2️⃣  Click on the edit button.  You need to login to Github for this.
+2️⃣  Click on the edit button.  You need to log in to GitHub for this.
 
-3️⃣  Edit the file appropriatelly.  You can use the preview to check your changes.  The rendered Markdown content will apear inside the content part of the web page.
+3️⃣  Edit the file appropriately.  You can use the preview to check your changes.  The rendered Markdown content will appear inside the content part of the web page.
 
 4️⃣  Commit changes and start a pull request.  The web will be updated once the changes are merged.
 
@@ -44,12 +44,12 @@ directives.
 
 ## Add a new page
 
-1️⃣  Locate the directory where to store the file in repository
+1️⃣  Locate the directory where to store the file in the repository
 [ai4reason.github.io](https://github.com/ai4reason/ai4reason.github.io/tree/main/docs){:target="_blank"},
-most likely inside 
+most likely inside the
 [/docs/groups/](https://github.com/ai4reason/ai4reason.github.io/tree/main/docs/groups){:target="_blank"} directory.
 
-2️⃣  Add a new file by clicking button _Add file_.  You need to login to Github for this.
+2️⃣  Add a new file by clicking the button _Add file_.  You need to log in to GitHub for this.
 
 3️⃣  The file must start with a header with parameters, at least as follows.
 
