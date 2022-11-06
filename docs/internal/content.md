@@ -19,7 +19,7 @@ Most of the content is in the [Markdown](https://www.markdownguide.org/basic-syn
 New content can be added by updating repository Markdown files, and this can be easily done using the Github web interface.
 You can check a basic [Markdown demonstration](https://pages-themes.github.io/leap-day/){:target="_blank"}.
 
-ℹ️  The [kramdown](https://kramdown.gettalong.org/syntax.html/){:target="_blank"} extension is used insted of standard Markdown, and it can be utilized.
+ℹ️  The [kramdown](https://kramdown.gettalong.org/syntax.html){:target="_blank"} extension is used insted of standard Markdown, and it can be utilized.
 
 ## Edit an existing page
 
