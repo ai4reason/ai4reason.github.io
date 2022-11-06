@@ -81,7 +81,7 @@ def normalize_entry(entry, groups):
 
    record = entry["ID"].split(":")[1]
    return dict(authors=authors, title=title, source=journal, year=int(year),
-               url=(urltype, url), dblp=record, groups=set(groups))
+               url=(urltype, url), dblp=record, groups=set(groups), link=url)
 
 def normalize_entries(db, groups):
    for eid in db.keys():
@@ -108,6 +108,7 @@ def finalize_db(db):
 def download_db(authors, year):
    db = {}
    for author in authors:
+   #for author in sorted(authors)[:3]:
       sys.stderr.write("Donwloading %s\n" % author)
       url = "https://dblp.uni-trier.de/%s.ris" % authors[author]["dblp"]
       data = urlopen(url)
@@ -127,29 +128,33 @@ def read_authors(ids_file):
    authors = {it["name"]: it for it in items if "name" in it and "dblp" in it and it["dblp"]}
    return authors
 
-def bibliography(ids_file, year, out_yaml, out_html, out_csv):
+def csv_dump(db, out):
+   for (ref, entry) in db.items():
+      entry["groups"] = ", ".join(entry["groups"])
+      out.write("%(authors)s \t %(title)s \t %(year)s \t %(groups)s \t %(link)s \t %(source)s\n" % entry)
+
+def bibliography(ids_file, year, out_yaml, out_csv):
    authors = read_authors(ids_file)
    db = download_db(authors, year)
-   yaml.dump(db, sys.stdout)
+   if out_yaml:
+      with open(out_yaml, "w") as out: yaml.dump(db, out)
+   if out_csv:
+      with open(out_csv, "w") as out: csv_dump(db, out)
 
 if __name__ == "__main__":
    import argparse
 
    parser = argparse.ArgumentParser(
       description='Automatically update publication list from DBLP.')
+   parser.add_argument('ids_file', type=str,
+      help="YAML file with DBLP ids for each author")
    parser.add_argument("-y", "--year", metavar="YEAR", type=int, nargs=1,
       help="Consider only a specific year.")
-   parser.add_argument("-i", "--ids-file", metavar="YAML", 
-      action="store", default="../docs/_data/members.yml",
-      help="YAML file with DBLP ids for each author")
-   group = parser.add_mutually_exclusive_group(required=True)
-   group.add_argument("--html", action="store_true",
-      help="output HTML format (TODO)")
-   group.add_argument("--csv", action="store_true",
-      help="output CSV format (TODO)")
-   group.add_argument("--yaml", action="store_true",
-      help="output YAML format")
+   parser.add_argument("--csv", 
+      help="output CSV file")
+   parser.add_argument("--yaml", 
+      help="output YAML file")
    args = parser.parse_args()
 
-   bibliography(args.ids_file, args.year, args.yaml, args.html, args.csv)
+   bibliography(args.ids_file, args.year, args.yaml, args.csv)
 
