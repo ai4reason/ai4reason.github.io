@@ -39,7 +39,7 @@ jobs:
         git config --local user.name "biblio updater"
         git config --local user.email "ai4reason@github.com"
         git add .
-        git commit -m "Auto update pubs"
+        git commit -m "Auto update pubs" || true
     - name: push changes 
       uses: ad-m/github-push-action@master
       with:
