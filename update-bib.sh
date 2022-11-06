@@ -4,8 +4,18 @@ DATA=docs/_data
 MEMBERS=$DATA/members.yml
 BIB=$DATA/bib.yml
 PUBS=docs/download/publications
+CSV=${PUBS}.csv
 
-python publications/dblp-pubs.py --yaml $BIB --csv ${PUBS}.csv $MEMBERS 
+cp $CSV ${CSV}.tmp
+python publications/dblp-pubs.py --yaml $BIB --csv $CSV $MEMBERS 
 
-python publications/to-excel.py $PUBS
+if ! diff $CSV ${CSV}.tmp > /dev/null; then
+   echo "Generating Excel..."
+   python publications/to-excel.py $PUBS
+else
+   # do not genete Excel when the CSV is unchanged
+   echo "Skipped generating Excel"
+fi
+
+rm ${CSV}.tmp
 
