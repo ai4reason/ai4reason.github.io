@@ -4,7 +4,7 @@ hidden: true
 subheader: internals
 ---
 
-# Pages Administration
+# Internal administration
 
 The department web pages are hosted at 
 [github pages](https://pages.github.com/){:target="_blank"} 
@@ -50,6 +50,13 @@ in the
 format.
 🔥 **Make sure the list of members of your group is up to date.** 🔥
 See [members update](/internal/members.html) for more information.
+
+💡 Check the members page for each group ([AR](/groups/AR/members.html),
+[FAI](/groups/FAI/members.html), [FM](/groups/FM/members.html),
+[ML](/groups/ML/members.html)) to see that all members are listed and each one
+has a DBLP icon next to his name.
+
+
 
 ## Continue ...
 

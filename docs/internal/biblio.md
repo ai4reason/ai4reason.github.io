@@ -56,7 +56,7 @@ which publishes the web pages.
 
 ## Continue ...
 
-+ [General pages administration](/internal/index.html)
++ [Internal administration](/internal/index.html)
 + [Content update](/internal/content.html)
 + [Members update](/internal/members.html)
 

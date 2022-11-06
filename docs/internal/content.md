@@ -98,7 +98,7 @@ headings of the web page.
 
 ## Continue ...
 
-+ [General pages administration](/internal/index.html)
++ [Internal administration](/internal/index.html)
 + [Members update](/internal/members.html)
 + [Publication list](/internal/biblio.html)
 
