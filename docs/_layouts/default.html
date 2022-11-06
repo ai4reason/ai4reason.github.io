@@ -28,7 +28,7 @@
   {%- endfor -%}
   {% assign buttons = buttons | sort: "index" %}
 
-{% if layout.group == "main" %}
+{% if layout.group == "main" or layout.group == "internal" %}
   {% assign clspushed = "pushed" %}
   {% assign clsbutton = "button" %}
 {% else %}
