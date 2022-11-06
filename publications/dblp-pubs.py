@@ -130,6 +130,8 @@ def read_authors(ids_file):
 
 def csv_dump(db, out):
    for (ref, entry) in db.items():
+      if "main" in entry["groups"]:
+         entry["groups"].remove("main")
       entry["groups"] = ", ".join(entry["groups"])
       out.write("%(authors)s \t %(title)s \t %(year)s \t %(groups)s \t %(link)s \t %(source)s\n" % entry)
 
