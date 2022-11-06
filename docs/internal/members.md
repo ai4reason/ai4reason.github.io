@@ -207,8 +207,3 @@ should point to the Github's user page.
 + [General pages administration](/internal/index.html)
 
 
-[YAML]: https://en.wikipedia.org/wiki/YAML/
-{:target="_blank"} 
-
-
-
