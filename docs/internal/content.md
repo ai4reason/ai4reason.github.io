@@ -1,7 +1,7 @@
 ---
-layout: main
-hidden: true
-subheader: internals
+layout: internal
+button: ✏️  Content
+index: 30
 ---
 
 # Content update

@@ -1,7 +1,7 @@
 ---
-layout: main
-hidden: true
-subheader: internals
+layout: internal
+button: ✏️  Members
+index: 20
 ---
 
 # Members update

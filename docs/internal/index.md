@@ -1,7 +1,7 @@
 ---
-layout: main
-hidden: true
-subheader: internals
+layout: internal
+button: Internals
+index: 10
 ---
 
 # Internal administration

@@ -1,7 +1,7 @@
 ---
-layout: main
-hidden: true
-subheader: internals
+layout: internal
+button: ✏️  Publications
+index: 40
 ---
 
 # Bibliography list
