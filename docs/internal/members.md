@@ -199,7 +199,6 @@ should point to the Github's user page.
 
 * * * 
 
-
 ## Continue ...
 
 + [Content update](/internal/content.html)
