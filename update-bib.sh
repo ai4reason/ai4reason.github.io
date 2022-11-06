@@ -6,7 +6,7 @@ BIB=$DATA/bib.yml
 PUBS=docs/download/publications
 CSV=${PUBS}.csv
 
-cp $CSV ${CSV}.tmp
+mv $CSV ${CSV}.tmp
 python publications/dblp-pubs.py --yaml $BIB --csv $CSV $MEMBERS 
 
 if ! diff $CSV ${CSV}.tmp > /dev/null; then
