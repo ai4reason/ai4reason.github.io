@@ -10,7 +10,7 @@
     - Formalization and verification of Mathematics
   image: https://www.ciirc.cvut.cz/wp-content/uploads/2021/10/Josef-Urban.png
   email: Josef.Urban (at) gmail.com
-  homepage: http://people.ciirc.cvut.cz/~urbanjo3
+  homepage: https://people.ciirc.cvut.cz/~urbanjo3
   scholar: 4pW-Je4AAAAJ
   dblp: pid/63/5214
   orcid: 0000-0002-1384-1613
@@ -28,7 +28,7 @@
     - Formalization and verification of Mathematics
   image: /images/members/janota.png
   email: mikolas DOT janota AT gmail DOT com
-  homepage: http://sat.inesc-id.pt/~mikolas
+  homepage: https://sat.inesc-id.pt/~mikolas
   scholar: SFg4raQAAAAJ
   dblp: pid/56/2424
   orcid: 0000-0003-3487-784X
@@ -49,7 +49,7 @@
     - Quantified Boolean Formulas 
   image: /images/members/suda.jpg
   email: Martin.Suda (at) cvut.cz
-  homepage: http://people.ciirc.cvut.cz/~sudamar2/
+  homepage: https://people.ciirc.cvut.cz/~sudamar2/
   scholar: O0zcIe0AAAAJ
   dblp: pid/24/5175-1
   orcid: 0000-0003-0989-5800
@@ -87,7 +87,7 @@
     - Deep learning
   image: https://www.ciirc.cvut.cz/wp-content/uploads/2021/10/Robert_Babuska-254x300.jpg
   email: robert_DOT_babuska_AT_cvut_DOT_cz
-  homepage: http://www.robertbabuska.com/
+  homepage: https://www.robertbabuska.com/
   scholar: 0orN2FUAAAAJ
   dblp: pid/65/1151
   orcid: 0000-0001-9578-8598
@@ -112,7 +112,7 @@
     - Automatic and Interactive Theorem Proving
     - Proof Checking
     - Proof Representations and Transformations 
-  image: http://ai4reason.org/images/cebrown.jpg
+  image: https://ai4reason.org/images/cebrown.jpg
   email: no@way.man
   homepage: https://en.wikipedia.org/wiki/Chad_of_Mercia
   scholar:
@@ -137,7 +137,7 @@
     - Air Traffic Control 
   image: https://usermap.cvut.cz/profile/photos/0c1ea120-069f-4234-8ddd-d0a86c3c5568?type=jpg
   email: jakubuv_AT_gmail_DOT_com
-  homepage: http://people.ciirc.cvut.cz/~jakubja5
+  homepage: https://people.ciirc.cvut.cz/~jakubja5
   scholar: -9PelKYAAAAJ
   dblp: pid/88/7998
   orcid: 0000-0002-8848-5537
@@ -152,7 +152,7 @@
     - Automated Reasoning
     - Artificial Intelligence
     - Automation in Interactive Theorem Proving 
-  image: http://ai4reason.org/images/tgauthier.jpg
+  image: https://ai4reason.org/images/tgauthier.jpg
   email:  thibault_gauthier (at) hotmail (dot) fr 
   homepage: 
   scholar:
@@ -170,9 +170,9 @@
     - Automated Theorem Proving
     - Logic in Computer Science
     - Algorithmic Learning Theory 
-  image: http://ai4reason.org/images/kchvalovsky.jpg
+  image: https://ai4reason.org/images/kchvalovsky.jpg
   email: karel (at) chvalovsky.cz
-  homepage: http://karel.chvalovsky.cz/
+  homepage: https://karel.chvalovsky.cz/
   scholar:
   dblp: pid/39/11138
   orcid:
@@ -203,7 +203,7 @@
     - Automated Theorem Proving
     - Mathematical Structures
     - Abelian Inner Mappings 
-  image: http://ai4reason.org/images/bveroff.jpg
+  image: https://ai4reason.org/images/bveroff.jpg
   email:
   homepage: 
   scholar:
@@ -219,7 +219,7 @@
   interests:
     - Saturation-based Automated Theorem Proving
     - Machine Learning 
-  image: http://ai4reason.org/images/fbartek.jpg
+  image: https://ai4reason.org/images/fbartek.jpg
   email: filip.bartek (at) cvut.cz
   homepage: 
   scholar:
@@ -237,7 +237,7 @@
     - Machine Learning
     - Type Theory
     - Programming Languages 
-  image: http://ai4reason.org/images/lblaauwbroek.jpg
+  image: https://ai4reason.org/images/lblaauwbroek.jpg
   email: lasse.blaauwbroek (at) cvut.cz
   homepage: 
   scholar:
@@ -257,7 +257,7 @@
     - Inference Guidance
     - Knolwedge Graph Learning
     - Representation Learning 
-  image: http://ai4reason.org/images/zgoertzel.jpg
+  image: https://ai4reason.org/images/zgoertzel.jpg
   email: zariuq (at) gmail (dot) com 
   homepage: 
   scholar:
@@ -274,7 +274,7 @@
     - Interactive Theorem Proving 
     - Automated Reasoning
     - Artificial Intelligence
-  image: http://ai4reason.org/images/ynagashima.jpg
+  image: https://ai4reason.org/images/ynagashima.jpg
   email: 
   homepage: 
   scholar: U2cikqsAAAAJ
@@ -306,7 +306,7 @@
   interests:
     - Automated Reasoning
     - Artificial Intelligence
-  image: http://ai4reason.org/images/BP1.jpg
+  image: https://ai4reason.org/images/BP1.jpg
   email:  piotrbar (at) ciirc.cvut.cz 
   homepage: 
   scholar:
