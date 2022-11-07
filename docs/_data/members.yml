@@ -112,7 +112,7 @@
     - Automatic and Interactive Theorem Proving
     - Proof Checking
     - Proof Representations and Transformations 
-  image: https://ai4reason.org/images/cebrown.jpg
+  image: /images/ai4reason/cebrown.jpg
   email: no@way.man
   homepage: https://en.wikipedia.org/wiki/Chad_of_Mercia
   scholar:
@@ -152,7 +152,7 @@
     - Automated Reasoning
     - Artificial Intelligence
     - Automation in Interactive Theorem Proving 
-  image: https://ai4reason.org/images/tgauthier.jpg
+  image: /images/ai4reason/tgauthier.jpg
   email:  thibault_gauthier (at) hotmail (dot) fr 
   homepage: 
   scholar:
@@ -170,7 +170,7 @@
     - Automated Theorem Proving
     - Logic in Computer Science
     - Algorithmic Learning Theory 
-  image: https://ai4reason.org/images/kchvalovsky.jpg
+  image: /images/ai4reason/kchvalovsky.jpg
   email: karel (at) chvalovsky.cz
   homepage: https://karel.chvalovsky.cz/
   scholar:
@@ -203,7 +203,7 @@
     - Automated Theorem Proving
     - Mathematical Structures
     - Abelian Inner Mappings 
-  image: https://ai4reason.org/images/bveroff.jpg
+  image: /images/ai4reason/bveroff.jpg
   email:
   homepage: 
   scholar:
@@ -219,7 +219,7 @@
   interests:
     - Saturation-based Automated Theorem Proving
     - Machine Learning 
-  image: https://ai4reason.org/images/fbartek.jpg
+  image: /images/ai4reason/fbartek.jpg
   email: filip.bartek (at) cvut.cz
   homepage: 
   scholar:
@@ -237,7 +237,7 @@
     - Machine Learning
     - Type Theory
     - Programming Languages 
-  image: https://ai4reason.org/images/lblaauwbroek.jpg
+  image: /images/ai4reason/lblaauwbroek.jpg
   email: lasse.blaauwbroek (at) cvut.cz
   homepage: 
   scholar:
@@ -257,7 +257,7 @@
     - Inference Guidance
     - Knolwedge Graph Learning
     - Representation Learning 
-  image: https://ai4reason.org/images/zgoertzel.jpg
+  image: /images/ai4reason/zgoertzel.jpg
   email: zariuq (at) gmail (dot) com 
   homepage: 
   scholar:
@@ -274,7 +274,7 @@
     - Interactive Theorem Proving 
     - Automated Reasoning
     - Artificial Intelligence
-  image: https://ai4reason.org/images/ynagashima.jpg
+  image: /images/ai4reason/ynagashima.jpg
   email: 
   homepage: 
   scholar: U2cikqsAAAAJ
@@ -306,7 +306,7 @@
   interests:
     - Automated Reasoning
     - Artificial Intelligence
-  image: https://ai4reason.org/images/BP1.jpg
+  image: /images/ai4reason/BP1.jpg
   email:  piotrbar (at) ciirc.cvut.cz 
   homepage: 
   scholar:
