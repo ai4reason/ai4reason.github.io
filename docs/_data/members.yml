@@ -16,6 +16,44 @@
   orcid: 0000-0002-1384-1613
   github: JUrban
 
+- name: Tomáš Mikolov
+  role: pi
+  position: Head of the Foundational AI (FAI) Group
+  groups:
+    - main
+    - FAI
+  interests:
+    - Artificial Intelligence
+    - Machine Learning
+    - Language Modeling
+    - Natural Language Processing
+  image: /images/members/mikolov.jpg
+  email: tomas.mikolov(at)cvut.cz
+  homepage: https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Mikolov
+  scholar: oBu8kMMAAAAJ
+  dblp: pid/45/8055
+  orcid: 0000-0002-6938-5426
+  github: 
+
+- name: Robert Babuška
+  role: pi
+  position: Head of the Machine Learning (ML) Group
+  groups:
+    - main
+    - ML
+  interests:
+    - Reinforcement learning
+    - Nonlinear control
+    - Data-driven model construction
+    - Deep learning
+  image: https://www.ciirc.cvut.cz/wp-content/uploads/2021/10/Robert_Babuska-254x300.jpg
+  email: robert_DOT_babuska_AT_cvut_DOT_cz
+  homepage: https://www.robertbabuska.com/
+  scholar: 0orN2FUAAAAJ
+  dblp: pid/65/1151
+  orcid: 0000-0001-9578-8598
+  github: 
+
 - name: Mikoláš Janota
   role: pi 
   position: Head of the Formal Methods (FM) Group
@@ -54,44 +92,6 @@
   dblp: pid/24/5175-1
   orcid: 0000-0003-0989-5800
   github: quickbeam123
-
-- name: Tomáš Mikolov
-  role: pi
-  position: Head of the Foundational AI (FAI) Group
-  groups:
-    - main
-    - FAI
-  interests:
-    - Artificial Intelligence
-    - Machine Learning
-    - Language Modeling
-    - Natural Language Processing
-  image: /images/members/mikolov.jpg
-  email: tomas.mikolov(at)cvut.cz
-  homepage: https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Mikolov
-  scholar: oBu8kMMAAAAJ
-  dblp: pid/45/8055
-  orcid: 0000-0002-6938-5426
-  github: 
-
-- name: Robert Babuška
-  role: pi
-  position: Head of the Machine Learning (ML) Group
-  groups:
-    - main
-    - ML
-  interests:
-    - Reinforcement learning
-    - Nonlinear control
-    - Data-driven model construction
-    - Deep learning
-  image: https://www.ciirc.cvut.cz/wp-content/uploads/2021/10/Robert_Babuska-254x300.jpg
-  email: robert_DOT_babuska_AT_cvut_DOT_cz
-  homepage: https://www.robertbabuska.com/
-  scholar: 0orN2FUAAAAJ
-  dblp: pid/65/1151
-  orcid: 0000-0001-9578-8598
-  github: 
 
 
 
