@@ -5891,6 +5891,20 @@ DBLP:conf/sigsoft/JanotaGM07:
   title: Reachability analysis for annotated code.
   url: https://www.wikidata.org/entity/Q62047288
   year: 2007
+DBLP:conf/sigsoft/OrvalhoJM22:
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco M. Manquinho"
+  dblp: conf/sigsoft/OrvalhoJM22
+  doi: https://doi.org/10.1145/3540250.3558931
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1145/3540250.3558931
+  source: 'Proceedings of the 30th ACM Joint European Software Engineering Conference
+    and Symposium on the Foundations of Software Engineering, ESEC/FSE 2022, Singapore,
+    Singapore, November 14-18, 2022: 1657-1661 (2022).'
+  title: 'MultIPAs: applying program transformations to introductory programming assignments
+    for data augmentation.'
+  year: 2022
 DBLP:conf/slt/MikolovZ12:
   authors: "Tom\xE1s Mikolov, Geoffrey Zweig"
   dblp: conf/slt/MikolovZ12
@@ -8970,6 +8984,17 @@ DBLP:journals/corr/abs-2210-03590:
   link: https://doi.org/10.48550/arXiv.2210.03590
   source: arXiv CoRR abs/2210.03590 (2022).
   title: Machine Learning Meets The Herbrand Universe.
+  year: 2022
+DBLP:journals/corr/abs-2211-04205:
+  authors: "David Herel, Hugo Cisneros, Tom\xE1s Mikolov"
+  dblp: journals/corr/abs-2211-04205
+  doi: https://doi.org/10.48550/arXiv.2211.04205
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.48550/arXiv.2211.04205
+  source: arXiv CoRR abs/2211.04205 (2022).
+  title: Preserving Semantics in Textual Adversarial Attacks.
   year: 2022
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
