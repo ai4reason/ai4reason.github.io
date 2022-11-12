@@ -9743,6 +9743,17 @@ DBLP:journals/jar/Veroff03:
   source: 'J. Autom. Reason. 31: 1-9 (2003).'
   title: A Shortest 2-Basis for Boolean Algebra in Terms of the Sheffer Stroke.
   year: 2003
+DBLP:journals/jar/Veroff22:
+  authors: Robert Veroff
+  dblp: journals/jar/Veroff22
+  doi: https://doi.org/10.1007/s10817-021-09614-y
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.1007/s10817-021-09614-y
+  source: 'J. Autom. Reason. 66: 565-574 (2022).'
+  title: A Wos Challenge Met.
+  year: 2022
 DBLP:journals/jar/Veroff92:
   authors: Robert Veroff
   dblp: journals/jar/Veroff92
