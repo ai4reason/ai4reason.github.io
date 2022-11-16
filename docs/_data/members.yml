@@ -18,7 +18,7 @@
 
 - name: Tomáš Mikolov
   role: pi
-  position: Head of the Foundational AI (FAI) Group
+  position: Head of the FAI Group
   groups:
     - main
     - FAI
@@ -37,7 +37,7 @@
 
 - name: Robert Babuška
   role: pi
-  position: Head of the Machine Learning (ML) Group
+  position: Head of the ML Group
   groups:
     - main
     - ML
@@ -56,7 +56,7 @@
 
 - name: Mikoláš Janota
   role: pi 
-  position: Head of the Formal Methods (FM) Group
+  position: Head of the FM Group
   groups:
     - main
     - FM
@@ -74,7 +74,7 @@
 
 - name: Martin Suda
   role: pi
-  position: Head of the Automated Reasoning (AR) Group
+  position: Head of the AR Group
   groups:
     - main
     - AR
