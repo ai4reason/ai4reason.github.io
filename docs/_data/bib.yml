@@ -8996,6 +8996,17 @@ DBLP:journals/corr/abs-2211-04205:
   source: arXiv CoRR abs/2211.04205 (2022).
   title: Preserving Semantics in Textual Adversarial Attacks.
   year: 2022
+DBLP:journals/corr/abs-2211-11937:
+  authors: Yutaka Nagashima
+  dblp: journals/corr/abs-2211-11937
+  doi: https://doi.org/10.48550/arXiv.2211.11937
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.48550/arXiv.2211.11937
+  source: arXiv CoRR abs/2211.11937 (2022).
+  title: Genetic Algorithm for Program Synthesis.
+  year: 2022
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
