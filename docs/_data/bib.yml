@@ -3835,6 +3835,22 @@ DBLP:conf/iros/LijnLB10:
     October 18-22, 2010, Taipei, Taiwan: 3435-3440 (2010).'
   title: Motion estimation based on predator/prey vision.
   year: 2010
+DBLP:conf/iros/PassalisPBBDFGG22:
+  authors: Nikolaos Passalis, S. Pedrazzi, Robert Babuska, Wolfram Burgard, D. Dias,
+    F. Ferro, Moncef Gabbouj, O. Green, Alexandros Iosifidis, E. Kayacan, Jens Kober,
+    O. Michel, N. Nikolaidis, Paraskevi Nousi, R. Pieters, Maria Tzelepi, Abhinav
+    Valada, Anastasios Tefas
+  dblp: conf/iros/PassalisPBBDFGG22
+  doi: https://doi.org/10.1109/IROS47612.2022.9981703
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/IROS47612.2022.9981703
+  source: 'IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS
+    2022, Kyoto, Japan, October 23-27, 2022: 12479-12484 (2022).'
+  title: 'OpenDR: An Open Toolkit for Enabling High Performance, Low Footprint Deep
+    Learning for Robotics.'
+  year: 2022
 DBLP:conf/iros/SchuitemaBBJ10:
   authors: Erik Schuitema, Lucian Busoniu, Robert Babuska, Pieter Jonker
   dblp: conf/iros/SchuitemaBBJ10
