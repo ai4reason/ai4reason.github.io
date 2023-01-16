@@ -9126,6 +9126,18 @@ DBLP:journals/eaai/PaneNKB19:
   source: 'Eng. Appl. Artif. Intell. 78: 236-247 (2019).'
   title: Reinforcement learning based compensation methods for robot manipulators.
   year: 2019
+DBLP:journals/eaai/RohaninejadJH23:
+  authors: "Mohammad Rohaninejad, Mikol\xE1s Janota, Zdenek Hanz\xE1lek"
+  dblp: journals/eaai/RohaninejadJH23
+  doi: https://doi.org/10.1016/j.engappai.2022.105676
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1016/j.engappai.2022.105676
+  source: 'Eng. Appl. Artif. Intell. 118: (2023).'
+  title: 'Integrated lot-sizing and scheduling: Mitigation of uncertainty in demand
+    and processing time by machine learning.'
+  year: 2023
 DBLP:journals/eaai/VerbertBS17:
   authors: Kim Verbert, Robert Babuska, Bart De Schutter
   dblp: journals/eaai/VerbertBS17
