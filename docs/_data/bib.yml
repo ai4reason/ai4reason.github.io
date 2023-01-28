@@ -9271,9 +9271,11 @@ DBLP:journals/entcs/Brown07:
   - FM
   - main
   link: https://doi.org/10.1016/j.entcs.2007.01.022
-  source: 'Electron. Notes Theor. Comput. Sci. 174: 127-139 (2007).'
+  source: 'Proceedings of the First International Workshop on Logical Frameworks and
+    Meta-Languages: Theory and Practice, LFMTP@FLoC 2006, Seattle, WA, USA, August
+    16, 2006: 127-139 (2006).'
   title: Encoding Functional Relations in Scunak.
-  year: 2007
+  year: 2006
 DBLP:journals/entcs/Urban03:
   authors: Josef Urban
   dblp: journals/entcs/Urban03
@@ -9295,9 +9297,10 @@ DBLP:journals/entcs/UrbanB07:
   - AR
   - main
   link: https://doi.org/10.1016/j.entcs.2006.09.022
-  source: 'Electron. Notes Theor. Comput. Sci. 174: 63-74 (2007).'
+  source: 'Proceedings of the 7th Workshop on User Interfaces for Theorem Provers,
+    UITP@FLoC 2006, Seattle, WA, USA, August 21, 2006: 63-74 (2006).'
   title: Presenting and Explaining Mizar.
-  year: 2007
+  year: 2006
 DBLP:journals/eswa/KubalikDB21:
   authors: "Jir\xED Kubal\xEDk, Erik Derner, Robert Babuska"
   dblp: journals/eswa/KubalikDB21
