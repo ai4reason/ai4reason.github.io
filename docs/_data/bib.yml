@@ -2730,6 +2730,19 @@ DBLP:conf/gcai/Urban15:
     October 16-19, 2015: 312-319 (2015).'
   title: 'BliStr: The Blind Strategymaker.'
   year: 2015
+DBLP:conf/gcce/KanedaSSHN22:
+  authors: Kazuyuki Kaneda, Yuki Sato, Ayanari Sibayama, Kiyoshi Horie, Yutaka Nagashima
+  dblp: conf/gcce/KanedaSSHN22
+  doi: https://doi.org/10.1109/GCCE56475.2022.10014198
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.1109/GCCE56475.2022.10014198
+  source: '11th IEEE Global Conference on Consumer Electronics, GCCE 2022, Osaka,
+    Japan, October 18-21, 2022: 860-861 (2022).'
+  title: An Underwater Environment Measuring System and Three-Dimensional Visualization
+    of Underwater Structure Using Underwater Drone and 5G Network.
+  year: 2022
 DBLP:conf/gecco/Babuska19:
   authors: Robert Babuska
   dblp: conf/gecco/Babuska19
