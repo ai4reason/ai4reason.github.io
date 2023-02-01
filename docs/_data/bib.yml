@@ -9047,6 +9047,17 @@ DBLP:journals/corr/abs-2212-11151:
   source: arXiv CoRR abs/2212.11151 (2022).
   title: Property-Based Conjecturing for Automated Induction in Isabelle/HOL.
   year: 2022
+DBLP:journals/corr/abs-2301-11479:
+  authors: "Thibault Gauthier, Miroslav Ols\xE1k, Josef Urban"
+  dblp: journals/corr/abs-2301-11479
+  doi: https://doi.org/10.48550/arXiv.2301.11479
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.48550/arXiv.2301.11479
+  source: arXiv CoRR abs/2301.11479 (2023).
+  title: Alien Coding.
+  year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
