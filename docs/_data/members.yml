@@ -335,16 +335,19 @@
   groups:
     - ML
   dblp: pid/211/3939
-  position: 
+  position: Researcher
   interests:
-    - Machine learning
-    - Artificial intelligence
-  image: /images/members/user.png
-  email:
-  homepage: 
-  scholar:
-  orcid:
-  github: 
+    - Machine Learning
+    - Genetic Programming
+    - Symbolic Regression
+    - Robotics
+    - Large Language Models
+  image: https://people.ciirc.cvut.cz/~derneeri/img/profile.jpg
+  email: erik.derner - cvut.cz
+  homepage: https://people.ciirc.cvut.cz/~derneeri/
+  scholar: 39FtM54AAAAJ
+  orcid: 0000-0002-7588-7668
+  github: erik-derner
 
 - name: Jiří Kubalík
   role: staff
