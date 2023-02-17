@@ -498,6 +498,20 @@ DBLP:conf/aplas/Nagashima19:
     Dua, Bali, Indonesia, December 1-4, 2019, Proceedings: 266-287 (2019).'
   title: 'LiFtEr: Language to Encode Induction Heuristics for Isabelle/HOL.'
   year: 2019
+DBLP:conf/arcade/2021:
+  authors: Martin Suda, Sarah Winkler
+  dblp: conf/arcade/2021
+  groups:
+  - AR
+  - main
+  link: ''
+  source: 'Proceedings of the Third International Workshop on Automated Reasoning:
+    Challenges, Applications, Directions, Exemplary Achievements, ARCADE@CADE 2021,
+    Virtual Event, July 16, 2021. (2021).'
+  title: 'Proceedings of the Third International Workshop on Automated Reasoning:
+    Challenges, Applications, Directions, Exemplary Achievements, ARCADE@CADE 2021,
+    Virtual Event, July 16, 2021.'
+  year: 2021
 DBLP:conf/ascc/BeyhanLAB13:
   authors: "Selami Beyhan, Zs\xF3fia Lendek, Musa Alci, Robert Babuska"
   dblp: conf/ascc/BeyhanLAB13
@@ -3300,6 +3314,19 @@ DBLP:conf/icnsc/CongSB13:
   title: Optimal routing in freeway networks via sequential linear programming.
   url: https://www.wikidata.org/entity/Q107155484
   year: 2013
+DBLP:conf/icon-nlp/BafnaVB21:
+  authors: Niyati Bafna, Martin Vastl, Ondrej Bojar
+  dblp: conf/icon-nlp/BafnaVB21
+  groups:
+  - ML
+  - main
+  link: https://aclanthology.org/2021.icon-main.1
+  source: 'Proceedings of the 18th International Conference on Natural Language Processing
+    (ICON 2021), National Institute of Technology Silchar, Silchar, India, December
+    16 - 19, 2021.: 1-6 (2021).'
+  title: Constrained Decoding for Technical Term Retention in English-Hindi MT.
+  url: https://aclanthology.org/2021.icon-main.1
+  year: 2021
 DBLP:conf/icra/BehrensSB20:
   authors: "Jan Kristof Behrens, Karla St\xE9p\xE1nov\xE1, Robert Babuska"
   dblp: conf/icra/BehrensSB20
@@ -8563,6 +8590,18 @@ DBLP:journals/corr/abs-2009-09215:
   source: arXiv CoRR abs/2009.09215 (2020).
   title: Faster Smarter Induction in Isabelle/HOL with SeLFiE.
   year: 2020
+DBLP:journals/corr/abs-2010-03920:
+  arXiv: https://arxiv.org/abs/2010.03920
+  authors: Martin Vastl, Daniel Zeman, Rudolf Rosa
+  dblp: journals/corr/abs-2010-03920
+  groups:
+  - ML
+  - main
+  link: https://arxiv.org/abs/2010.03920
+  source: arXiv CoRR abs/2010.03920 (2020).
+  title: "Predicting Typological Features in WALS using Language Embeddings and Conditional\
+    \ Probabilities: \xDAFAL Submission to the SIGTYP 2020 Shared Task."
+  year: 2020
 DBLP:journals/corr/abs-2010-10296:
   arXiv: https://arxiv.org/abs/2010.10296
   authors: Yutaka Nagashima
@@ -8607,6 +8646,17 @@ DBLP:journals/corr/abs-2102-03529:
   link: https://arxiv.org/abs/2102.03529
   source: arXiv CoRR abs/2102.03529 (2021).
   title: Vampire With a Brain Is a Good ITP Hammer.
+  year: 2021
+DBLP:journals/corr/abs-2102-05126:
+  arXiv: https://arxiv.org/abs/2102.05126
+  authors: "Jon\xE1s Kulh\xE1nek, Vojtech Hudecek, Tom\xE1s Nekvinda, Ondrej Dusek"
+  dblp: journals/corr/abs-2102-05126
+  groups:
+  - ML
+  - main
+  link: https://arxiv.org/abs/2102.05126
+  source: arXiv CoRR abs/2102.05126 (2021).
+  title: 'AuGPT: Dialogue with Pre-trained Language Models and Data Augmentation.'
   year: 2021
 DBLP:journals/corr/abs-2102-05547:
   arXiv: https://arxiv.org/abs/2102.05547
@@ -9057,6 +9107,17 @@ DBLP:journals/corr/abs-2301-11479:
   link: https://doi.org/10.48550/arXiv.2301.11479
   source: arXiv CoRR abs/2301.11479 (2023).
   title: Alien Coding.
+  year: 2023
+DBLP:journals/corr/abs-2302-00773:
+  authors: "Jir\xED Kubal\xEDk, Erik Derner, Robert Babuska"
+  dblp: journals/corr/abs-2302-00773
+  doi: https://doi.org/10.48550/arXiv.2302.00773
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2302.00773
+  source: arXiv CoRR abs/2302.00773 (2023).
+  title: Neural Networks for Symbolic Regression.
   year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026

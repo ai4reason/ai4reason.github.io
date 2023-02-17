@@ -52,7 +52,10 @@ def normalize_entry(entry, groups):
       else:
          journal = "%s %s: (%s)." % (entry["JO"], entry["VL"], entry["PY"].rstrip("/"))
    elif entry["TY"] == "CONF":
-      journal = "%s %s (%s)." % (entry["T3"], entry["VL"], entry["PY"].rstrip("/"))
+      if "T3" in entry:
+         journal = "%s %s (%s)." % (entry["T3"], entry["VL"], entry["PY"].rstrip("/"))
+      else:
+         journal = "%s (%s)." % (entry["TI"], entry["PY"].rstrip("/"))
    elif entry["TY"] == "CHAP":
       journal = "%s: %s-%s (%s)." % (entry["BT"], entry["SP"], entry["EP"], entry["PY"].rstrip("/"))
    elif entry["TY"] == "THES":
