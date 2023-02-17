@@ -335,31 +335,35 @@
   groups:
     - ML
   dblp: pid/211/3939
-  position: 
+  position: Researcher
   interests:
-    - Machine learning
-    - Artificial intelligence
-  image: /images/members/user.png
-  email:
-  homepage: 
-  scholar:
-  orcid:
-  github: 
+    - Machine Learning
+    - Genetic Programming
+    - Symbolic Regression
+    - Robotics
+    - Large Language Models
+  image: https://people.ciirc.cvut.cz/~derneeri/img/profile.jpg
+  email: erik.derner - cvut.cz
+  homepage: https://people.ciirc.cvut.cz/~derneeri/
+  scholar: 39FtM54AAAAJ
+  orcid: 0000-0002-7588-7668
+  github: erik-derner
 
 - name: Jiří Kubalík
   role: staff
   groups:
     - ML
   dblp: pid/05/659
-  position: 
+  position: Researcher
   interests:
     - Machine learning
     - Artificial intelligence
-  image: /images/members/user.png
-  email:
-  homepage: 
-  scholar:
-  orcid:
+    - Evolutionary computation
+  image: https://people.ciirc.cvut.cz/~kubalik/JK%20files/profile.jpg
+  Email: jiri.kubalik@cvut.cz
+  homepage: http://people.ciirc.cvut.cz/~kubalik/
+  Scholar: M0r5BG0AAAAJ
+  Orcid: 0000-0002-6965-6142
   github: 
 
 - name: Jan Zahálka
@@ -367,16 +371,18 @@
   groups:
     - ML
   dblp: pid/54/9476
-  position: 
+  position: Researcher
   interests:
-    - Machine learning
     - Artificial intelligence
-  image: /images/members/user.png
-  email:
-  homepage: 
-  scholar:
-  orcid:
-  github: 
+    - Machine learning
+    - Data analytics
+    - Cybersecurity
+  image: http://zahalka.net/static/zahalkanet/img/zahalka.png
+  email: jan.zahalka [at> cvut.cz
+  homepage: http://zahalka.net
+  scholar: XQJrE9YAAAAJ
+  orcid: 0000-0002-6743-3607
+  github: JanZahalka
 
 - name: Baran Alikoc
   role: alumni
@@ -385,8 +391,6 @@
   dblp: pid/180/8715
   position: 
   interests:
-    - Machine learning
-    - Artificial intelligence
   image: /images/members/user.png
   email:
   homepage: 
@@ -394,6 +398,47 @@
   orcid:
   github: 
 
+- name: Jonáš Kulhánek
+  role: alumni
+  groups:
+    - ML
+  dblp: pid/247/1194
+  position: 
+  interests:
+  image: /images/members/user.png
+  email:
+  homepage: 
+  scholar:
+  orcid:
+  github: 
+
+- name: Martin Vastl
+  role: alumni
+  groups:
+    - ML
+  dblp: pid/276/0938
+  position: 
+  interests:
+  image: /images/members/user.png
+  email:
+  homepage: 
+  scholar:
+  orcid:
+  github: 
+
+- name: Eduard Alibekov
+  role: alumni
+  groups:
+    - ML
+  dblp: pid/186/6952
+  position: 
+  interests:
+  image: /images/members/user.png
+  email:
+  homepage: 
+  scholar:
+  orcid:
+  github: 
 
 - name: Jana Popelová
   role: admin
@@ -441,4 +486,5 @@
   scholar:
   orcid:
   github: 
+
 
