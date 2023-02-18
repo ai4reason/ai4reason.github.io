@@ -1708,6 +1708,18 @@ DBLP:conf/coling/Mikolov14:
   title: Using Neural Networks for Modeling and Representing Natural Languages.
   url: https://aclanthology.org/C14-3002/
   year: 2014
+DBLP:conf/collas/CisnerosMS22:
+  authors: "Hugo Cisneros, Tom\xE1s Mikolov, Josef Sivic"
+  dblp: conf/collas/CisnerosMS22
+  groups:
+  - FAI
+  - main
+  link: https://proceedings.mlr.press/v199/cisneros22a.html
+  source: "Conference on Lifelong Learning Agents, CoLLAs 2022, 22-24 August 2022,\
+    \ McGill University, Montr\xE9al, Qu\xE9bec, Canada.: 532-547 (2022)."
+  title: Benchmarking Learning Efficiency in Deep Reservoir Computing.
+  url: https://proceedings.mlr.press/v199/cisneros22a.html
+  year: 2022
 DBLP:conf/cp/AraujoCJ21:
   authors: "Jo\xE3o Ara\xFAjo, Choiwah Chow, Mikol\xE1s Janota"
   dblp: conf/cp/AraujoCJ21
