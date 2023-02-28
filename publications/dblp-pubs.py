@@ -83,11 +83,11 @@ def normalize_entry(entry, groups, authorinfo):
       urltype = "url"
 
    year = int(year)
-   if "member" in authorinfo:
-      member = authorinfo["member"]
-      if ("from" in member) and (year < int(member["from"])):
+   if "active" in authorinfo:
+      active = authorinfo["active"]
+      if ("from" in active) and (year < active["from"]):
          return None
-      if ("to" in member) and (year > int(member["to"])):
+      if ("to" in active) and (year > active["to"]):
          return None
 
    record = entry["ID"].split(":")[1]
@@ -95,7 +95,6 @@ def normalize_entry(entry, groups, authorinfo):
                url=(urltype, url), dblp=record, groups=set(groups), link=url)
 
 def normalize_entries(db, groups, authorinfo):
-   print(authorinfo)
    dels = []
    for eid in db.keys():
       db[eid] = normalize_entry(db[eid], groups, authorinfo)
