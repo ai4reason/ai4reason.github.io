@@ -26,6 +26,9 @@ To edit the list of department members proceed as follows.
 - name: Jan Z. Rokycan
   dblp: pid/63/5214
   role: staff
+  active:
+    from: 2018
+    to: 2020
   position: Senior researcher
   groups:
     - main
@@ -138,6 +141,17 @@ Photos can be uploaded into folder
 ### `position` :: string
 
 Informal position description as a string, like _Junior Researcher_.
+
+* * *
+
+### `active.from`, `active.to` :: int
+
+Define years where the member was active (employed) in the group.
+Only publications in this time span (inclusive) are displayed in the list of publications and on the _Activities_ page.
+This is useful to deal with _alumni_ members.
+One of the values (or both) can be unspecified in the record.
+
+ℹ️  Only years are supported (no months or days) since only the publication year is known for each publication from _dblp_.
 
 * * *
 
