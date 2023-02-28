@@ -28,7 +28,7 @@ def parse_ris(ris, year):
          entry[mo.group(1)] = mo.group(2)
    return db
       
-def normalize_entry(entry, groups):
+def normalize_entry(entry, groups, authorinfo):
    authors = entry["AU"]
    authors = [" ".join(reversed(author.split(", "))) for author in authors]
 
@@ -82,13 +82,27 @@ def normalize_entry(entry, groups):
    else:
       urltype = "url"
 
+   year = int(year)
+   if "member" in authorinfo:
+      member = authorinfo["member"]
+      if ("from" in member) and (year < int(member["from"])):
+         return None
+      if ("to" in member) and (year > int(member["to"])):
+         return None
+
    record = entry["ID"].split(":")[1]
    return dict(authors=authors, title=title, source=journal, year=int(year),
                url=(urltype, url), dblp=record, groups=set(groups), link=url)
 
-def normalize_entries(db, groups):
+def normalize_entries(db, groups, authorinfo):
+   print(authorinfo)
+   dels = []
    for eid in db.keys():
-      db[eid] = normalize_entry(db[eid], groups)
+      db[eid] = normalize_entry(db[eid], groups, authorinfo)
+      if not db[eid]:
+         dels.append(eid)
+   for eid in dels:
+      del db[eid]
 
 def update_db(db, new):
    for eid in new:
@@ -120,7 +134,7 @@ def download_db(authors, year):
       groups = authors[author]["groups"] if "groups" in authors[author] else []
       groups = set(groups)
       groups.add("main")
-      normalize_entries(authordb, groups)
+      normalize_entries(authordb, groups, authors[author])
       update_db(db, authordb)
    db = finalize_db(db)
    sys.stderr.write("Relevant entries found: %d\n" % len(db))

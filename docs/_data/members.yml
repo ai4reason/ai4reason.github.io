@@ -268,6 +268,9 @@
 - name: Yutaka Nagashima
   role: alumni
   position: PhD student 
+  member:
+    from: 2016
+    to: 2021
   groups:
     - AR
   interests:

@@ -2756,19 +2756,6 @@ DBLP:conf/gcai/Urban15:
     October 16-19, 2015: 312-319 (2015).'
   title: 'BliStr: The Blind Strategymaker.'
   year: 2015
-DBLP:conf/gcce/KanedaSSHN22:
-  authors: Kazuyuki Kaneda, Yuki Sato, Ayanari Sibayama, Kiyoshi Horie, Yutaka Nagashima
-  dblp: conf/gcce/KanedaSSHN22
-  doi: https://doi.org/10.1109/GCCE56475.2022.10014198
-  groups:
-  - AR
-  - main
-  link: https://doi.org/10.1109/GCCE56475.2022.10014198
-  source: '11th IEEE Global Conference on Consumer Electronics, GCCE 2022, Osaka,
-    Japan, October 18-21, 2022: 860-861 (2022).'
-  title: An Underwater Environment Measuring System and Three-Dimensional Visualization
-    of Underwater Structure Using Underwater Drone and 5G Network.
-  year: 2022
 DBLP:conf/gecco/Babuska19:
   authors: Robert Babuska
   dblp: conf/gecco/Babuska19
@@ -5465,30 +5452,6 @@ DBLP:conf/models/JanotaKW08:
   title: 'Model Construction with External Constraints: An Interactive Journey from
     Semantics to Syntax.'
   year: 2008
-DBLP:conf/mva/NagashimaI98:
-  authors: Yutaka Nagashima, Takakazu Ishimatsu
-  dblp: conf/mva/NagashimaI98
-  groups:
-  - AR
-  - main
-  link: http://b2.cvl.iis.u-tokyo.ac.jp/mva/proceedings/CommemorativeDVD/1998/papers/1998306.pdf
-  source: 'Proceedings of IAPR Workshop on Machine Vision Applications, MVA 1998,
-    November 17-19, 1998, Chiba, Japan: 306-309 (1998).'
-  title: A Morphological Approach to Fish Discrimination.
-  url: http://b2.cvl.iis.u-tokyo.ac.jp/mva/proceedings/CommemorativeDVD/1998/papers/1998306.pdf
-  year: 1998
-DBLP:conf/mva/NagashimaNI96:
-  authors: Yutaka Nagashima, Takeshi Nakazono, Takakazu Ishimatsu
-  dblp: conf/mva/NagashimaNI96
-  groups:
-  - AR
-  - main
-  link: http://b2.cvl.iis.u-tokyo.ac.jp/mva/proceedings/CommemorativeDVD/1996/papers/1996426.pdf
-  source: 'Proceedings of IAPR Workshop on Machine Vision Applications, MVA 1996,
-    November 12-14, 1996, Tokyo, Japan: 426-429 (1996).'
-  title: Parallel Implementation of Features Extraction Using Morphological Filter.
-  url: http://b2.cvl.iis.u-tokyo.ac.jp/mva/proceedings/CommemorativeDVD/1996/papers/1996426.pdf
-  year: 1996
 DBLP:conf/naacl/MikolovYZ13:
   authors: "Tom\xE1s Mikolov, Wen-tau Yih, Geoffrey Zweig"
   dblp: conf/naacl/MikolovYZ13
@@ -6302,18 +6265,6 @@ DBLP:conf/tacas/Reger0V18:
   title: Unification with Abstraction and Theory Instantiation in Saturation-Based
     Reasoning.
   year: 2018
-DBLP:conf/tap/Nagashima22:
-  authors: Yutaka Nagashima
-  dblp: conf/tap/Nagashima22
-  doi: https://doi.org/10.1007/978-3-031-09827-7_4
-  groups:
-  - AR
-  - main
-  link: https://doi.org/10.1007/978-3-031-09827-7_4
-  source: 'Tests and Proofs - 16th International Conference, TAP 2022, Held as Part
-    of STAF 2022, Nantes, France, July 5, 2022, Proceedings: 48-66 (2022).'
-  title: Definitional Quantifiers Realise Semantic Reasoning for Proof by Induction.
-  year: 2022
 DBLP:conf/tap/Reger0V17:
   authors: Giles Reger, Martin Suda, Andrei Voronkov
   dblp: conf/tap/Reger0V17
@@ -9087,28 +9038,6 @@ DBLP:journals/corr/abs-2211-04205:
   source: arXiv CoRR abs/2211.04205 (2022).
   title: Preserving Semantics in Textual Adversarial Attacks.
   year: 2022
-DBLP:journals/corr/abs-2211-11937:
-  authors: Yutaka Nagashima
-  dblp: journals/corr/abs-2211-11937
-  doi: https://doi.org/10.48550/arXiv.2211.11937
-  groups:
-  - AR
-  - main
-  link: https://doi.org/10.48550/arXiv.2211.11937
-  source: arXiv CoRR abs/2211.11937 (2022).
-  title: Genetic Algorithm for Program Synthesis.
-  year: 2022
-DBLP:journals/corr/abs-2212-11151:
-  authors: Yutaka Nagashima, Zijin Xu, Ningli Wang, Daniel Sebastian Goc, James Bang
-  dblp: journals/corr/abs-2212-11151
-  doi: https://doi.org/10.48550/arXiv.2212.11151
-  groups:
-  - AR
-  - main
-  link: https://doi.org/10.48550/arXiv.2212.11151
-  source: arXiv CoRR abs/2212.11151 (2022).
-  title: Property-Based Conjecturing for Automated Induction in Isabelle/HOL.
-  year: 2022
 DBLP:journals/corr/abs-2301-11479:
   authors: "Thibault Gauthier, Miroslav Ols\xE1k, Josef Urban"
   dblp: journals/corr/abs-2301-11479
@@ -10018,28 +9947,6 @@ DBLP:journals/jql/CechHKCM19:
   source: 'J. Quant. Linguistics 26: 187-204 (2019).'
   title: The Development of Context Specificity of Lemma. A Word Embeddings Approach.
   year: 2019
-DBLP:journals/jrm/NagashimaIM00:
-  authors: Yutaka Nagashima, Takakazu Ishimatsu, Jamal Tariq Mian
-  dblp: journals/jrm/NagashimaIM00
-  doi: https://doi.org/10.20965/jrm.2000.p0060
-  groups:
-  - AR
-  - main
-  link: https://doi.org/10.20965/jrm.2000.p0060
-  source: 'J. Robotics Mechatronics 12: 60-65 (2000).'
-  title: AUV with Variable Vector Propeller.
-  year: 2000
-DBLP:journals/jrm/NagashimaTII02:
-  authors: Yutaka Nagashima, Nobuyoshi Taguchi, Takakazu Ishimatsu, Hirofumi Inoue
-  dblp: journals/jrm/NagashimaTII02
-  doi: https://doi.org/10.20965/jrm.2002.p0112
-  groups:
-  - AR
-  - main
-  link: https://doi.org/10.20965/jrm.2002.p0112
-  source: 'J. Robotics Mechatronics 14: 112-117 (2002).'
-  title: Development of a Compact Autonomous Underwater vehicle Using Varivec Propeller.
-  year: 2002
 DBLP:journals/jsat/HeuleJS19:
   authors: "Marijn J. H. Heule, Matti J\xE4rvisalo, Martin Suda"
   dblp: journals/jsat/HeuleJS19
