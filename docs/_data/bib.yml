@@ -9060,6 +9060,18 @@ DBLP:journals/corr/abs-2302-00773:
   source: arXiv CoRR abs/2302.00773 (2023).
   title: Neural Networks for Symbolic Regression.
   year: 2023
+DBLP:journals/corr/abs-2302-12433:
+  authors: Zhangir Azerbayev, Bartosz Piotrowski, Hailey Schoelkopf, Edward W. Ayers,
+    Dragomir Radev, Jeremy Avigad
+  dblp: journals/corr/abs-2302-12433
+  doi: https://doi.org/10.48550/arXiv.2302.12433
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2302.12433
+  source: arXiv CoRR abs/2302.12433 (2023).
+  title: 'ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics.'
+  year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
