@@ -245,13 +245,13 @@ DBLP:conf/aiia/JanotaGM17:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-2011/paper4.pdf
+  link: https://ceur-ws.org/Vol-2011/paper4.pdf
   source: 'Proceedings of the 24th RCRA International Workshop on Experimental Evaluation
     of Algorithms for Solving Problems with Combinatorial Explosion 2017 co-located
     with the 16th International Conference of the Italian Association for Artificial
     Intelligence (AI*IA 2017), Bari, Italy, November 14-15, 2017.: 33-44 (2017).'
   title: On the Quest for an Acyclic Graph.
-  url: http://ceur-ws.org/Vol-2011/paper4.pdf
+  url: https://ceur-ws.org/Vol-2011/paper4.pdf
   year: 2017
 DBLP:conf/aiia/JanotaM17:
   authors: "Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
@@ -259,13 +259,13 @@ DBLP:conf/aiia/JanotaM17:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-2011/paper5.pdf
+  link: https://ceur-ws.org/Vol-2011/paper5.pdf
   source: 'Proceedings of the 24th RCRA International Workshop on Experimental Evaluation
     of Algorithms for Solving Problems with Combinatorial Explosion 2017 co-located
     with the 16th International Conference of the Italian Association for Artificial
     Intelligence (AI*IA 2017), Bari, Italy, November 14-15, 2017.: 45-54 (2017).'
   title: On Minimal Corrections in ASP.
-  url: http://ceur-ws.org/Vol-2011/paper5.pdf
+  url: https://ceur-ws.org/Vol-2011/paper5.pdf
   year: 2017
 DBLP:conf/aips/Suda14:
   authors: Martin Suda
@@ -570,11 +570,11 @@ DBLP:conf/ate/Urban11:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-760/paper2.pdf
+  link: https://ceur-ws.org/Vol-760/paper2.pdf
   source: "Proceedings of the First Workshop on Automated Theory Engineering, Wroc\u0142\
     aw, Poland, July 31, 2011: 3-8 (2011)."
   title: An Overview of Methods for Large-Theory Automated Theorem Proving.
-  url: http://ceur-ws.org/Vol-760/paper2.pdf
+  url: https://ceur-ws.org/Vol-760/paper2.pdf
   year: 2011
 DBLP:conf/biostec/KlemaZAK14:
   authors: "Jir\xED Kl\xE9ma, Jan Zah\xE1lka, Michael Andel, Zdenek Krejc\xEDk"
@@ -768,14 +768,14 @@ DBLP:conf/cade/Bartek020:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-2752/paper2.pdf
+  link: https://ceur-ws.org/Vol-2752/paper2.pdf
   source: 'Joint Proceedings of the 7th Workshop on Practical Aspects of Automated
     Reasoning (PAAR) and the 5th Satisfiability Checking and Symbolic Computation
     Workshop (SC-Square) Workshop, 2020 co-located with the 10th International Joint
     Conference on Automated Reasoning (IJCAR 2020), Paris, France, June-July, 2020
     (Virtual).: 21-33 (2020).'
   title: Learning Precedences from Simple Symbol Features.
-  url: http://ceur-ws.org/Vol-2752/paper2.pdf
+  url: https://ceur-ws.org/Vol-2752/paper2.pdf
   year: 2020
 DBLP:conf/cade/Bartek021:
   authors: "Filip B\xE1rtek, Martin Suda"
@@ -968,14 +968,14 @@ DBLP:conf/cade/Gleiss020a:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-2752/paper3.pdf
+  link: https://ceur-ws.org/Vol-2752/paper3.pdf
   source: 'Joint Proceedings of the 7th Workshop on Practical Aspects of Automated
     Reasoning (PAAR) and the 5th Satisfiability Checking and Symbolic Computation
     Workshop (SC-Square) Workshop, 2020 co-located with the 10th International Joint
     Conference on Automated Reasoning (IJCAR 2020), Paris, France, June-July, 2020
     (Virtual).: 34-52 (2020).'
   title: Layered Clause Selection for Saturation-Based Theorem Proving.
-  url: http://ceur-ws.org/Vol-2752/paper3.pdf
+  url: https://ceur-ws.org/Vol-2752/paper3.pdf
   year: 2020
 DBLP:conf/cade/GleissK017:
   authors: "Bernhard Gleiss, Laura Kov\xE1cs, Martin Suda"
@@ -1033,12 +1033,12 @@ DBLP:conf/cade/JanotaW16:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-1617/paper8.pdf
+  link: https://ceur-ws.org/Vol-1617/paper8.pdf
   source: 'Proceedings of the 14th International Workshop on Satisfiability Modulo
     Theories affiliated with the International Joint Conference on Automated Reasoning,
     SMT@IJCAR 2016, Coimbra, Portugal, July 1-2, 2016.: 81-84 (2016).'
   title: On Intervals and Bounds in Bit-vector Arithmetic.
-  url: http://ceur-ws.org/Vol-1617/paper8.pdf
+  url: https://ceur-ws.org/Vol-1617/paper8.pdf
   year: 2016
 DBLP:conf/cade/KaliszykSUV15:
   authors: "Cezary Kaliszyk, Stephan Schulz, Josef Urban, Jir\xED Vyskocil"
@@ -1308,11 +1308,11 @@ DBLP:conf/cade/Urban07:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-257/05_Urban.pdf
+  link: https://ceur-ws.org/Vol-257/05_Urban.pdf
   source: 'Proceedings of the CADE-21 Workshop on Empirically Successful Automated
     Reasoning in Large Theories, Bremen, Germany, 17th July 2007: (2007).'
   title: 'MaLARea: a Metasystem for Automated Reasoning in Large Theories.'
-  url: http://ceur-ws.org/Vol-257/05_Urban.pdf
+  url: https://ceur-ws.org/Vol-257/05_Urban.pdf
   year: 2007
 DBLP:conf/cade/Urban17:
   authors: Josef Urban
@@ -1688,13 +1688,13 @@ DBLP:conf/cikm/GauthierKU16:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-1785/W23.pdf
+  link: https://ceur-ws.org/Vol-1785/W23.pdf
   source: 'Joint Proceedings of the FM4M, MathUI, and ThEdu Workshops, Doctoral Program,
     and Work in Progress at the Conference on Intelligent Computer Mathematics 2016
     co-located with the 9th Conference on Intelligent Computer Mathematics (CICM 2016),
     Bialystok, Poland, July 25-29, 2016.: 219-228 (2016).'
   title: Initial Experiments with Statistical Conjecturing over Large Formal Corpora.
-  url: http://ceur-ws.org/Vol-1785/W23.pdf
+  url: https://ceur-ws.org/Vol-1785/W23.pdf
   year: 2016
 DBLP:conf/coling/Mikolov14:
   authors: "Tom\xE1s Mikolov"
@@ -4043,12 +4043,12 @@ DBLP:conf/itat/AdamczykH20:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-2718/paper30.pdf
+  link: https://ceur-ws.org/Vol-2718/paper30.pdf
   source: "Proceedings of the 20th Conference Information Technologies - Applications\
     \ and Theory (ITAT 2020), Hotel Tyrapol, Oravsk\xE1 Lesn\xE1, Slovakia, September\
     \ 18-22, 2020.: 186-191 (2020)."
   title: Keypoints Selection Using Evolutionary Algorithms.
-  url: http://ceur-ws.org/Vol-2718/paper30.pdf
+  url: https://ceur-ws.org/Vol-2718/paper30.pdf
   year: 2020
 DBLP:conf/itat/ChenHD22:
   authors: "Xinying Chen, Jan Hula, Anton\xEDn Dvor\xE1k"
@@ -4056,12 +4056,12 @@ DBLP:conf/itat/ChenHD22:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-3226/paper12.pdf
+  link: https://ceur-ws.org/Vol-3226/paper12.pdf
   source: 'Proceedings of the 22nd Conference Information Technologies - Applications
     and Theory (ITAT 2022), Zuberec, Slovakia, September 23-27, 2022.: 103-110 (2022).'
   title: Analysis of the Semantic Vector Space Induced by a Neural Language Model
     and a Corpus.
-  url: http://ceur-ws.org/Vol-3226/paper12.pdf
+  url: https://ceur-ws.org/Vol-3226/paper12.pdf
   year: 2022
 DBLP:conf/itat/HulaAMM21:
   authors: "Jan Hula, David Adamczyk, David Mojz\xEDsek, Vojtech Molek"
@@ -4069,12 +4069,12 @@ DBLP:conf/itat/HulaAMM21:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-2962/paper49.pdf
+  link: https://ceur-ws.org/Vol-2962/paper49.pdf
   source: "Proceedings of the 21st Conference Information Technologies - Applications\
     \ and Theory (ITAT 2021), Hotel He\u013Epa, N\xEDzke Tatry and Mur\xE1nska planina,\
     \ Slovakia, September 24-28, 2021.: 123-129 (2021)."
   title: Segmenting out Generic Objects in Monocular Videos.
-  url: http://ceur-ws.org/Vol-2962/paper49.pdf
+  url: https://ceur-ws.org/Vol-2962/paper49.pdf
   year: 2021
 DBLP:conf/itat/MojzisekH22:
   authors: "David Mojz\xEDsek, Jan Hula"
@@ -4082,11 +4082,11 @@ DBLP:conf/itat/MojzisekH22:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-3226/paper8.pdf
+  link: https://ceur-ws.org/Vol-3226/paper8.pdf
   source: 'Proceedings of the 22nd Conference Information Technologies - Applications
     and Theory (ITAT 2022), Zuberec, Slovakia, September 23-27, 2022.: 68-74 (2022).'
   title: Image Classifier with Dynamic Set of Known Classes.
-  url: http://ceur-ws.org/Vol-3226/paper8.pdf
+  url: https://ceur-ws.org/Vol-3226/paper8.pdf
   year: 2022
 DBLP:conf/itp/2011mw:
   authors: Christoph Lange, Josef Urban
@@ -4094,11 +4094,11 @@ DBLP:conf/itp/2011mw:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-767
+  link: https://ceur-ws.org/Vol-767
   source: CEUR Workshop Proceedings 767 (2011).
   title: Proceedings of the ITP 2011 Workshop on Mathematical Wikis, Nijmegen, The
     Netherlands, August 27th, 2011
-  url: http://ceur-ws.org/Vol-767
+  url: https://ceur-ws.org/Vol-767
   year: 2011
 DBLP:conf/itp/BrownKP19:
   authors: Chad E. Brown, Cezary Kaliszyk, Karol Pak
@@ -4222,11 +4222,11 @@ DBLP:conf/itp/Urban11:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-767/paper-09.pdf
+  link: https://ceur-ws.org/Vol-767/paper-09.pdf
   source: 'Proceedings of the ITP 2011 Workshop on Mathematical Wikis, Nijmegen, The
     Netherlands, August 27th, 2011: 49-53 (2011).'
   title: Content-based encoding of mathematical and code libraries.
-  url: http://ceur-ws.org/Vol-767/paper-09.pdf
+  url: https://ceur-ws.org/Vol-767/paper-09.pdf
   year: 2011
 DBLP:conf/itsc/AlvesACSB10:
   authors: Diogo Alves, Jelmer van Ast, Zhe Cong, Bart De Schutter, Robert Babuska
@@ -4624,13 +4624,13 @@ DBLP:conf/lpar/Urban08:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-418/paper1.pdf
+  link: https://ceur-ws.org/Vol-418/paper1.pdf
   source: 'Proceedings of the LPAR 2008 Workshops, Knowledge Exchange: Automated Provers
     and Proof Assistants, and the 7th International Workshop on the Implementation
     of Logics, Doha, Qatar, November 22, 2008: (2008).'
   title: 'Automated Reasoning for Mizar: Artificial Intelligence through Knowledge
     Exchange.'
-  url: http://ceur-ws.org/Vol-418/paper1.pdf
+  url: https://ceur-ws.org/Vol-418/paper1.pdf
   year: 2008
 DBLP:conf/lpar/UrbanS07:
   authors: Josef Urban, Geoff Sutcliffe
@@ -5580,12 +5580,12 @@ DBLP:conf/paar/Rawson0HR22:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-3201/paper10.pdf
+  link: https://ceur-ws.org/Vol-3201/paper10.pdf
   source: 'Proceedings of the Workshop on Practical Aspects of Automated Reasoning
     Co-located with the 11th International Joint Conference on Automated Reasoning
     (FLoC/IJCAR 2022), Haifa, Israel, August, 11 - 12, 2022.: (2022).'
   title: Reuse of Introduced Symbols in Automatic Theorem Provers (short paper).
-  url: http://ceur-ws.org/Vol-3201/paper10.pdf
+  url: https://ceur-ws.org/Vol-3201/paper10.pdf
   year: 2022
 DBLP:conf/pimrc/WiselyMU00:
   authors: Dave Wisely, Werner Mohr, Josef Urban
@@ -5994,13 +5994,13 @@ DBLP:conf/smt/BrownJ21:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-2908/short6.pdf
+  link: https://ceur-ws.org/Vol-2908/short6.pdf
   source: 'Proceedings of the 19th International Workshop on Satisfiability Modulo
     Theories co-located with 33rd International Conference on Computer Aided Verification(CAV
     2021), Online (initially located in Los Angeles, USA), July 18-19, 2021.: 17-22
     (2021).'
   title: First-Order Instantiation using Discriminating Terms.
-  url: http://ceur-ws.org/Vol-2908/short6.pdf
+  url: https://ceur-ws.org/Vol-2908/short6.pdf
   year: 2021
 DBLP:conf/smt/BrownJK22:
   authors: "Chad E. Brown, Mikol\xE1s Janota, Cezary Kaliszyk"
@@ -6008,13 +6008,13 @@ DBLP:conf/smt/BrownJK22:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-3185/abstract697.pdf
+  link: https://ceur-ws.org/Vol-3185/abstract697.pdf
   source: 'Proceedings of the 20th Internal Workshop on Satisfiability Modulo Theories
     co-located with the 11th International Joint Conference on Automated Reasoning
     (IJCAR 2022) part of the 8th Federated Logic Conference (FLoC 2022), Haifa, Israel,
     August 11-12, 2022.: (2022).'
   title: 'Abstract: Challenges and Solutions for Higher-Order SMT Proofs.'
-  url: http://ceur-ws.org/Vol-3185/abstract697.pdf
+  url: https://ceur-ws.org/Vol-3185/abstract697.pdf
   year: 2022
 DBLP:conf/smt/JakubuvJR21:
   authors: "Jan Jakubuv, Mikol\xE1s Janota, Andrew Reynolds"
@@ -6023,13 +6023,13 @@ DBLP:conf/smt/JakubuvJR21:
   - AR
   - FM
   - main
-  link: http://ceur-ws.org/Vol-2908/paper7.pdf
+  link: https://ceur-ws.org/Vol-2908/paper7.pdf
   source: 'Proceedings of the 19th International Workshop on Satisfiability Modulo
     Theories co-located with 33rd International Conference on Computer Aided Verification(CAV
     2021), Online (initially located in Los Angeles, USA), July 18-19, 2021.: 53-63
     (2021).'
   title: Characteristic Subsets of SMT-LIB Benchmarks.
-  url: http://ceur-ws.org/Vol-2908/paper7.pdf
+  url: https://ceur-ws.org/Vol-2908/paper7.pdf
   year: 2021
 DBLP:conf/smt/RegerSV17:
   authors: Giles Reger, Martin Suda, Andrei Voronkov
@@ -6037,12 +6037,12 @@ DBLP:conf/smt/RegerSV17:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-1889/paper6.pdf
+  link: https://ceur-ws.org/Vol-1889/paper6.pdf
   source: 'Proceedings of the 15th International Workshop on Satisfiability Modulo
     Theories affiliated with the International Conference on Computer-Aided Verification
     (CAV 2017), Heidelberg, Germany, July 22 - 23, 2017.: 63-75 (2017).'
   title: Instantiation and Pretending to be an SMT Solver with Vampire.
-  url: http://ceur-ws.org/Vol-1889/paper6.pdf
+  url: https://ceur-ws.org/Vol-1889/paper6.pdf
   year: 2017
 DBLP:conf/sofsem/JanotaBGS10:
   authors: "Mikol\xE1s Janota, Goetz Botterweck, Radu Grigore, Jo\xE3o P. Marques\
