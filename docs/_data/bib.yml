@@ -9072,6 +9072,20 @@ DBLP:journals/corr/abs-2302-12433:
   source: arXiv CoRR abs/2302.12433 (2023).
   title: 'ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics.'
   year: 2023
+DBLP:journals/corr/abs-2303-06686:
+  authors: "Jan Jakubuv, Karel Chvalovsk\xFD, Zarathustra Amadeus Goertzel, Cezary\
+    \ Kaliszyk, Mirek Ols\xE1k, Bartosz Piotrowski, Stephan Schulz, Martin Suda, Josef\
+    \ Urban"
+  dblp: journals/corr/abs-2303-06686
+  doi: https://doi.org/10.48550/arXiv.2303.06686
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2303.06686
+  source: arXiv CoRR abs/2303.06686 (2023).
+  title: MizAR 60 for Mizar 50.
+  year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
