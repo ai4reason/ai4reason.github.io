@@ -3877,7 +3877,7 @@ DBLP:conf/iros/LijnLB10:
 DBLP:conf/iros/PassalisPBBDFGG22:
   authors: Nikolaos Passalis, S. Pedrazzi, Robert Babuska, Wolfram Burgard, D. Dias,
     F. Ferro, Moncef Gabbouj, O. Green, Alexandros Iosifidis, E. Kayacan, Jens Kober,
-    O. Michel, Nikos Nikolaidis, Paraskevi Nousi, R. Pieters, Maria Tzelepi, Abhinav
+    O. Michel, Nikos Nikolaidis, Paraskevi Nousi, Roel Pieters, Maria Tzelepi, Abhinav
     Valada, Anastasios Tefas
   dblp: conf/iros/PassalisPBBDFGG22
   doi: https://doi.org/10.1109/IROS47612.2022.9981703
@@ -8845,8 +8845,8 @@ DBLP:journals/corr/abs-2202-11908:
 DBLP:journals/corr/abs-2203-00403:
   authors: Nikolaos Passalis, S. Pedrazzi, Robert Babuska, Wolfram Burgard, D. Dias,
     F. Ferro, Moncef Gabbouj, O. Green, Alexandros Iosifidis, E. Kayacan, Jens Kober,
-    O. Michel, Nikolaos Nikolaidis, Paraskevi Nousi, R. Pieters, Maria Tzelepi, Abhinav
-    Valada, Anastasios Tefas
+    O. Michel, Nikolaos Nikolaidis, Paraskevi Nousi, Roel Pieters, Maria Tzelepi,
+    Abhinav Valada, Anastasios Tefas
   dblp: journals/corr/abs-2203-00403
   doi: https://doi.org/10.48550/arXiv.2203.00403
   groups:
