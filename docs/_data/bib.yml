@@ -47,11 +47,11 @@ DBLP:books/sp/LendekGBS11:
 DBLP:conf/IEEEares/KubalikM07:
   authors: "Jir\xED Kubal\xEDk, Richard Mordinyi"
   dblp: conf/IEEEares/KubalikM07
-  doi: http://doi.ieeecomputersociety.org/10.1109/ARES.2007.113
+  doi: https://doi.ieeecomputersociety.org/10.1109/ARES.2007.113
   groups:
   - ML
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/ARES.2007.113
+  link: https://doi.ieeecomputersociety.org/10.1109/ARES.2007.113
   source: 'Proceedings of the The Second International Conference on Availability,
     Reliability and Security, ARES 2007, The International Dependability Conference
     - Bridging Theory and Practice, April 10-13 2007, Vienna, Austria: 1101-1107 (2007).'
@@ -1430,11 +1430,11 @@ DBLP:conf/cav/Marques-SilvaJB13:
 DBLP:conf/cbms/KlemaKP02:
   authors: "Jir\xED Kl\xE9ma, Jir\xED Kubal\xEDk, Jiri Palous"
   dblp: conf/cbms/KlemaKP02
-  doi: http://doi.ieeecomputersociety.org/10.1109/CBMS.2002.1011355
+  doi: https://doi.ieeecomputersociety.org/10.1109/CBMS.2002.1011355
   groups:
   - ML
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/CBMS.2002.1011355
+  link: https://doi.ieeecomputersociety.org/10.1109/CBMS.2002.1011355
   source: '15th IEEE Symposium on Computer-Based Medical Systems (CBMS 2002), 4-7
     June 2002, Maribor, Slovenia: 59-64 (2002).'
   title: Optimized Model Tuning in Medical Systems.
@@ -2961,11 +2961,11 @@ DBLP:conf/humanoids/WangHB14:
 DBLP:conf/iat/MengBBCT05:
   authors: Xiangping Meng, Robert Babuska, Lucian Busoniu, Yu Chen, Wanyu Tan
   dblp: conf/iat/MengBBCT05
-  doi: http://doi.ieeecomputersociety.org/10.1109/IAT.2005.42
+  doi: https://doi.ieeecomputersociety.org/10.1109/IAT.2005.42
   groups:
   - ML
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/IAT.2005.42
+  link: https://doi.ieeecomputersociety.org/10.1109/IAT.2005.42
   source: 'Proceedings of the 2005 IEEE/WIC/ACM International Conference on Intelligent
     Agent Technology, Compiegne, France, September 19-22, 2005: 337-343 (2005).'
   title: An Improved Multiagent Reinforcement Learning Algorithm.
@@ -3131,11 +3131,11 @@ DBLP:conf/icassp/MikolovKBGC09:
   authors: "Tom\xE1s Mikolov, Jir\xED Kopeck\xFD, Luk\xE1s Burget, Ondrej Glembek,\
     \ Jan Cernock\xFD"
   dblp: conf/icassp/MikolovKBGC09
-  doi: http://doi.ieeecomputersociety.org/10.1109/ICASSP.2009.4960686
+  doi: https://doi.ieeecomputersociety.org/10.1109/ICASSP.2009.4960686
   groups:
   - FAI
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/ICASSP.2009.4960686
+  link: https://doi.ieeecomputersociety.org/10.1109/ICASSP.2009.4960686
   source: 'Proceedings of the IEEE International Conference on Acoustics, Speech,
     and Signal Processing, ICASSP 2009, 19-24 April 2009, Taipei, Taiwan: 4725-4728
     (2009).'
@@ -3455,11 +3455,11 @@ DBLP:conf/ictai/HulaMJ21:
 DBLP:conf/ieeevast/ZahalkaW14:
   authors: "Jan Zah\xE1lka, Marcel Worring"
   dblp: conf/ieeevast/ZahalkaW14
-  doi: http://doi.ieeecomputersociety.org/10.1109/VAST.2014.7042476
+  doi: https://doi.ieeecomputersociety.org/10.1109/VAST.2014.7042476
   groups:
   - ML
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/VAST.2014.7042476
+  link: https://doi.ieeecomputersociety.org/10.1109/VAST.2014.7042476
   source: '9th IEEE Conference on Visual Analytics Science and Technology, IEEE VAST
     2014, Paris, France, October 25-31, 2014: 3-12 (2014).'
   title: Towards interactive, intelligent, and integrated multimedia analytics.
@@ -3990,11 +3990,11 @@ DBLP:conf/isccsp/ErgencA14:
 DBLP:conf/isda/BuryanKI09:
   authors: "Petr Buryan, Jir\xED Kubal\xEDk, Katsumi Inoue"
   dblp: conf/isda/BuryanKI09
-  doi: http://doi.ieeecomputersociety.org/10.1109/ISDA.2009.156
+  doi: https://doi.ieeecomputersociety.org/10.1109/ISDA.2009.156
   groups:
   - ML
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/ISDA.2009.156
+  link: https://doi.ieeecomputersociety.org/10.1109/ISDA.2009.156
   source: 'Ninth International Conference on Intelligent Systems Design and Applications,
     ISDA 2009, Pisa, Italy , November 30-December 2, 2009: 1450-1455 (2009).'
   title: Grammatical Concept Representation for Randomised Optimisation Algorithms
@@ -6073,11 +6073,11 @@ DBLP:conf/splc/Janota08:
 DBLP:conf/splc/JanotaK07:
   authors: "Mikol\xE1s Janota, Joseph Kiniry"
   dblp: conf/splc/JanotaK07
-  doi: http://doi.ieeecomputersociety.org/10.1109/SPLINE.2007.36
+  doi: https://doi.ieeecomputersociety.org/10.1109/SPLINE.2007.36
   groups:
   - FM
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/SPLINE.2007.36
+  link: https://doi.ieeecomputersociety.org/10.1109/SPLINE.2007.36
   source: 'Software Product Lines, 11th International Conference, SPLC 2007, Kyoto,
     Japan, September 10-14, 2007, Proceedings: 13-22 (2007).'
   title: Reasoning about Feature Models in Higher-Order Logic.
@@ -6145,11 +6145,11 @@ DBLP:conf/synasc/DamestaniK019:
 DBLP:conf/synasc/KaliszykUV17:
   authors: "Cezary Kaliszyk, Josef Urban, Jir\xED Vyskocil"
   dblp: conf/synasc/KaliszykUV17
-  doi: http://doi.ieeecomputersociety.org/10.1109/SYNASC.2017.00036
+  doi: https://doi.ieeecomputersociety.org/10.1109/SYNASC.2017.00036
   groups:
   - AR
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/SYNASC.2017.00036
+  link: https://doi.ieeecomputersociety.org/10.1109/SYNASC.2017.00036
   source: '19th International Symposium on Symbolic and Numeric Algorithms for Scientific
     Computing, SYNASC 2017, Timisoara, Romania, September 21-24, 2017: 169-172 (2017).'
   title: 'System Description: Statistical Parsing of Informalized Mizar Formulas.'
