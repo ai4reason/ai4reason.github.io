@@ -1761,7 +1761,7 @@ DBLP:conf/cp/JanotaMSM21:
   title: 'The Seesaw Algorithm: Function Optimization Using Implicit Hitting Sets.'
   year: 2021
 DBLP:conf/cp/JanotaS11:
-  authors: "Mikol\xE1s Janota, Jo\xE3o P. Marques Silva"
+  authors: "Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
   dblp: conf/cp/JanotaS11
   groups:
   - FM
@@ -4353,7 +4353,7 @@ DBLP:conf/ki/SudaSWLM09:
   title: External Sources of Axioms in Automated Theorem Proving.
   year: 2009
 DBLP:conf/kr/BordeauxJSM12:
-  authors: "Lucas Bordeaux, Mikol\xE1s Janota, Jo\xE3o P. Marques Silva, Pierre Marquis"
+  authors: "Lucas Bordeaux, Mikol\xE1s Janota, Jo\xE3o Marques-Silva, Pierre Marquis"
   dblp: conf/kr/BordeauxJSM12
   groups:
   - FM
@@ -5847,7 +5847,7 @@ DBLP:conf/sat/JanotaPP22:
   title: Towards Learning Quantifier Instantiation in SMT.
   year: 2022
 DBLP:conf/sat/JanotaS11:
-  authors: "Mikol\xE1s Janota, Jo\xE3o P. Marques Silva"
+  authors: "Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
   dblp: conf/sat/JanotaS11
   doi: https://doi.org/10.1007/978-3-642-21581-0_19
   groups:
@@ -6045,8 +6045,7 @@ DBLP:conf/smt/RegerSV17:
   url: https://ceur-ws.org/Vol-1889/paper6.pdf
   year: 2017
 DBLP:conf/sofsem/JanotaBGS10:
-  authors: "Mikol\xE1s Janota, Goetz Botterweck, Radu Grigore, Jo\xE3o P. Marques\
-    \ Silva"
+  authors: "Mikol\xE1s Janota, Goetz Botterweck, Radu Grigore, Jo\xE3o Marques-Silva"
   dblp: conf/sofsem/JanotaBGS10
   doi: https://doi.org/10.1007/978-3-642-11266-9_44
   groups:
@@ -7610,7 +7609,7 @@ DBLP:journals/corr/abs-1109-3687:
   year: 2011
 DBLP:journals/corr/abs-1112-2313:
   arXiv: http://arxiv.org/abs/1112.2313
-  authors: "Huan Chen, Mikol\xE1s Janota, Jo\xE3o P. Marques Silva"
+  authors: "Huan Chen, Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
   dblp: journals/corr/abs-1112-2313
   groups:
   - FM
