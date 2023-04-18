@@ -9805,6 +9805,21 @@ DBLP:journals/corr/abs-2303-06686:
     \ 'DO': '10.48550/arXiv.2303.06686', 'UR': 'https://doi.org/10.48550/arXiv.2303.06686'}"
   title: MizAR 60 for Mizar 50.
   year: 2023
+DBLP:journals/corr/abs-2304-00994:
+  authors: "Bartosz Piotrowski, Ramon Fern\xE1ndez Mir, Edward W. Ayers"
+  dblp: journals/corr/abs-2304-00994
+  doi: https://doi.org/10.48550/arXiv.2304.00994
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2304.00994
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2304-00994', 'AU': ['Piotrowski, Bartosz', 'Mir,\
+    \ Ramon Fern\xE1ndez', 'Ayers, Edward W.'], 'TI': 'Machine-Learned Premise Selection\
+    \ for Lean.', 'JO': 'CoRR', 'VL': 'abs/2304.00994', 'PY': '2023//', 'DO': '10.48550/arXiv.2304.00994',\
+    \ 'UR': 'https://doi.org/10.48550/arXiv.2304.00994'}"
+  title: Machine-Learned Premise Selection for Lean.
+  year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
