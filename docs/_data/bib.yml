@@ -9820,6 +9820,22 @@ DBLP:journals/corr/abs-2304-00994:
     \ 'UR': 'https://doi.org/10.48550/arXiv.2304.00994'}"
   title: Machine-Learned Premise Selection for Lean.
   year: 2023
+DBLP:journals/corr/abs-2304-02986:
+  authors: Thibault Gauthier, Chad E. Brown, Mikolas Janota, Josef Urban
+  dblp: journals/corr/abs-2304-02986
+  doi: https://doi.org/10.48550/arXiv.2304.02986
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2304.02986
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2304-02986'', ''AU'': [''Gauthier, Thibault'',
+    ''Brown, Chad E.'', ''Janota, Mikolas'', ''Urban, Josef''], ''TI'': ''A Mathematical
+    Benchmark for Inductive Theorem Provers.'', ''JO'': ''CoRR'', ''VL'': ''abs/2304.02986'',
+    ''PY'': ''2023//'', ''DO'': ''10.48550/arXiv.2304.02986'', ''UR'': ''https://doi.org/10.48550/arXiv.2304.02986''}'
+  title: A Mathematical Benchmark for Inductive Theorem Provers.
+  year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
