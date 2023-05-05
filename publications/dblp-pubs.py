@@ -82,6 +82,8 @@ def normalize_entry(entry, groups, authorinfo):
    else:
       urltype = "url"
 
+   if "/" in year:
+      year = year.split("/")[0]
    year = int(year)
    if "active" in authorinfo:
       active = authorinfo["active"]
@@ -91,8 +93,6 @@ def normalize_entry(entry, groups, authorinfo):
          return None
 
    record = entry["ID"].split(":")[1]
-   if (type(year) is str) and ("/" in year):
-      year = year.split("/")[0]
    return dict(authors=authors, title=title, source=journal, year=int(year),
                url=(urltype, url), dblp=record, groups=set(groups), link=url)
 
