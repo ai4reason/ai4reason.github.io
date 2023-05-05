@@ -17,5 +17,5 @@ else
    echo "Skipped generating Excel"
 fi
 
-rm ${CSV}.tmp
+rm -f ${CSV}.tmp
 
