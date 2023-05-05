@@ -47,11 +47,11 @@ DBLP:books/sp/LendekGBS11:
 DBLP:conf/IEEEares/KubalikM07:
   authors: "Jir\xED Kubal\xEDk, Richard Mordinyi"
   dblp: conf/IEEEares/KubalikM07
-  doi: http://doi.ieeecomputersociety.org/10.1109/ARES.2007.113
+  doi: https://doi.ieeecomputersociety.org/10.1109/ARES.2007.113
   groups:
   - ML
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/ARES.2007.113
+  link: https://doi.ieeecomputersociety.org/10.1109/ARES.2007.113
   source: 'Proceedings of the The Second International Conference on Availability,
     Reliability and Security, ARES 2007, The International Dependability Conference
     - Bridging Theory and Practice, April 10-13 2007, Vienna, Austria: 1101-1107 (2007).'
@@ -245,13 +245,13 @@ DBLP:conf/aiia/JanotaGM17:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-2011/paper4.pdf
+  link: https://ceur-ws.org/Vol-2011/paper4.pdf
   source: 'Proceedings of the 24th RCRA International Workshop on Experimental Evaluation
     of Algorithms for Solving Problems with Combinatorial Explosion 2017 co-located
     with the 16th International Conference of the Italian Association for Artificial
     Intelligence (AI*IA 2017), Bari, Italy, November 14-15, 2017.: 33-44 (2017).'
   title: On the Quest for an Acyclic Graph.
-  url: http://ceur-ws.org/Vol-2011/paper4.pdf
+  url: https://ceur-ws.org/Vol-2011/paper4.pdf
   year: 2017
 DBLP:conf/aiia/JanotaM17:
   authors: "Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
@@ -259,13 +259,13 @@ DBLP:conf/aiia/JanotaM17:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-2011/paper5.pdf
+  link: https://ceur-ws.org/Vol-2011/paper5.pdf
   source: 'Proceedings of the 24th RCRA International Workshop on Experimental Evaluation
     of Algorithms for Solving Problems with Combinatorial Explosion 2017 co-located
     with the 16th International Conference of the Italian Association for Artificial
     Intelligence (AI*IA 2017), Bari, Italy, November 14-15, 2017.: 45-54 (2017).'
   title: On Minimal Corrections in ASP.
-  url: http://ceur-ws.org/Vol-2011/paper5.pdf
+  url: https://ceur-ws.org/Vol-2011/paper5.pdf
   year: 2017
 DBLP:conf/aips/Suda14:
   authors: Martin Suda
@@ -498,6 +498,20 @@ DBLP:conf/aplas/Nagashima19:
     Dua, Bali, Indonesia, December 1-4, 2019, Proceedings: 266-287 (2019).'
   title: 'LiFtEr: Language to Encode Induction Heuristics for Isabelle/HOL.'
   year: 2019
+DBLP:conf/arcade/2021:
+  authors: Martin Suda, Sarah Winkler
+  dblp: conf/arcade/2021
+  groups:
+  - AR
+  - main
+  link: ''
+  source: 'Proceedings of the Third International Workshop on Automated Reasoning:
+    Challenges, Applications, Directions, Exemplary Achievements, ARCADE@CADE 2021,
+    Virtual Event, July 16, 2021. (2021).'
+  title: 'Proceedings of the Third International Workshop on Automated Reasoning:
+    Challenges, Applications, Directions, Exemplary Achievements, ARCADE@CADE 2021,
+    Virtual Event, July 16, 2021.'
+  year: 2021
 DBLP:conf/ascc/BeyhanLAB13:
   authors: "Selami Beyhan, Zs\xF3fia Lendek, Musa Alci, Robert Babuska"
   dblp: conf/ascc/BeyhanLAB13
@@ -556,11 +570,11 @@ DBLP:conf/ate/Urban11:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-760/paper2.pdf
+  link: https://ceur-ws.org/Vol-760/paper2.pdf
   source: "Proceedings of the First Workshop on Automated Theory Engineering, Wroc\u0142\
     aw, Poland, July 31, 2011: 3-8 (2011)."
   title: An Overview of Methods for Large-Theory Automated Theorem Proving.
-  url: http://ceur-ws.org/Vol-760/paper2.pdf
+  url: https://ceur-ws.org/Vol-760/paper2.pdf
   year: 2011
 DBLP:conf/biostec/KlemaZAK14:
   authors: "Jir\xED Kl\xE9ma, Jan Zah\xE1lka, Michael Andel, Zdenek Krejc\xEDk"
@@ -754,14 +768,14 @@ DBLP:conf/cade/Bartek020:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-2752/paper2.pdf
+  link: https://ceur-ws.org/Vol-2752/paper2.pdf
   source: 'Joint Proceedings of the 7th Workshop on Practical Aspects of Automated
     Reasoning (PAAR) and the 5th Satisfiability Checking and Symbolic Computation
     Workshop (SC-Square) Workshop, 2020 co-located with the 10th International Joint
     Conference on Automated Reasoning (IJCAR 2020), Paris, France, June-July, 2020
     (Virtual).: 21-33 (2020).'
   title: Learning Precedences from Simple Symbol Features.
-  url: http://ceur-ws.org/Vol-2752/paper2.pdf
+  url: https://ceur-ws.org/Vol-2752/paper2.pdf
   year: 2020
 DBLP:conf/cade/Bartek021:
   authors: "Filip B\xE1rtek, Martin Suda"
@@ -954,14 +968,14 @@ DBLP:conf/cade/Gleiss020a:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-2752/paper3.pdf
+  link: https://ceur-ws.org/Vol-2752/paper3.pdf
   source: 'Joint Proceedings of the 7th Workshop on Practical Aspects of Automated
     Reasoning (PAAR) and the 5th Satisfiability Checking and Symbolic Computation
     Workshop (SC-Square) Workshop, 2020 co-located with the 10th International Joint
     Conference on Automated Reasoning (IJCAR 2020), Paris, France, June-July, 2020
     (Virtual).: 34-52 (2020).'
   title: Layered Clause Selection for Saturation-Based Theorem Proving.
-  url: http://ceur-ws.org/Vol-2752/paper3.pdf
+  url: https://ceur-ws.org/Vol-2752/paper3.pdf
   year: 2020
 DBLP:conf/cade/GleissK017:
   authors: "Bernhard Gleiss, Laura Kov\xE1cs, Martin Suda"
@@ -1019,12 +1033,12 @@ DBLP:conf/cade/JanotaW16:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-1617/paper8.pdf
+  link: https://ceur-ws.org/Vol-1617/paper8.pdf
   source: 'Proceedings of the 14th International Workshop on Satisfiability Modulo
     Theories affiliated with the International Joint Conference on Automated Reasoning,
     SMT@IJCAR 2016, Coimbra, Portugal, July 1-2, 2016.: 81-84 (2016).'
   title: On Intervals and Bounds in Bit-vector Arithmetic.
-  url: http://ceur-ws.org/Vol-1617/paper8.pdf
+  url: https://ceur-ws.org/Vol-1617/paper8.pdf
   year: 2016
 DBLP:conf/cade/KaliszykSUV15:
   authors: "Cezary Kaliszyk, Stephan Schulz, Josef Urban, Jir\xED Vyskocil"
@@ -1294,11 +1308,11 @@ DBLP:conf/cade/Urban07:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-257/05_Urban.pdf
+  link: https://ceur-ws.org/Vol-257/05_Urban.pdf
   source: 'Proceedings of the CADE-21 Workshop on Empirically Successful Automated
     Reasoning in Large Theories, Bremen, Germany, 17th July 2007: (2007).'
   title: 'MaLARea: a Metasystem for Automated Reasoning in Large Theories.'
-  url: http://ceur-ws.org/Vol-257/05_Urban.pdf
+  url: https://ceur-ws.org/Vol-257/05_Urban.pdf
   year: 2007
 DBLP:conf/cade/Urban17:
   authors: Josef Urban
@@ -1416,11 +1430,11 @@ DBLP:conf/cav/Marques-SilvaJB13:
 DBLP:conf/cbms/KlemaKP02:
   authors: "Jir\xED Kl\xE9ma, Jir\xED Kubal\xEDk, Jiri Palous"
   dblp: conf/cbms/KlemaKP02
-  doi: http://doi.ieeecomputersociety.org/10.1109/CBMS.2002.1011355
+  doi: https://doi.ieeecomputersociety.org/10.1109/CBMS.2002.1011355
   groups:
   - ML
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/CBMS.2002.1011355
+  link: https://doi.ieeecomputersociety.org/10.1109/CBMS.2002.1011355
   source: '15th IEEE Symposium on Computer-Based Medical Systems (CBMS 2002), 4-7
     June 2002, Maribor, Slovenia: 59-64 (2002).'
   title: Optimized Model Tuning in Medical Systems.
@@ -1674,13 +1688,13 @@ DBLP:conf/cikm/GauthierKU16:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-1785/W23.pdf
+  link: https://ceur-ws.org/Vol-1785/W23.pdf
   source: 'Joint Proceedings of the FM4M, MathUI, and ThEdu Workshops, Doctoral Program,
     and Work in Progress at the Conference on Intelligent Computer Mathematics 2016
     co-located with the 9th Conference on Intelligent Computer Mathematics (CICM 2016),
     Bialystok, Poland, July 25-29, 2016.: 219-228 (2016).'
   title: Initial Experiments with Statistical Conjecturing over Large Formal Corpora.
-  url: http://ceur-ws.org/Vol-1785/W23.pdf
+  url: https://ceur-ws.org/Vol-1785/W23.pdf
   year: 2016
 DBLP:conf/coling/Mikolov14:
   authors: "Tom\xE1s Mikolov"
@@ -1694,6 +1708,18 @@ DBLP:conf/coling/Mikolov14:
   title: Using Neural Networks for Modeling and Representing Natural Languages.
   url: https://aclanthology.org/C14-3002/
   year: 2014
+DBLP:conf/collas/CisnerosMS22:
+  authors: "Hugo Cisneros, Tom\xE1s Mikolov, Josef Sivic"
+  dblp: conf/collas/CisnerosMS22
+  groups:
+  - FAI
+  - main
+  link: https://proceedings.mlr.press/v199/cisneros22a.html
+  source: "Conference on Lifelong Learning Agents, CoLLAs 2022, 22-24 August 2022,\
+    \ McGill University, Montr\xE9al, Qu\xE9bec, Canada.: 532-547 (2022)."
+  title: Benchmarking Learning Efficiency in Deep Reservoir Computing.
+  url: https://proceedings.mlr.press/v199/cisneros22a.html
+  year: 2022
 DBLP:conf/cp/AraujoCJ21:
   authors: "Jo\xE3o Ara\xFAjo, Choiwah Chow, Mikol\xE1s Janota"
   dblp: conf/cp/AraujoCJ21
@@ -1735,7 +1761,7 @@ DBLP:conf/cp/JanotaMSM21:
   title: 'The Seesaw Algorithm: Function Optimization Using Implicit Hitting Sets.'
   year: 2021
 DBLP:conf/cp/JanotaS11:
-  authors: "Mikol\xE1s Janota, Jo\xE3o P. Marques Silva"
+  authors: "Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
   dblp: conf/cp/JanotaS11
   groups:
   - FM
@@ -2935,11 +2961,11 @@ DBLP:conf/humanoids/WangHB14:
 DBLP:conf/iat/MengBBCT05:
   authors: Xiangping Meng, Robert Babuska, Lucian Busoniu, Yu Chen, Wanyu Tan
   dblp: conf/iat/MengBBCT05
-  doi: http://doi.ieeecomputersociety.org/10.1109/IAT.2005.42
+  doi: https://doi.ieeecomputersociety.org/10.1109/IAT.2005.42
   groups:
   - ML
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/IAT.2005.42
+  link: https://doi.ieeecomputersociety.org/10.1109/IAT.2005.42
   source: 'Proceedings of the 2005 IEEE/WIC/ACM International Conference on Intelligent
     Agent Technology, Compiegne, France, September 19-22, 2005: 337-343 (2005).'
   title: An Improved Multiagent Reinforcement Learning Algorithm.
@@ -3105,11 +3131,11 @@ DBLP:conf/icassp/MikolovKBGC09:
   authors: "Tom\xE1s Mikolov, Jir\xED Kopeck\xFD, Luk\xE1s Burget, Ondrej Glembek,\
     \ Jan Cernock\xFD"
   dblp: conf/icassp/MikolovKBGC09
-  doi: http://doi.ieeecomputersociety.org/10.1109/ICASSP.2009.4960686
+  doi: https://doi.ieeecomputersociety.org/10.1109/ICASSP.2009.4960686
   groups:
   - FAI
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/ICASSP.2009.4960686
+  link: https://doi.ieeecomputersociety.org/10.1109/ICASSP.2009.4960686
   source: 'Proceedings of the IEEE International Conference on Acoustics, Speech,
     and Signal Processing, ICASSP 2009, 19-24 April 2009, Taipei, Taiwan: 4725-4728
     (2009).'
@@ -3287,6 +3313,19 @@ DBLP:conf/icnsc/CongSB13:
   title: Optimal routing in freeway networks via sequential linear programming.
   url: https://www.wikidata.org/entity/Q107155484
   year: 2013
+DBLP:conf/icon-nlp/BafnaVB21:
+  authors: Niyati Bafna, Martin Vastl, Ondrej Bojar
+  dblp: conf/icon-nlp/BafnaVB21
+  groups:
+  - ML
+  - main
+  link: https://aclanthology.org/2021.icon-main.1
+  source: 'Proceedings of the 18th International Conference on Natural Language Processing
+    (ICON 2021), National Institute of Technology Silchar, Silchar, India, December
+    16 - 19, 2021.: 1-6 (2021).'
+  title: Constrained Decoding for Technical Term Retention in English-Hindi MT.
+  url: https://aclanthology.org/2021.icon-main.1
+  year: 2021
 DBLP:conf/icra/BehrensSB20:
   authors: "Jan Kristof Behrens, Karla St\xE9p\xE1nov\xE1, Robert Babuska"
   dblp: conf/icra/BehrensSB20
@@ -3416,11 +3455,11 @@ DBLP:conf/ictai/HulaMJ21:
 DBLP:conf/ieeevast/ZahalkaW14:
   authors: "Jan Zah\xE1lka, Marcel Worring"
   dblp: conf/ieeevast/ZahalkaW14
-  doi: http://doi.ieeecomputersociety.org/10.1109/VAST.2014.7042476
+  doi: https://doi.ieeecomputersociety.org/10.1109/VAST.2014.7042476
   groups:
   - ML
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/VAST.2014.7042476
+  link: https://doi.ieeecomputersociety.org/10.1109/VAST.2014.7042476
   source: '9th IEEE Conference on Visual Analytics Science and Technology, IEEE VAST
     2014, Paris, France, October 25-31, 2014: 3-12 (2014).'
   title: Towards interactive, intelligent, and integrated multimedia analytics.
@@ -3835,6 +3874,22 @@ DBLP:conf/iros/LijnLB10:
     October 18-22, 2010, Taipei, Taiwan: 3435-3440 (2010).'
   title: Motion estimation based on predator/prey vision.
   year: 2010
+DBLP:conf/iros/PassalisPBBDFGG22:
+  authors: Nikolaos Passalis, S. Pedrazzi, Robert Babuska, Wolfram Burgard, D. Dias,
+    F. Ferro, Moncef Gabbouj, O. Green, Alexandros Iosifidis, E. Kayacan, Jens Kober,
+    O. Michel, Nikos Nikolaidis, Paraskevi Nousi, Roel Pieters, Maria Tzelepi, Abhinav
+    Valada, Anastasios Tefas
+  dblp: conf/iros/PassalisPBBDFGG22
+  doi: https://doi.org/10.1109/IROS47612.2022.9981703
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/IROS47612.2022.9981703
+  source: 'IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS
+    2022, Kyoto, Japan, October 23-27, 2022: 12479-12484 (2022).'
+  title: 'OpenDR: An Open Toolkit for Enabling High Performance, Low Footprint Deep
+    Learning for Robotics.'
+  year: 2022
 DBLP:conf/iros/SchuitemaBBJ10:
   authors: Erik Schuitema, Lucian Busoniu, Robert Babuska, Pieter Jonker
   dblp: conf/iros/SchuitemaBBJ10
@@ -3935,11 +3990,11 @@ DBLP:conf/isccsp/ErgencA14:
 DBLP:conf/isda/BuryanKI09:
   authors: "Petr Buryan, Jir\xED Kubal\xEDk, Katsumi Inoue"
   dblp: conf/isda/BuryanKI09
-  doi: http://doi.ieeecomputersociety.org/10.1109/ISDA.2009.156
+  doi: https://doi.ieeecomputersociety.org/10.1109/ISDA.2009.156
   groups:
   - ML
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/ISDA.2009.156
+  link: https://doi.ieeecomputersociety.org/10.1109/ISDA.2009.156
   source: 'Ninth International Conference on Intelligent Systems Design and Applications,
     ISDA 2009, Pisa, Italy , November 30-December 2, 2009: 1450-1455 (2009).'
   title: Grammatical Concept Representation for Randomised Optimisation Algorithms
@@ -3988,12 +4043,12 @@ DBLP:conf/itat/AdamczykH20:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-2718/paper30.pdf
+  link: https://ceur-ws.org/Vol-2718/paper30.pdf
   source: "Proceedings of the 20th Conference Information Technologies - Applications\
     \ and Theory (ITAT 2020), Hotel Tyrapol, Oravsk\xE1 Lesn\xE1, Slovakia, September\
     \ 18-22, 2020.: 186-191 (2020)."
   title: Keypoints Selection Using Evolutionary Algorithms.
-  url: http://ceur-ws.org/Vol-2718/paper30.pdf
+  url: https://ceur-ws.org/Vol-2718/paper30.pdf
   year: 2020
 DBLP:conf/itat/ChenHD22:
   authors: "Xinying Chen, Jan Hula, Anton\xEDn Dvor\xE1k"
@@ -4001,12 +4056,12 @@ DBLP:conf/itat/ChenHD22:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-3226/paper12.pdf
+  link: https://ceur-ws.org/Vol-3226/paper12.pdf
   source: 'Proceedings of the 22nd Conference Information Technologies - Applications
     and Theory (ITAT 2022), Zuberec, Slovakia, September 23-27, 2022.: 103-110 (2022).'
   title: Analysis of the Semantic Vector Space Induced by a Neural Language Model
     and a Corpus.
-  url: http://ceur-ws.org/Vol-3226/paper12.pdf
+  url: https://ceur-ws.org/Vol-3226/paper12.pdf
   year: 2022
 DBLP:conf/itat/HulaAMM21:
   authors: "Jan Hula, David Adamczyk, David Mojz\xEDsek, Vojtech Molek"
@@ -4014,12 +4069,12 @@ DBLP:conf/itat/HulaAMM21:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-2962/paper49.pdf
+  link: https://ceur-ws.org/Vol-2962/paper49.pdf
   source: "Proceedings of the 21st Conference Information Technologies - Applications\
     \ and Theory (ITAT 2021), Hotel He\u013Epa, N\xEDzke Tatry and Mur\xE1nska planina,\
     \ Slovakia, September 24-28, 2021.: 123-129 (2021)."
   title: Segmenting out Generic Objects in Monocular Videos.
-  url: http://ceur-ws.org/Vol-2962/paper49.pdf
+  url: https://ceur-ws.org/Vol-2962/paper49.pdf
   year: 2021
 DBLP:conf/itat/MojzisekH22:
   authors: "David Mojz\xEDsek, Jan Hula"
@@ -4027,11 +4082,11 @@ DBLP:conf/itat/MojzisekH22:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-3226/paper8.pdf
+  link: https://ceur-ws.org/Vol-3226/paper8.pdf
   source: 'Proceedings of the 22nd Conference Information Technologies - Applications
     and Theory (ITAT 2022), Zuberec, Slovakia, September 23-27, 2022.: 68-74 (2022).'
   title: Image Classifier with Dynamic Set of Known Classes.
-  url: http://ceur-ws.org/Vol-3226/paper8.pdf
+  url: https://ceur-ws.org/Vol-3226/paper8.pdf
   year: 2022
 DBLP:conf/itp/2011mw:
   authors: Christoph Lange, Josef Urban
@@ -4039,11 +4094,11 @@ DBLP:conf/itp/2011mw:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-767
+  link: https://ceur-ws.org/Vol-767
   source: CEUR Workshop Proceedings 767 (2011).
   title: Proceedings of the ITP 2011 Workshop on Mathematical Wikis, Nijmegen, The
     Netherlands, August 27th, 2011
-  url: http://ceur-ws.org/Vol-767
+  url: https://ceur-ws.org/Vol-767
   year: 2011
 DBLP:conf/itp/BrownKP19:
   authors: Chad E. Brown, Cezary Kaliszyk, Karol Pak
@@ -4167,11 +4222,11 @@ DBLP:conf/itp/Urban11:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-767/paper-09.pdf
+  link: https://ceur-ws.org/Vol-767/paper-09.pdf
   source: 'Proceedings of the ITP 2011 Workshop on Mathematical Wikis, Nijmegen, The
     Netherlands, August 27th, 2011: 49-53 (2011).'
   title: Content-based encoding of mathematical and code libraries.
-  url: http://ceur-ws.org/Vol-767/paper-09.pdf
+  url: https://ceur-ws.org/Vol-767/paper-09.pdf
   year: 2011
 DBLP:conf/itsc/AlvesACSB10:
   authors: Diogo Alves, Jelmer van Ast, Zhe Cong, Bart De Schutter, Robert Babuska
@@ -4298,7 +4353,7 @@ DBLP:conf/ki/SudaSWLM09:
   title: External Sources of Axioms in Automated Theorem Proving.
   year: 2009
 DBLP:conf/kr/BordeauxJSM12:
-  authors: "Lucas Bordeaux, Mikol\xE1s Janota, Jo\xE3o P. Marques Silva, Pierre Marquis"
+  authors: "Lucas Bordeaux, Mikol\xE1s Janota, Jo\xE3o Marques-Silva, Pierre Marquis"
   dblp: conf/kr/BordeauxJSM12
   groups:
   - FM
@@ -4569,13 +4624,13 @@ DBLP:conf/lpar/Urban08:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-418/paper1.pdf
+  link: https://ceur-ws.org/Vol-418/paper1.pdf
   source: 'Proceedings of the LPAR 2008 Workshops, Knowledge Exchange: Automated Provers
     and Proof Assistants, and the 7th International Workshop on the Implementation
     of Logics, Doha, Qatar, November 22, 2008: (2008).'
   title: 'Automated Reasoning for Mizar: Artificial Intelligence through Knowledge
     Exchange.'
-  url: http://ceur-ws.org/Vol-418/paper1.pdf
+  url: https://ceur-ws.org/Vol-418/paper1.pdf
   year: 2008
 DBLP:conf/lpar/UrbanS07:
   authors: Josef Urban, Geoff Sutcliffe
@@ -4908,8 +4963,11 @@ DBLP:conf/mkm/CommelinU15:
   - AR
   - main
   link: https://cicm-conference.org/2015/CICM2015-wip.pdf#page=19
-  source: informal CICM 2015 - Informal Work in Progress Proceedings, Washington,
-    DC, USA, July 13-17, 2015 (2015).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:conf/mkm/CommelinU15'', ''AU'': [''Commelin, Johan'', ''Urban,
+    Josef''], ''TI'': ''Auto-hyperlinking the Stacks Project.'', ''BT'': ''CICM 2015
+    - Informal Work in Progress Proceedings, Washington, DC, USA, July 13-17, 2015'',
+    ''SP'': ''19'', ''EP'': ''24'', ''PY'': ''2015//'', ''UR'': ''https://cicm-conference.org/2015/CICM2015-wip.pdf#page=19''}'
   title: Auto-hyperlinking the Stacks Project.
   url: https://cicm-conference.org/2015/CICM2015-wip.pdf#page=19
   year: 2015
@@ -5397,30 +5455,6 @@ DBLP:conf/models/JanotaKW08:
   title: 'Model Construction with External Constraints: An Interactive Journey from
     Semantics to Syntax.'
   year: 2008
-DBLP:conf/mva/NagashimaI98:
-  authors: Yutaka Nagashima, Takakazu Ishimatsu
-  dblp: conf/mva/NagashimaI98
-  groups:
-  - AR
-  - main
-  link: http://b2.cvl.iis.u-tokyo.ac.jp/mva/proceedings/CommemorativeDVD/1998/papers/1998306.pdf
-  source: 'Proceedings of IAPR Workshop on Machine Vision Applications, MVA 1998,
-    November 17-19, 1998, Chiba, Japan: 306-309 (1998).'
-  title: A Morphological Approach to Fish Discrimination.
-  url: http://b2.cvl.iis.u-tokyo.ac.jp/mva/proceedings/CommemorativeDVD/1998/papers/1998306.pdf
-  year: 1998
-DBLP:conf/mva/NagashimaNI96:
-  authors: Yutaka Nagashima, Takeshi Nakazono, Takakazu Ishimatsu
-  dblp: conf/mva/NagashimaNI96
-  groups:
-  - AR
-  - main
-  link: http://b2.cvl.iis.u-tokyo.ac.jp/mva/proceedings/CommemorativeDVD/1996/papers/1996426.pdf
-  source: 'Proceedings of IAPR Workshop on Machine Vision Applications, MVA 1996,
-    November 12-14, 1996, Tokyo, Japan: 426-429 (1996).'
-  title: Parallel Implementation of Features Extraction Using Morphological Filter.
-  url: http://b2.cvl.iis.u-tokyo.ac.jp/mva/proceedings/CommemorativeDVD/1996/papers/1996426.pdf
-  year: 1996
 DBLP:conf/naacl/MikolovYZ13:
   authors: "Tom\xE1s Mikolov, Wen-tau Yih, Geoffrey Zweig"
   dblp: conf/naacl/MikolovYZ13
@@ -5549,12 +5583,12 @@ DBLP:conf/paar/Rawson0HR22:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-3201/paper10.pdf
+  link: https://ceur-ws.org/Vol-3201/paper10.pdf
   source: 'Proceedings of the Workshop on Practical Aspects of Automated Reasoning
     Co-located with the 11th International Joint Conference on Automated Reasoning
     (FLoC/IJCAR 2022), Haifa, Israel, August, 11 - 12, 2022.: (2022).'
   title: Reuse of Introduced Symbols in Automatic Theorem Provers (short paper).
-  url: http://ceur-ws.org/Vol-3201/paper10.pdf
+  url: https://ceur-ws.org/Vol-3201/paper10.pdf
   year: 2022
 DBLP:conf/pimrc/WiselyMU00:
   authors: Dave Wisely, Werner Mohr, Josef Urban
@@ -5816,7 +5850,7 @@ DBLP:conf/sat/JanotaPP22:
   title: Towards Learning Quantifier Instantiation in SMT.
   year: 2022
 DBLP:conf/sat/JanotaS11:
-  authors: "Mikol\xE1s Janota, Jo\xE3o P. Marques Silva"
+  authors: "Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
   dblp: conf/sat/JanotaS11
   doi: https://doi.org/10.1007/978-3-642-21581-0_19
   groups:
@@ -5963,13 +5997,13 @@ DBLP:conf/smt/BrownJ21:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-2908/short6.pdf
+  link: https://ceur-ws.org/Vol-2908/short6.pdf
   source: 'Proceedings of the 19th International Workshop on Satisfiability Modulo
     Theories co-located with 33rd International Conference on Computer Aided Verification(CAV
     2021), Online (initially located in Los Angeles, USA), July 18-19, 2021.: 17-22
     (2021).'
   title: First-Order Instantiation using Discriminating Terms.
-  url: http://ceur-ws.org/Vol-2908/short6.pdf
+  url: https://ceur-ws.org/Vol-2908/short6.pdf
   year: 2021
 DBLP:conf/smt/BrownJK22:
   authors: "Chad E. Brown, Mikol\xE1s Janota, Cezary Kaliszyk"
@@ -5977,13 +6011,13 @@ DBLP:conf/smt/BrownJK22:
   groups:
   - FM
   - main
-  link: http://ceur-ws.org/Vol-3185/abstract697.pdf
+  link: https://ceur-ws.org/Vol-3185/abstract697.pdf
   source: 'Proceedings of the 20th Internal Workshop on Satisfiability Modulo Theories
     co-located with the 11th International Joint Conference on Automated Reasoning
     (IJCAR 2022) part of the 8th Federated Logic Conference (FLoC 2022), Haifa, Israel,
     August 11-12, 2022.: (2022).'
   title: 'Abstract: Challenges and Solutions for Higher-Order SMT Proofs.'
-  url: http://ceur-ws.org/Vol-3185/abstract697.pdf
+  url: https://ceur-ws.org/Vol-3185/abstract697.pdf
   year: 2022
 DBLP:conf/smt/JakubuvJR21:
   authors: "Jan Jakubuv, Mikol\xE1s Janota, Andrew Reynolds"
@@ -5992,13 +6026,13 @@ DBLP:conf/smt/JakubuvJR21:
   - AR
   - FM
   - main
-  link: http://ceur-ws.org/Vol-2908/paper7.pdf
+  link: https://ceur-ws.org/Vol-2908/paper7.pdf
   source: 'Proceedings of the 19th International Workshop on Satisfiability Modulo
     Theories co-located with 33rd International Conference on Computer Aided Verification(CAV
     2021), Online (initially located in Los Angeles, USA), July 18-19, 2021.: 53-63
     (2021).'
   title: Characteristic Subsets of SMT-LIB Benchmarks.
-  url: http://ceur-ws.org/Vol-2908/paper7.pdf
+  url: https://ceur-ws.org/Vol-2908/paper7.pdf
   year: 2021
 DBLP:conf/smt/RegerSV17:
   authors: Giles Reger, Martin Suda, Andrei Voronkov
@@ -6006,16 +6040,15 @@ DBLP:conf/smt/RegerSV17:
   groups:
   - AR
   - main
-  link: http://ceur-ws.org/Vol-1889/paper6.pdf
+  link: https://ceur-ws.org/Vol-1889/paper6.pdf
   source: 'Proceedings of the 15th International Workshop on Satisfiability Modulo
     Theories affiliated with the International Conference on Computer-Aided Verification
     (CAV 2017), Heidelberg, Germany, July 22 - 23, 2017.: 63-75 (2017).'
   title: Instantiation and Pretending to be an SMT Solver with Vampire.
-  url: http://ceur-ws.org/Vol-1889/paper6.pdf
+  url: https://ceur-ws.org/Vol-1889/paper6.pdf
   year: 2017
 DBLP:conf/sofsem/JanotaBGS10:
-  authors: "Mikol\xE1s Janota, Goetz Botterweck, Radu Grigore, Jo\xE3o P. Marques\
-    \ Silva"
+  authors: "Mikol\xE1s Janota, Goetz Botterweck, Radu Grigore, Jo\xE3o Marques-Silva"
   dblp: conf/sofsem/JanotaBGS10
   doi: https://doi.org/10.1007/978-3-642-11266-9_44
   groups:
@@ -6042,11 +6075,11 @@ DBLP:conf/splc/Janota08:
 DBLP:conf/splc/JanotaK07:
   authors: "Mikol\xE1s Janota, Joseph Kiniry"
   dblp: conf/splc/JanotaK07
-  doi: http://doi.ieeecomputersociety.org/10.1109/SPLINE.2007.36
+  doi: https://doi.ieeecomputersociety.org/10.1109/SPLINE.2007.36
   groups:
   - FM
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/SPLINE.2007.36
+  link: https://doi.ieeecomputersociety.org/10.1109/SPLINE.2007.36
   source: 'Software Product Lines, 11th International Conference, SPLC 2007, Kyoto,
     Japan, September 10-14, 2007, Proceedings: 13-22 (2007).'
   title: Reasoning about Feature Models in Higher-Order Logic.
@@ -6114,11 +6147,11 @@ DBLP:conf/synasc/DamestaniK019:
 DBLP:conf/synasc/KaliszykUV17:
   authors: "Cezary Kaliszyk, Josef Urban, Jir\xED Vyskocil"
   dblp: conf/synasc/KaliszykUV17
-  doi: http://doi.ieeecomputersociety.org/10.1109/SYNASC.2017.00036
+  doi: https://doi.ieeecomputersociety.org/10.1109/SYNASC.2017.00036
   groups:
   - AR
   - main
-  link: http://doi.ieeecomputersociety.org/10.1109/SYNASC.2017.00036
+  link: https://doi.ieeecomputersociety.org/10.1109/SYNASC.2017.00036
   source: '19th International Symposium on Symbolic and Numeric Algorithms for Scientific
     Computing, SYNASC 2017, Timisoara, Romania, September 21-24, 2017: 169-172 (2017).'
   title: 'System Description: Statistical Parsing of Informalized Mizar Formulas.'
@@ -6234,18 +6267,6 @@ DBLP:conf/tacas/Reger0V18:
   title: Unification with Abstraction and Theory Instantiation in Saturation-Based
     Reasoning.
   year: 2018
-DBLP:conf/tap/Nagashima22:
-  authors: Yutaka Nagashima
-  dblp: conf/tap/Nagashima22
-  doi: https://doi.org/10.1007/978-3-031-09827-7_4
-  groups:
-  - AR
-  - main
-  link: https://doi.org/10.1007/978-3-031-09827-7_4
-  source: 'Tests and Proofs - 16th International Conference, TAP 2022, Held as Part
-    of STAF 2022, Nantes, France, July 5, 2022, Proceedings: 48-66 (2022).'
-  title: Definitional Quantifiers Realise Semantic Reasoning for Proof by Induction.
-  year: 2022
 DBLP:conf/tap/Reger0V17:
   authors: Giles Reger, Martin Suda, Andrei Voronkov
   dblp: conf/tap/Reger0V17
@@ -6398,7 +6419,7 @@ DBLP:journals/afp/Nagashima16:
   - AR
   - main
   link: https://www.isa-afp.org/entries/Proof_Strategy_Language.shtml
-  source: Arch. Formal Proofs (2016)
+  source: 'Arch. Formal Proofs 2016: (2016).'
   title: Proof Strategy Language.
   url: https://www.isa-afp.org/entries/Proof_Strategy_Language.shtml
   year: 2016
@@ -6768,7 +6789,11 @@ DBLP:journals/corr/AlemiCISU16:
   - AR
   - main
   link: http://arxiv.org/abs/1606.04442
-  source: arXiv CoRR abs/1606.04442 (2016).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/AlemiCISU16', 'AU': ['Alemi, Alexander A.', 'Chollet,\
+    \ Fran\xE7ois', 'Irving, Geoffrey', 'Szegedy, Christian', 'Urban, Josef'], 'TI':\
+    \ 'DeepMath - Deep Sequence Models for Premise Selection.', 'JO': 'CoRR', 'VL':\
+    \ 'abs/1606.04442', 'PY': '2016//', 'UR': 'http://arxiv.org/abs/1606.04442'}"
   title: DeepMath - Deep Sequence Models for Premise Selection.
   year: 2016
 DBLP:journals/corr/BaroniJJKLSM17:
@@ -6780,7 +6805,12 @@ DBLP:journals/corr/BaroniJJKLSM17:
   - FAI
   - main
   link: http://arxiv.org/abs/1701.08954
-  source: arXiv CoRR abs/1701.08954 (2017).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/BaroniJJKLSM17', 'AU': ['Baroni, Marco', 'Joulin,\
+    \ Armand', 'Jabri, Allan', 'Kruszewski, Germ\xE1n', 'Lazaridou, Angeliki', 'Simonic,\
+    \ Klemen', 'Mikolov, Tom\xE1s'], 'TI': 'CommAI: Evaluating the first steps towards\
+    \ a useful general AI.', 'JO': 'CoRR', 'VL': 'abs/1701.08954', 'PY': '2017//',\
+    \ 'UR': 'http://arxiv.org/abs/1701.08954'}"
   title: 'CommAI: Evaluating the first steps towards a useful general AI.'
   year: 2017
 DBLP:journals/corr/BeyersdorffCS016:
@@ -6791,7 +6821,11 @@ DBLP:journals/corr/BeyersdorffCS016:
   - AR
   - main
   link: http://arxiv.org/abs/1604.08058
-  source: arXiv CoRR abs/1604.08058 (2016).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/BeyersdorffCS016'', ''AU'': [''Beyersdorff, Olaf'',
+    ''Chew, Leroy'', ''Schmidt, Renate A.'', ''Suda, Martin''], ''TI'': ''Lifting
+    QBF Resolution Calculi to DQBF.'', ''JO'': ''CoRR'', ''VL'': ''abs/1604.08058'',
+    ''PY'': ''2016//'', ''UR'': ''http://arxiv.org/abs/1604.08058''}'
   title: Lifting QBF Resolution Calculi to DQBF.
   year: 2016
 DBLP:journals/corr/BojanowskiGJM16:
@@ -6802,7 +6836,11 @@ DBLP:journals/corr/BojanowskiGJM16:
   - FAI
   - main
   link: http://arxiv.org/abs/1607.04606
-  source: arXiv CoRR abs/1607.04606 (2016).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/BojanowskiGJM16', 'AU': ['Bojanowski, Piotr', 'Grave,\
+    \ Edouard', 'Joulin, Armand', 'Mikolov, Tom\xE1s'], 'TI': 'Enriching Word Vectors\
+    \ with Subword Information.', 'JO': 'CoRR', 'VL': 'abs/1607.04606', 'PY': '2016//',\
+    \ 'UR': 'http://arxiv.org/abs/1607.04606'}"
   title: Enriching Word Vectors with Subword Information.
   year: 2016
 DBLP:journals/corr/BojanowskiJM15:
@@ -6813,7 +6851,10 @@ DBLP:journals/corr/BojanowskiJM15:
   - FAI
   - main
   link: http://arxiv.org/abs/1511.06303
-  source: arXiv CoRR abs/1511.06303 (2015).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/BojanowskiJM15', 'AU': ['Bojanowski, Piotr', 'Joulin,\
+    \ Armand', 'Mikolov, Tom\xE1s'], 'TI': 'Alternative structures for character-level\
+    \ RNNs.', 'JO': 'CoRR', 'VL': 'abs/1511.06303', 'PY': '2015//', 'UR': 'http://arxiv.org/abs/1511.06303'}"
   title: Alternative structures for character-level RNNs.
   year: 2015
 DBLP:journals/corr/BrownU16:
@@ -6825,7 +6866,11 @@ DBLP:journals/corr/BrownU16:
   - FM
   - main
   link: http://arxiv.org/abs/1605.06996
-  source: arXiv CoRR abs/1605.06996 (2016).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/BrownU16'', ''AU'': [''Brown, Chad E.'', ''Urban,
+    Josef''], ''TI'': ''Extracting Higher-Order Goals from the Mizar Mathematical
+    Library.'', ''JO'': ''CoRR'', ''VL'': ''abs/1605.06996'', ''PY'': ''2016//'',
+    ''UR'': ''http://arxiv.org/abs/1605.06996''}'
   title: Extracting Higher-Order Goals from the Mizar Mathematical Library.
   year: 2016
 DBLP:journals/corr/ChelbaMSGBK13:
@@ -6837,7 +6882,11 @@ DBLP:journals/corr/ChelbaMSGBK13:
   - FAI
   - main
   link: http://arxiv.org/abs/1312.3005
-  source: arXiv CoRR abs/1312.3005 (2013).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/ChelbaMSGBK13', 'AU': ['Chelba, Ciprian', 'Mikolov,\
+    \ Tom\xE1s', 'Schuster, Mike', 'Ge, Qi', 'Brants, Thorsten', 'Koehn, Phillipp'],\
+    \ 'TI': 'One Billion Word Benchmark for Measuring Progress in Statistical Language\
+    \ Modeling.', 'JO': 'CoRR', 'VL': 'abs/1312.3005', 'PY': '2013//', 'UR': 'http://arxiv.org/abs/1312.3005'}"
   title: One Billion Word Benchmark for Measuring Progress in Statistical Language
     Modeling.
   year: 2013
@@ -6849,7 +6898,10 @@ DBLP:journals/corr/FarberB16:
   - FM
   - main
   link: http://arxiv.org/abs/1605.09293
-  source: arXiv CoRR abs/1605.09293 (2016).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/FarberB16', 'AU': ['F\xE4rber, Michael', 'Brown, Chad\
+    \ E.'], 'TI': 'Internal Guidance for Satallax.', 'JO': 'CoRR', 'VL': 'abs/1605.09293',\
+    \ 'PY': '2016//', 'UR': 'http://arxiv.org/abs/1605.09293'}"
   title: Internal Guidance for Satallax.
   year: 2016
 DBLP:journals/corr/FarberKU16:
@@ -6860,7 +6912,10 @@ DBLP:journals/corr/FarberKU16:
   - AR
   - main
   link: http://arxiv.org/abs/1611.05990
-  source: arXiv CoRR abs/1611.05990 (2016).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/FarberKU16', 'AU': ['F\xE4rber, Michael', 'Kaliszyk,\
+    \ Cezary', 'Urban, Josef'], 'TI': 'Monte Carlo Connection Prover.', 'JO': 'CoRR',\
+    \ 'VL': 'abs/1611.05990', 'PY': '2016//', 'UR': 'http://arxiv.org/abs/1611.05990'}"
   title: Monte Carlo Connection Prover.
   year: 2016
 DBLP:journals/corr/GauthierK14:
@@ -6871,7 +6926,10 @@ DBLP:journals/corr/GauthierK14:
   - AR
   - main
   link: http://arxiv.org/abs/1405.3906
-  source: arXiv CoRR abs/1405.3906 (2014).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/GauthierK14'', ''AU'': [''Gauthier, Thibault'', ''Kaliszyk,
+    Cezary''], ''TI'': ''Matching concepts across HOL libraries.'', ''JO'': ''CoRR'',
+    ''VL'': ''abs/1405.3906'', ''PY'': ''2014//'', ''UR'': ''http://arxiv.org/abs/1405.3906''}'
   title: Matching concepts across HOL libraries.
   year: 2014
 DBLP:journals/corr/GauthierK15:
@@ -6882,7 +6940,10 @@ DBLP:journals/corr/GauthierK15:
   - AR
   - main
   link: http://arxiv.org/abs/1509.03527
-  source: arXiv CoRR abs/1509.03527 (2015).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/GauthierK15'', ''AU'': [''Gauthier, Thibault'', ''Kaliszyk,
+    Cezary''], ''TI'': ''Sharing HOL4 and HOL Light proof knowledge.'', ''JO'': ''CoRR'',
+    ''VL'': ''abs/1509.03527'', ''PY'': ''2015//'', ''UR'': ''http://arxiv.org/abs/1509.03527''}'
   title: Sharing HOL4 and HOL Light proof knowledge.
   year: 2015
 DBLP:journals/corr/GauthierK15a:
@@ -6893,7 +6954,10 @@ DBLP:journals/corr/GauthierK15a:
   - AR
   - main
   link: http://arxiv.org/abs/1509.03534
-  source: arXiv CoRR abs/1509.03534 (2015).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/GauthierK15a'', ''AU'': [''Gauthier, Thibault'',
+    ''Kaliszyk, Cezary''], ''TI'': ''Premise Selection and External Provers for HOL4.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/1509.03534'', ''PY'': ''2015//'', ''UR'': ''http://arxiv.org/abs/1509.03534''}'
   title: Premise Selection and External Provers for HOL4.
   year: 2015
 DBLP:journals/corr/HaesaertBA14:
@@ -6904,7 +6968,12 @@ DBLP:journals/corr/HaesaertBA14:
   - ML
   - main
   link: http://arxiv.org/abs/1409.0553
-  source: arXiv CoRR abs/1409.0553 (2014).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/HaesaertBA14'', ''AU'': [''Haesaert, Sofie'', ''Babuska,
+    Robert'', ''Abate, Alessandro''], ''TI'': ''Sampling-based Approximations with
+    Quantitative Performance for the Probabilistic Reach-Avoid Problem over General
+    Markov Processes.'', ''JO'': ''CoRR'', ''VL'': ''abs/1409.0553'', ''PY'': ''2014//'',
+    ''UR'': ''http://arxiv.org/abs/1409.0553''}'
   title: Sampling-based Approximations with Quantitative Performance for the Probabilistic
     Reach-Avoid Problem over General Markov Processes.
   year: 2014
@@ -6920,7 +6989,15 @@ DBLP:journals/corr/HalesABDHHKMMNNNOPRSTTTUVZ15:
   - AR
   - main
   link: http://arxiv.org/abs/1501.02155
-  source: arXiv CoRR abs/1501.02155 (2015).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/HalesABDHHKMMNNNOPRSTTTUVZ15'', ''AU'': [''Hales,
+    Thomas C.'', ''Adams, Mark'', ''Bauer, Gertrud'', ''Dang, Dat Tat'', ''Harrison,
+    John'', ''Hoang, Truong Le'', ''Kaliszyk, Cezary'', ''Magron, Victor'', ''McLaughlin,
+    Sean'', ''Nguyen, Thang Tat'', ''Nguyen, Truong Quang'', ''Nipkow, Tobias'', ''Obua,
+    Steven'', ''Pleso, Joseph'', ''Rute, Jason M.'', ''Solovyev, Alexey'', ''Ta, An
+    Hoai Thi'', ''Tran, Trung Nam'', ''Trieu, Diep Thi'', ''Urban, Josef'', ''Vu,
+    Ky Khac'', ''Zumkeller, Roland''], ''TI'': ''A formal proof of the Kepler conjecture.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/1501.02155'', ''PY'': ''2015//'', ''UR'': ''http://arxiv.org/abs/1501.02155''}'
   title: A formal proof of the Kepler conjecture.
   year: 2015
 DBLP:journals/corr/JakubuvU16:
@@ -6932,7 +7009,11 @@ DBLP:journals/corr/JakubuvU16:
   - FM
   - main
   link: http://arxiv.org/abs/1606.03888
-  source: arXiv CoRR abs/1606.03888 (2016).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/JakubuvU16'', ''AU'': [''Jakubuv, Jan'', ''Urban,
+    Josef''], ''TI'': ''Extending E Prover with Similarity Based Clause Selection
+    Strategies.'', ''JO'': ''CoRR'', ''VL'': ''abs/1606.03888'', ''PY'': ''2016//'',
+    ''UR'': ''http://arxiv.org/abs/1606.03888''}'
   title: Extending E Prover with Similarity Based Clause Selection Strategies.
   year: 2016
 DBLP:journals/corr/JakubuvU16a:
@@ -6944,7 +7025,10 @@ DBLP:journals/corr/JakubuvU16a:
   - FM
   - main
   link: http://arxiv.org/abs/1611.08733
-  source: arXiv CoRR abs/1611.08733 (2016).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/JakubuvU16a'', ''AU'': [''Jakubuv, Jan'', ''Urban,
+    Josef''], ''TI'': ''BliStrTune: Hierarchical Invention of Theorem Proving Strategies.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/1611.08733'', ''PY'': ''2016//'', ''UR'': ''http://arxiv.org/abs/1611.08733''}'
   title: 'BliStrTune: Hierarchical Invention of Theorem Proving Strategies.'
   year: 2016
 DBLP:journals/corr/JakubuvU17:
@@ -6956,7 +7040,10 @@ DBLP:journals/corr/JakubuvU17:
   - FM
   - main
   link: http://arxiv.org/abs/1701.06532
-  source: arXiv CoRR abs/1701.06532 (2017).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/JakubuvU17'', ''AU'': [''Jakubuv, Jan'', ''Urban,
+    Josef''], ''TI'': ''ENIGMA: Efficient Learning-based Inference Guiding Machine.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/1701.06532'', ''PY'': ''2017//'', ''UR'': ''http://arxiv.org/abs/1701.06532''}'
   title: 'ENIGMA: Efficient Learning-based Inference Guiding Machine.'
   year: 2017
 DBLP:journals/corr/Janota17:
@@ -6967,7 +7054,10 @@ DBLP:journals/corr/Janota17:
   - FM
   - main
   link: http://arxiv.org/abs/1704.01071
-  source: arXiv CoRR abs/1704.01071 (2017).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/Janota17', 'AU': ['Janota, Mikol\xE1s'], 'TI': \"\
+    An Achilles' Heel of Term-Resolution.\", 'JO': 'CoRR', 'VL': 'abs/1704.01071',\
+    \ 'PY': '2017//', 'UR': 'http://arxiv.org/abs/1704.01071'}"
   title: An Achilles' Heel of Term-Resolution.
   year: 2017
 DBLP:journals/corr/JanotaGM13:
@@ -6978,7 +7068,10 @@ DBLP:journals/corr/JanotaGM13:
   - FM
   - main
   link: http://arxiv.org/abs/1310.2491
-  source: arXiv CoRR abs/1310.2491 (2013).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/JanotaGM13', 'AU': ['Janota, Mikol\xE1s', 'Grigore,\
+    \ Radu', 'Marques-Silva, Jo\xE3o'], 'TI': 'On QBF Proofs and Preprocessing.',\
+    \ 'JO': 'CoRR', 'VL': 'abs/1310.2491', 'PY': '2013//', 'UR': 'http://arxiv.org/abs/1310.2491'}"
   title: On QBF Proofs and Preprocessing.
   year: 2013
 DBLP:journals/corr/JanotaM14:
@@ -6989,7 +7082,10 @@ DBLP:journals/corr/JanotaM14:
   - FM
   - main
   link: http://arxiv.org/abs/1406.7838
-  source: arXiv CoRR abs/1406.7838 (2014).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/JanotaM14', 'AU': ['Janota, Mikol\xE1s', 'Marques-Silva,\
+    \ Jo\xE3o'], 'TI': 'On Minimal Corrections in ASP.', 'JO': 'CoRR', 'VL': 'abs/1406.7838',\
+    \ 'PY': '2014//', 'UR': 'http://arxiv.org/abs/1406.7838'}"
   title: On Minimal Corrections in ASP.
   year: 2014
 DBLP:journals/corr/JerniteGJM16:
@@ -7000,7 +7096,11 @@ DBLP:journals/corr/JerniteGJM16:
   - FAI
   - main
   link: http://arxiv.org/abs/1611.06188
-  source: arXiv CoRR abs/1611.06188 (2016).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/JerniteGJM16', 'AU': ['Jernite, Yacine', 'Grave, Edouard',\
+    \ 'Joulin, Armand', 'Mikolov, Tom\xE1s'], 'TI': 'Variable Computation in Recurrent\
+    \ Neural Networks.', 'JO': 'CoRR', 'VL': 'abs/1611.06188', 'PY': '2016//', 'UR':\
+    \ 'http://arxiv.org/abs/1611.06188'}"
   title: Variable Computation in Recurrent Neural Networks.
   year: 2016
 DBLP:journals/corr/JoostenKU14:
@@ -7024,7 +7124,11 @@ DBLP:journals/corr/JoulinGBDJM16:
   - FAI
   - main
   link: http://arxiv.org/abs/1612.03651
-  source: arXiv CoRR abs/1612.03651 (2016).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/JoulinGBDJM16', 'AU': ['Joulin, Armand', 'Grave, Edouard',\
+    \ 'Bojanowski, Piotr', 'Douze, Matthijs', 'J\xE9gou, Herv\xE9', 'Mikolov, Tom\xE1\
+    s'], 'TI': 'FastText.zip: Compressing text classification models.', 'JO': 'CoRR',\
+    \ 'VL': 'abs/1612.03651', 'PY': '2016//', 'UR': 'http://arxiv.org/abs/1612.03651'}"
   title: 'FastText.zip: Compressing text classification models.'
   year: 2016
 DBLP:journals/corr/JoulinGBM16:
@@ -7035,7 +7139,11 @@ DBLP:journals/corr/JoulinGBM16:
   - FAI
   - main
   link: http://arxiv.org/abs/1607.01759
-  source: arXiv CoRR abs/1607.01759 (2016).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/JoulinGBM16', 'AU': ['Joulin, Armand', 'Grave, Edouard',\
+    \ 'Bojanowski, Piotr', 'Mikolov, Tom\xE1s'], 'TI': 'Bag of Tricks for Efficient\
+    \ Text Classification.', 'JO': 'CoRR', 'VL': 'abs/1607.01759', 'PY': '2016//',\
+    \ 'UR': 'http://arxiv.org/abs/1607.01759'}"
   title: Bag of Tricks for Efficient Text Classification.
   year: 2016
 DBLP:journals/corr/JoulinM15:
@@ -7046,7 +7154,10 @@ DBLP:journals/corr/JoulinM15:
   - FAI
   - main
   link: http://arxiv.org/abs/1503.01007
-  source: arXiv CoRR abs/1503.01007 (2015).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/JoulinM15', 'AU': ['Joulin, Armand', 'Mikolov, Tom\xE1\
+    s'], 'TI': 'Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets.',\
+    \ 'JO': 'CoRR', 'VL': 'abs/1503.01007', 'PY': '2015//', 'UR': 'http://arxiv.org/abs/1503.01007'}"
   title: Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets.
   year: 2015
 DBLP:journals/corr/KaliszykMU14:
@@ -7057,7 +7168,11 @@ DBLP:journals/corr/KaliszykMU14:
   - AR
   - main
   link: http://arxiv.org/abs/1410.5467
-  source: arXiv CoRR abs/1410.5467 (2014).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/KaliszykMU14'', ''AU'': [''Kaliszyk, Cezary'', ''Mamane,
+    Lionel'', ''Urban, Josef''], ''TI'': ''Machine Learning of Coq Proof Guidance:
+    First Experiments.'', ''JO'': ''CoRR'', ''VL'': ''abs/1410.5467'', ''PY'': ''2014//'',
+    ''UR'': ''http://arxiv.org/abs/1410.5467''}'
   title: 'Machine Learning of Coq Proof Guidance: First Experiments.'
   year: 2014
 DBLP:journals/corr/KaliszykU13:
@@ -7068,7 +7183,10 @@ DBLP:journals/corr/KaliszykU13:
   - AR
   - main
   link: http://arxiv.org/abs/1309.4962
-  source: arXiv CoRR abs/1309.4962 (2013).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/KaliszykU13'', ''AU'': [''Kaliszyk, Cezary'', ''Urban,
+    Josef''], ''TI'': ''HOL(y)Hammer: Online ATP Service for HOL Light.'', ''JO'':
+    ''CoRR'', ''VL'': ''abs/1309.4962'', ''PY'': ''2013//'', ''UR'': ''http://arxiv.org/abs/1309.4962''}'
   title: 'HOL(y)Hammer: Online ATP Service for HOL Light.'
   year: 2013
 DBLP:journals/corr/KaliszykU13a:
@@ -7079,7 +7197,10 @@ DBLP:journals/corr/KaliszykU13a:
   - AR
   - main
   link: http://arxiv.org/abs/1310.2797
-  source: arXiv CoRR abs/1310.2797 (2013).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/KaliszykU13a'', ''AU'': [''Kaliszyk, Cezary'', ''Urban,
+    Josef''], ''TI'': ''Lemma Mining over HOL Light.'', ''JO'': ''CoRR'', ''VL'':
+    ''abs/1310.2797'', ''PY'': ''2013//'', ''UR'': ''http://arxiv.org/abs/1310.2797''}'
   title: Lemma Mining over HOL Light.
   year: 2013
 DBLP:journals/corr/KaliszykU13b:
@@ -7090,7 +7211,10 @@ DBLP:journals/corr/KaliszykU13b:
   - AR
   - main
   link: http://arxiv.org/abs/1310.2805
-  source: arXiv CoRR abs/1310.2805 (2013).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/KaliszykU13b'', ''AU'': [''Kaliszyk, Cezary'', ''Urban,
+    Josef''], ''TI'': ''MizAR 40 for Mizar 40.'', ''JO'': ''CoRR'', ''VL'': ''abs/1310.2805'',
+    ''PY'': ''2013//'', ''UR'': ''http://arxiv.org/abs/1310.2805''}'
   title: MizAR 40 for Mizar 40.
   year: 2013
 DBLP:journals/corr/KaliszykU14:
@@ -7101,7 +7225,10 @@ DBLP:journals/corr/KaliszykU14:
   - AR
   - main
   link: http://arxiv.org/abs/1402.3578
-  source: arXiv CoRR abs/1402.3578 (2014).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/KaliszykU14'', ''AU'': [''Kaliszyk, Cezary'', ''Urban,
+    Josef''], ''TI'': ''Learning-assisted Theorem Proving with Millions of Lemmas.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/1402.3578'', ''PY'': ''2014//'', ''UR'': ''http://arxiv.org/abs/1402.3578''}'
   title: Learning-assisted Theorem Proving with Millions of Lemmas.
   year: 2014
 DBLP:journals/corr/KaliszykUV14:
@@ -7112,7 +7239,10 @@ DBLP:journals/corr/KaliszykUV14:
   - AR
   - main
   link: http://arxiv.org/abs/1402.2359
-  source: arXiv CoRR abs/1402.2359 (2014).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/KaliszykUV14', 'AU': ['Kaliszyk, Cezary', 'Urban,\
+    \ Josef', 'Vyskocil, Jir\xED'], 'TI': 'Machine Learner for Automated Reasoning\
+    \ 0.4 and 0.5.', 'JO': 'CoRR', 'VL': 'abs/1402.2359', 'PY': '2014//', 'UR': 'http://arxiv.org/abs/1402.2359'}"
   title: Machine Learner for Automated Reasoning 0.4 and 0.5.
   year: 2014
 DBLP:journals/corr/KaliszykUV14a:
@@ -7123,7 +7253,11 @@ DBLP:journals/corr/KaliszykUV14a:
   - AR
   - main
   link: http://arxiv.org/abs/1410.5476
-  source: arXiv CoRR abs/1410.5476 (2014).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/KaliszykUV14a', 'AU': ['Kaliszyk, Cezary', 'Urban,\
+    \ Josef', 'Vyskocil, Jir\xED'], 'TI': 'Certified Connection Tableaux Proofs for\
+    \ HOL Light and TPTP.', 'JO': 'CoRR', 'VL': 'abs/1410.5476', 'PY': '2014//', 'UR':\
+    \ 'http://arxiv.org/abs/1410.5476'}"
   title: Certified Connection Tableaux Proofs for HOL Light and TPTP.
   year: 2014
 DBLP:journals/corr/KaliszykUV16:
@@ -7134,7 +7268,11 @@ DBLP:journals/corr/KaliszykUV16:
   - AR
   - main
   link: http://arxiv.org/abs/1611.09703
-  source: arXiv CoRR abs/1611.09703 (2016).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/KaliszykUV16', 'AU': ['Kaliszyk, Cezary', 'Urban,\
+    \ Josef', 'Vyskocil, Jir\xED'], 'TI': 'Semantic Parsing of Mathematics by Context-based\
+    \ Learning from Aligned Corpora and Theorem Proving.', 'JO': 'CoRR', 'VL': 'abs/1611.09703',\
+    \ 'PY': '2016//', 'UR': 'http://arxiv.org/abs/1611.09703'}"
   title: Semantic Parsing of Mathematics by Context-based Learning from Aligned Corpora
     and Theorem Proving.
   year: 2016
@@ -7146,7 +7284,11 @@ DBLP:journals/corr/KaliszykUVG14:
   - AR
   - main
   link: http://arxiv.org/abs/1405.3451
-  source: arXiv CoRR abs/1405.3451 (2014).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/KaliszykUVG14', 'AU': ['Kaliszyk, Cezary', 'Urban,\
+    \ Josef', 'Vyskocil, Jir\xED', 'Geuvers, Herman'], 'TI': 'Developing Corpus-based\
+    \ Translation Methods between Informal and Formal Mathematics: Project Description.',\
+    \ 'JO': 'CoRR', 'VL': 'abs/1405.3451', 'PY': '2014//', 'UR': 'http://arxiv.org/abs/1405.3451'}"
   title: 'Developing Corpus-based Translation Methods between Informal and Formal
     Mathematics: Project Description.'
   year: 2014
@@ -7158,7 +7300,11 @@ DBLP:journals/corr/KieslSSTB17:
   - AR
   - main
   link: http://arxiv.org/abs/1702.00847
-  source: arXiv CoRR abs/1702.00847 (2017).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/KieslSSTB17'', ''AU'': [''Kiesl, Benjamin'', ''Suda,
+    Martin'', ''Seidl, Martina'', ''Tompits, Hans'', ''Biere, Armin''], ''TI'': ''Blocked
+    Clauses in First-Order Logic.'', ''JO'': ''CoRR'', ''VL'': ''abs/1702.00847'',
+    ''PY'': ''2017//'', ''UR'': ''http://arxiv.org/abs/1702.00847''}'
   title: Blocked Clauses in First-Order Logic.
   year: 2017
 DBLP:journals/corr/KuhlweinU13:
@@ -7169,7 +7315,10 @@ DBLP:journals/corr/KuhlweinU13:
   - AR
   - main
   link: http://arxiv.org/abs/1308.2116
-  source: arXiv CoRR abs/1308.2116 (2013).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/KuhlweinU13', 'AU': ['K\xFChlwein, Daniel', 'Urban,\
+    \ Josef'], 'TI': 'MaLeS: A Framework for Automatic Tuning of Automated Theorem\
+    \ Provers.', 'JO': 'CoRR', 'VL': 'abs/1308.2116', 'PY': '2013//', 'UR': 'http://arxiv.org/abs/1308.2116'}"
   title: 'MaLeS: A Framework for Automatic Tuning of Automated Theorem Provers.'
   year: 2013
 DBLP:journals/corr/LeM14:
@@ -7180,7 +7329,10 @@ DBLP:journals/corr/LeM14:
   - FAI
   - main
   link: http://arxiv.org/abs/1405.4053
-  source: arXiv CoRR abs/1405.4053 (2014).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/LeM14', 'AU': ['Le, Quoc V.', 'Mikolov, Tom\xE1s'],\
+    \ 'TI': 'Distributed Representations of Sentences and Documents.', 'JO': 'CoRR',\
+    \ 'VL': 'abs/1405.4053', 'PY': '2014//', 'UR': 'http://arxiv.org/abs/1405.4053'}"
   title: Distributed Representations of Sentences and Documents.
   year: 2014
 DBLP:journals/corr/Marques-SilvaJ14:
@@ -7191,7 +7343,11 @@ DBLP:journals/corr/Marques-SilvaJ14:
   - FM
   - main
   link: http://arxiv.org/abs/1402.3011
-  source: arXiv CoRR abs/1402.3011 (2014).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/Marques-SilvaJ14', 'AU': ['Marques-Silva, Jo\xE3o',\
+    \ 'Janota, Mikol\xE1s'], 'TI': 'Computing Minimal Sets on Propositional Formulae\
+    \ I: Problems & Reductions.', 'JO': 'CoRR', 'VL': 'abs/1402.3011', 'PY': '2014//',\
+    \ 'UR': 'http://arxiv.org/abs/1402.3011'}"
   title: 'Computing Minimal Sets on Propositional Formulae I: Problems & Reductions.'
   year: 2014
 DBLP:journals/corr/MesnilMRB14:
@@ -7215,7 +7371,10 @@ DBLP:journals/corr/MikolovJB15:
   - FAI
   - main
   link: http://arxiv.org/abs/1511.08130
-  source: arXiv CoRR abs/1511.08130 (2015).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/MikolovJB15', 'AU': ['Mikolov, Tom\xE1s', 'Joulin,\
+    \ Armand', 'Baroni, Marco'], 'TI': 'A Roadmap towards Machine Intelligence.',\
+    \ 'JO': 'CoRR', 'VL': 'abs/1511.08130', 'PY': '2015//', 'UR': 'http://arxiv.org/abs/1511.08130'}"
   title: A Roadmap towards Machine Intelligence.
   year: 2015
 DBLP:journals/corr/MikolovJCMR14:
@@ -7239,7 +7398,11 @@ DBLP:journals/corr/MikolovLS13:
   - FAI
   - main
   link: http://arxiv.org/abs/1309.4168
-  source: arXiv CoRR abs/1309.4168 (2013).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/MikolovLS13', 'AU': ['Mikolov, Tom\xE1s', 'Le, Quoc\
+    \ V.', 'Sutskever, Ilya'], 'TI': 'Exploiting Similarities among Languages for\
+    \ Machine Translation.', 'JO': 'CoRR', 'VL': 'abs/1309.4168', 'PY': '2013//',\
+    \ 'UR': 'http://arxiv.org/abs/1309.4168'}"
   title: Exploiting Similarities among Languages for Machine Translation.
   year: 2013
 DBLP:journals/corr/MikolovSCCD13:
@@ -7250,7 +7413,11 @@ DBLP:journals/corr/MikolovSCCD13:
   - FAI
   - main
   link: http://arxiv.org/abs/1310.4546
-  source: arXiv CoRR abs/1310.4546 (2013).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/MikolovSCCD13', 'AU': ['Mikolov, Tom\xE1s', 'Sutskever,\
+    \ Ilya', 'Chen, Kai', 'Corrado, Greg', 'Dean, Jeffrey'], 'TI': 'Distributed Representations\
+    \ of Words and Phrases and their Compositionality.', 'JO': 'CoRR', 'VL': 'abs/1310.4546',\
+    \ 'PY': '2013//', 'UR': 'http://arxiv.org/abs/1310.4546'}"
   title: Distributed Representations of Words and Phrases and their Compositionality.
   year: 2013
 DBLP:journals/corr/Nagashima17:
@@ -7261,7 +7428,10 @@ DBLP:journals/corr/Nagashima17:
   - AR
   - main
   link: http://arxiv.org/abs/1701.03037
-  source: arXiv CoRR abs/1701.03037 (2017).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/Nagashima17'', ''AU'': [''Nagashima, Yutaka''], ''TI'':
+    ''Towards Smart Proof Search for Isabelle.'', ''JO'': ''CoRR'', ''VL'': ''abs/1701.03037'',
+    ''PY'': ''2017//'', ''UR'': ''http://arxiv.org/abs/1701.03037''}'
   title: Towards Smart Proof Search for Isabelle.
   year: 2017
 DBLP:journals/corr/NagashimaK16:
@@ -7272,7 +7442,11 @@ DBLP:journals/corr/NagashimaK16:
   - AR
   - main
   link: http://arxiv.org/abs/1606.02941
-  source: arXiv CoRR abs/1606.02941 (2016).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/NagashimaK16'', ''AU'': [''Nagashima, Yutaka'', ''Kumar,
+    Ramana''], ''TI'': ''A Proof Strategy Language and Proof Script Generation for
+    Isabelle.'', ''JO'': ''CoRR'', ''VL'': ''abs/1606.02941'', ''PY'': ''2016//'',
+    ''UR'': ''http://arxiv.org/abs/1606.02941''}'
   title: A Proof Strategy Language and Proof Script Generation for Isabelle.
   year: 2016
 DBLP:journals/corr/NagashimaO16:
@@ -7283,7 +7457,11 @@ DBLP:journals/corr/NagashimaO16:
   - AR
   - main
   link: http://arxiv.org/abs/1608.03350
-  source: arXiv CoRR abs/1608.03350 (2016).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/NagashimaO16'', ''AU'': [''Nagashima, Yutaka'', "O''Connor,
+    Liam"], ''TI'': ''Close Encounters of the Higher Kind Emulating Constructor Classes
+    in Standard ML.'', ''JO'': ''CoRR'', ''VL'': ''abs/1608.03350'', ''PY'': ''2016//'',
+    ''UR'': ''http://arxiv.org/abs/1608.03350''}'
   title: Close Encounters of the Higher Kind Emulating Constructor Classes in Standard
     ML.
   year: 2016
@@ -7296,7 +7474,11 @@ DBLP:journals/corr/NevesMJLM15:
   - FM
   - main
   link: http://arxiv.org/abs/1505.02405
-  source: arXiv CoRR abs/1505.02405 (2015).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/NevesMJLM15', 'AU': ['Neves, Miguel', 'Martins, Ruben',\
+    \ 'Janota, Mikol\xE1s', 'Lynce, In\xEAs', 'Manquinho, Vasco M.'], 'TI': 'Exploiting\
+    \ Resolution-based Representations for MaxSAT Solving.', 'JO': 'CoRR', 'VL': 'abs/1505.02405',\
+    \ 'PY': '2015//', 'UR': 'http://arxiv.org/abs/1505.02405'}"
   title: Exploiting Resolution-based Representations for MaxSAT Solving.
   year: 2015
 DBLP:journals/corr/NorouziMBSSFCD13:
@@ -7322,7 +7504,13 @@ DBLP:journals/corr/OConnorRCALNSHK16:
   - AR
   - main
   link: http://arxiv.org/abs/1601.05520
-  source: arXiv CoRR abs/1601.05520 (2016).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/OConnorRCALNSHK16'', ''AU'': ["O''Connor, Liam",
+    ''Rizkallah, Christine'', ''Chen, Zilin'', ''Amani, Sidney'', ''Lim, Japheth'',
+    ''Nagashima, Yutaka'', ''Sewell, Thomas'', ''Hixon, Alex'', ''Keller, Gabriele'',
+    ''Murray, Toby C.'', ''Klein, Gerwin''], ''TI'': ''COGENT: Certified Compilation
+    for a Functional Systems Language.'', ''JO'': ''CoRR'', ''VL'': ''abs/1601.05520'',
+    ''PY'': ''2016//'', ''UR'': ''http://arxiv.org/abs/1601.05520''}'
   title: 'COGENT: Certified Compilation for a Functional Systems Language.'
   year: 2016
 DBLP:journals/corr/OrorbiaMR17:
@@ -7333,7 +7521,11 @@ DBLP:journals/corr/OrorbiaMR17:
   - FAI
   - main
   link: http://arxiv.org/abs/1703.08864
-  source: arXiv CoRR abs/1703.08864 (2017).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/OrorbiaMR17', 'AU': ['Ororbia, Alexander G., II',\
+    \ 'Mikolov, Tom\xE1s', 'Reitter, David'], 'TI': 'Learning Simpler Language Models\
+    \ with the Delta Recurrent Neural Network Framework.', 'JO': 'CoRR', 'VL': 'abs/1703.08864',\
+    \ 'PY': '2017//', 'UR': 'http://arxiv.org/abs/1703.08864'}"
   title: Learning Simpler Language Models with the Delta Recurrent Neural Network
     Framework.
   year: 2017
@@ -7345,7 +7537,11 @@ DBLP:journals/corr/Reger0V16:
   - AR
   - main
   link: http://arxiv.org/abs/1604.08040
-  source: arXiv CoRR abs/1604.08040 (2016).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/Reger0V16'', ''AU'': [''Reger, Giles'', ''Suda, Martin'',
+    ''Voronkov, Andrei''], ''TI'': ''Finding Finite Models in Multi-Sorted First Order
+    Logic.'', ''JO'': ''CoRR'', ''VL'': ''abs/1604.08040'', ''PY'': ''2016//'', ''UR'':
+    ''http://arxiv.org/abs/1604.08040''}'
   title: Finding Finite Models in Multi-Sorted First Order Logic.
   year: 2016
 DBLP:journals/corr/Reger0V17:
@@ -7356,7 +7552,11 @@ DBLP:journals/corr/Reger0V17:
   - AR
   - main
   link: http://arxiv.org/abs/1704.03391
-  source: arXiv CoRR abs/1704.03391 (2017).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/Reger0V17'', ''AU'': [''Reger, Giles'', ''Suda, Martin'',
+    ''Voronkov, Andrei''], ''TI'': ''Testing a Saturation-Based Theorem Prover: Experiences
+    and Challenges (Extended Version).'', ''JO'': ''CoRR'', ''VL'': ''abs/1704.03391'',
+    ''PY'': ''2017//'', ''UR'': ''http://arxiv.org/abs/1704.03391''}'
   title: 'Testing a Saturation-Based Theorem Prover: Experiences and Challenges (Extended
     Version).'
   year: 2017
@@ -7368,7 +7568,10 @@ DBLP:journals/corr/Reger0VH16:
   - AR
   - main
   link: http://arxiv.org/abs/1604.08055
-  source: arXiv CoRR abs/1604.08055 (2016).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/Reger0VH16'', ''AU'': [''Reger, Giles'', ''Suda,
+    Martin'', ''Voronkov, Andrei'', ''Hoder, Krystof''], ''TI'': ''Selecting the Selection.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/1604.08055'', ''PY'': ''2016//'', ''UR'': ''http://arxiv.org/abs/1604.08055''}'
   title: Selecting the Selection.
   year: 2016
 DBLP:journals/corr/RuelensCQSBB15:
@@ -7380,7 +7583,12 @@ DBLP:journals/corr/RuelensCQSBB15:
   - ML
   - main
   link: http://arxiv.org/abs/1512.00408
-  source: arXiv CoRR abs/1512.00408 (2015).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/RuelensCQSBB15'', ''AU'': [''Ruelens, Frederik'',
+    ''Claessens, Bert'', ''Quaiyum, Salman'', ''Schutter, Bart De'', ''Babuska, Robert'',
+    ''Belmans, Ronnie''], ''TI'': ''Reinforcement Learning Applied to an Electric
+    Water Heater: From Theory to Practice.'', ''JO'': ''CoRR'', ''VL'': ''abs/1512.00408'',
+    ''PY'': ''2015//'', ''UR'': ''http://arxiv.org/abs/1512.00408''}'
   title: 'Reinforcement Learning Applied to an Electric Water Heater: From Theory
     to Practice.'
   year: 2015
@@ -7393,7 +7601,12 @@ DBLP:journals/corr/RuelensCVSBB15:
   - ML
   - main
   link: http://arxiv.org/abs/1504.02125
-  source: arXiv CoRR abs/1504.02125 (2015).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/RuelensCVSBB15'', ''AU'': [''Ruelens, Frederik'',
+    ''Claessens, Bert'', ''Vandael, Stijn'', ''Schutter, Bart De'', ''Babuska, Robert'',
+    ''Belmans, Ronnie''], ''TI'': ''Residential Demand Response Applications Using
+    Batch Reinforcement Learning.'', ''JO'': ''CoRR'', ''VL'': ''abs/1504.02125'',
+    ''PY'': ''2015//'', ''UR'': ''http://arxiv.org/abs/1504.02125''}'
   title: Residential Demand Response Applications Using Batch Reinforcement Learning.
   year: 2015
 DBLP:journals/corr/Suda13:
@@ -7404,7 +7617,10 @@ DBLP:journals/corr/Suda13:
   - AR
   - main
   link: http://arxiv.org/abs/1306.5539
-  source: arXiv CoRR abs/1306.5539 (2013).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/Suda13'', ''AU'': [''Suda, Martin''], ''TI'': ''Variable
+    and clause elimination for LTL satisfiability checking.'', ''JO'': ''CoRR'', ''VL'':
+    ''abs/1306.5539'', ''PY'': ''2013//'', ''UR'': ''http://arxiv.org/abs/1306.5539''}'
   title: Variable and clause elimination for LTL satisfiability checking.
   year: 2013
 DBLP:journals/corr/Suda13a:
@@ -7415,7 +7631,10 @@ DBLP:journals/corr/Suda13a:
   - AR
   - main
   link: http://arxiv.org/abs/1307.4966
-  source: arXiv CoRR abs/1307.4966 (2013).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/Suda13a'', ''AU'': [''Suda, Martin''], ''TI'': ''Triggered
+    Clause Pushing for IC3.'', ''JO'': ''CoRR'', ''VL'': ''abs/1307.4966'', ''PY'':
+    ''2013//'', ''UR'': ''http://arxiv.org/abs/1307.4966''}'
   title: Triggered Clause Pushing for IC3.
   year: 2013
 DBLP:journals/corr/WestonBCM15:
@@ -7438,7 +7657,11 @@ DBLP:journals/corr/ZarembaMJF15:
   - FAI
   - main
   link: http://arxiv.org/abs/1511.07275
-  source: arXiv CoRR abs/1511.07275 (2015).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/ZarembaMJF15', 'AU': ['Zaremba, Wojciech', 'Mikolov,\
+    \ Tom\xE1s', 'Joulin, Armand', 'Fergus, Rob'], 'TI': 'Learning Simple Algorithms\
+    \ from Examples.', 'JO': 'CoRR', 'VL': 'abs/1511.07275', 'PY': '2015//', 'UR':\
+    \ 'http://arxiv.org/abs/1511.07275'}"
   title: Learning Simple Algorithms from Examples.
   year: 2015
 DBLP:journals/corr/abs-0902-0043:
@@ -7460,7 +7683,10 @@ DBLP:journals/corr/abs-0910-0013:
   - FM
   - main
   link: http://arxiv.org/abs/0910.0013
-  source: arXiv CoRR abs/0910.0013 (2009).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-0910-0013', 'AU': ['Janota, Mikol\xE1s', 'Marques-Silva,\
+    \ Jo\xE3o', 'Grigore, Radu'], 'TI': 'Algorithms for finding dispensable variables',\
+    \ 'JO': 'CoRR', 'VL': 'abs/0910.0013', 'PY': '2009//', 'UR': 'http://arxiv.org/abs/0910.0013'}"
   title: Algorithms for finding dispensable variables
   year: 2009
 DBLP:journals/corr/abs-0910-3913:
@@ -7471,7 +7697,11 @@ DBLP:journals/corr/abs-0910-3913:
   - FM
   - main
   link: http://arxiv.org/abs/0910.3913
-  source: arXiv CoRR abs/0910.3913 (2009).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-0910-3913', 'AU': ['Janota, Mikol\xE1s', 'Botterweck,\
+    \ Goetz', 'Grigore, Radu', 'Marques-Silva, Jo\xE3o'], 'TI': 'How to Complete an\
+    \ Interactive Configuration Process?', 'JO': 'CoRR', 'VL': 'abs/0910.3913', 'PY':\
+    \ '2009//', 'UR': 'http://arxiv.org/abs/0910.3913'}"
   title: How to Complete an Interactive Configuration Process?
   year: 2009
 DBLP:journals/corr/abs-1003-6096:
@@ -7483,7 +7713,10 @@ DBLP:journals/corr/abs-1003-6096:
   - FM
   - main
   link: http://arxiv.org/abs/1003.6096
-  source: arXiv CoRR abs/1003.6096 (2010).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1003-6096'', ''AU'': [''Jakubuv, Jan'', ''Wells,
+    J. B.''], ''TI'': ''Expressiveness of Generic Process Shape Types'', ''JO'': ''CoRR'',
+    ''VL'': ''abs/1003.6096'', ''PY'': ''2010//'', ''UR'': ''http://arxiv.org/abs/1003.6096''}'
   title: Expressiveness of Generic Process Shape Types
   year: 2010
 DBLP:journals/corr/abs-1004-1947:
@@ -7505,7 +7738,11 @@ DBLP:journals/corr/abs-1005-4552:
   - AR
   - main
   link: http://arxiv.org/abs/1005.4552
-  source: arXiv CoRR abs/1005.4552 (2010).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1005-4552'', ''AU'': [''Urban, Josef'', ''Alama,
+    Jesse'', ''Rudnicki, Piotr'', ''Geuvers, Herman''], ''TI'': ''A Wiki for Mizar:
+    Motivation, Considerations, and Initial Prototype'', ''JO'': ''CoRR'', ''VL'':
+    ''abs/1005.4552'', ''PY'': ''2010//'', ''UR'': ''http://arxiv.org/abs/1005.4552''}'
   title: 'A Wiki for Mizar: Motivation, Considerations, and Initial Prototype'
   year: 2010
 DBLP:journals/corr/abs-1005-4592:
@@ -7516,7 +7753,11 @@ DBLP:journals/corr/abs-1005-4592:
   - AR
   - main
   link: http://arxiv.org/abs/1005.4592
-  source: arXiv CoRR abs/1005.4592 (2010).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1005-4592'', ''AU'': [''Urban, Josef'', ''Sutcliffe,
+    Geoff''], ''TI'': ''Automated Reasoning and Presentation Support for Formalizing
+    Mathematics in Mizar'', ''JO'': ''CoRR'', ''VL'': ''abs/1005.4592'', ''PY'': ''2010//'',
+    ''UR'': ''http://arxiv.org/abs/1005.4592''}'
   title: Automated Reasoning and Presentation Support for Formalizing Mathematics
     in Mizar
   year: 2010
@@ -7528,7 +7769,11 @@ DBLP:journals/corr/abs-1006-5896:
   - FM
   - main
   link: http://arxiv.org/abs/1006.5896
-  source: arXiv CoRR abs/1006.5896 (2010).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1006-5896', 'AU': ['Janota, Mikol\xE1s', 'Marques-Silva,\
+    \ Jo\xE3o', 'Grigore, Radu'], 'TI': 'Counterexample Guided Abstraction Refinement\
+    \ Algorithm for Propositional Circumscription', 'JO': 'CoRR', 'VL': 'abs/1006.5896',\
+    \ 'PY': '2010//', 'UR': 'http://arxiv.org/abs/1006.5896'}"
   title: Counterexample Guided Abstraction Refinement Algorithm for Propositional
     Circumscription
   year: 2010
@@ -7540,7 +7785,11 @@ DBLP:journals/corr/abs-1107-3209:
   - AR
   - main
   link: http://arxiv.org/abs/1107.3209
-  source: arXiv CoRR abs/1107.3209 (2011).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1107-3209'', ''AU'': [''Alama, Jesse'', ''Brink,
+    Kasper'', ''Mamane, Lionel'', ''Urban, Josef''], ''TI'': ''Large Formal Wikis:
+    Issues and Solutions'', ''JO'': ''CoRR'', ''VL'': ''abs/1107.3209'', ''PY'': ''2011//'',
+    ''UR'': ''http://arxiv.org/abs/1107.3209''}'
   title: 'Large Formal Wikis: Issues and Solutions'
   year: 2011
 DBLP:journals/corr/abs-1107-3212:
@@ -7552,7 +7801,11 @@ DBLP:journals/corr/abs-1107-3212:
   - AR
   - main
   link: http://arxiv.org/abs/1107.3212
-  source: arXiv CoRR abs/1107.3212 (2011).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1107-3212'', ''AU'': [''Alama, Jesse'', ''Kohlhase,
+    Michael'', ''Naumowicz, Adam'', ''Rudnicki, Piotr'', ''Urban, Josef'', ''Mamane,
+    Lionel''], ''TI'': ''Licensing the Mizar Mathematical Library'', ''JO'': ''CoRR'',
+    ''VL'': ''abs/1107.3212'', ''PY'': ''2011//'', ''UR'': ''http://arxiv.org/abs/1107.3212''}'
   title: Licensing the Mizar Mathematical Library
   year: 2011
 DBLP:journals/corr/abs-1108-3446:
@@ -7564,7 +7817,11 @@ DBLP:journals/corr/abs-1108-3446:
   - AR
   - main
   link: http://arxiv.org/abs/1108.3446
-  source: arXiv CoRR abs/1108.3446 (2011).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1108-3446', 'AU': ['Alama, Jesse', 'K\xFChlwein,\
+    \ Daniel', 'Tsivtsivadze, Evgeni', 'Urban, Josef', 'Heskes, Tom'], 'TI': 'Premise\
+    \ Selection for Mathematics by Corpus Analysis and Kernel Methods', 'JO': 'CoRR',\
+    \ 'VL': 'abs/1108.3446', 'PY': '2011//', 'UR': 'http://arxiv.org/abs/1108.3446'}"
   title: Premise Selection for Mathematics by Corpus Analysis and Kernel Methods
   year: 2011
 DBLP:journals/corr/abs-1109-0616:
@@ -7575,7 +7832,11 @@ DBLP:journals/corr/abs-1109-0616:
   - AR
   - main
   link: http://arxiv.org/abs/1109.0616
-  source: arXiv CoRR abs/1109.0616 (2011).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1109-0616'', ''AU'': [''Urban, Josef'', ''Rudnicki,
+    Piotr'', ''Sutcliffe, Geoff''], ''TI'': ''ATP and Presentation Service for Mizar
+    Formalizations'', ''JO'': ''CoRR'', ''VL'': ''abs/1109.0616'', ''PY'': ''2011//'',
+    ''UR'': ''http://arxiv.org/abs/1109.0616''}'
   title: ATP and Presentation Service for Mizar Formalizations
   year: 2011
 DBLP:journals/corr/abs-1109-3687:
@@ -7586,18 +7847,24 @@ DBLP:journals/corr/abs-1109-3687:
   - AR
   - main
   link: http://arxiv.org/abs/1109.3687
-  source: arXiv CoRR abs/1109.3687 (2011).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1109-3687'', ''AU'': [''Alama, Jesse'', ''Mamane,
+    Lionel'', ''Urban, Josef''], ''TI'': ''Dependencies in Formal Mathematics'', ''JO'':
+    ''CoRR'', ''VL'': ''abs/1109.3687'', ''PY'': ''2011//'', ''UR'': ''http://arxiv.org/abs/1109.3687''}'
   title: Dependencies in Formal Mathematics
   year: 2011
 DBLP:journals/corr/abs-1112-2313:
   arXiv: http://arxiv.org/abs/1112.2313
-  authors: "Huan Chen, Mikol\xE1s Janota, Jo\xE3o P. Marques Silva"
+  authors: "Huan Chen, Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
   dblp: journals/corr/abs-1112-2313
   groups:
   - FM
   - main
   link: http://arxiv.org/abs/1112.2313
-  source: arXiv CoRR abs/1112.2313 (2011).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1112-2313', 'AU': ['Chen, Huan', 'Janota, Mikol\xE1\
+    s', 'Marques-Silva, Jo\xE3o'], 'TI': 'QBF-Based Boolean Function Bi-Decomposition',\
+    \ 'JO': 'CoRR', 'VL': 'abs/1112.2313', 'PY': '2011//', 'UR': 'http://arxiv.org/abs/1112.2313'}"
   title: QBF-Based Boolean Function Bi-Decomposition
   year: 2011
 DBLP:journals/corr/abs-1204-5094:
@@ -7608,7 +7875,11 @@ DBLP:journals/corr/abs-1204-5094:
   - AR
   - main
   link: http://arxiv.org/abs/1204.5094
-  source: arXiv CoRR abs/1204.5094 (2012).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1204-5094'', ''AU'': [''Tankink, Carst'', ''Lange,
+    Christoph'', ''Urban, Josef''], ''TI'': ''Point-and-write --- Documenting Formal
+    Mathematics by Reference'', ''JO'': ''CoRR'', ''VL'': ''abs/1204.5094'', ''PY'':
+    ''2012//'', ''UR'': ''http://arxiv.org/abs/1204.5094''}'
   title: Point-and-write --- Documenting Formal Mathematics by Reference
   year: 2012
 DBLP:journals/corr/abs-1206-0141:
@@ -7619,7 +7890,10 @@ DBLP:journals/corr/abs-1206-0141:
   - AR
   - main
   link: http://arxiv.org/abs/1206.0141
-  source: arXiv CoRR abs/1206.0141 (2012).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1206-0141'', ''AU'': [''Urban, Josef''], ''TI'':
+    ''Parallelizing Mizar'', ''JO'': ''CoRR'', ''VL'': ''abs/1206.0141'', ''PY'':
+    ''2012//'', ''UR'': ''http://arxiv.org/abs/1206.0141''}'
   title: Parallelizing Mizar
   year: 2012
 DBLP:journals/corr/abs-1206-3460:
@@ -7630,7 +7904,11 @@ DBLP:journals/corr/abs-1206-3460:
   - ML
   - main
   link: http://arxiv.org/abs/1206.3460
-  source: arXiv CoRR abs/1206.3460 (2012).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1206-3460', 'AU': ['Simonetto, Andrea', 'Keviczky,\
+    \ Tam\xE1s', 'Babuska, Robert'], 'TI': 'Constrained Distributed Algebraic Connectivity\
+    \ Maximization in Robotic Networks', 'JO': 'CoRR', 'VL': 'abs/1206.3460', 'PY':\
+    \ '2012//', 'UR': 'http://arxiv.org/abs/1206.3460'}"
   title: Constrained Distributed Algebraic Connectivity Maximization in Robotic Networks
   year: 2012
 DBLP:journals/corr/abs-1209-3914:
@@ -7641,7 +7919,10 @@ DBLP:journals/corr/abs-1209-3914:
   - AR
   - main
   link: http://arxiv.org/abs/1209.3914
-  source: arXiv CoRR abs/1209.3914 (2012).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1209-3914', 'AU': ['Urban, Josef', 'Vyskocil,\
+    \ Jir\xED'], 'TI': 'Theorem Proving in Large Formal Mathematics as an Emerging\
+    \ AI Field', 'JO': 'CoRR', 'VL': 'abs/1209.3914', 'PY': '2012//', 'UR': 'http://arxiv.org/abs/1209.3914'}"
   title: Theorem Proving in Large Formal Mathematics as an Emerging AI Field
   year: 2012
 DBLP:journals/corr/abs-1211-5063:
@@ -7652,7 +7933,10 @@ DBLP:journals/corr/abs-1211-5063:
   - FAI
   - main
   link: http://arxiv.org/abs/1211.5063
-  source: arXiv CoRR abs/1211.5063 (2012).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1211-5063', 'AU': ['Pascanu, Razvan', 'Mikolov,\
+    \ Tom\xE1s', 'Bengio, Yoshua'], 'TI': 'Understanding the exploding gradient problem',\
+    \ 'JO': 'CoRR', 'VL': 'abs/1211.5063', 'PY': '2012//', 'UR': 'http://arxiv.org/abs/1211.5063'}"
   title: Understanding the exploding gradient problem
   year: 2012
 DBLP:journals/corr/abs-1211-7012:
@@ -7663,7 +7947,10 @@ DBLP:journals/corr/abs-1211-7012:
   - AR
   - main
   link: http://arxiv.org/abs/1211.7012
-  source: arXiv CoRR abs/1211.7012 (2012).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1211-7012'', ''AU'': [''Kaliszyk, Cezary'', ''Urban,
+    Josef''], ''TI'': ''Learning-assisted Automated Reasoning with Flyspeck'', ''JO'':
+    ''CoRR'', ''VL'': ''abs/1211.7012'', ''PY'': ''2012//'', ''UR'': ''http://arxiv.org/abs/1211.7012''}'
   title: Learning-assisted Automated Reasoning with Flyspeck
   year: 2012
 DBLP:journals/corr/abs-1212-5524:
@@ -7674,7 +7961,11 @@ DBLP:journals/corr/abs-1212-5524:
   - ML
   - main
   link: http://arxiv.org/abs/1212.5524
-  source: arXiv CoRR abs/1212.5524 (2012).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1212-5524'', ''AU'': [''Sprangers, Olivier'',
+    ''Lopes, Gabriel A. D.'', ''Babuska, Robert''], ''TI'': ''Energy-balancing passivity-based
+    control through reinforcement learning'', ''JO'': ''CoRR'', ''VL'': ''abs/1212.5524'',
+    ''PY'': ''2012//'', ''UR'': ''http://arxiv.org/abs/1212.5524''}'
   title: Energy-balancing passivity-based control through reinforcement learning
   year: 2012
 DBLP:journals/corr/abs-1212-5525:
@@ -7686,7 +7977,12 @@ DBLP:journals/corr/abs-1212-5525:
   - ML
   - main
   link: http://arxiv.org/abs/1212.5525
-  source: arXiv CoRR abs/1212.5525 (2012).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1212-5525'', ''AU'': [''Lopes, Gabriel Alexandre
+    Delgado'', ''Kersbergen, Bart'', ''Schutter, Bart De'', ''Boom, Ton J. J. van
+    den'', ''Babuska, Robert''], ''TI'': ''Synchronization of a class of cyclic discrete-event
+    systems describing legged locomotion'', ''JO'': ''CoRR'', ''VL'': ''abs/1212.5525'',
+    ''PY'': ''2012//'', ''UR'': ''http://arxiv.org/abs/1212.5525''}'
   title: Synchronization of a class of cyclic discrete-event systems describing legged
     locomotion
   year: 2012
@@ -7698,7 +7994,10 @@ DBLP:journals/corr/abs-1301-2683:
   - AR
   - main
   link: http://arxiv.org/abs/1301.2683
-  source: arXiv CoRR abs/1301.2683 (2013).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1301-2683'', ''AU'': [''Urban, Josef''], ''TI'':
+    ''BliStr: The Blind Strategymaker'', ''JO'': ''CoRR'', ''VL'': ''abs/1301.2683'',
+    ''PY'': ''2013//'', ''UR'': ''http://arxiv.org/abs/1301.2683''}'
   title: 'BliStr: The Blind Strategymaker'
   year: 2013
 DBLP:journals/corr/abs-1301-3781:
@@ -7721,7 +8020,10 @@ DBLP:journals/corr/abs-1304-0897:
   - AR
   - main
   link: http://arxiv.org/abs/1304.0897
-  source: arXiv CoRR abs/1304.0897 (2013).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1304-0897'', ''AU'': [''Suda, Martin''], ''TI'':
+    ''Duality in STRIPS planning'', ''JO'': ''CoRR'', ''VL'': ''abs/1304.0897'', ''PY'':
+    ''2013//'', ''UR'': ''http://arxiv.org/abs/1304.0897''}'
   title: Duality in STRIPS planning
   year: 2013
 DBLP:journals/corr/abs-1305-5710:
@@ -7732,7 +8034,11 @@ DBLP:journals/corr/abs-1305-5710:
   - AR
   - main
   link: http://arxiv.org/abs/1305.5710
-  source: arXiv CoRR abs/1305.5710 (2013).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1305-5710'', ''AU'': [''Tankink, Carst'', ''Kaliszyk,
+    Cezary'', ''Urban, Josef'', ''Geuvers, Herman''], ''TI'': ''Formal Mathematics
+    on Display: A Wiki for Flyspeck'', ''JO'': ''CoRR'', ''VL'': ''abs/1305.5710'',
+    ''PY'': ''2013//'', ''UR'': ''http://arxiv.org/abs/1305.5710''}'
   title: 'Formal Mathematics on Display: A Wiki for Flyspeck'
   year: 2013
 DBLP:journals/corr/abs-1708-01745:
@@ -7743,7 +8049,10 @@ DBLP:journals/corr/abs-1708-01745:
   - FM
   - main
   link: http://arxiv.org/abs/1708.01745
-  source: arXiv CoRR abs/1708.01745 (2017).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1708-01745'', ''AU'': [''Janota, Mikolas'', ''Grigore,
+    Radu'', ''Manquinho, Vasco M.''], ''TI'': ''On the Quest for an Acyclic Graph.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/1708.01745'', ''PY'': ''2017//'', ''UR'': ''http://arxiv.org/abs/1708.01745''}'
   title: On the Quest for an Acyclic Graph.
   year: 2017
 DBLP:journals/corr/abs-1710-02198:
@@ -7754,7 +8063,10 @@ DBLP:journals/corr/abs-1710-02198:
   - FM
   - main
   link: http://arxiv.org/abs/1710.02198
-  source: arXiv CoRR abs/1710.02198 (2017).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1710-02198', 'AU': ['Janota, Mikol\xE1s'], 'TI':\
+    \ 'QFUN: Towards Machine Learning in QBF.', 'JO': 'CoRR', 'VL': 'abs/1710.02198',\
+    \ 'PY': '2017//', 'UR': 'http://arxiv.org/abs/1710.02198'}"
   title: 'QFUN: Towards Machine Learning in QBF.'
   year: 2017
 DBLP:journals/corr/abs-1710-10881:
@@ -7766,7 +8078,11 @@ DBLP:journals/corr/abs-1710-10881:
   - FAI
   - main
   link: http://arxiv.org/abs/1710.10881
-  source: arXiv CoRR abs/1710.10881 (2017).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1710-10881', 'AU': ['Joulin, Armand', 'Grave,\
+    \ Edouard', 'Bojanowski, Piotr', 'Nickel, Maximilian', 'Mikolov, Tom\xE1s'], 'TI':\
+    \ 'Fast Linear Model for Knowledge Graph Embeddings.', 'JO': 'CoRR', 'VL': 'abs/1710.10881',\
+    \ 'PY': '2017//', 'UR': 'http://arxiv.org/abs/1710.10881'}"
   title: Fast Linear Model for Knowledge Graph Embeddings.
   year: 2017
 DBLP:journals/corr/abs-1711-02503:
@@ -7777,7 +8093,10 @@ DBLP:journals/corr/abs-1711-02503:
   - AR
   - main
   link: http://arxiv.org/abs/1711.02503
-  source: arXiv CoRR abs/1711.02503 (2017).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1711-02503', 'AU': ['Gleiss, Bernhard', 'Kov\xE1\
+    cs, Laura', 'Suda, Martin'], 'TI': 'Splitting Proofs for Interpolation.', 'JO':\
+    \ 'CoRR', 'VL': 'abs/1711.02503', 'PY': '2017//', 'UR': 'http://arxiv.org/abs/1711.02503'}"
   title: Splitting Proofs for Interpolation.
   year: 2017
 DBLP:journals/corr/abs-1712-09405:
@@ -7789,7 +8108,11 @@ DBLP:journals/corr/abs-1712-09405:
   - FAI
   - main
   link: http://arxiv.org/abs/1712.09405
-  source: arXiv CoRR abs/1712.09405 (2017).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1712-09405', 'AU': ['Mikolov, Tom\xE1s', 'Grave,\
+    \ Edouard', 'Bojanowski, Piotr', 'Puhrsch, Christian', 'Joulin, Armand'], 'TI':\
+    \ 'Advances in Pre-Training Distributed Word Representations.', 'JO': 'CoRR',\
+    \ 'VL': 'abs/1712.09405', 'PY': '2017//', 'UR': 'http://arxiv.org/abs/1712.09405'}"
   title: Advances in Pre-Training Distributed Word Representations.
   year: 2017
 DBLP:journals/corr/abs-1802-02892:
@@ -7800,7 +8123,11 @@ DBLP:journals/corr/abs-1802-02892:
   - FAI
   - main
   link: http://arxiv.org/abs/1802.02892
-  source: arXiv CoRR abs/1802.02892 (2018).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1802-02892', 'AU': ['Kiela, Douwe', 'Grave, Edouard',\
+    \ 'Joulin, Armand', 'Mikolov, Tom\xE1s'], 'TI': 'Efficient Large-Scale Multi-Modal\
+    \ Classification.', 'JO': 'CoRR', 'VL': 'abs/1802.02892', 'PY': '2018//', 'UR':\
+    \ 'http://arxiv.org/abs/1802.02892'}"
   title: Efficient Large-Scale Multi-Modal Classification.
   year: 2018
 DBLP:journals/corr/abs-1802-03375:
@@ -7812,7 +8139,11 @@ DBLP:journals/corr/abs-1802-03375:
   - FM
   - main
   link: http://arxiv.org/abs/1802.03375
-  source: arXiv CoRR abs/1802.03375 (2018).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1802-03375'', ''AU'': [''Piotrowski, Bartosz'',
+    ''Urban, Josef''], ''TI'': ''ATPboost: Learning Premise Selection in Binary Setting
+    with ATP Feedback.'', ''JO'': ''CoRR'', ''VL'': ''abs/1802.03375'', ''PY'': ''2018//'',
+    ''UR'': ''http://arxiv.org/abs/1802.03375''}'
   title: 'ATPboost: Learning Premise Selection in Binary Setting with ATP Feedback.'
   year: 2018
 DBLP:journals/corr/abs-1802-04007:
@@ -7824,7 +8155,11 @@ DBLP:journals/corr/abs-1802-04007:
   - FM
   - main
   link: http://arxiv.org/abs/1802.04007
-  source: arXiv CoRR abs/1802.04007 (2018).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1802-04007'', ''AU'': [''Goertzel, Zarathustra
+    Amadeus'', ''Jakubuv, Jan'', ''Schulz, Stephan'', ''Urban, Josef''], ''TI'': ''ProofWatch:
+    Watchlist Guidance for Large Theories in E.'', ''JO'': ''CoRR'', ''VL'': ''abs/1802.04007'',
+    ''PY'': ''2018//'', ''UR'': ''http://arxiv.org/abs/1802.04007''}'
   title: 'ProofWatch: Watchlist Guidance for Large Theories in E.'
   year: 2018
 DBLP:journals/corr/abs-1802-06893:
@@ -7836,7 +8171,11 @@ DBLP:journals/corr/abs-1802-06893:
   - FAI
   - main
   link: http://arxiv.org/abs/1802.06893
-  source: arXiv CoRR abs/1802.06893 (2018).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1802-06893', 'AU': ['Grave, Edouard', 'Bojanowski,\
+    \ Piotr', 'Gupta, Prakhar', 'Joulin, Armand', 'Mikolov, Tom\xE1s'], 'TI': 'Learning\
+    \ Word Vectors for 157 Languages.', 'JO': 'CoRR', 'VL': 'abs/1802.06893', 'PY':\
+    \ '2018//', 'UR': 'http://arxiv.org/abs/1802.06893'}"
   title: Learning Word Vectors for 157 Languages.
   year: 2018
 DBLP:journals/corr/abs-1804-00595:
@@ -7847,7 +8186,11 @@ DBLP:journals/corr/abs-1804-00595:
   - AR
   - main
   link: http://arxiv.org/abs/1804.00595
-  source: arXiv CoRR abs/1804.00595 (2018).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1804-00595'', ''AU'': [''Gauthier, Thibault'',
+    ''Kaliszyk, Cezary'', ''Urban, Josef''], ''TI'': ''Learning to Reason with HOL4
+    tactics.'', ''JO'': ''CoRR'', ''VL'': ''abs/1804.00595'', ''PY'': ''2018//'',
+    ''UR'': ''http://arxiv.org/abs/1804.00595''}'
   title: Learning to Reason with HOL4 tactics.
   year: 2018
 DBLP:journals/corr/abs-1804-00596:
@@ -7859,7 +8202,11 @@ DBLP:journals/corr/abs-1804-00596:
   - AR
   - main
   link: http://arxiv.org/abs/1804.00596
-  source: arXiv CoRR abs/1804.00596 (2018).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1804-00596'', ''AU'': [''Gauthier, Thibault'',
+    ''Kaliszyk, Cezary'', ''Urban, Josef'', ''Kumar, Ramana'', ''Norrish, Michael''],
+    ''TI'': ''Learning to Prove with Tactics.'', ''JO'': ''CoRR'', ''VL'': ''abs/1804.00596'',
+    ''PY'': ''2018//'', ''UR'': ''http://arxiv.org/abs/1804.00596''}'
   title: Learning to Prove with Tactics.
   year: 2018
 DBLP:journals/corr/abs-1804-07745:
@@ -7870,7 +8217,11 @@ DBLP:journals/corr/abs-1804-07745:
   - FAI
   - main
   link: http://arxiv.org/abs/1804.07745
-  source: arXiv CoRR abs/1804.07745 (2018).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1804-07745', 'AU': ['Joulin, Armand', 'Bojanowski,\
+    \ Piotr', 'Mikolov, Tom\xE1s', 'Grave, Edouard'], 'TI': 'Improving Supervised\
+    \ Bilingual Mapping of Word Embeddings.', 'JO': 'CoRR', 'VL': 'abs/1804.07745',\
+    \ 'PY': '2018//', 'UR': 'http://arxiv.org/abs/1804.07745'}"
   title: Improving Supervised Bilingual Mapping of Word Embeddings.
   year: 2018
 DBLP:journals/corr/abs-1805-03107:
@@ -7881,7 +8232,11 @@ DBLP:journals/corr/abs-1805-03107:
   - AR
   - main
   link: http://arxiv.org/abs/1805.03107
-  source: arXiv CoRR abs/1805.03107 (2018).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1805-03107', 'AU': ['F\xE4rber, Michael', 'Kaliszyk,\
+    \ Cezary', 'Urban, Josef'], 'TI': 'Machine Learning Guidance and Proof Certification\
+    \ for Connection Tableaux.', 'JO': 'CoRR', 'VL': 'abs/1805.03107', 'PY': '2018//',\
+    \ 'UR': 'http://arxiv.org/abs/1805.03107'}"
   title: Machine Learning Guidance and Proof Certification for Connection Tableaux.
   year: 2018
 DBLP:journals/corr/abs-1805-06502:
@@ -7892,7 +8247,11 @@ DBLP:journals/corr/abs-1805-06502:
   - AR
   - main
   link: http://arxiv.org/abs/1805.06502
-  source: arXiv CoRR abs/1805.06502 (2018).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1805-06502'', ''AU'': [''Wang, Qingxiang'', ''Kaliszyk,
+    Cezary'', ''Urban, Josef''], ''TI'': ''First Experiments with Neural Translation
+    of Informal to Formal Mathematics.'', ''JO'': ''CoRR'', ''VL'': ''abs/1805.06502'',
+    ''PY'': ''2018//'', ''UR'': ''http://arxiv.org/abs/1805.06502''}'
   title: First Experiments with Neural Translation of Informal to Formal Mathematics.
   year: 2018
 DBLP:journals/corr/abs-1805-07563:
@@ -7903,7 +8262,11 @@ DBLP:journals/corr/abs-1805-07563:
   - AR
   - main
   link: http://arxiv.org/abs/1805.07563
-  source: arXiv CoRR abs/1805.07563 (2018).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1805-07563', 'AU': ['Kaliszyk, Cezary', 'Urban,\
+    \ Josef', 'Michalewski, Henryk', 'Ols\xE1k, Mirek'], 'TI': 'Reinforcement Learning\
+    \ of Theorem Proving.', 'JO': 'CoRR', 'VL': 'abs/1805.07563', 'PY': '2018//',\
+    \ 'UR': 'http://arxiv.org/abs/1805.07563'}"
   title: Reinforcement Learning of Theorem Proving.
   year: 2018
 DBLP:journals/corr/abs-1806-04774:
@@ -7914,7 +8277,10 @@ DBLP:journals/corr/abs-1806-04774:
   - AR
   - main
   link: http://arxiv.org/abs/1806.04774
-  source: arXiv CoRR abs/1806.04774 (2018).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1806-04774'', ''AU'': [''Nagashima, Yutaka'',
+    ''Parsert, Julian''], ''TI'': ''Goal-Oriented Conjecturing for Isabelle/HOL.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/1806.04774'', ''PY'': ''2018//'', ''UR'': ''http://arxiv.org/abs/1806.04774''}'
   title: Goal-Oriented Conjecturing for Isabelle/HOL.
   year: 2018
 DBLP:journals/corr/abs-1806-07239:
@@ -7925,7 +8291,10 @@ DBLP:journals/corr/abs-1806-07239:
   - AR
   - main
   link: http://arxiv.org/abs/1806.07239
-  source: arXiv CoRR abs/1806.07239 (2018).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1806-07239'', ''AU'': [''Nagashima, Yutaka'',
+    ''He, Yilun''], ''TI'': ''PaMpeR: Proof Method Recommendation System for Isabelle/HOL.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/1806.07239'', ''PY'': ''2018//'', ''UR'': ''http://arxiv.org/abs/1806.07239''}'
   title: 'PaMpeR: Proof Method Recommendation System for Isabelle/HOL.'
   year: 2018
 DBLP:journals/corr/abs-1812-04088:
@@ -7936,7 +8305,10 @@ DBLP:journals/corr/abs-1812-04088:
   - AR
   - main
   link: http://arxiv.org/abs/1812.04088
-  source: arXiv CoRR abs/1812.04088 (2018).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1812-04088'', ''AU'': [''Nagashima, Yutaka''],
+    ''TI'': ''Towards Machine Learning Mathematical Induction.'', ''JO'': ''CoRR'',
+    ''VL'': ''abs/1812.04088'', ''PY'': ''2018//'', ''UR'': ''http://arxiv.org/abs/1812.04088''}'
   title: Towards Machine Learning Mathematical Induction.
   year: 2018
 DBLP:journals/corr/abs-1812-10860:
@@ -7949,7 +8321,14 @@ DBLP:journals/corr/abs-1812-10860:
   - FM
   - main
   link: http://arxiv.org/abs/1812.10860
-  source: arXiv CoRR abs/1812.10860 (2018).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1812-10860'', ''AU'': [''Bowman, Samuel R.'',
+    ''Pavlick, Ellie'', ''Grave, Edouard'', ''Durme, Benjamin Van'', ''Wang, Alex'',
+    ''Hula, Jan'', ''Xia, Patrick'', ''Pappagari, Raghavendra'', ''McCoy, R. Thomas'',
+    ''Patel, Roma'', ''Kim, Najoung'', ''Tenney, Ian'', ''Huang, Yinghui'', ''Yu,
+    Katherin'', ''Jin, Shuning'', ''Chen, Berlin''], ''TI'': "Looking for ELMo''s
+    friends: Sentence-Level Pretraining Beyond Language Modeling.", ''JO'': ''CoRR'',
+    ''VL'': ''abs/1812.10860'', ''PY'': ''2018//'', ''UR'': ''http://arxiv.org/abs/1812.10860''}'
   title: 'Looking for ELMo''s friends: Sentence-Level Pretraining Beyond Language
     Modeling.'
   year: 2018
@@ -7961,7 +8340,11 @@ DBLP:journals/corr/abs-1901-00428:
   - FM
   - main
   link: http://arxiv.org/abs/1901.00428
-  source: arXiv CoRR abs/1901.00428 (2019).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1901-00428', 'AU': ['Cooksey, Simon', 'Harris,\
+    \ Sarah', 'Batty, Mark', 'Grigore, Radu', 'Janota, Mikol\xE1s'], 'TI': 'PrideMM:\
+    \ A Solver for Relaxed Memory Models.', 'JO': 'CoRR', 'VL': 'abs/1901.00428',\
+    \ 'PY': '2019//', 'UR': 'http://arxiv.org/abs/1901.00428'}"
   title: 'PrideMM: A Solver for Relaxed Memory Models.'
   year: 2019
 DBLP:journals/corr/abs-1901-08335:
@@ -7973,7 +8356,12 @@ DBLP:journals/corr/abs-1901-08335:
   - ML
   - main
   link: http://arxiv.org/abs/1901.08335
-  source: arXiv CoRR abs/1901.08335 (2019).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1901-08335', 'AU': ['Skoviera, Radoslav', 'St\xE9\
+    p\xE1nov\xE1, Karla', 'Tesar, Michael', 'Sejnova, Gabriela', 'Sedl\xE1r, Jir\xED\
+    ', 'Vavrecka, Michal', 'Babuska, Robert', 'Sivic, Josef'], 'TI': 'Teaching robots\
+    \ to imitate a human with no on-teacher sensors. What are the key challenges?',\
+    \ 'JO': 'CoRR', 'VL': 'abs/1901.08335', 'PY': '2019//', 'UR': 'http://arxiv.org/abs/1901.08335'}"
   title: Teaching robots to imitate a human with no on-teacher sensors. What are the
     key challenges?
   year: 2019
@@ -7987,7 +8375,11 @@ DBLP:journals/corr/abs-1903-02539:
   - FM
   - main
   link: http://arxiv.org/abs/1903.02539
-  source: arXiv CoRR abs/1903.02539 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1903-02539'', ''AU'': [''Brown, Chad E.'', ''Gauthier,
+    Thibault'', ''Kaliszyk, Cezary'', ''Sutcliffe, Geoff'', ''Urban, Josef''], ''TI'':
+    ''GRUNGE: A Grand Unified ATP Challenge.'', ''JO'': ''CoRR'', ''VL'': ''abs/1903.02539'',
+    ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1903.02539''}'
   title: 'GRUNGE: A Grand Unified ATP Challenge.'
   year: 2019
 DBLP:journals/corr/abs-1903-03182:
@@ -7999,7 +8391,11 @@ DBLP:journals/corr/abs-1903-03182:
   - FM
   - main
   link: http://arxiv.org/abs/1903.03182
-  source: arXiv CoRR abs/1903.03182 (2019).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1903-03182', 'AU': ['Chvalovsk\xFD, Karel', 'Jakubuv,\
+    \ Jan', 'Suda, Martin', 'Urban, Josef'], 'TI': 'ENIGMA-NG: Efficient Neural and\
+    \ Gradient-Boosted Inference Guidance for E.', 'JO': 'CoRR', 'VL': 'abs/1903.03182',\
+    \ 'PY': '2019//', 'UR': 'http://arxiv.org/abs/1903.03182'}"
   title: 'ENIGMA-NG: Efficient Neural and Gradient-Boosted Inference Guidance for
     E.'
   year: 2019
@@ -8011,7 +8407,11 @@ DBLP:journals/corr/abs-1903-09688:
   - ML
   - main
   link: http://arxiv.org/abs/1903.09688
-  source: arXiv CoRR abs/1903.09688 (2019).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1903-09688', 'AU': ['Kubal\xEDk, Jir\xED', 'Zegklitz,\
+    \ Jan', 'Derner, Erik', 'Babuska, Robert'], 'TI': 'Symbolic Regression Methods\
+    \ for Reinforcement Learning.', 'JO': 'CoRR', 'VL': 'abs/1903.09688', 'PY': '2019//',\
+    \ 'UR': 'http://arxiv.org/abs/1903.09688'}"
   title: Symbolic Regression Methods for Reinforcement Learning.
   year: 2019
 DBLP:journals/corr/abs-1903-11483:
@@ -8022,7 +8422,11 @@ DBLP:journals/corr/abs-1903-11483:
   - ML
   - main
   link: http://arxiv.org/abs/1903.11483
-  source: arXiv CoRR abs/1903.11483 (2019).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1903-11483', 'AU': ['Derner, Erik', 'Kubal\xED\
+    k, Jir\xED', 'Ancona, Nicola', 'Babuska, Robert'], 'TI': 'Symbolic Regression\
+    \ for Constructing Analytic Models in Reinforcement Learning.', 'JO': 'CoRR',\
+    \ 'VL': 'abs/1903.11483', 'PY': '2019//', 'UR': 'http://arxiv.org/abs/1903.11483'}"
   title: Symbolic Regression for Constructing Analytic Models in Reinforcement Learning.
   year: 2019
 DBLP:journals/corr/abs-1904-01677:
@@ -8034,7 +8438,10 @@ DBLP:journals/corr/abs-1904-01677:
   - FM
   - main
   link: http://arxiv.org/abs/1904.01677
-  source: arXiv CoRR abs/1904.01677 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1904-01677'', ''AU'': [''Jakubuv, Jan'', ''Urban,
+    Josef''], ''TI'': ''Hammering Mizar by Learning Clause Guidance.'', ''JO'': ''CoRR'',
+    ''VL'': ''abs/1904.01677'', ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1904.01677''}'
   title: Hammering Mizar by Learning Clause Guidance.
   year: 2019
 DBLP:journals/corr/abs-1904-08468:
@@ -8045,7 +8452,10 @@ DBLP:journals/corr/abs-1904-08468:
   - AR
   - main
   link: http://arxiv.org/abs/1904.08468
-  source: arXiv CoRR abs/1904.08468 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1904-08468'', ''AU'': [''Nagashima, Yutaka''],
+    ''TI'': ''Towards Evolutionary Theorem Proving for Isabelle/HOL.'', ''JO'': ''CoRR'',
+    ''VL'': ''abs/1904.08468'', ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1904.08468''}'
   title: Towards Evolutionary Theorem Proving for Isabelle/HOL.
   year: 2019
 DBLP:journals/corr/abs-1904-08689:
@@ -8058,7 +8468,13 @@ DBLP:journals/corr/abs-1904-08689:
   - ML
   - main
   link: http://arxiv.org/abs/1904.08689
-  source: arXiv CoRR abs/1904.08689 (2019).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1904-08689', 'AU': ['J\xF3nsson, Bj\xF6rn \xDE\
+    \xF3r', 'Khan, Omar Shahbaz', 'Ragnarsd\xF3ttir, Hanna', '\xDEorleiksd\xF3ttir,\
+    \ \xDE\xF3rhildur', 'Zah\xE1lka, Jan', 'Rudinac, Stevan', 'Gu\xF0mundsson, Gylfi\
+    \ \xDE\xF3r', 'Amsaleg, Laurent', 'Worring, Marcel'], 'TI': 'Exquisitor: Interactive\
+    \ Learning at Large.', 'JO': 'CoRR', 'VL': 'abs/1904.08689', 'PY': '2019//', 'UR':\
+    \ 'http://arxiv.org/abs/1904.08689'}"
   title: 'Exquisitor: Interactive Learning at Large.'
   year: 2019
 DBLP:journals/corr/abs-1904-09193:
@@ -8069,7 +8485,10 @@ DBLP:journals/corr/abs-1904-09193:
   - FM
   - main
   link: http://arxiv.org/abs/1904.09193
-  source: arXiv CoRR abs/1904.09193 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1904-09193'', ''AU'': [''Pradic, Pierre'', ''Brown,
+    Chad E.''], ''TI'': ''Cantor-Bernstein implies Excluded Middle.'', ''JO'': ''CoRR'',
+    ''VL'': ''abs/1904.09193'', ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1904.09193''}'
   title: Cantor-Bernstein implies Excluded Middle.
   year: 2019
 DBLP:journals/corr/abs-1905-06782:
@@ -8080,7 +8499,11 @@ DBLP:journals/corr/abs-1905-06782:
   - FM
   - main
   link: http://arxiv.org/abs/1905.06782
-  source: arXiv CoRR abs/1905.06782 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1905-06782'', ''AU'': [''Long, Waren'', ''Markovtsev,
+    Vadim'', ''Mougard, Hugo'', ''Bulychev, Egor'', ''Hula, Jan''], ''TI'': ''Identifying
+    collaborators in large codebases.'', ''JO'': ''CoRR'', ''VL'': ''abs/1905.06782'',
+    ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1905.06782''}'
   title: Identifying collaborators in large codebases.
   year: 2019
 DBLP:journals/corr/abs-1905-07961:
@@ -8092,7 +8515,10 @@ DBLP:journals/corr/abs-1905-07961:
   - FM
   - main
   link: http://arxiv.org/abs/1905.07961
-  source: arXiv CoRR abs/1905.07961 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1905-07961'', ''AU'': [''Piotrowski, Bartosz'',
+    ''Urban, Josef''], ''TI'': ''Guiding Theorem Proving by Recurrent Neural Networks.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/1905.07961'', ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1905.07961''}'
   title: Guiding Theorem Proving by Recurrent Neural Networks.
   year: 2019
 DBLP:journals/corr/abs-1905-09565:
@@ -8104,7 +8530,11 @@ DBLP:journals/corr/abs-1905-09565:
   - FM
   - main
   link: http://arxiv.org/abs/1905.09565
-  source: arXiv CoRR abs/1905.09565 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1905-09565'', ''AU'': [''Goertzel, Zarathustra
+    Amadeus'', ''Jakubuv, Jan'', ''Urban, Josef''], ''TI'': ''ENIGMAWatch: ProofWatch
+    Meets ENIGMA.'', ''JO'': ''CoRR'', ''VL'': ''abs/1905.09565'', ''PY'': ''2019//'',
+    ''UR'': ''http://arxiv.org/abs/1905.09565''}'
   title: 'ENIGMAWatch: ProofWatch Meets ENIGMA.'
   year: 2019
 DBLP:journals/corr/abs-1905-13100:
@@ -8116,7 +8546,11 @@ DBLP:journals/corr/abs-1905-13100:
   - AR
   - main
   link: http://arxiv.org/abs/1905.13100
-  source: arXiv CoRR abs/1905.13100 (2019).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1905-13100', 'AU': ['Zombori, Zsolt', 'Csisz\xE1\
+    rik, Adri\xE1n', 'Michalewski, Henryk', 'Kaliszyk, Cezary', 'Urban, Josef'], 'TI':\
+    \ 'Towards Finding Longer Proofs.', 'JO': 'CoRR', 'VL': 'abs/1905.13100', 'PY':\
+    \ '2019//', 'UR': 'http://arxiv.org/abs/1905.13100'}"
   title: Towards Finding Longer Proofs.
   year: 2019
 DBLP:journals/corr/abs-1906-08084:
@@ -8127,7 +8561,10 @@ DBLP:journals/corr/abs-1906-08084:
   - AR
   - main
   link: http://arxiv.org/abs/1906.08084
-  source: arXiv CoRR abs/1906.08084 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1906-08084'', ''AU'': [''Nagashima, Yutaka''],
+    ''TI'': ''LiFtEr: Language to Encode Induction Heuristics for Isabelle/HOL.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/1906.08084'', ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1906.08084''}'
   title: 'LiFtEr: Language to Encode Induction Heuristics for Isabelle/HOL.'
   year: 2019
 DBLP:journals/corr/abs-1906-08549:
@@ -8138,7 +8575,10 @@ DBLP:journals/corr/abs-1906-08549:
   - AR
   - main
   link: http://arxiv.org/abs/1906.08549
-  source: arXiv CoRR abs/1906.08549 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1906-08549'', ''AU'': [''Nagashima, Yutaka''],
+    ''TI'': ''Designing Game of Theorems.'', ''JO'': ''CoRR'', ''VL'': ''abs/1906.08549'',
+    ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1906.08549''}'
   title: Designing Game of Theorems.
   year: 2019
 DBLP:journals/corr/abs-1907-02594:
@@ -8149,7 +8589,10 @@ DBLP:journals/corr/abs-1907-02594:
   - AR
   - main
   link: http://arxiv.org/abs/1907.02594
-  source: arXiv CoRR abs/1907.02594 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1907-02594'', ''AU'': [''Nagashima, Yutaka''],
+    ''TI'': ''Domain-Specific Language to Encode Induction Heuristics.'', ''JO'':
+    ''CoRR'', ''VL'': ''abs/1907.02594'', ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1907.02594''}'
   title: Domain-Specific Language to Encode Induction Heuristics.
   year: 2019
 DBLP:journals/corr/abs-1907-08368:
@@ -8160,7 +8603,10 @@ DBLP:journals/corr/abs-1907-08368:
   - FM
   - main
   link: http://arxiv.org/abs/1907.08368
-  source: arXiv CoRR abs/1907.08368 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1907-08368'', ''AU'': [''Brown, Chad E.'', ''Pak,
+    Karol''], ''TI'': ''A Tale of Two Set Theories.'', ''JO'': ''CoRR'', ''VL'': ''abs/1907.08368'',
+    ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1907.08368''}'
   title: A Tale of Two Set Theories.
   year: 2019
 DBLP:journals/corr/abs-1908-03627:
@@ -8171,7 +8617,11 @@ DBLP:journals/corr/abs-1908-03627:
   - ML
   - main
   link: http://arxiv.org/abs/1908.03627
-  source: arXiv CoRR abs/1908.03627 (2019).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1908-03627', 'AU': ['Kulh\xE1nek, Jon\xE1s', 'Derner,\
+    \ Erik', 'Bruin, Tim de', 'Babuska, Robert'], 'TI': 'Vision-based Navigation Using\
+    \ Deep Reinforcement Learning.', 'JO': 'CoRR', 'VL': 'abs/1908.03627', 'PY': '2019//',\
+    \ 'UR': 'http://arxiv.org/abs/1908.03627'}"
   title: Vision-based Navigation Using Deep Reinforcement Learning.
   year: 2019
 DBLP:journals/corr/abs-1910-04861:
@@ -8182,7 +8632,10 @@ DBLP:journals/corr/abs-1910-04861:
   - FAI
   - main
   link: http://arxiv.org/abs/1910.04861
-  source: arXiv CoRR abs/1910.04861 (2019).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1910-04861', 'AU': ['Yang, Carl', 'Hoang, Do Huy',\
+    \ 'Mikolov, Tom\xE1s', 'Han, Jiawei'], 'TI': 'Place Deduplication with Embeddings.',\
+    \ 'JO': 'CoRR', 'VL': 'abs/1910.04861', 'PY': '2019//', 'UR': 'http://arxiv.org/abs/1910.04861'}"
   title: Place Deduplication with Embeddings.
   year: 2019
 DBLP:journals/corr/abs-1910-06241:
@@ -8194,7 +8647,11 @@ DBLP:journals/corr/abs-1910-06241:
   - FAI
   - main
   link: http://arxiv.org/abs/1910.06241
-  source: arXiv CoRR abs/1910.06241 (2019).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1910-06241', 'AU': ['Bojanowski, Piotr', 'Celebi,\
+    \ Onur', 'Mikolov, Tom\xE1s', 'Grave, Edouard', 'Joulin, Armand'], 'TI': 'Updating\
+    \ Pre-trained Word Vectors and Text Classifiers using Monolingual Alignment.',\
+    \ 'JO': 'CoRR', 'VL': 'abs/1910.06241', 'PY': '2019//', 'UR': 'http://arxiv.org/abs/1910.06241'}"
   title: Updating Pre-trained Word Vectors and Text Classifiers using Monolingual
     Alignment.
   year: 2019
@@ -8207,7 +8664,12 @@ DBLP:journals/corr/abs-1910-07501:
   - ML
   - main
   link: http://arxiv.org/abs/1910.07501
-  source: arXiv CoRR abs/1910.07501 (2019).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1910-07501', 'AU': ['Benedikt, Ondrej', 'Alikoc,\
+    \ Baran', 'Sucha, Premysl', 'Celikovsk\xFD, Sergej', 'Hanz\xE1lek, Zdenek'], 'TI':\
+    \ 'A scheduling and control approach for an industrial furnace to minimize idle\
+    \ energy consumption.', 'JO': 'CoRR', 'VL': 'abs/1910.07501', 'PY': '2019//',\
+    \ 'UR': 'http://arxiv.org/abs/1910.07501'}"
   title: A scheduling and control approach for an industrial furnace to minimize idle
     energy consumption.
   year: 2019
@@ -8219,7 +8681,10 @@ DBLP:journals/corr/abs-1910-11797:
   - AR
   - main
   link: http://arxiv.org/abs/1910.11797
-  source: arXiv CoRR abs/1910.11797 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1910-11797'', ''AU'': [''Gauthier, Thibault''],
+    ''TI'': ''Deep Reinforcement Learning in HOL4.'', ''JO'': ''CoRR'', ''VL'': ''abs/1910.11797'',
+    ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1910.11797''}'
   title: Deep Reinforcement Learning in HOL4.
   year: 2019
 DBLP:journals/corr/abs-1911-01086:
@@ -8230,7 +8695,10 @@ DBLP:journals/corr/abs-1911-01086:
   - FAI
   - main
   link: http://arxiv.org/abs/1911.01086
-  source: arXiv CoRR abs/1911.01086 (2019).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1911-01086', 'AU': ['Cisneros, Hugo', 'Sivic,\
+    \ Josef', 'Mikolov, Tom\xE1s'], 'TI': 'Evolving Structures in Complex Systems.',\
+    \ 'JO': 'CoRR', 'VL': 'abs/1911.01086', 'PY': '2019//', 'UR': 'http://arxiv.org/abs/1911.01086'}"
   title: Evolving Structures in Complex Systems.
   year: 2019
 DBLP:journals/corr/abs-1911-04873:
@@ -8242,7 +8710,11 @@ DBLP:journals/corr/abs-1911-04873:
   - FM
   - main
   link: http://arxiv.org/abs/1911.04873
-  source: arXiv CoRR abs/1911.04873 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1911-04873'', ''AU'': [''Piotrowski, Bartosz'',
+    ''Urban, Josef'', ''Brown, Chad E.'', ''Kaliszyk, Cezary''], ''TI'': ''Can Neural
+    Networks Learn Symbolic Rewriting?'', ''JO'': ''CoRR'', ''VL'': ''abs/1911.04873'',
+    ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1911.04873''}'
   title: Can Neural Networks Learn Symbolic Rewriting?
   year: 2019
 DBLP:journals/corr/abs-1911-10359:
@@ -8253,7 +8725,11 @@ DBLP:journals/corr/abs-1911-10359:
   - ML
   - main
   link: http://arxiv.org/abs/1911.10359
-  source: arXiv CoRR abs/1911.10359 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1911-10359'', ''AU'': [''Alikoc, Baran'', ''Hengster-Movric,
+    Kristian''], ''TI'': ''Robust cooperative synchronization of homogeneous agents
+    with delays on directed communication graphs.'', ''JO'': ''CoRR'', ''VL'': ''abs/1911.10359'',
+    ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1911.10359''}'
   title: Robust cooperative synchronization of homogeneous agents with delays on directed
     communication graphs.
   year: 2019
@@ -8265,7 +8741,10 @@ DBLP:journals/corr/abs-1911-12073:
   - AR
   - main
   link: http://arxiv.org/abs/1911.12073
-  source: arXiv CoRR abs/1911.12073 (2019).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-1911-12073', 'AU': ['Ols\xE1k, Miroslav', 'Kaliszyk,\
+    \ Cezary', 'Urban, Josef'], 'TI': 'Property Invariant Embedding for Automated\
+    \ Reasoning.', 'JO': 'CoRR', 'VL': 'abs/1911.12073', 'PY': '2019//', 'UR': 'http://arxiv.org/abs/1911.12073'}"
   title: Property Invariant Embedding for Automated Reasoning.
   year: 2019
 DBLP:journals/corr/abs-1912-01525:
@@ -8277,7 +8756,10 @@ DBLP:journals/corr/abs-1912-01525:
   - FM
   - main
   link: http://arxiv.org/abs/1912.01525
-  source: arXiv CoRR abs/1912.01525 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1912-01525'', ''AU'': [''Brown, Chad E.'', ''Gauthier,
+    Thibault''], ''TI'': ''Self-Learned Formula Synthesis in Set Theory.'', ''JO'':
+    ''CoRR'', ''VL'': ''abs/1912.01525'', ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1912.01525''}'
   title: Self-Learned Formula Synthesis in Set Theory.
   year: 2019
 DBLP:journals/corr/abs-1912-02636:
@@ -8289,7 +8771,11 @@ DBLP:journals/corr/abs-1912-02636:
   - FM
   - main
   link: http://arxiv.org/abs/1912.02636
-  source: arXiv CoRR abs/1912.02636 (2019).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-1912-02636'', ''AU'': [''Wang, Qingxiang'', ''Brown,
+    Chad E.'', ''Kaliszyk, Cezary'', ''Urban, Josef''], ''TI'': ''Exploration of Neural
+    Machine Translation in Autoformalization of Mathematics in Mizar.'', ''JO'': ''CoRR'',
+    ''VL'': ''abs/1912.02636'', ''PY'': ''2019//'', ''UR'': ''http://arxiv.org/abs/1912.02636''}'
   title: Exploration of Neural Machine Translation in Autoformalization of Mathematics
     in Mizar.
   year: 2019
@@ -8314,7 +8800,10 @@ DBLP:journals/corr/abs-2001-09705:
   - AR
   - main
   link: https://arxiv.org/abs/2001.09705
-  source: arXiv CoRR abs/2001.09705 (2020).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2001-09705'', ''AU'': [''Gleiss, Bernhard'',
+    ''Suda, Martin''], ''TI'': ''Layered Clause Selection for Theory Reasoning.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/2001.09705'', ''PY'': ''2020//'', ''UR'': ''https://arxiv.org/abs/2001.09705''}'
   title: Layered Clause Selection for Theory Reasoning.
   year: 2020
 DBLP:journals/corr/abs-2001-10834:
@@ -8325,7 +8814,10 @@ DBLP:journals/corr/abs-2001-10834:
   - AR
   - main
   link: https://arxiv.org/abs/2001.10834
-  source: arXiv CoRR abs/2001.10834 (2020).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2001-10834'', ''AU'': [''Nagashima, Yutaka''],
+    ''TI'': ''Smart Induction for Isabelle/HOL (System Description).'', ''JO'': ''CoRR'',
+    ''VL'': ''abs/2001.10834'', ''PY'': ''2020//'', ''UR'': ''https://arxiv.org/abs/2001.10834''}'
   title: Smart Induction for Isabelle/HOL (System Description).
   year: 2020
 DBLP:journals/corr/abs-2002-05406:
@@ -8338,7 +8830,12 @@ DBLP:journals/corr/abs-2002-05406:
   - FM
   - main
   link: https://arxiv.org/abs/2002.05406
-  source: arXiv CoRR abs/2002.05406 (2020).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2002-05406', 'AU': ['Jakubuv, Jan', 'Chvalovsk\xFD\
+    , Karel', 'Ols\xE1k, Miroslav', 'Piotrowski, Bartosz', 'Suda, Martin', 'Urban,\
+    \ Josef'], 'TI': 'ENIGMA Anonymous: Symbol-Independent Inference Guiding Machine\
+    \ (system description).', 'JO': 'CoRR', 'VL': 'abs/2002.05406', 'PY': '2020//',\
+    \ 'UR': 'https://arxiv.org/abs/2002.05406'}"
   title: 'ENIGMA Anonymous: Symbol-Independent Inference Guiding Machine (system description).'
   year: 2020
 DBLP:journals/corr/abs-2003-07916:
@@ -8349,7 +8846,10 @@ DBLP:journals/corr/abs-2003-07916:
   - FAI
   - main
   link: https://arxiv.org/abs/2003.07916
-  source: arXiv CoRR abs/2003.07916 (2020).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2003-07916', 'AU': ['Kruszewski, Germ\xE1n', 'Mikolov,\
+    \ Tom\xE1s'], 'TI': 'Combinatory Chemistry: Towards a Simple Model of Emergent\
+    \ Evolution.', 'JO': 'CoRR', 'VL': 'abs/2003.07916', 'PY': '2020//', 'UR': 'https://arxiv.org/abs/2003.07916'}"
   title: 'Combinatory Chemistry: Towards a Simple Model of Emergent Evolution.'
   year: 2020
 DBLP:journals/corr/abs-2003-09140:
@@ -8360,7 +8860,11 @@ DBLP:journals/corr/abs-2003-09140:
   - AR
   - main
   link: https://arxiv.org/abs/2003.09140
-  source: arXiv CoRR abs/2003.09140 (2020).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2003-09140'', ''AU'': [''Blaauwbroek, Lasse'',
+    ''Urban, Josef'', ''Geuvers, Herman''], ''TI'': ''Tactic Learning and Proving
+    for the Coq Proof Assistant.'', ''JO'': ''CoRR'', ''VL'': ''abs/2003.09140'',
+    ''PY'': ''2020//'', ''UR'': ''https://arxiv.org/abs/2003.09140''}'
   title: Tactic Learning and Proving for the Coq Proof Assistant.
   year: 2020
 DBLP:journals/corr/abs-2004-03340:
@@ -8371,7 +8875,11 @@ DBLP:journals/corr/abs-2004-03340:
   - FAI
   - main
   link: https://arxiv.org/abs/2004.03340
-  source: arXiv CoRR abs/2004.03340 (2020).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2004-03340', 'AU': ['Kruszewski, Germ\xE1n', 'Sorodoc,\
+    \ Ionut-Teodor', 'Mikolov, Tom\xE1s'], 'TI': 'Class-Agnostic Continual Learning\
+    \ of Alternating Languages and Domains.', 'JO': 'CoRR', 'VL': 'abs/2004.03340',\
+    \ 'PY': '2020//', 'UR': 'https://arxiv.org/abs/2004.03340'}"
   title: Class-Agnostic Continual Learning of Alternating Languages and Domains.
   year: 2020
 DBLP:journals/corr/abs-2004-06997:
@@ -8383,7 +8891,11 @@ DBLP:journals/corr/abs-2004-06997:
   - FM
   - main
   link: https://arxiv.org/abs/2004.06997
-  source: arXiv CoRR abs/2004.06997 (2020).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2004-06997'', ''AU'': [''Zombori, Zsolt'', ''Urban,
+    Josef'', ''Brown, Chad E.''], ''TI'': ''Prolog Technology Reinforcement Learning
+    Prover.'', ''JO'': ''CoRR'', ''VL'': ''abs/2004.06997'', ''PY'': ''2020//'', ''UR'':
+    ''https://arxiv.org/abs/2004.06997''}'
   title: Prolog Technology Reinforcement Learning Prover.
   year: 2020
 DBLP:journals/corr/abs-2004-08212:
@@ -8395,7 +8907,10 @@ DBLP:journals/corr/abs-2004-08212:
   - FM
   - main
   link: https://arxiv.org/abs/2004.08212
-  source: arXiv CoRR abs/2004.08212 (2020).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2004-08212'', ''AU'': [''Piotrowski, Bartosz'',
+    ''Urban, Josef''], ''TI'': ''Stateful Premise Selection by Recurrent Neural Networks.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/2004.08212'', ''PY'': ''2020//'', ''UR'': ''https://arxiv.org/abs/2004.08212''}'
   title: Stateful Premise Selection by Recurrent Neural Networks.
   year: 2020
 DBLP:journals/corr/abs-2004-08858:
@@ -8406,7 +8921,10 @@ DBLP:journals/corr/abs-2004-08858:
   - AR
   - main
   link: https://arxiv.org/abs/2004.08858
-  source: arXiv CoRR abs/2004.08858 (2020).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2004-08858'', ''AU'': [''Goertzel, Zarathustra
+    Amadeus''], ''TI'': ''Make E Smart Again.'', ''JO'': ''CoRR'', ''VL'': ''abs/2004.08858'',
+    ''PY'': ''2020//'', ''UR'': ''https://arxiv.org/abs/2004.08858''}'
   title: Make E Smart Again.
   year: 2020
 DBLP:journals/corr/abs-2004-10667:
@@ -8417,7 +8935,11 @@ DBLP:journals/corr/abs-2004-10667:
   - AR
   - main
   link: https://arxiv.org/abs/2004.10667
-  source: arXiv CoRR abs/2004.10667 (2020).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2004-10667'', ''AU'': [''Nagashima, Yutaka''],
+    ''TI'': ''Simple Dataset for Proof Method Recommendation in Isabelle/HOL (Dataset
+    Description).'', ''JO'': ''CoRR'', ''VL'': ''abs/2004.10667'', ''PY'': ''2020//'',
+    ''UR'': ''https://arxiv.org/abs/2004.10667''}'
   title: Simple Dataset for Proof Method Recommendation in Isabelle/HOL (Dataset Description).
   year: 2020
 DBLP:journals/corr/abs-2004-11947:
@@ -8428,7 +8950,11 @@ DBLP:journals/corr/abs-2004-11947:
   - ML
   - main
   link: https://arxiv.org/abs/2004.11947
-  source: arXiv CoRR abs/2004.11947 (2020).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2004-11947', 'AU': ['Kubal\xEDk, Jir\xED', 'Derner,\
+    \ Erik', 'Babuska, Robert'], 'TI': 'Symbolic Regression Driven by Training Data\
+    \ and Prior Knowledge.', 'JO': 'CoRR', 'VL': 'abs/2004.11947', 'PY': '2020//',\
+    \ 'UR': 'https://arxiv.org/abs/2004.11947'}"
   title: Symbolic Regression Driven by Training Data and Prior Knowledge.
   year: 2020
 DBLP:journals/corr/abs-2005-02149:
@@ -8439,7 +8965,11 @@ DBLP:journals/corr/abs-2005-02149:
   - ML
   - main
   link: https://arxiv.org/abs/2005.02149
-  source: arXiv CoRR abs/2005.02149 (2020).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2005-02149', 'AU': ['Zah\xE1lka, Jan', 'Worring,\
+    \ Marcel', 'Wijk, Jarke J. van'], 'TI': 'II-20: Intelligent and pragmatic analytic\
+    \ categorization of image collections.', 'JO': 'CoRR', 'VL': 'abs/2005.02149',\
+    \ 'PY': '2020//', 'UR': 'https://arxiv.org/abs/2005.02149'}"
   title: 'II-20: Intelligent and pragmatic analytic categorization of image collections.'
   year: 2020
 DBLP:journals/corr/abs-2005-12737:
@@ -8450,7 +8980,10 @@ DBLP:journals/corr/abs-2005-12737:
   - AR
   - main
   link: https://arxiv.org/abs/2005.12737
-  source: arXiv CoRR abs/2005.12737 (2020).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2005-12737'', ''AU'': [''Nagashima, Yutaka''],
+    ''TI'': ''Towards United Reasoning for Automatic Induction in Isabelle/HOL.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/2005.12737'', ''PY'': ''2020//'', ''UR'': ''https://arxiv.org/abs/2005.12737''}'
   title: Towards United Reasoning for Automatic Induction in Isabelle/HOL.
   year: 2020
 DBLP:journals/corr/abs-2005-13243:
@@ -8462,7 +8995,11 @@ DBLP:journals/corr/abs-2005-13243:
   - FM
   - main
   link: https://arxiv.org/abs/2005.13243
-  source: arXiv CoRR abs/2005.13243 (2020).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2005-13243', 'AU': ['Hurt\xEDk, Petr', 'Molek,\
+    \ Vojtech', 'Hula, Jan', 'Vajgl, Marek', 'Vlas\xE1nek, Pavel', 'Nejezchleba, Tomas'],\
+    \ 'TI': 'Poly-YOLO: higher speed, more precise detection and instance segmentation\
+    \ for YOLOv3.', 'JO': 'CoRR', 'VL': 'abs/2005.13243', 'PY': '2020//', 'UR': 'https://arxiv.org/abs/2005.13243'}"
   title: 'Poly-YOLO: higher speed, more precise detection and instance segmentation
     for YOLOv3.'
   year: 2020
@@ -8475,7 +9012,10 @@ DBLP:journals/corr/abs-2005-14664:
   - FM
   - main
   link: https://arxiv.org/abs/2005.14664
-  source: arXiv CoRR abs/2005.14664 (2020).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2005-14664'', ''AU'': [''Urban, Josef'', ''Jakubuv,
+    Jan''], ''TI'': ''First Neural Conjecturing Datasets and Experiments.'', ''JO'':
+    ''CoRR'', ''VL'': ''abs/2005.14664'', ''PY'': ''2020//'', ''UR'': ''https://arxiv.org/abs/2005.14664''}'
   title: First Neural Conjecturing Datasets and Experiments.
   year: 2020
 DBLP:journals/corr/abs-2007-10085:
@@ -8486,7 +9026,11 @@ DBLP:journals/corr/abs-2007-10085:
   - ML
   - main
   link: https://arxiv.org/abs/2007.10085
-  source: arXiv CoRR abs/2007.10085 (2020).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2007-10085', 'AU': ['Kulich, Miroslav', 'Kubal\xED\
+    k, Jir\xED', 'Preucil, Libor'], 'TI': 'An Integrated Approach to Goal Selection\
+    \ in Mobile Robot Exploration.', 'JO': 'CoRR', 'VL': 'abs/2007.10085', 'PY': '2020//',\
+    \ 'UR': 'https://arxiv.org/abs/2007.10085'}"
   title: An Integrated Approach to Goal Selection in Mobile Robot Exploration.
   year: 2020
 DBLP:journals/corr/abs-2008-00120:
@@ -8497,7 +9041,11 @@ DBLP:journals/corr/abs-2008-00120:
   - AR
   - main
   link: https://arxiv.org/abs/2008.00120
-  source: arXiv CoRR abs/2008.00120 (2020).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2008-00120'', ''AU'': [''Blaauwbroek, Lasse'',
+    ''Urban, Josef'', ''Geuvers, Herman''], ''TI'': ''The Tactician (extended version):
+    A Seamless, Interactive Tactic Learner and Prover for Coq.'', ''JO'': ''CoRR'',
+    ''VL'': ''abs/2008.00120'', ''PY'': ''2020//'', ''UR'': ''https://arxiv.org/abs/2008.00120''}'
   title: 'The Tactician (extended version): A Seamless, Interactive Tactic Learner
     and Prover for Coq.'
   year: 2020
@@ -8509,7 +9057,10 @@ DBLP:journals/corr/abs-2008-13503:
   - FAI
   - main
   link: https://arxiv.org/abs/2008.13503
-  source: arXiv CoRR abs/2008.13503 (2020).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2008-13503', 'AU': ['Hudcov\xE1, Barbora', 'Mikolov,\
+    \ Tom\xE1s'], 'TI': 'Classification of Complex Systems Based on Transients.',\
+    \ 'JO': 'CoRR', 'VL': 'abs/2008.13503', 'PY': '2020//', 'UR': 'https://arxiv.org/abs/2008.13503'}"
   title: Classification of Complex Systems Based on Transients.
   year: 2020
 DBLP:journals/corr/abs-2009-01827:
@@ -8520,7 +9071,10 @@ DBLP:journals/corr/abs-2009-01827:
   - AR
   - main
   link: https://arxiv.org/abs/2009.01827
-  source: arXiv CoRR abs/2009.01827 (2020).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2009-01827'', ''AU'': [''Gauthier, Thibault''],
+    ''TI'': ''Tree Neural Networks in HOL4.'', ''JO'': ''CoRR'', ''VL'': ''abs/2009.01827'',
+    ''PY'': ''2020//'', ''UR'': ''https://arxiv.org/abs/2009.01827''}'
   title: Tree Neural Networks in HOL4.
   year: 2020
 DBLP:journals/corr/abs-2009-09215:
@@ -8531,8 +9085,27 @@ DBLP:journals/corr/abs-2009-09215:
   - AR
   - main
   link: https://arxiv.org/abs/2009.09215
-  source: arXiv CoRR abs/2009.09215 (2020).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2009-09215'', ''AU'': [''Nagashima, Yutaka''],
+    ''TI'': ''Faster Smarter Induction in Isabelle/HOL with SeLFiE.'', ''JO'': ''CoRR'',
+    ''VL'': ''abs/2009.09215'', ''PY'': ''2020//'', ''UR'': ''https://arxiv.org/abs/2009.09215''}'
   title: Faster Smarter Induction in Isabelle/HOL with SeLFiE.
+  year: 2020
+DBLP:journals/corr/abs-2010-03920:
+  arXiv: https://arxiv.org/abs/2010.03920
+  authors: Martin Vastl, Daniel Zeman, Rudolf Rosa
+  dblp: journals/corr/abs-2010-03920
+  groups:
+  - ML
+  - main
+  link: https://arxiv.org/abs/2010.03920
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2010-03920', 'AU': ['Vastl, Martin', 'Zeman, Daniel',\
+    \ 'Rosa, Rudolf'], 'TI': 'Predicting Typological Features in WALS using Language\
+    \ Embeddings and Conditional Probabilities: \xDAFAL Submission to the SIGTYP 2020\
+    \ Shared Task.', 'JO': 'CoRR', 'VL': 'abs/2010.03920', 'PY': '2020//', 'UR': 'https://arxiv.org/abs/2010.03920'}"
+  title: "Predicting Typological Features in WALS using Language Embeddings and Conditional\
+    \ Probabilities: \xDAFAL Submission to the SIGTYP 2020 Shared Task."
   year: 2020
 DBLP:journals/corr/abs-2010-10296:
   arXiv: https://arxiv.org/abs/2010.10296
@@ -8542,7 +9115,10 @@ DBLP:journals/corr/abs-2010-10296:
   - AR
   - main
   link: https://arxiv.org/abs/2010.10296
-  source: arXiv CoRR abs/2010.10296 (2020).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2010-10296'', ''AU'': [''Nagashima, Yutaka''],
+    ''TI'': ''SeLFiE: Modular Semantic Reasoning for Induction in Isabelle/HOL.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/2010.10296'', ''PY'': ''2020//'', ''UR'': ''https://arxiv.org/abs/2010.10296''}'
   title: 'SeLFiE: Modular Semantic Reasoning for Induction in Isabelle/HOL.'
   year: 2020
 DBLP:journals/corr/abs-2010-10903:
@@ -8553,7 +9129,11 @@ DBLP:journals/corr/abs-2010-10903:
   - ML
   - main
   link: https://arxiv.org/abs/2010.10903
-  source: arXiv CoRR abs/2010.10903 (2020).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2010-10903', 'AU': ['Kulh\xE1nek, Jon\xE1s', 'Derner,\
+    \ Erik', 'Babuska, Robert'], 'TI': 'Visual Navigation in Real-World Indoor Environments\
+    \ Using End-to-End Deep Reinforcement Learning.', 'JO': 'CoRR', 'VL': 'abs/2010.10903',\
+    \ 'PY': '2020//', 'UR': 'https://arxiv.org/abs/2010.10903'}"
   title: Visual Navigation in Real-World Indoor Environments Using End-to-End Deep
     Reinforcement Learning.
   year: 2020
@@ -8565,7 +9145,11 @@ DBLP:journals/corr/abs-2011-12690:
   - ML
   - main
   link: https://arxiv.org/abs/2011.12690
-  source: arXiv CoRR abs/2011.12690 (2020).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2011-12690'', ''AU'': [''Heijden, Bas van der'',
+    ''Ferranti, Laura'', ''Kober, Jens'', ''Babuska, Robert''], ''TI'': ''DeepKoCo:
+    Efficient latent planning with an invariant Koopman representation.'', ''JO'':
+    ''CoRR'', ''VL'': ''abs/2011.12690'', ''PY'': ''2020//'', ''UR'': ''https://arxiv.org/abs/2011.12690''}'
   title: 'DeepKoCo: Efficient latent planning with an invariant Koopman representation.'
   year: 2020
 DBLP:journals/corr/abs-2102-03529:
@@ -8576,8 +9160,26 @@ DBLP:journals/corr/abs-2102-03529:
   - AR
   - main
   link: https://arxiv.org/abs/2102.03529
-  source: arXiv CoRR abs/2102.03529 (2021).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2102-03529'', ''AU'': [''Suda, Martin''], ''TI'':
+    ''Vampire With a Brain Is a Good ITP Hammer.'', ''JO'': ''CoRR'', ''VL'': ''abs/2102.03529'',
+    ''PY'': ''2021//'', ''UR'': ''https://arxiv.org/abs/2102.03529''}'
   title: Vampire With a Brain Is a Good ITP Hammer.
+  year: 2021
+DBLP:journals/corr/abs-2102-05126:
+  arXiv: https://arxiv.org/abs/2102.05126
+  authors: "Jon\xE1s Kulh\xE1nek, Vojtech Hudecek, Tom\xE1s Nekvinda, Ondrej Dusek"
+  dblp: journals/corr/abs-2102-05126
+  groups:
+  - ML
+  - main
+  link: https://arxiv.org/abs/2102.05126
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2102-05126', 'AU': ['Kulh\xE1nek, Jon\xE1s', 'Hudecek,\
+    \ Vojtech', 'Nekvinda, Tom\xE1s', 'Dusek, Ondrej'], 'TI': 'AuGPT: Dialogue with\
+    \ Pre-trained Language Models and Data Augmentation.', 'JO': 'CoRR', 'VL': 'abs/2102.05126',\
+    \ 'PY': '2021//', 'UR': 'https://arxiv.org/abs/2102.05126'}"
+  title: 'AuGPT: Dialogue with Pre-trained Language Models and Data Augmentation.'
   year: 2021
 DBLP:journals/corr/abs-2102-05547:
   arXiv: https://arxiv.org/abs/2102.05547
@@ -8588,7 +9190,10 @@ DBLP:journals/corr/abs-2102-05547:
   - FM
   - main
   link: https://arxiv.org/abs/2102.05547
-  source: arXiv CoRR abs/2102.05547 (2021).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2102-05547', 'AU': ['Piepenbrock, Jelle', 'Heskes,\
+    \ Tom', 'Janota, Mikol\xE1s', 'Urban, Josef'], 'TI': 'Learning Equational Theorem\
+    \ Proving.', 'JO': 'CoRR', 'VL': 'abs/2102.05547', 'PY': '2021//', 'UR': 'https://arxiv.org/abs/2102.05547'}"
   title: Learning Equational Theorem Proving.
   year: 2021
 DBLP:journals/corr/abs-2102-12319:
@@ -8599,7 +9204,11 @@ DBLP:journals/corr/abs-2102-12319:
   - ML
   - main
   link: https://arxiv.org/abs/2102.12319
-  source: arXiv CoRR abs/2102.12319 (2021).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2102-12319'', ''AU'': [''Mazhar, Osama'', ''Kober,
+    Jens'', ''Babuska, Robert''], ''TI'': ''GEM: Glare or Gloom, I Can Still See You
+    - End-to-End Multimodal Object Detector.'', ''JO'': ''CoRR'', ''VL'': ''abs/2102.12319'',
+    ''PY'': ''2021//'', ''UR'': ''https://arxiv.org/abs/2102.12319''}'
   title: 'GEM: Glare or Gloom, I Can Still See You - End-to-End Multimodal Object
     Detector.'
   year: 2021
@@ -8611,7 +9220,10 @@ DBLP:journals/corr/abs-2102-13564:
   - AR
   - main
   link: https://arxiv.org/abs/2102.13564
-  source: arXiv CoRR abs/2102.13564 (2021).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2102-13564'', ''AU'': [''Suda, Martin''], ''TI'':
+    ''New Techniques that Improve ENIGMA-style Clause Selection Guidance.'', ''JO'':
+    ''CoRR'', ''VL'': ''abs/2102.13564'', ''PY'': ''2021//'', ''UR'': ''https://arxiv.org/abs/2102.13564''}'
   title: New Techniques that Improve ENIGMA-style Clause Selection Guidance.
   year: 2021
 DBLP:journals/corr/abs-2103-01272:
@@ -8622,7 +9234,10 @@ DBLP:journals/corr/abs-2103-01272:
   - ML
   - main
   link: https://arxiv.org/abs/2103.01272
-  source: arXiv CoRR abs/2103.01272 (2021).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2103-01272'', ''AU'': [''Haan, Taeke de'', ''Kulkarni,
+    Padmaja'', ''Babuska, Robert''], ''TI'': ''Geometry-Based Grasping of Vine Tomatoes.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/2103.01272'', ''PY'': ''2021//'', ''UR'': ''https://arxiv.org/abs/2103.01272''}'
   title: Geometry-Based Grasping of Vine Tomatoes.
   year: 2021
 DBLP:journals/corr/abs-2103-08245:
@@ -8633,7 +9248,11 @@ DBLP:journals/corr/abs-2103-08245:
   - FAI
   - main
   link: https://arxiv.org/abs/2103.08245
-  source: arXiv CoRR abs/2103.08245 (2021).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2103-08245', 'AU': ['Kruszewski, Germ\xE1n', 'Mikolov,\
+    \ Tom\xE1s'], 'TI': 'Emergence of self-reproducing metabolisms as recursive algorithms\
+    \ in an Artificial Chemistry.', 'JO': 'CoRR', 'VL': 'abs/2103.08245', 'PY': '2021//',\
+    \ 'UR': 'https://arxiv.org/abs/2103.08245'}"
   title: Emergence of self-reproducing metabolisms as recursive algorithms in an Artificial
     Chemistry.
   year: 2021
@@ -8645,7 +9264,10 @@ DBLP:journals/corr/abs-2103-09043:
   - ML
   - main
   link: https://arxiv.org/abs/2103.09043
-  source: arXiv CoRR abs/2103.09043 (2021).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2103-09043'', ''AU'': [''Kooi, Jacob E.'', ''Babuska,
+    Robert''], ''TI'': ''Inclined Quadrotor Landing using Deep Reinforcement Learning.'',
+    ''JO'': ''CoRR'', ''VL'': ''abs/2103.09043'', ''PY'': ''2021//'', ''UR'': ''https://arxiv.org/abs/2103.09043''}'
   title: Inclined Quadrotor Landing using Deep Reinforcement Learning.
   year: 2021
 DBLP:journals/corr/abs-2104-01008:
@@ -8656,7 +9278,11 @@ DBLP:journals/corr/abs-2104-01008:
   - FAI
   - main
   link: https://arxiv.org/abs/2104.01008
-  source: arXiv CoRR abs/2104.01008 (2021).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2104-01008', 'AU': ['Cisneros, Hugo', 'Sivic,\
+    \ Josef', 'Mikolov, Tom\xE1s'], 'TI': 'Visualizing computation in large-scale\
+    \ cellular automata.', 'JO': 'CoRR', 'VL': 'abs/2104.01008', 'PY': '2021//', 'UR':\
+    \ 'https://arxiv.org/abs/2104.01008'}"
   title: Visualizing computation in large-scale cellular automata.
   year: 2021
 DBLP:journals/corr/abs-2104-05207:
@@ -8669,7 +9295,11 @@ DBLP:journals/corr/abs-2104-05207:
   - FM
   - main
   link: https://arxiv.org/abs/2104.05207
-  source: arXiv CoRR abs/2104.05207 (2021).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2104-05207', 'AU': ['Zhang, Liao', 'Blaauwbroek,\
+    \ Lasse', 'Piotrowski, Bartosz', 'Cern\xFD, Prokop', 'Kaliszyk, Cezary', 'Urban,\
+    \ Josef'], 'TI': 'Online Machine Learning Techniques for Coq: A Comparison.',\
+    \ 'JO': 'CoRR', 'VL': 'abs/2104.05207', 'PY': '2021//', 'UR': 'https://arxiv.org/abs/2104.05207'}"
   title: 'Online Machine Learning Techniques for Coq: A Comparison.'
   year: 2021
 DBLP:journals/corr/abs-2105-13700:
@@ -8680,7 +9310,11 @@ DBLP:journals/corr/abs-2105-13700:
   - FM
   - main
   link: https://arxiv.org/abs/2105.13700
-  source: arXiv CoRR abs/2105.13700 (2021).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2105-13700', 'AU': ['Janota, Mikol\xE1s', 'Barbosa,\
+    \ Haniel', 'Fontaine, Pascal', 'Reynolds, Andrew'], 'TI': 'Fair and Adventurous\
+    \ Enumeration of Quantifier Instantiations.', 'JO': 'CoRR', 'VL': 'abs/2105.13700',\
+    \ 'PY': '2021//', 'UR': 'https://arxiv.org/abs/2105.13700'}"
   title: Fair and Adventurous Enumeration of Quantifier Instantiations.
   year: 2021
 DBLP:journals/corr/abs-2105-14706:
@@ -8691,7 +9325,10 @@ DBLP:journals/corr/abs-2105-14706:
   - AR
   - main
   link: https://arxiv.org/abs/2105.14706
-  source: arXiv CoRR abs/2105.14706 (2021).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2105-14706', 'AU': ['Zombori, Zsolt', 'Urban,\
+    \ Josef', 'Ols\xE1k, Miroslav'], 'TI': 'The Role of Entropy in Guiding a Connection\
+    \ Prover.', 'JO': 'CoRR', 'VL': 'abs/2105.14706', 'PY': '2021//', 'UR': 'https://arxiv.org/abs/2105.14706'}"
   title: The Role of Entropy in Guiding a Connection Prover.
   year: 2021
 DBLP:journals/corr/abs-2106-14195:
@@ -8703,7 +9340,11 @@ DBLP:journals/corr/abs-2106-14195:
   - AR
   - main
   link: https://arxiv.org/abs/2106.14195
-  source: arXiv CoRR abs/2106.14195 (2021).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2106-14195', 'AU': ['Macke, Jaroslav', 'Sedl\xE1\
+    r, Jir\xED', 'Ols\xE1k, Miroslav', 'Urban, Josef', 'Sivic, Josef'], 'TI': 'Learning\
+    \ to solve geometric construction problems from images.', 'JO': 'CoRR', 'VL':\
+    \ 'abs/2106.14195', 'PY': '2021//', 'UR': 'https://arxiv.org/abs/2106.14195'}"
   title: Learning to solve geometric construction problems from images.
   year: 2021
 DBLP:journals/corr/abs-2107-06750:
@@ -8716,7 +9357,11 @@ DBLP:journals/corr/abs-2107-06750:
   - FM
   - main
   link: https://arxiv.org/abs/2107.06750
-  source: arXiv CoRR abs/2107.06750 (2021).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2107-06750', 'AU': ['Goertzel, Zarathustra Amadeus',\
+    \ 'Chvalovsk\xFD, Karel', 'Jakubuv, Jan', 'Ols\xE1k, Miroslav', 'Urban, Josef'],\
+    \ 'TI': 'Fast and Slow Enigmas and Parental Guidance.', 'JO': 'CoRR', 'VL': 'abs/2107.06750',\
+    \ 'PY': '2021//', 'UR': 'https://arxiv.org/abs/2107.06750'}"
   title: Fast and Slow Enigmas and Parental Guidance.
   year: 2021
 DBLP:journals/corr/abs-2107-10034:
@@ -8728,7 +9373,10 @@ DBLP:journals/corr/abs-2107-10034:
   - FM
   - main
   link: https://arxiv.org/abs/2107.10034
-  source: arXiv CoRR abs/2107.10034 (2021).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2107-10034', 'AU': ['Chvalovsk\xFD, Karel', 'Jakubuv,\
+    \ Jan', 'Ols\xE1k, Miroslav', 'Urban, Josef'], 'TI': 'Learning Theorem Proving\
+    \ Components.', 'JO': 'CoRR', 'VL': 'abs/2107.10034', 'PY': '2021//', 'UR': 'https://arxiv.org/abs/2107.10034'}"
   title: Learning Theorem Proving Components.
   year: 2021
 DBLP:journals/corr/abs-2108-00415:
@@ -8739,7 +9387,10 @@ DBLP:journals/corr/abs-2108-00415:
   - FAI
   - main
   link: https://arxiv.org/abs/2108.00415
-  source: arXiv CoRR abs/2108.00415 (2021).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2108-00415', 'AU': ['Hudcov\xE1, Barbora', 'Mikolov,\
+    \ Tom\xE1s'], 'TI': 'Computational Hierarchy of Elementary Cellular Automata.',\
+    \ 'JO': 'CoRR', 'VL': 'abs/2108.00415', 'PY': '2021//', 'UR': 'https://arxiv.org/abs/2108.00415'}"
   title: Computational Hierarchy of Elementary Cellular Automata.
   year: 2021
 DBLP:journals/corr/abs-2108-01573:
@@ -8750,7 +9401,10 @@ DBLP:journals/corr/abs-2108-01573:
   - FAI
   - main
   link: https://arxiv.org/abs/2108.01573
-  source: arXiv CoRR abs/2108.01573 (2021).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2108-01573', 'AU': ['Hudcov\xE1, Barbora', 'Mikolov,\
+    \ Tom\xE1s'], 'TI': 'Classification of Discrete Dynamical Systems Based on Transients.',\
+    \ 'JO': 'CoRR', 'VL': 'abs/2108.01573', 'PY': '2021//', 'UR': 'https://arxiv.org/abs/2108.01573'}"
   title: Classification of Discrete Dynamical Systems Based on Transients.
   year: 2021
 DBLP:journals/corr/abs-2109-03234:
@@ -8774,7 +9428,11 @@ DBLP:journals/corr/abs-2201-10516:
   - FM
   - main
   link: https://arxiv.org/abs/2201.10516
-  source: arXiv CoRR abs/2201.10516 (2022).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2201-10516', 'AU': ['Ara\xFAjo, Jo\xE3o', 'Chow,\
+    \ Choiwah', 'Janota, Mikol\xE1s'], 'TI': 'Boosting Isomorphic Model Filtering\
+    \ with Invariants.', 'JO': 'CoRR', 'VL': 'abs/2201.10516', 'PY': '2022//', 'UR':\
+    \ 'https://arxiv.org/abs/2201.10516'}"
   title: Boosting Isomorphic Model Filtering with Invariants.
   year: 2022
 DBLP:journals/corr/abs-2201-12266:
@@ -8786,7 +9444,12 @@ DBLP:journals/corr/abs-2201-12266:
   - AR
   - main
   link: https://arxiv.org/abs/2201.12266
-  source: arXiv CoRR abs/2201.12266 (2022).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2201-12266'', ''AU'': [''Trommler, Kimberley
+    Parsons'', ''Hafner, Matthias'', ''Kellerer, Wolfgang'', ''Merz, Peter'', ''Schuster,
+    Sigurd'', ''Urban, Josef'', ''Baeder, Uwe'', ''Gunzelmann, Bertram'', ''Kornbichler,
+    Andreas''], ''TI'': ''Six Questions about 6G.'', ''JO'': ''CoRR'', ''VL'': ''abs/2201.12266'',
+    ''PY'': ''2022//'', ''UR'': ''https://arxiv.org/abs/2201.12266''}'
   title: Six Questions about 6G.
   year: 2022
 DBLP:journals/corr/abs-2202-11908:
@@ -8797,21 +9460,32 @@ DBLP:journals/corr/abs-2202-11908:
   - AR
   - main
   link: https://arxiv.org/abs/2202.11908
-  source: arXiv CoRR abs/2202.11908 (2022).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2202-11908'', ''AU'': [''Gauthier, Thibault''],
+    ''TI'': ''Program Synthesis for the OEIS.'', ''JO'': ''CoRR'', ''VL'': ''abs/2202.11908'',
+    ''PY'': ''2022//'', ''UR'': ''https://arxiv.org/abs/2202.11908''}'
   title: Program Synthesis for the OEIS.
   year: 2022
 DBLP:journals/corr/abs-2203-00403:
   authors: Nikolaos Passalis, S. Pedrazzi, Robert Babuska, Wolfram Burgard, D. Dias,
     F. Ferro, Moncef Gabbouj, O. Green, Alexandros Iosifidis, E. Kayacan, Jens Kober,
-    O. Michel, Nikolaos Nikolaidis, Paraskevi Nousi, R. Pieters, Maria Tzelepi, Abhinav
-    Valada, Anastasios Tefas
+    O. Michel, Nikolaos Nikolaidis, Paraskevi Nousi, Roel Pieters, Maria Tzelepi,
+    Abhinav Valada, Anastasios Tefas
   dblp: journals/corr/abs-2203-00403
   doi: https://doi.org/10.48550/arXiv.2203.00403
   groups:
   - ML
   - main
   link: https://doi.org/10.48550/arXiv.2203.00403
-  source: arXiv CoRR abs/2203.00403 (2022).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2203-00403'', ''AU'': [''Passalis, Nikolaos'',
+    ''Pedrazzi, S.'', ''Babuska, Robert'', ''Burgard, Wolfram'', ''Dias, D.'', ''Ferro,
+    F.'', ''Gabbouj, Moncef'', ''Green, O.'', ''Iosifidis, Alexandros'', ''Kayacan,
+    E.'', ''Kober, Jens'', ''Michel, O.'', ''Nikolaidis, Nikolaos'', ''Nousi, Paraskevi'',
+    ''Pieters, Roel'', ''Tzelepi, Maria'', ''Valada, Abhinav'', ''Tefas, Anastasios''],
+    ''TI'': ''OpenDR: An Open Toolkit for Enabling High Performance, Low Footprint
+    Deep Learning for Robotics.'', ''JO'': ''CoRR'', ''VL'': ''abs/2203.00403'', ''PY'':
+    ''2022//'', ''DO'': ''10.48550/arXiv.2203.00403'', ''UR'': ''https://doi.org/10.48550/arXiv.2203.00403''}'
   title: 'OpenDR: An Open Toolkit for Enabling High Performance, Low Footprint Deep
     Learning for Robotics.'
   year: 2022
@@ -8824,7 +9498,12 @@ DBLP:journals/corr/abs-2203-02381:
   - ML
   - main
   link: https://doi.org/10.48550/arXiv.2203.02381
-  source: arXiv CoRR abs/2203.02381 (2022).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2203-02381', 'AU': ['Lodel, Max', 'Brito, Bruno',\
+    \ 'Serra-G\xF3mez, \xC1lvaro', 'Ferranti, Laura', 'Babuska, Robert', 'Alonso-Mora,\
+    \ Javier'], 'TI': 'Where to Look Next: Learning Viewpoint Recommendations for\
+    \ Informative Trajectory Planning.', 'JO': 'CoRR', 'VL': 'abs/2203.02381', 'PY':\
+    \ '2022//', 'DO': '10.48550/arXiv.2203.02381', 'UR': 'https://doi.org/10.48550/arXiv.2203.02381'}"
   title: 'Where to Look Next: Learning Viewpoint Recommendations for Informative Trajectory
     Planning.'
   year: 2022
@@ -8836,7 +9515,11 @@ DBLP:journals/corr/abs-2203-10157:
   - ML
   - main
   link: https://doi.org/10.48550/arXiv.2203.10157
-  source: arXiv CoRR abs/2203.10157 (2022).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2203-10157', 'AU': ['Kulh\xE1nek, Jon\xE1s', 'Derner,\
+    \ Erik', 'Sattler, Torsten', 'Babuska, Robert'], 'TI': 'ViewFormer: NeRF-free\
+    \ Neural Rendering from Few Images Using Transformers.', 'JO': 'CoRR', 'VL': 'abs/2203.10157',\
+    \ 'PY': '2022//', 'DO': '10.48550/arXiv.2203.10157', 'UR': 'https://doi.org/10.48550/arXiv.2203.10157'}"
   title: 'ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers.'
   year: 2022
 DBLP:journals/corr/abs-2203-13094:
@@ -8848,7 +9531,13 @@ DBLP:journals/corr/abs-2203-13094:
   - AR
   - main
   link: https://doi.org/10.48550/arXiv.2203.13094
-  source: arXiv CoRR abs/2203.13094 (2022).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2203-13094'', ''AU'': [''Trommler, Kimberley
+    Parsons'', ''Hafner, Matthias'', ''Kellerer, Wolfgang'', ''Merz, Peter'', ''Schuster,
+    Sigurd'', ''Urban, Josef'', ''Baeder, Uwe'', ''Gunzelmann, Bertram'', ''Kornbichler,
+    Andreas''], ''TI'': ''PREVIEW VERSION: Six Insights into 6G: Orientation and Input
+    for Developing Your Strategic 6G Research Plan.'', ''JO'': ''CoRR'', ''VL'': ''abs/2203.13094'',
+    ''PY'': ''2022//'', ''DO'': ''10.48550/arXiv.2203.13094'', ''UR'': ''https://doi.org/10.48550/arXiv.2203.13094''}'
   title: 'PREVIEW VERSION: Six Insights into 6G: Orientation and Input for Developing
     Your Strategic 6G Research Plan.'
   year: 2022
@@ -8862,7 +9551,11 @@ DBLP:journals/corr/abs-2205-01981:
   - FM
   - main
   link: https://doi.org/10.48550/arXiv.2205.01981
-  source: arXiv CoRR abs/2205.01981 (2022).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2205-01981', 'AU': ['Goertzel, Zarathustra Amadeus',\
+    \ 'Jakubuv, Jan', 'Kaliszyk, Cezary', 'Ols\xE1k, Miroslav', 'Piepenbrock, Jelle',\
+    \ 'Urban, Josef'], 'TI': 'The Isabelle ENIGMA.', 'JO': 'CoRR', 'VL': 'abs/2205.01981',\
+    \ 'PY': '2022//', 'DO': '10.48550/arXiv.2205.01981', 'UR': 'https://doi.org/10.48550/arXiv.2205.01981'}"
   title: The Isabelle ENIGMA.
   year: 2022
 DBLP:journals/corr/abs-2205-06640:
@@ -8873,7 +9566,11 @@ DBLP:journals/corr/abs-2205-06640:
   - FM
   - main
   link: https://doi.org/10.48550/arXiv.2205.06640
-  source: arXiv CoRR abs/2205.06640 (2022).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2205-06640'', ''AU'': [''Brown, Chad E.'', ''Kaliszyk,
+    Cezary''], ''TI'': ''Lash 1.0 (System Description).'', ''JO'': ''CoRR'', ''VL'':
+    ''abs/2205.06640'', ''PY'': ''2022//'', ''DO'': ''10.48550/arXiv.2205.06640'',
+    ''UR'': ''https://doi.org/10.48550/arXiv.2205.06640''}'
   title: Lash 1.0 (System Description).
   year: 2022
 DBLP:journals/corr/abs-2205-15764:
@@ -8885,7 +9582,12 @@ DBLP:journals/corr/abs-2205-15764:
   - ML
   - main
   link: https://doi.org/10.48550/arXiv.2205.15764
-  source: arXiv CoRR abs/2205.15764 (2022).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2205-15764', 'AU': ['Vastl, Martin', 'Kulh\xE1\
+    nek, Jon\xE1s', 'Kubal\xEDk, Jir\xED', 'Derner, Erik', 'Babuska, Robert'], 'TI':\
+    \ 'SymFormer: End-to-end symbolic regression using transformer-based architecture.',\
+    \ 'JO': 'CoRR', 'VL': 'abs/2205.15764', 'PY': '2022//', 'DO': '10.48550/arXiv.2205.15764',\
+    \ 'UR': 'https://doi.org/10.48550/arXiv.2205.15764'}"
   title: 'SymFormer: End-to-end symbolic regression using transformer-based architecture.'
   year: 2022
 DBLP:journals/corr/abs-2206-08768:
@@ -8896,7 +9598,11 @@ DBLP:journals/corr/abs-2206-08768:
   - FM
   - main
   link: https://doi.org/10.48550/arXiv.2206.08768
-  source: arXiv CoRR abs/2206.08768 (2022).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2206-08768', 'AU': ['Orvalho, Pedro', 'Janota,\
+    \ Mikol\xE1s', 'Manquinho, Vasco M.'], 'TI': 'C-Pack of IPAs: A C90 Program Benchmark\
+    \ of Introductory Programming Assignments.', 'JO': 'CoRR', 'VL': 'abs/2206.08768',\
+    \ 'PY': '2022//', 'DO': '10.48550/arXiv.2206.08768', 'UR': 'https://doi.org/10.48550/arXiv.2206.08768'}"
   title: 'C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments.'
   year: 2022
 DBLP:journals/corr/abs-2206-14175:
@@ -8907,7 +9613,12 @@ DBLP:journals/corr/abs-2206-14175:
   - FM
   - main
   link: https://doi.org/10.48550/arXiv.2206.14175
-  source: arXiv CoRR abs/2206.14175 (2022).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2206-14175', 'AU': ['Orvalho, Pedro', 'Janota,\
+    \ Mikol\xE1s', 'Manquinho, Vasco M.'], 'TI': 'InvAASTCluster: On Applying Invariant-Based\
+    \ Program Clustering to Introductory Programming Assignments.', 'JO': 'CoRR',\
+    \ 'VL': 'abs/2206.14175', 'PY': '2022//', 'DO': '10.48550/arXiv.2206.14175', 'UR':\
+    \ 'https://doi.org/10.48550/arXiv.2206.14175'}"
   title: 'InvAASTCluster: On Applying Invariant-Based Program Clustering to Introductory
     Programming Assignments.'
   year: 2022
@@ -8919,7 +9630,11 @@ DBLP:journals/corr/abs-2207-04857:
   - FAI
   - main
   link: https://doi.org/10.48550/arXiv.2207.04857
-  source: arXiv CoRR abs/2207.04857 (2022).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2207-04857', 'AU': ['Herel, David', 'Zogatova,\
+    \ Dominika', 'Kripner, Matej', 'Mikolov, Tom\xE1s'], 'TI': 'Emergence of Novelty\
+    \ in Evolutionary Algorithms.', 'JO': 'CoRR', 'VL': 'abs/2207.04857', 'PY': '2022//',\
+    \ 'DO': '10.48550/arXiv.2207.04857', 'UR': 'https://doi.org/10.48550/arXiv.2207.04857'}"
   title: Emergence of Novelty in Evolutionary Algorithms.
   year: 2022
 DBLP:journals/corr/abs-2207-09509:
@@ -8931,7 +9646,12 @@ DBLP:journals/corr/abs-2207-09509:
   - FM
   - main
   link: https://doi.org/10.48550/arXiv.2207.09509
-  source: arXiv CoRR abs/2207.09509 (2022).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2207-09509', 'AU': ['Marques, Filipe', 'Morgado,\
+    \ Ant\xF3nio', 'Santos, Jos\xE9 Fragoso', 'Janota, Mikol\xE1s'], 'TI': 'TestSelector:\
+    \ Automatic Test Suite Selection for Student Projects - Extended Version.', 'JO':\
+    \ 'CoRR', 'VL': 'abs/2207.09509', 'PY': '2022//', 'DO': '10.48550/arXiv.2207.09509',\
+    \ 'UR': 'https://doi.org/10.48550/arXiv.2207.09509'}"
   title: 'TestSelector: Automatic Test Suite Selection for Student Projects - Extended
     Version.'
   year: 2022
@@ -8944,7 +9664,12 @@ DBLP:journals/corr/abs-2209-00526:
   - ML
   - main
   link: https://doi.org/10.48550/arXiv.2209.00526
-  source: arXiv CoRR abs/2209.00526 (2022).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2209-00526', 'AU': ['Nawala, Jakub', 'Janowski,\
+    \ Lucjan', 'Cmiel, Bogdan', 'Rusek, Krzysztof', 'Kastner, Marc A.', 'Zah\xE1lka,\
+    \ Jan'], 'TI': 'Reproducibility Companion Paper: Describing Subjective Experiment\
+    \ Consistency by $p$-Value P-P Plot.', 'JO': 'CoRR', 'VL': 'abs/2209.00526', 'PY':\
+    \ '2022//', 'DO': '10.48550/arXiv.2209.00526', 'UR': 'https://doi.org/10.48550/arXiv.2209.00526'}"
   title: 'Reproducibility Companion Paper: Describing Subjective Experiment Consistency
     by $p$-Value P-P Plot.'
   year: 2022
@@ -8957,7 +9682,13 @@ DBLP:journals/corr/abs-2209-07976:
   - ML
   - main
   link: https://doi.org/10.48550/arXiv.2209.07976
-  source: arXiv CoRR abs/2209.07976 (2022).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2209-07976', 'AU': ['Sedl\xE1r, Jir\xED', 'St\xE9\
+    p\xE1nov\xE1, Karla', 'Tuna, Mat\xFAs', 'Skoviera, Radoslav', 'Behrens, Jan Kristof',\
+    \ 'Sejnova, Gabriela', 'Sivic, Josef', 'Babuska, Robert'], 'TI': 'Imitrob: Imitation\
+    \ Learning Dataset for Training and Evaluating 6D Object Pose Estimators.', 'JO':\
+    \ 'CoRR', 'VL': 'abs/2209.07976', 'PY': '2022//', 'DO': '10.48550/arXiv.2209.07976',\
+    \ 'UR': 'https://doi.org/10.48550/arXiv.2209.07976'}"
   title: 'Imitrob: Imitation Learning Dataset for Training and Evaluating 6D Object
     Pose Estimators.'
   year: 2022
@@ -8969,7 +9700,11 @@ DBLP:journals/corr/abs-2210-02549:
   - FAI
   - main
   link: https://doi.org/10.48550/arXiv.2210.02549
-  source: arXiv CoRR abs/2210.02549 (2022).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2210-02549', 'AU': ['Cisneros, Hugo', 'Sivic,\
+    \ Josef', 'Mikolov, Tom\xE1s'], 'TI': 'Benchmarking Learning Efficiency in Deep\
+    \ Reservoir Computing.', 'JO': 'CoRR', 'VL': 'abs/2210.02549', 'PY': '2022//',\
+    \ 'DO': '10.48550/arXiv.2210.02549', 'UR': 'https://doi.org/10.48550/arXiv.2210.02549'}"
   title: Benchmarking Learning Efficiency in Deep Reservoir Computing.
   year: 2022
 DBLP:journals/corr/abs-2210-03590:
@@ -8982,7 +9717,12 @@ DBLP:journals/corr/abs-2210-03590:
   - FM
   - main
   link: https://doi.org/10.48550/arXiv.2210.03590
-  source: arXiv CoRR abs/2210.03590 (2022).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2210-03590', 'AU': ['Piepenbrock, Jelle', 'Urban,\
+    \ Josef', 'Korovin, Konstantin', 'Ols\xE1k, Miroslav', 'Heskes, Tom', 'Janota,\
+    \ Mikolas'], 'TI': 'Machine Learning Meets The Herbrand Universe.', 'JO': 'CoRR',\
+    \ 'VL': 'abs/2210.03590', 'PY': '2022//', 'DO': '10.48550/arXiv.2210.03590', 'UR':\
+    \ 'https://doi.org/10.48550/arXiv.2210.03590'}"
   title: Machine Learning Meets The Herbrand Universe.
   year: 2022
 DBLP:journals/corr/abs-2211-04205:
@@ -8993,20 +9733,109 @@ DBLP:journals/corr/abs-2211-04205:
   - FAI
   - main
   link: https://doi.org/10.48550/arXiv.2211.04205
-  source: arXiv CoRR abs/2211.04205 (2022).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2211-04205', 'AU': ['Herel, David', 'Cisneros,\
+    \ Hugo', 'Mikolov, Tom\xE1s'], 'TI': 'Preserving Semantics in Textual Adversarial\
+    \ Attacks.', 'JO': 'CoRR', 'VL': 'abs/2211.04205', 'PY': '2022//', 'DO': '10.48550/arXiv.2211.04205',\
+    \ 'UR': 'https://doi.org/10.48550/arXiv.2211.04205'}"
   title: Preserving Semantics in Textual Adversarial Attacks.
   year: 2022
-DBLP:journals/corr/abs-2211-11937:
-  authors: Yutaka Nagashima
-  dblp: journals/corr/abs-2211-11937
-  doi: https://doi.org/10.48550/arXiv.2211.11937
+DBLP:journals/corr/abs-2301-11479:
+  authors: "Thibault Gauthier, Miroslav Ols\xE1k, Josef Urban"
+  dblp: journals/corr/abs-2301-11479
+  doi: https://doi.org/10.48550/arXiv.2301.11479
   groups:
   - AR
   - main
-  link: https://doi.org/10.48550/arXiv.2211.11937
-  source: arXiv CoRR abs/2211.11937 (2022).
-  title: Genetic Algorithm for Program Synthesis.
-  year: 2022
+  link: https://doi.org/10.48550/arXiv.2301.11479
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2301-11479', 'AU': ['Gauthier, Thibault', 'Ols\xE1\
+    k, Miroslav', 'Urban, Josef'], 'TI': 'Alien Coding.', 'JO': 'CoRR', 'VL': 'abs/2301.11479',\
+    \ 'PY': '2023//', 'DO': '10.48550/arXiv.2301.11479', 'UR': 'https://doi.org/10.48550/arXiv.2301.11479'}"
+  title: Alien Coding.
+  year: 2023
+DBLP:journals/corr/abs-2302-00773:
+  authors: "Jir\xED Kubal\xEDk, Erik Derner, Robert Babuska"
+  dblp: journals/corr/abs-2302-00773
+  doi: https://doi.org/10.48550/arXiv.2302.00773
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2302.00773
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2302-00773', 'AU': ['Kubal\xEDk, Jir\xED', 'Derner,\
+    \ Erik', 'Babuska, Robert'], 'TI': 'Neural Networks for Symbolic Regression.',\
+    \ 'JO': 'CoRR', 'VL': 'abs/2302.00773', 'PY': '2023//', 'DO': '10.48550/arXiv.2302.00773',\
+    \ 'UR': 'https://doi.org/10.48550/arXiv.2302.00773'}"
+  title: Neural Networks for Symbolic Regression.
+  year: 2023
+DBLP:journals/corr/abs-2302-12433:
+  authors: Zhangir Azerbayev, Bartosz Piotrowski, Hailey Schoelkopf, Edward W. Ayers,
+    Dragomir Radev, Jeremy Avigad
+  dblp: journals/corr/abs-2302-12433
+  doi: https://doi.org/10.48550/arXiv.2302.12433
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2302.12433
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2302-12433'', ''AU'': [''Azerbayev, Zhangir'',
+    ''Piotrowski, Bartosz'', ''Schoelkopf, Hailey'', ''Ayers, Edward W.'', ''Radev,
+    Dragomir'', ''Avigad, Jeremy''], ''TI'': ''ProofNet: Autoformalizing and Formally
+    Proving Undergraduate-Level Mathematics.'', ''JO'': ''CoRR'', ''VL'': ''abs/2302.12433'',
+    ''PY'': ''2023//'', ''DO'': ''10.48550/arXiv.2302.12433'', ''UR'': ''https://doi.org/10.48550/arXiv.2302.12433''}'
+  title: 'ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics.'
+  year: 2023
+DBLP:journals/corr/abs-2303-06686:
+  authors: "Jan Jakubuv, Karel Chvalovsk\xFD, Zarathustra Amadeus Goertzel, Cezary\
+    \ Kaliszyk, Mirek Ols\xE1k, Bartosz Piotrowski, Stephan Schulz, Martin Suda, Josef\
+    \ Urban"
+  dblp: journals/corr/abs-2303-06686
+  doi: https://doi.org/10.48550/arXiv.2303.06686
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2303.06686
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2303-06686', 'AU': ['Jakubuv, Jan', 'Chvalovsk\xFD\
+    , Karel', 'Goertzel, Zarathustra Amadeus', 'Kaliszyk, Cezary', 'Ols\xE1k, Mirek',\
+    \ 'Piotrowski, Bartosz', 'Schulz, Stephan', 'Suda, Martin', 'Urban, Josef'], 'TI':\
+    \ 'MizAR 60 for Mizar 50.', 'JO': 'CoRR', 'VL': 'abs/2303.06686', 'PY': '2023//',\
+    \ 'DO': '10.48550/arXiv.2303.06686', 'UR': 'https://doi.org/10.48550/arXiv.2303.06686'}"
+  title: MizAR 60 for Mizar 50.
+  year: 2023
+DBLP:journals/corr/abs-2304-00994:
+  authors: "Bartosz Piotrowski, Ramon Fern\xE1ndez Mir, Edward W. Ayers"
+  dblp: journals/corr/abs-2304-00994
+  doi: https://doi.org/10.48550/arXiv.2304.00994
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2304.00994
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/corr/abs-2304-00994', 'AU': ['Piotrowski, Bartosz', 'Mir,\
+    \ Ramon Fern\xE1ndez', 'Ayers, Edward W.'], 'TI': 'Machine-Learned Premise Selection\
+    \ for Lean.', 'JO': 'CoRR', 'VL': 'abs/2304.00994', 'PY': '2023//', 'DO': '10.48550/arXiv.2304.00994',\
+    \ 'UR': 'https://doi.org/10.48550/arXiv.2304.00994'}"
+  title: Machine-Learned Premise Selection for Lean.
+  year: 2023
+DBLP:journals/corr/abs-2304-02986:
+  authors: Thibault Gauthier, Chad E. Brown, Mikolas Janota, Josef Urban
+  dblp: journals/corr/abs-2304-02986
+  doi: https://doi.org/10.48550/arXiv.2304.02986
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2304.02986
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/abs-2304-02986'', ''AU'': [''Gauthier, Thibault'',
+    ''Brown, Chad E.'', ''Janota, Mikolas'', ''Urban, Josef''], ''TI'': ''A Mathematical
+    Benchmark for Inductive Theorem Provers.'', ''JO'': ''CoRR'', ''VL'': ''abs/2304.02986'',
+    ''PY'': ''2023//'', ''DO'': ''10.48550/arXiv.2304.02986'', ''UR'': ''https://doi.org/10.48550/arXiv.2304.02986''}'
+  title: A Mathematical Benchmark for Inductive Theorem Provers.
+  year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
@@ -9015,7 +9844,11 @@ DBLP:journals/corr/cs-LO-0301026:
   - AR
   - main
   link: http://arxiv.org/abs/cs/0301026
-  source: arXiv CoRR cs.LO/0301026 (2003).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/corr/cs-LO-0301026'', ''AU'': [''Beeson, Michael'', ''Veroff,
+    Robert'', ''Wos, Larry''], ''TI'': ''Double-Negation Elimination in Some Propositional
+    Logics'', ''JO'': ''CoRR'', ''VL'': ''cs.LO/0301026'', ''PY'': ''2003//'', ''UR'':
+    ''http://arxiv.org/abs/cs/0301026''}'
   title: Double-Negation Elimination in Some Propositional Logics
   year: 2003
 DBLP:journals/deds/LopesKSBB16:
@@ -9099,6 +9932,18 @@ DBLP:journals/eaai/PaneNKB19:
   source: 'Eng. Appl. Artif. Intell. 78: 236-247 (2019).'
   title: Reinforcement learning based compensation methods for robot manipulators.
   year: 2019
+DBLP:journals/eaai/RohaninejadJH23:
+  authors: "Mohammad Rohaninejad, Mikol\xE1s Janota, Zdenek Hanz\xE1lek"
+  dblp: journals/eaai/RohaninejadJH23
+  doi: https://doi.org/10.1016/j.engappai.2022.105676
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1016/j.engappai.2022.105676
+  source: 'Eng. Appl. Artif. Intell. 118: (2023).'
+  title: 'Integrated lot-sizing and scheduling: Mitigation of uncertainty in demand
+    and processing time by machine learning.'
+  year: 2023
 DBLP:journals/eaai/VerbertBS17:
   authors: Kim Verbert, Robert Babuska, Bart De Schutter
   dblp: journals/eaai/VerbertBS17
@@ -9154,7 +9999,11 @@ DBLP:journals/eccc/BeyersdorffCJ14:
   - FM
   - main
   link: https://eccc.weizmann.ac.il/report/2014/120
-  source: informal Electron. Colloquium Comput. Complex. (2014).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/eccc/BeyersdorffCJ14'', ''AU'': [''Beyersdorff, Olaf'',
+    ''Chew, Leroy'', ''Janota, Mikolas''], ''TI'': ''Proof Complexity of Resolution-based
+    QBF Calculi.'', ''JO'': ''Electron. Colloquium Comput. Complex.'', ''VL'': ''TR14'',
+    ''PY'': ''2014//'', ''UR'': ''https://eccc.weizmann.ac.il/report/2014/120''}'
   title: Proof Complexity of Resolution-based QBF Calculi.
   url: https://eccc.weizmann.ac.il/report/2014/120
   year: 2014
@@ -9165,7 +10014,11 @@ DBLP:journals/eccc/BeyersdorffCJ16:
   - FM
   - main
   link: https://eccc.weizmann.ac.il/report/2016/005
-  source: informal Electron. Colloquium Comput. Complex. (2016).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/eccc/BeyersdorffCJ16'', ''AU'': [''Beyersdorff, Olaf'',
+    ''Chew, Leroy'', ''Janota, Mikolas''], ''TI'': ''Extension Variables in QBF Resolution.'',
+    ''JO'': ''Electron. Colloquium Comput. Complex.'', ''VL'': ''TR16'', ''PY'': ''2016//'',
+    ''UR'': ''https://eccc.weizmann.ac.il/report/2016/005''}'
   title: Extension Variables in QBF Resolution.
   url: https://eccc.weizmann.ac.il/report/2016/005
   year: 2016
@@ -9176,7 +10029,11 @@ DBLP:journals/eccc/BeyersdorffCSS16:
   - AR
   - main
   link: https://eccc.weizmann.ac.il/report/2016/048
-  source: informal Electron. Colloquium Comput. Complex. (2016).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/eccc/BeyersdorffCSS16'', ''AU'': [''Beyersdorff, Olaf'',
+    ''Chew, Leroy'', ''Schmidt, Renate A.'', ''Suda, Martin''], ''TI'': ''Lifting
+    QBF Resolution Calculi to DQBF.'', ''JO'': ''Electron. Colloquium Comput. Complex.'',
+    ''VL'': ''TR16'', ''PY'': ''2016//'', ''UR'': ''https://eccc.weizmann.ac.il/report/2016/048''}'
   title: Lifting QBF Resolution Calculi to DQBF.
   url: https://eccc.weizmann.ac.il/report/2016/048
   year: 2016
@@ -9187,7 +10044,10 @@ DBLP:journals/eccc/Janota16:
   - FM
   - main
   link: https://eccc.weizmann.ac.il/report/2016/043
-  source: informal Electron. Colloquium Comput. Complex. (2016).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/eccc/Janota16'', ''AU'': [''Janota, Mikolas''], ''TI'':
+    ''On Q-Resolution and CDCL QBF Solving.'', ''JO'': ''Electron. Colloquium Comput.
+    Complex.'', ''VL'': ''TR16'', ''PY'': ''2016//'', ''UR'': ''https://eccc.weizmann.ac.il/report/2016/043''}'
   title: On Q-Resolution and CDCL QBF Solving.
   url: https://eccc.weizmann.ac.il/report/2016/043
   year: 2016
@@ -9198,7 +10058,11 @@ DBLP:journals/eccc/JanotaCB14:
   - FM
   - main
   link: https://eccc.weizmann.ac.il/report/2014/036
-  source: informal Electron. Colloquium Comput. Complex. (2014).
+  source: 'YAN TODO: Informal or Other Publication{''TY'': ''Informal or Other Publication'',
+    ''ID'': ''DBLP:journals/eccc/JanotaCB14'', ''AU'': [''Janota, Mikolas'', ''Chew,
+    Leroy'', ''Beyersdorff, Olaf''], ''TI'': ''On Unification of QBF Resolution-Based
+    Calculi.'', ''JO'': ''Electron. Colloquium Comput. Complex.'', ''VL'': ''TR14'',
+    ''PY'': ''2014//'', ''UR'': ''https://eccc.weizmann.ac.il/report/2014/036''}'
   title: On Unification of QBF Resolution-Based Calculi.
   url: https://eccc.weizmann.ac.il/report/2014/036
   year: 2014
@@ -9209,7 +10073,11 @@ DBLP:journals/eccc/JanotaM13:
   - FM
   - main
   link: https://eccc.weizmann.ac.il/report/2013/097
-  source: informal Electron. Colloquium Comput. Complex. (2013).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/eccc/JanotaM13', 'AU': ['Janota, Mikol\xE1s', 'Marques-Silva,\
+    \ Jo\xE3o'], 'TI': 'On Propositional QBF Expansions and Q-Resolution.', 'JO':\
+    \ 'Electron. Colloquium Comput. Complex.', 'VL': 'TR13', 'PY': '2013//', 'UR':\
+    \ 'https://eccc.weizmann.ac.il/report/2013/097'}"
   title: On Propositional QBF Expansions and Q-Resolution.
   url: https://eccc.weizmann.ac.il/report/2013/097
   year: 2013
@@ -9220,7 +10088,11 @@ DBLP:journals/eccc/Marques-SilvaJ14:
   - FM
   - main
   link: https://eccc.weizmann.ac.il/report/2014/031
-  source: informal Electron. Colloquium Comput. Complex. (2014).
+  source: "YAN TODO: Informal or Other Publication{'TY': 'Informal or Other Publication',\
+    \ 'ID': 'DBLP:journals/eccc/Marques-SilvaJ14', 'AU': ['Marques-Silva, Jo\xE3o',\
+    \ 'Janota, Mikol\xE1s'], 'TI': 'On the Query Complexity of Selecting Few Minimal\
+    \ Sets.', 'JO': 'Electron. Colloquium Comput. Complex.', 'VL': 'TR14', 'PY': '2014//',\
+    \ 'UR': 'https://eccc.weizmann.ac.il/report/2014/031'}"
   title: On the Query Complexity of Selecting Few Minimal Sets.
   url: https://eccc.weizmann.ac.il/report/2014/031
   year: 2014
@@ -9232,9 +10104,11 @@ DBLP:journals/entcs/Brown07:
   - FM
   - main
   link: https://doi.org/10.1016/j.entcs.2007.01.022
-  source: 'Electron. Notes Theor. Comput. Sci. 174: 127-139 (2007).'
+  source: 'Proceedings of the First International Workshop on Logical Frameworks and
+    Meta-Languages: Theory and Practice, LFMTP@FLoC 2006, Seattle, WA, USA, August
+    16, 2006: 127-139 (2006).'
   title: Encoding Functional Relations in Scunak.
-  year: 2007
+  year: 2006
 DBLP:journals/entcs/Urban03:
   authors: Josef Urban
   dblp: journals/entcs/Urban03
@@ -9243,7 +10117,9 @@ DBLP:journals/entcs/Urban03:
   - AR
   - main
   link: https://doi.org/10.1016/S1571-0661(04)80659-5
-  source: 'Electron. Notes Theor. Comput. Sci. 86: 147-152 (2003).'
+  source: '4th International Workshop on First-Order Theorem Proving, FTP 2003, in
+    connection with RDP 2003, Federated Conference on Rewriting, Deduction and Programming,
+    Valencia, Spain, June 12-14, 2003: 147-152 (2003).'
   title: 'MPTP 0.1: System Description.'
   year: 2003
 DBLP:journals/entcs/UrbanB07:
@@ -9254,9 +10130,10 @@ DBLP:journals/entcs/UrbanB07:
   - AR
   - main
   link: https://doi.org/10.1016/j.entcs.2006.09.022
-  source: 'Electron. Notes Theor. Comput. Sci. 174: 63-74 (2007).'
+  source: 'Proceedings of the 7th Workshop on User Interfaces for Theorem Provers,
+    UITP@FLoC 2006, Seattle, WA, USA, August 21, 2006: 63-74 (2006).'
   title: Presenting and Explaining Mizar.
-  year: 2007
+  year: 2006
 DBLP:journals/eswa/KubalikDB21:
   authors: "Jir\xED Kubal\xEDk, Erik Derner, Robert Babuska"
   dblp: journals/eswa/KubalikDB21
@@ -9877,28 +10754,6 @@ DBLP:journals/jql/CechHKCM19:
   source: 'J. Quant. Linguistics 26: 187-204 (2019).'
   title: The Development of Context Specificity of Lemma. A Word Embeddings Approach.
   year: 2019
-DBLP:journals/jrm/NagashimaIM00:
-  authors: Yutaka Nagashima, Takakazu Ishimatsu, Jamal Tariq Mian
-  dblp: journals/jrm/NagashimaIM00
-  doi: https://doi.org/10.20965/jrm.2000.p0060
-  groups:
-  - AR
-  - main
-  link: https://doi.org/10.20965/jrm.2000.p0060
-  source: 'J. Robotics Mechatronics 12: 60-65 (2000).'
-  title: AUV with Variable Vector Propeller.
-  year: 2000
-DBLP:journals/jrm/NagashimaTII02:
-  authors: Yutaka Nagashima, Nobuyoshi Taguchi, Takakazu Ishimatsu, Hirofumi Inoue
-  dblp: journals/jrm/NagashimaTII02
-  doi: https://doi.org/10.20965/jrm.2002.p0112
-  groups:
-  - AR
-  - main
-  link: https://doi.org/10.20965/jrm.2002.p0112
-  source: 'J. Robotics Mechatronics 14: 112-117 (2002).'
-  title: Development of a Compact Autonomous Underwater vehicle Using Varivec Propeller.
-  year: 2002
 DBLP:journals/jsat/HeuleJS19:
   authors: "Marijn J. H. Heule, Matti J\xE4rvisalo, Martin Suda"
   dblp: journals/jsat/HeuleJS19

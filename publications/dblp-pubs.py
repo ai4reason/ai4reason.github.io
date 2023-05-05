@@ -28,7 +28,7 @@ def parse_ris(ris, year):
          entry[mo.group(1)] = mo.group(2)
    return db
       
-def normalize_entry(entry, groups):
+def normalize_entry(entry, groups, authorinfo):
    authors = entry["AU"]
    authors = [" ".join(reversed(author.split(", "))) for author in authors]
 
@@ -52,7 +52,10 @@ def normalize_entry(entry, groups):
       else:
          journal = "%s %s: (%s)." % (entry["JO"], entry["VL"], entry["PY"].rstrip("/"))
    elif entry["TY"] == "CONF":
-      journal = "%s %s (%s)." % (entry["T3"], entry["VL"], entry["PY"].rstrip("/"))
+      if "T3" in entry:
+         journal = "%s %s (%s)." % (entry["T3"], entry["VL"], entry["PY"].rstrip("/"))
+      else:
+         journal = "%s (%s)." % (entry["TI"], entry["PY"].rstrip("/"))
    elif entry["TY"] == "CHAP":
       journal = "%s: %s-%s (%s)." % (entry["BT"], entry["SP"], entry["EP"], entry["PY"].rstrip("/"))
    elif entry["TY"] == "THES":
@@ -79,15 +82,28 @@ def normalize_entry(entry, groups):
    else:
       urltype = "url"
 
+   year = int(year)
+   if "active" in authorinfo:
+      active = authorinfo["active"]
+      if ("from" in active) and (year < active["from"]):
+         return None
+      if ("to" in active) and (year > active["to"]):
+         return None
+
    record = entry["ID"].split(":")[1]
    if "/" in year:
       year = year.split("/")[0]
    return dict(authors=authors, title=title, source=journal, year=int(year),
                url=(urltype, url), dblp=record, groups=set(groups), link=url)
 
-def normalize_entries(db, groups):
+def normalize_entries(db, groups, authorinfo):
+   dels = []
    for eid in db.keys():
-      db[eid] = normalize_entry(db[eid], groups)
+      db[eid] = normalize_entry(db[eid], groups, authorinfo)
+      if not db[eid]:
+         dels.append(eid)
+   for eid in dels:
+      del db[eid]
 
 def update_db(db, new):
    for eid in new:
@@ -119,7 +135,7 @@ def download_db(authors, year):
       groups = authors[author]["groups"] if "groups" in authors[author] else []
       groups = set(groups)
       groups.add("main")
-      normalize_entries(authordb, groups)
+      normalize_entries(authordb, groups, authors[author])
       update_db(db, authordb)
    db = finalize_db(db)
    sys.stderr.write("Relevant entries found: %d\n" % len(db))

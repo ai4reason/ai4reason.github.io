@@ -16,7 +16,13 @@ The [Activities](/activities.html) page of the whole department lists the public
 The `dblp` fields must set correctly.  See [member updates](/internal/members.html) for more info.
 
 
-## Adjusting the list
+## Selecting publications for group members
+
+The list of publication can be filtered by `active.from` and `active.to` fields in the member record.
+These specify active years for each member and only publications within this span are displayed.
+See [member updates](/internal/members.html) for more info.
+
+## Manually removing publication
 
 A publication not listed in DBLP can not be added manually. 
 However, an existing publication can be excluded from the list, as follows.
