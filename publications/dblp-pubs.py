@@ -35,7 +35,7 @@ def normalize_entry(entry, groups):
    title = entry["TI"]
    year = entry["PY"].rstrip("/")
 
-   if entry["TY"] == "Informal Publication":
+   if ("Informal" in entry["TY"]) and ("Publication" in entry["TY"]):
       if "JO" in entry and entry["JO"] == "CoRR":
          journal = "arXiv %s %s (%s)." % (entry["JO"], entry["VL"], entry["PY"].rstrip("/"))
       else:
