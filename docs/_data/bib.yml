@@ -2982,6 +2982,19 @@ DBLP:conf/ic3k/KuhlweinUTGH11:
     and Information Retrieval, Paris, France, 26-29 October, 2011: 42-51 (2011).'
   title: Multi-output Ranking for Automated Reasoning.
   year: 2011
+DBLP:conf/icaart/HulaAJ23:
+  authors: "Jan Hula, David Adamczyk, Mikol\xE1s Janota"
+  dblp: conf/icaart/HulaAJ23
+  doi: https://doi.org/10.5220/0011699900003393
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.5220/0011699900003393
+  source: 'Proceedings of the 15th International Conference on Agents and Artificial
+    Intelligence, ICAART 2023, Volume 1, Lisbon, Portugal, February 22-24, 2023.:
+    71-79 (2023).'
+  title: Fast Heuristic for Ricochet Robots.
+  year: 2023
 DBLP:conf/icaart/JakubuvTK15:
   authors: "Jan Jakubuv, Jan Tozicka, Anton\xEDn Komenda"
   dblp: conf/icaart/JakubuvTK15
