@@ -1914,6 +1914,30 @@ DBLP:conf/dsl/JanotaFHGCCK09:
     UK, July 15-17, 2009, Proceedings: 187-210 (2009).'
   title: 'CLOPS: A DSL for Command Line Options.'
   year: 2009
+DBLP:conf/dsmp/Hula20:
+  authors: Jan Hula
+  dblp: conf/dsmp/Hula20
+  doi: https://doi.org/10.1109/DSMP47368.2020.9204219
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1109/DSMP47368.2020.9204219
+  source: 'IEEE Third International Conference on Data Stream Mining, Processing,
+    DSMP 2020, Lviv, Ukraine, August 21-25, 2020: 237-242 (2020).'
+  title: Unsupervised Object-aware Learning from Videos.
+  year: 2020
+DBLP:conf/dsmp/HulaMAC20:
+  authors: "Jan Hula, David Mojz\xEDsek, David Adamczyk, Radek Cech"
+  dblp: conf/dsmp/HulaMAC20
+  doi: https://doi.org/10.1109/DSMP47368.2020.9204229
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1109/DSMP47368.2020.9204229
+  source: 'IEEE Third International Conference on Data Stream Mining, Processing,
+    DSMP 2020, Lviv, Ukraine, August 21-25, 2020: 231-236 (2020).'
+  title: Acquiring Custom OCR System with Minimal Manual Annotation.
+  year: 2020
 DBLP:conf/eacl/GraveMJB17:
   authors: "Armand Joulin, Edouard Grave, Piotr Bojanowski, Tom\xE1s Mikolov"
   dblp: conf/eacl/GraveMJB17
@@ -9131,6 +9155,28 @@ DBLP:journals/corr/abs-2304-09987:
   link: https://doi.org/10.48550/arXiv.2304.09987
   source: arXiv CoRR abs/2304.09987 (2023).
   title: 'Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra.'
+  year: 2023
+DBLP:journals/corr/abs-2305-07903:
+  authors: Chad Brown, Adam Pease, Josef Urban
+  dblp: journals/corr/abs-2305-07903
+  doi: https://doi.org/10.48550/arXiv.2305.07903
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.48550/arXiv.2305.07903
+  source: arXiv CoRR abs/2305.07903 (2023).
+  title: Translating SUMO-K to Higher-Order Set Theory.
+  year: 2023
+DBLP:journals/corr/abs-2305-08005:
+  authors: Erik Derner, Kristina Batistic
+  dblp: journals/corr/abs-2305-08005
+  doi: https://doi.org/10.48550/arXiv.2305.08005
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2305.08005
+  source: arXiv CoRR abs/2305.08005 (2023).
+  title: 'Beyond the Safeguards: Exploring the Security Risks of ChatGPT.'
   year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
