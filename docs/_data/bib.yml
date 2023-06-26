@@ -3714,52 +3714,52 @@ DBLP:conf/interspeech/ChelbaMSGBKR14:
   authors: "Ciprian Chelba, Tom\xE1s Mikolov, Mike Schuster, Qi Ge, Thorsten Brants,\
     \ Phillipp Koehn, Tony Robinson"
   dblp: conf/interspeech/ChelbaMSGBKR14
+  doi: https://doi.org/10.21437/Interspeech.2014-564
   groups:
   - FAI
   - main
-  link: http://www.isca-speech.org/archive/interspeech_2014/i14_2635.html
+  link: https://doi.org/10.21437/Interspeech.2014-564
   source: 'INTERSPEECH 2014, 15th Annual Conference of the International Speech Communication
     Association, Singapore, September 14-18, 2014: 2635-2639 (2014).'
   title: One billion word benchmark for measuring progress in statistical language
     modeling.
-  url: http://www.isca-speech.org/archive/interspeech_2014/i14_2635.html
   year: 2014
 DBLP:conf/interspeech/GlembekMBM08:
   authors: "Ondrej Glembek, Pavel Matejka, Luk\xE1s Burget, Tom\xE1s Mikolov"
   dblp: conf/interspeech/GlembekMBM08
+  doi: https://doi.org/10.21437/Interspeech.2008-231
   groups:
   - FAI
   - main
-  link: http://www.isca-speech.org/archive/interspeech_2008/i08_0743.html
+  link: https://doi.org/10.21437/Interspeech.2008-231
   source: 'INTERSPEECH 2008, 9th Annual Conference of the International Speech Communication
     Association, Brisbane, Australia, September 22-26, 2008: 743-746 (2008).'
   title: Advances in phonotactic language recognition.
-  url: http://www.isca-speech.org/archive/interspeech_2008/i08_0743.html
   year: 2008
 DBLP:conf/interspeech/KombrinkMKB11:
   authors: "Stefan Kombrink, Tom\xE1s Mikolov, Martin Karafi\xE1t, Luk\xE1s Burget"
   dblp: conf/interspeech/KombrinkMKB11
+  doi: https://doi.org/10.21437/Interspeech.2011-720
   groups:
   - FAI
   - main
-  link: http://www.isca-speech.org/archive/interspeech_2011/i11_2877.html
+  link: https://doi.org/10.21437/Interspeech.2011-720
   source: 'INTERSPEECH 2011, 12th Annual Conference of the International Speech Communication
     Association, Florence, Italy, August 27-31, 2011: 2877-2880 (2011).'
   title: Recurrent Neural Network Based Language Modeling in Meeting Recognition.
-  url: http://www.isca-speech.org/archive/interspeech_2011/i11_2877.html
   year: 2011
 DBLP:conf/interspeech/MatejkaBGSHFMPC08:
   authors: "Pavel Matejka, Luk\xE1s Burget, Ondrej Glembek, Petr Schwarz, Valiantsina\
     \ Hubeika, Michal Fapso, Tom\xE1s Mikolov, Oldrich Plchot, Jan Cernock\xFD"
   dblp: conf/interspeech/MatejkaBGSHFMPC08
+  doi: https://doi.org/10.21437/Interspeech.2008-230
   groups:
   - FAI
   - main
-  link: http://www.isca-speech.org/archive/interspeech_2008/i08_0739.html
+  link: https://doi.org/10.21437/Interspeech.2008-230
   source: 'INTERSPEECH 2008, 9th Annual Conference of the International Speech Communication
     Association, Brisbane, Australia, September 22-26, 2008: 739-742 (2008).'
   title: BUT language recognition system for NIST 2007 evaluations.
-  url: http://www.isca-speech.org/archive/interspeech_2008/i08_0739.html
   year: 2008
 DBLP:conf/interspeech/Mikolov21:
   authors: "Tom\xE1s Mikolov"
@@ -3777,27 +3777,27 @@ DBLP:conf/interspeech/MikolovDKBC11:
   authors: "Tom\xE1s Mikolov, Anoop Deoras, Stefan Kombrink, Luk\xE1s Burget, Jan\
     \ Cernock\xFD"
   dblp: conf/interspeech/MikolovDKBC11
+  doi: https://doi.org/10.21437/Interspeech.2011-242
   groups:
   - FAI
   - main
-  link: http://www.isca-speech.org/archive/interspeech_2011/i11_0605.html
+  link: https://doi.org/10.21437/Interspeech.2011-242
   source: 'INTERSPEECH 2011, 12th Annual Conference of the International Speech Communication
     Association, Florence, Italy, August 27-31, 2011: 605-608 (2011).'
   title: Empirical Evaluation and Combination of Advanced Language Modeling Techniques.
-  url: http://www.isca-speech.org/archive/interspeech_2011/i11_0605.html
   year: 2011
 DBLP:conf/interspeech/MikolovKBCK10:
   authors: "Tom\xE1s Mikolov, Martin Karafi\xE1t, Luk\xE1s Burget, Jan Cernock\xFD\
     , Sanjeev Khudanpur"
   dblp: conf/interspeech/MikolovKBCK10
+  doi: https://doi.org/10.21437/Interspeech.2010-343
   groups:
   - FAI
   - main
-  link: http://www.isca-speech.org/archive/interspeech_2010/i10_1045.html
+  link: https://doi.org/10.21437/Interspeech.2010-343
   source: 'INTERSPEECH 2010, 11th Annual Conference of the International Speech Communication
     Association, Makuhari, Chiba, Japan, September 26-30, 2010: 1045-1048 (2010).'
   title: Recurrent neural network based language model.
-  url: http://www.isca-speech.org/archive/interspeech_2010/i10_1045.html
   year: 2010
 DBLP:conf/ipmu/HulaMA22:
   authors: "Jan Hula, David Mojz\xEDsek, David Adamczyk"
