@@ -6435,6 +6435,18 @@ DBLP:journals/access/DernerKB21:
   source: 'IEEE Access 9: 14148-14158 (2021).'
   title: Selecting Informative Data Samples for Model Learning Through Symbolic Regression.
   year: 2021
+DBLP:journals/access/KubalikDB23:
+  authors: "Jir\xED Kubal\xEDk, Erik Derner, Robert Babuska"
+  dblp: journals/access/KubalikDB23
+  doi: https://doi.org/10.1109/ACCESS.2023.3287397
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/ACCESS.2023.3287397
+  source: 'IEEE Access 11: 61481-61501 (2023).'
+  title: 'Toward Physically Plausible Data-Driven Models: A Novel Neural Network Approach
+    to Symbolic Regression.'
+  year: 2023
 DBLP:journals/access/KubalikDZB21:
   authors: "Jir\xED Kubal\xEDk, Erik Derner, Jan Zegklitz, Robert Babuska"
   dblp: journals/access/KubalikDZB21
