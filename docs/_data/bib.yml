@@ -10159,6 +10159,17 @@ DBLP:journals/jsc/GauthierK19:
   title: Aligning concepts across proof assistant libraries.
   url: https://www.wikidata.org/entity/Q108482111
   year: 2019
+DBLP:journals/jsc/Janota0V23:
+  authors: "Mikol\xE1s Janota, Ant\xF3nio Morgado, Petr Vojtechovsk\xFD"
+  dblp: journals/jsc/Janota0V23
+  doi: https://doi.org/10.1016/j.jsc.2023.02.002
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1016/j.jsc.2023.02.002
+  source: 'J. Symb. Comput. 119: 50-63 (2023).'
+  title: Computing generating sets of minimal size in finite algebras.
+  year: 2023
 DBLP:journals/jsc/KaliszykU15:
   authors: Cezary Kaliszyk, Josef Urban
   dblp: journals/jsc/KaliszykU15
