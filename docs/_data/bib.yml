@@ -3767,11 +3767,11 @@ DBLP:conf/interspeech/Mikolov21:
   groups:
   - FAI
   - main
-  link: http://www.isca-speech.org/archive/interspeech_2021/mikolov21_interspeech.html
+  link: https://www.isca-speech.org/archive/interspeech_2021/mikolov21_interspeech.html
   source: 'Interspeech 2021, 22nd Annual Conference of the International Speech Communication
     Association, Brno, Czechia, 30 August - 3 September 2021.: (2021).'
   title: Language Modeling and Artificial Intelligence.
-  url: http://www.isca-speech.org/archive/interspeech_2021/mikolov21_interspeech.html
+  url: https://www.isca-speech.org/archive/interspeech_2021/mikolov21_interspeech.html
   year: 2021
 DBLP:conf/interspeech/MikolovDKBC11:
   authors: "Tom\xE1s Mikolov, Anoop Deoras, Stefan Kombrink, Luk\xE1s Burget, Jan\
