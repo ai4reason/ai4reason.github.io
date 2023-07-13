@@ -4427,6 +4427,19 @@ DBLP:conf/lpar/AlamaKU12:
     \ (2012)."
   title: 'Automated and Human Proofs in General Mathematics: An Initial Comparison.'
   year: 2012
+DBLP:conf/lpar/Bartek023:
+  authors: "Filip B\xE1rtek, Martin Suda"
+  dblp: conf/lpar/Bartek023
+  doi: https://doi.org/10.29007/5f4r
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.29007/5f4r
+  source: 'LPAR 2023: Proceedings of 24th International Conference on Logic for Programming,
+    Artificial Intelligence and Reasoning, Manizales, Colombia, 4-9th June 2023.:
+    96-111 (2023).'
+  title: How Much Should This Symbol Weigh? A GNN-Advised Clause Selection.
+  year: 2023
 DBLP:conf/lpar/BjornerJ15:
   authors: "Nikolaj S. Bj\xF8rner, Mikol\xE1s Janota"
   dblp: conf/lpar/BjornerJ15
@@ -4479,6 +4492,20 @@ DBLP:conf/lpar/ChvalovskyC10:
     October 10-15, 2010: 26-29 (2010).'
   title: Note on Deduction Theorems in Contraction-Free Logics.
   year: 2010
+DBLP:conf/lpar/ChvalovskyKPU23:
+  authors: "Karel Chvalovsk\xFD, Konstantin Korovin, Jelle Piepenbrock, Josef Urban"
+  dblp: conf/lpar/ChvalovskyKPU23
+  doi: https://doi.org/10.29007/tp23
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.29007/tp23
+  source: 'LPAR 2023: Proceedings of 24th International Conference on Logic for Programming,
+    Artificial Intelligence and Reasoning, Manizales, Colombia, 4-9th June 2023.:
+    112-123 (2023).'
+  title: Guiding an Instantiation Prover with Graph Neural Networks.
+  year: 2023
 DBLP:conf/lpar/Gauthier20:
   authors: Thibault Gauthier
   dblp: conf/lpar/Gauthier20
@@ -4491,6 +4518,20 @@ DBLP:conf/lpar/Gauthier20:
     Intelligence and Reasoning, Alicante, Spain, May 22-27, 2020.: 230-248 (2020).'
   title: Deep Reinforcement Learning for Synthesizing Functions in Higher-Order Logic.
   year: 2020
+DBLP:conf/lpar/GauthierBJU23:
+  authors: Thibault Gauthier, Chad E. Brown, Mikolas Janota, Josef Urban
+  dblp: conf/lpar/GauthierBJU23
+  doi: https://doi.org/10.29007/jr72
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.29007/jr72
+  source: 'LPAR 2023: Proceedings of 24th International Conference on Logic for Programming,
+    Artificial Intelligence and Reasoning, Manizales, Colombia, 4-9th June 2023.:
+    224-237 (2023).'
+  title: A Mathematical Benchmark for Inductive Theorem Provers.
+  year: 2023
 DBLP:conf/lpar/GauthierK15:
   authors: Thibault Gauthier, Cezary Kaliszyk
   dblp: conf/lpar/GauthierK15
@@ -4605,6 +4646,19 @@ DBLP:conf/lpar/Kiesl0STB17:
     Intelligence and Reasoning, Maun, Botswana, May 7-12, 2017: 31-48 (2017).'
   title: Blocked Clauses in First-Order Logic.
   year: 2017
+DBLP:conf/lpar/ParsertBJK23:
+  authors: Julian Parsert, Chad E. Brown, Mikolas Janota, Cezary Kaliszyk
+  dblp: conf/lpar/ParsertBJK23
+  doi: https://doi.org/10.29007/slrm
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.29007/slrm
+  source: 'LPAR 2023: Proceedings of 24th International Conference on Logic for Programming,
+    Artificial Intelligence and Reasoning, Manizales, Colombia, 4-9th June 2023.:
+    317-328 (2023).'
+  title: Experiments on Infinite Model Finding in SMT Solving.
+  year: 2023
 DBLP:conf/lpar/PiotrowskiU20:
   authors: Bartosz Piotrowski, Josef Urban
   dblp: conf/lpar/PiotrowskiU20
@@ -6026,7 +6080,7 @@ DBLP:conf/smc/MolSBS16:
     and tightly toleranced parts.
   year: 2016
 DBLP:conf/smt/BrownJ21:
-  authors: "Chad Brown, Mikol\xE1s Janota"
+  authors: "Chad E. Brown, Mikol\xE1s Janota"
   dblp: conf/smt/BrownJ21
   groups:
   - FM
@@ -9184,11 +9238,12 @@ DBLP:journals/corr/abs-2304-09987:
   title: 'Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra.'
   year: 2023
 DBLP:journals/corr/abs-2305-07903:
-  authors: Chad Brown, Adam Pease, Josef Urban
+  authors: Chad E. Brown, Adam Pease, Josef Urban
   dblp: journals/corr/abs-2305-07903
   doi: https://doi.org/10.48550/arXiv.2305.07903
   groups:
   - AR
+  - FM
   - main
   link: https://doi.org/10.48550/arXiv.2305.07903
   source: arXiv CoRR abs/2305.07903 (2023).
