@@ -4149,6 +4149,19 @@ DBLP:conf/itp/BrownKP19:
     September 9-12, 2019, Portland, OR, USA.: 9:1-9:16 (2019).'
   title: Higher-Order Tarski Grothendieck as a Foundation for Formal Proof.
   year: 2019
+DBLP:conf/itp/CarneiroBU23:
+  authors: Mario Carneiro, Chad E. Brown, Josef Urban
+  dblp: conf/itp/CarneiroBU23
+  doi: https://doi.org/10.4230/LIPIcs.ITP.2023.9
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.4230/LIPIcs.ITP.2023.9
+  source: "14th International Conference on Interactive Theorem Proving, ITP 2023,\
+    \ July 31 to August 4, 2023, Bia\u0142ystok, Poland: 9:1-9:19 (2023)."
+  title: Automated Theorem Proving for Metamath.
+  year: 2023
 DBLP:conf/itp/GoertzelJ0U18:
   authors: Zarathustra Amadeus Goertzel, Jan Jakubuv, Stephan Schulz, Josef Urban
   dblp: conf/itp/GoertzelJ0U18
@@ -4177,6 +4190,21 @@ DBLP:conf/itp/GoertzelJKOPU22:
     August 7-10, 2022, Haifa, Israel.: 16:1-16:21 (2022).'
   title: The Isabelle ENIGMA.
   year: 2022
+DBLP:conf/itp/JakubuvCGKOP00U23:
+  authors: "Jan Jakubuv, Karel Chvalovsk\xFD, Zarathustra Amadeus Goertzel, Cezary\
+    \ Kaliszyk, Mirek Ols\xE1k, Bartosz Piotrowski, Stephan Schulz, Martin Suda, Josef\
+    \ Urban"
+  dblp: conf/itp/JakubuvCGKOP00U23
+  doi: https://doi.org/10.4230/LIPIcs.ITP.2023.19
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.4230/LIPIcs.ITP.2023.19
+  source: "14th International Conference on Interactive Theorem Proving, ITP 2023,\
+    \ July 31 to August 4, 2023, Bia\u0142ystok, Poland: 19:1-19:22 (2023)."
+  title: MizAR 60 for Mizar 50.
+  year: 2023
 DBLP:conf/itp/JakubuvU19:
   authors: Jan Jakubuv, Josef Urban
   dblp: conf/itp/JakubuvU19
