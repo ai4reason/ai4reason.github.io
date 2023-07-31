@@ -109,6 +109,20 @@ DBLP:conf/aaai/BeyersdorffCJ16:
   title: Extension Variables in QBF Resolution.
   url: http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12612
   year: 2016
+DBLP:conf/aaai/GauthierU23:
+  authors: Thibault Gauthier, Josef Urban
+  dblp: conf/aaai/GauthierU23
+  groups:
+  - AR
+  - main
+  link: https://ojs.aaai.org/index.php/AAAI/article/view/25930
+  source: 'Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Thirty-Fifth
+    Conference on Innovative Applications of Artificial Intelligence, IAAI 2023, Thirteenth
+    Symposium on Educational Advances in Artificial Intelligence, EAAI 2023, Washington,
+    DC, USA, February 7-14, 2023: 7670-7677 (2023).'
+  title: Learning Program Synthesis for Integer Sequences from Scratch.
+  url: https://ojs.aaai.org/index.php/AAAI/article/view/25930
+  year: 2023
 DBLP:conf/aaai/Janota18:
   authors: "Mikol\xE1s Janota"
   dblp: conf/aaai/Janota18
