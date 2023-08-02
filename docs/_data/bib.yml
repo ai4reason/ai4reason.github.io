@@ -9302,6 +9302,17 @@ DBLP:journals/corr/abs-2305-08005:
   source: arXiv CoRR abs/2305.08005 (2023).
   title: 'Beyond the Safeguards: Exploring the Security Risks of ChatGPT.'
   year: 2023
+DBLP:journals/corr/abs-2307-13014:
+  authors: "Pedro Orvalho, Jelle Piepenbrock, Mikol\xE1s Janota, Vasco M. Manquinho"
+  dblp: journals/corr/abs-2307-13014
+  doi: https://doi.org/10.48550/arXiv.2307.13014
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2307.13014
+  source: arXiv CoRR abs/2307.13014 (2023).
+  title: Graph Neural Networks For Mapping Variables Between Programs - Extended Version.
+  year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
