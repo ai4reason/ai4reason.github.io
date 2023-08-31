@@ -2722,7 +2722,7 @@ DBLP:conf/fuzzIEEE/PalitB01:
   title: Efficient Training Algorithm for Takagi-Sugeno Type Neuro-Fuzzy Network.
   year: 2001
 DBLP:conf/fuzzIEEE/PassaquayBBBT00:
-  authors: "D. Passaquay, M. Bross, Robert Babuska, S. Boverie, Andr\xE9 Titli"
+  authors: "D. Passaquay, M. Bross, Robert Babuska, Serge Boverie, Andr\xE9 Titli"
   dblp: conf/fuzzIEEE/PassaquayBBBT00
   doi: https://doi.org/10.1109/FUZZY.2000.838697
   groups:
@@ -6649,14 +6649,14 @@ DBLP:journals/ai/Marques-SilvaJM17:
 DBLP:journals/ai/WosWSVH84:
   authors: Larry Wos, Steve Winker, Barry Smith, Robert Veroff, Lawrence J. Henschen
   dblp: journals/ai/WosWSVH84
-  doi: https://doi.org/10.1016/0004-3702(84)90054-7
   groups:
   - AR
   - main
-  link: https://doi.org/10.1016/0004-3702(84)90054-7
+  link: https://www.wikidata.org/entity/Q114262293
   source: 'Artif. Intell. 22: 303-356 (1984).'
   title: 'A New Use of an Automated Reasoning Assistant: Open Questions in Equivalential
     Calculus and the Study of Infinite Domains.'
+  url: https://www.wikidata.org/entity/Q114262293
   year: 1984
 DBLP:journals/aicom/FontaineKSU18:
   authors: Pascal Fontaine, Cezary Kaliszyk, Stephan Schulz, Josef Urban
@@ -10080,24 +10080,24 @@ DBLP:journals/jar/Veroff03:
 DBLP:journals/jar/Veroff22:
   authors: Robert Veroff
   dblp: journals/jar/Veroff22
-  doi: https://doi.org/10.1007/s10817-021-09614-y
   groups:
   - AR
   - main
-  link: https://doi.org/10.1007/s10817-021-09614-y
+  link: https://www.wikidata.org/entity/Q114264018
   source: 'J. Autom. Reason. 66: 565-574 (2022).'
   title: A Wos Challenge Met.
+  url: https://www.wikidata.org/entity/Q114264018
   year: 2022
 DBLP:journals/jar/Veroff92:
   authors: Robert Veroff
   dblp: journals/jar/Veroff92
-  doi: https://doi.org/10.1007/BF00244283
   groups:
   - AR
   - main
-  link: https://doi.org/10.1007/BF00244283
+  link: https://www.wikidata.org/entity/Q114267080
   source: 'J. Autom. Reason. 8: 213-274 (1992).'
   title: 'The Linked Inference Principle, I: The Formal Treatment.'
+  url: https://www.wikidata.org/entity/Q114267080
   year: 1992
 DBLP:journals/jar/Veroff96:
   authors: Robert Veroff
@@ -10465,14 +10465,14 @@ DBLP:journals/nca/HurtikTHH22:
 DBLP:journals/ndjfl/HenschenSVWW83:
   authors: Larry Henschen, Barry Smith, Robert Veroff, Steve Winker, Larry Wos
   dblp: journals/ndjfl/HenschenSVWW83
-  doi: https://doi.org/10.1305/ndjfl/1093870311
   groups:
   - AR
   - main
-  link: https://doi.org/10.1305/ndjfl/1093870311
+  link: https://www.wikidata.org/entity/Q114254310
   source: 'Notre Dame J. Formal Log. 24: 205-223 (1983).'
   title: 'Questions concerning possible shortest single axioms for the equivalential
     calculus: an application of automated theorem proving to infinite domains.'
+  url: https://www.wikidata.org/entity/Q114254310
   year: 1983
 DBLP:journals/neco/OrorbiaMR17:
   authors: "II Alexander G. Ororbia, Tom\xE1s Mikolov, David Reitter"
@@ -10617,13 +10617,13 @@ DBLP:journals/ress/VerbertSB17:
 DBLP:journals/sLogica/BeesonVW05:
   authors: Michael Beeson, Robert Veroff, Larry Wos
   dblp: journals/sLogica/BeesonVW05
-  doi: https://doi.org/10.1007/s11225-005-8469-4
   groups:
   - AR
   - main
-  link: https://doi.org/10.1007/s11225-005-8469-4
+  link: https://www.wikidata.org/entity/Q114262834
   source: 'Stud Logica 80: 195-234 (2005).'
   title: Double-Negation Elimination in Some Propositional Logics.
+  url: https://www.wikidata.org/entity/Q114262834
   year: 2005
 DBLP:journals/sLogica/SpinksV08:
   authors: Matthew Spinks, Robert Veroff
