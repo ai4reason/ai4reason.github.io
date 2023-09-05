@@ -87,15 +87,15 @@ DBLP:conf/IEEEcca/StanoLBBK10:
 DBLP:conf/aaai/BalabanovJJW15:
   authors: Valeriy Balabanov, Jie-Hong Roland Jiang, Mikolas Janota, Magdalena Widl
   dblp: conf/aaai/BalabanovJJW15
+  doi: https://doi.org/10.1609/aaai.v31i1.9750
   groups:
   - FM
   - main
-  link: http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9419
+  link: https://doi.org/10.1609/aaai.v31i1.9750
   source: 'Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence,
     January 25-30, 2015, Austin, Texas, USA.: 3694-3701 (2015).'
   title: Efficient Extraction of QBF (Counter)models from Long-Distance Resolution
     Proofs.
-  url: http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9419
   year: 2015
 DBLP:conf/aaai/BeyersdorffCJ16:
   authors: Olaf Beyersdorff, Leroy Chew, Mikolas Janota
@@ -103,53 +103,53 @@ DBLP:conf/aaai/BeyersdorffCJ16:
   groups:
   - FM
   - main
-  link: http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12612
+  link: http://www.aaai.org/ocs/index.php//WS/AAAIW16/paper/view/12612
   source: 'Beyond NP, Papers from the 2016 AAAI Workshop, Phoenix, Arizona, USA, February
     12, 2016.: (2016).'
   title: Extension Variables in QBF Resolution.
-  url: http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12612
+  url: http://www.aaai.org/ocs/index.php//WS/AAAIW16/paper/view/12612
   year: 2016
 DBLP:conf/aaai/GauthierU23:
   authors: Thibault Gauthier, Josef Urban
   dblp: conf/aaai/GauthierU23
+  doi: https://doi.org/10.1609/aaai.v37i6.25930
   groups:
   - AR
   - main
-  link: https://ojs.aaai.org/index.php/AAAI/article/view/25930
+  link: https://doi.org/10.1609/aaai.v37i6.25930
   source: 'Thirty-Seventh AAAI Conference on Artificial Intelligence, AAAI 2023, Thirty-Fifth
     Conference on Innovative Applications of Artificial Intelligence, IAAI 2023, Thirteenth
     Symposium on Educational Advances in Artificial Intelligence, EAAI 2023, Washington,
     DC, USA, February 7-14, 2023: 7670-7677 (2023).'
   title: Learning Program Synthesis for Integer Sequences from Scratch.
-  url: https://ojs.aaai.org/index.php/AAAI/article/view/25930
   year: 2023
 DBLP:conf/aaai/Janota18:
   authors: "Mikol\xE1s Janota"
   dblp: conf/aaai/Janota18
+  doi: https://doi.org/10.1609/aaai.v32i1.12208
   groups:
   - FM
   - main
-  link: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16945
+  link: https://doi.org/10.1609/aaai.v32i1.12208
   source: 'Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence,
     (AAAI-18), the 30th innovative Applications of Artificial Intelligence (IAAI-18),
     and the 8th AAAI Symposium on Educational Advances in Artificial Intelligence
     (EAAI-18), New Orleans, Louisiana, USA, February 2-7, 2018: 6607-6614 (2018).'
   title: Towards Generalization in QBF Solving via Machine Learning.
-  url: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16945
   year: 2018
 DBLP:conf/aaai/KielaGJM18:
   authors: "Douwe Kiela, Edouard Grave, Armand Joulin, Tom\xE1s Mikolov"
   dblp: conf/aaai/KielaGJM18
+  doi: https://doi.org/10.1609/aaai.v32i1.11945
   groups:
   - FAI
   - main
-  link: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16166
+  link: https://doi.org/10.1609/aaai.v32i1.11945
   source: 'Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence,
     (AAAI-18), the 30th innovative Applications of Artificial Intelligence (IAAI-18),
     and the 8th AAAI Symposium on Educational Advances in Artificial Intelligence
     (EAAI-18), New Orleans, Louisiana, USA, February 2-7, 2018: 5198-5204 (2018).'
   title: Efficient Large-Scale Multi-Modal Classification.
-  url: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16166
   year: 2018
 DBLP:conf/aamas/BusoniuESB07:
   authors: Lucian Busoniu, Damien Ernst, Bart De Schutter, Robert Babuska
