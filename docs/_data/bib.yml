@@ -103,11 +103,11 @@ DBLP:conf/aaai/BeyersdorffCJ16:
   groups:
   - FM
   - main
-  link: http://www.aaai.org/ocs/index.php//WS/AAAIW16/paper/view/12612
+  link: http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12612
   source: 'Beyond NP, Papers from the 2016 AAAI Workshop, Phoenix, Arizona, USA, February
     12, 2016.: (2016).'
   title: Extension Variables in QBF Resolution.
-  url: http://www.aaai.org/ocs/index.php//WS/AAAIW16/paper/view/12612
+  url: http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12612
   year: 2016
 DBLP:conf/aaai/GauthierU23:
   authors: Thibault Gauthier, Josef Urban
@@ -3963,7 +3963,7 @@ DBLP:conf/iros/WangHB13:
   - main
   link: https://doi.org/10.1109/IROS.2013.6696676
   source: '2013 IEEE/RSJ International Conference on Intelligent Robots and Systems,
-    Tokyo, Japan, November 3-7, 2013: 2288-2294 (2013).'
+    IROS 2013, Tokyo, Japan, November 3-7, 2013: 2288-2294 (2013).'
   title: Robot learning and use of affordances in goal-directed tasks.
   year: 2013
 DBLP:conf/isaim/Urban16:
