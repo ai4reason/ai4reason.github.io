@@ -5151,6 +5151,19 @@ DBLP:conf/mkm/HulaJJK22:
     2022, Tbilisi, Georgia, September 19-23, 2022, Proceedings: 256-271 (2022).'
   title: Targeted Configuration of an SMT Solver.
   year: 2022
+DBLP:conf/mkm/JakubuvK23:
+  authors: Jan Jakubuv, Cezary Kaliszyk
+  dblp: conf/mkm/JakubuvK23
+  doi: https://doi.org/10.1007/978-3-031-42753-4_22
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-42753-4_22
+  source: 'Intelligent Computer Mathematics - 16th International Conference, CICM
+    2023, Cambridge, UK, September 5-8, 2023, Proceedings: 303-308 (2023).'
+  title: 'VizAR: Visualization of Automated Reasoning Proofs (System Description).'
+  year: 2023
 DBLP:conf/mkm/JakubuvU16:
   authors: Jan Jakubuv, Josef Urban
   dblp: conf/mkm/JakubuvU16
