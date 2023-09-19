@@ -87,11 +87,11 @@ DBLP:conf/IEEEcca/StanoLBBK10:
 DBLP:conf/aaai/BalabanovJJW15:
   authors: Valeriy Balabanov, Jie-Hong Roland Jiang, Mikolas Janota, Magdalena Widl
   dblp: conf/aaai/BalabanovJJW15
-  doi: https://doi.org/10.1609/aaai.v31i1.9750
+  doi: https://doi.org/10.1609/aaai.v29i1.9750
   groups:
   - FM
   - main
-  link: https://doi.org/10.1609/aaai.v31i1.9750
+  link: https://doi.org/10.1609/aaai.v29i1.9750
   source: 'Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence,
     January 25-30, 2015, Austin, Texas, USA.: 3694-3701 (2015).'
   title: Efficient Extraction of QBF (Counter)models from Long-Distance Resolution
