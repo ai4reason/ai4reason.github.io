@@ -2402,6 +2402,31 @@ DBLP:conf/fmcad/Nagashima20:
     September 21-24, 2020: 245-254 (2020).'
   title: Smart Induction for Isabelle/HOL (Tool Paper).
   year: 2020
+DBLP:conf/frocos/2023:
+  authors: Uli Sattler, Martin Suda
+  dblp: conf/frocos/2023
+  doi: https://doi.org/10.1007/978-3-031-43369-6
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.1007/978-3-031-43369-6
+  source: Lecture Notes in Computer Science 14279 (2023).
+  title: Frontiers of Combining Systems - 14th International Symposium, FroCoS 2023,
+    Prague, Czech Republic, September 20-22, 2023, Proceedings
+  year: 2023
+DBLP:conf/frocos/BrownPU23:
+  authors: Chad E. Brown, Adam Pease, Josef Urban
+  dblp: conf/frocos/BrownPU23
+  doi: https://doi.org/10.1007/978-3-031-43369-6_14
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-43369-6_14
+  source: 'Frontiers of Combining Systems - 14th International Symposium, FroCoS 2023,
+    Prague, Czech Republic, September 20-22, 2023, Proceedings: 255-274 (2023).'
+  title: Translating SUMO-K to Higher-Order Set Theory.
+  year: 2023
 DBLP:conf/frocos/GoertzelCJOU21:
   authors: "Zarathustra Amadeus Goertzel, Karel Chvalovsk\xFD, Jan Jakubuv, Miroslav\
     \ Ols\xE1k, Josef Urban"
@@ -2452,6 +2477,19 @@ DBLP:conf/frocos/Suda21:
     Birmingham, UK, September 8-10, 2021, Proceedings: 192-209 (2021).'
   title: Vampire with a Brain Is a Good ITP Hammer.
   year: 2021
+DBLP:conf/frocos/ZhangBKU23:
+  authors: Liao Zhang, Lasse Blaauwbroek, Cezary Kaliszyk, Josef Urban
+  dblp: conf/frocos/ZhangBKU23
+  doi: https://doi.org/10.1007/978-3-031-43369-6_13
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.1007/978-3-031-43369-6_13
+  source: 'Frontiers of Combining Systems - 14th International Symposium, FroCoS 2023,
+    Prague, Czech Republic, September 20-22, 2023, Proceedings: 236-254 (2023).'
+  title: Learning Proof Transformations and Its Applications in Interactive Theorem
+    Proving.
+  year: 2023
 DBLP:conf/fuzzIEEE/AbonyiB00:
   authors: "J\xE1nos Abonyi, Robert Babuska"
   dblp: conf/fuzzIEEE/AbonyiB00
@@ -6314,6 +6352,18 @@ DBLP:conf/synasc/KaliszykUV17:
     Computing, SYNASC 2017, Timisoara, Romania, September 21-24, 2017: 169-172 (2017).'
   title: 'System Description: Statistical Parsing of Informalized Mizar Formulas.'
   year: 2017
+DBLP:conf/tableaux/2023:
+  authors: Revantha Ramanayake, Josef Urban
+  dblp: conf/tableaux/2023
+  doi: https://doi.org/10.1007/978-3-031-43513-3
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.1007/978-3-031-43513-3
+  source: Lecture Notes in Computer Science 14278 (2023).
+  title: Automated Reasoning with Analytic Tableaux and Related Methods - 32nd International
+    Conference, TABLEAUX 2023, Prague, Czech Republic, September 18-21, 2023, Proceedings
+  year: 2023
 DBLP:conf/tableaux/BrownS09:
   authors: Chad E. Brown, Gert Smolka
   dblp: conf/tableaux/BrownS09
@@ -6355,6 +6405,19 @@ DBLP:conf/tableaux/GoertzelJU19:
     (2019).'
   title: 'ENIGMAWatch: ProofWatch Meets ENIGMA.'
   year: 2019
+DBLP:conf/tableaux/PiotrowskiMA23:
+  authors: "Bartosz Piotrowski, Ramon Fern\xE1ndez Mir, Edward W. Ayers"
+  dblp: conf/tableaux/PiotrowskiMA23
+  doi: https://doi.org/10.1007/978-3-031-43513-3_10
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-43513-3_10
+  source: 'Automated Reasoning with Analytic Tableaux and Related Methods - 32nd International
+    Conference, TABLEAUX 2023, Prague, Czech Republic, September 18-21, 2023, Proceedings:
+    175-186 (2023).'
+  title: Machine-Learned Premise Selection for Lean.
+  year: 2023
 DBLP:conf/tableaux/UrbanVS11:
   authors: "Josef Urban, Jir\xED Vyskocil, Petr Step\xE1nek"
   dblp: conf/tableaux/UrbanVS11
