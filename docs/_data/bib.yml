@@ -1734,6 +1734,18 @@ DBLP:conf/collas/CisnerosMS22:
   title: Benchmarking Learning Efficiency in Deep Reservoir Computing.
   url: https://proceedings.mlr.press/v199/cisneros22a.html
   year: 2022
+DBLP:conf/cp/0002CJ23:
+  authors: "Jo\xE3o Ara\xFAjo, Choiwah Chow, Mikol\xE1s Janota"
+  dblp: conf/cp/0002CJ23
+  doi: https://doi.org/10.4230/LIPIcs.CP.2023.8
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.4230/LIPIcs.CP.2023.8
+  source: '29th International Conference on Principles and Practice of Constraint
+    Programming, CP 2023, August 27-31, 2023, Toronto, Canada: 8:1-8:19 (2023).'
+  title: Symmetries for Cube-And-Conquer in Finite Model Finding.
+  year: 2023
 DBLP:conf/cp/AraujoCJ21:
   authors: "Jo\xE3o Ara\xFAjo, Choiwah Chow, Mikol\xE1s Janota"
   dblp: conf/cp/AraujoCJ21
