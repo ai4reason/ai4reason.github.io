@@ -9401,6 +9401,17 @@ DBLP:journals/corr/abs-2307-13014:
   source: arXiv CoRR abs/2307.13014 (2023).
   title: Graph Neural Networks For Mapping Variables Between Programs - Extended Version.
   year: 2023
+DBLP:journals/corr/abs-2309-10492:
+  authors: Sergey Rodionov, Zarathustra Amadeus Goertzel, Ben Goertzel
+  dblp: journals/corr/abs-2309-10492
+  doi: https://doi.org/10.48550/arXiv.2309.10492
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.48550/arXiv.2309.10492
+  source: arXiv CoRR abs/2309.10492 (2023).
+  title: An Evaluation of GPT-4 on the ETHICS Dataset.
+  year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
