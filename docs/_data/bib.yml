@@ -9412,6 +9412,18 @@ DBLP:journals/corr/abs-2309-10492:
   source: arXiv CoRR abs/2309.10492 (2023).
   title: An Evaluation of GPT-4 on the ETHICS Dataset.
   year: 2023
+DBLP:journals/corr/abs-2309-17170:
+  authors: "Luuk van den Bent, Tom\xE1s Coleman, Robert Babuska"
+  dblp: journals/corr/abs-2309-17170
+  doi: https://doi.org/10.48550/arXiv.2309.17170
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2309.17170
+  source: arXiv CoRR abs/2309.17170 (2023).
+  title: A Vision-Guided Robotic System for Grasping Harvested Tomato Trusses in Cluttered
+    Environments.
+  year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
