@@ -1977,6 +1977,19 @@ DBLP:conf/eacl/GraveMJB17:
   title: Bag of Tricks for Efficient Text Classification.
   url: https://aclanthology.org/E17-2068/
   year: 2017
+DBLP:conf/ecai/HerelCM23:
+  authors: "David Herel, Hugo Cisneros, Tom\xE1s Mikolov"
+  dblp: conf/ecai/HerelCM23
+  doi: https://doi.org/10.3233/FAIA230376
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.3233/FAIA230376
+  source: "ECAI 2023 - 26th European Conference on Artificial Intelligence, September\
+    \ 30 - October 4, 2023, Krak\xF3w, Poland - Including 12th Conference on Prestigious\
+    \ Applications of Intelligent Systems (PAIS 2023): 1036-1043 (2023)."
+  title: Preserving Semantics in Textual Adversarial Attacks.
+  year: 2023
 DBLP:conf/ecai/Marques-SilvaJL10:
   authors: "Jo\xE3o Marques-Silva, Mikol\xE1s Janota, In\xEAs Lynce"
   dblp: conf/ecai/Marques-SilvaJL10
@@ -2003,6 +2016,19 @@ DBLP:conf/ecai/OlsakKU20:
     (PAIS 2020): 1395-1402 (2020).'
   title: Property Invariant Embedding for Automated Reasoning.
   year: 2020
+DBLP:conf/ecai/OrvalhoPJM23:
+  authors: "Pedro Orvalho, Jelle Piepenbrock, Mikol\xE1s Janota, Vasco M. Manquinho"
+  dblp: conf/ecai/OrvalhoPJM23
+  doi: https://doi.org/10.3233/FAIA230468
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.3233/FAIA230468
+  source: "ECAI 2023 - 26th European Conference on Artificial Intelligence, September\
+    \ 30 - October 4, 2023, Krak\xF3w, Poland - Including 12th Conference on Prestigious\
+    \ Applications of Intelligent Systems (PAIS 2023): 1811-1818 (2023)."
+  title: Graph Neural Networks for Mapping Variables Between Programs.
+  year: 2023
 DBLP:conf/ecai/TozickaJK14:
   authors: "Jan Tozicka, Jan Jakubuv, Anton\xEDn Komenda"
   dblp: conf/ecai/TozickaJK14
