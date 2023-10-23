@@ -9743,13 +9743,13 @@ DBLP:journals/evs/CaraPRLB10:
 DBLP:journals/fm/BrownP19:
   authors: Chad E. Brown, Karol Pak
   dblp: journals/fm/BrownP19
-  doi: https://doi.org/10.2478/forma-2019-0027
   groups:
   - FM
   - main
-  link: https://doi.org/10.2478/forma-2019-0027
+  link: https://www.wikidata.org/entity/Q123021496
   source: 'Formaliz. Math. 27: 321-335 (2019).'
   title: AIM Loops and the AIM Conjecture.
+  url: https://www.wikidata.org/entity/Q123021496
   year: 2019
 DBLP:journals/fss/Chvalovsky12:
   authors: "Karel Chvalovsk\xFD"
