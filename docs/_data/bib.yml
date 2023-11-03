@@ -9450,6 +9450,20 @@ DBLP:journals/corr/abs-2309-17170:
   title: A Vision-Guided Robotic System for Grasping Harvested Tomato Trusses in Cluttered
     Environments.
   year: 2023
+DBLP:journals/corr/abs-2310-18318:
+  authors: "Ben Goertzel, Vitaly Bogdanov, Michael Duncan, Deborah Duong, Zarathustra\
+    \ Amadeus Goertzel, Jan Horlings, Matthew Ikl\xE9, Lucius Gregory Meredith, Alexey\
+    \ Potapov, Andre Luiz de Senna, Hedra Seid, Andres Suarez, Adam Vandervorst, Robert\
+    \ Werko"
+  dblp: journals/corr/abs-2310-18318
+  doi: https://doi.org/10.48550/arXiv.2310.18318
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.48550/arXiv.2310.18318
+  source: arXiv CoRR abs/2310.18318 (2023).
+  title: 'OpenCog Hyperon: A Framework for AGI at the Human Level and Beyond.'
+  year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
