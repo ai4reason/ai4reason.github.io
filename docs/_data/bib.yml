@@ -9849,6 +9849,17 @@ DBLP:journals/ijait/Urban06:
   title: Momm - Fast Interreduction and Retrieval in Large Libraries of Formalized
     Mathematics.
   year: 2006
+DBLP:journals/ijar/GauthierOU23:
+  authors: "Thibault Gauthier, Miroslav Ols\xE1k, Josef Urban"
+  dblp: journals/ijar/GauthierOU23
+  doi: https://doi.org/10.1016/j.ijar.2023.109009
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.1016/j.ijar.2023.109009
+  source: 'Int. J. Approx. Reason. 162: (2023/11).'
+  title: Alien coding.
+  year: 2023
 DBLP:journals/ijar/HartogBDGVV97:
   authors: M. H. den Hartog, Robert Babuska, H. J. R. Deketh, M. Alvarez Grima, P.
     N. W. Verhoef, Henk B. Verbruggen
