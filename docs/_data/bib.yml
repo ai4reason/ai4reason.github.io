@@ -9464,6 +9464,17 @@ DBLP:journals/corr/abs-2310-18318:
   source: arXiv CoRR abs/2310.18318 (2023).
   title: 'OpenCog Hyperon: A Framework for AGI at the Human Level and Beyond.'
   year: 2023
+DBLP:journals/corr/abs-2311-11415:
+  authors: "Erik Derner, Kristina Batistic, Jan Zah\xE1lka, Robert Babuska"
+  dblp: journals/corr/abs-2311-11415
+  doi: https://doi.org/10.48550/arXiv.2311.11415
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2311.11415
+  source: arXiv CoRR abs/2311.11415 (2023).
+  title: A Security Risk Taxonomy for Large Language Models.
+  year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
