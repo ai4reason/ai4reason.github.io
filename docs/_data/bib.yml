@@ -3722,6 +3722,18 @@ DBLP:conf/ijcci/CernyK13:
     Intelligence, Vilamoura, Algarve, Portugal, 20-22 September, 2013: 37-46 (2013).'
   title: Analysis of Co-evolutionary Approach for Robotic Gait Generation.
   year: 2013
+DBLP:conf/ijcci/HynerHJ23:
+  authors: "Petr Hyner, Jan Hula, Mikol\xE1s Janota"
+  dblp: conf/ijcci/HynerHJ23
+  doi: https://doi.org/10.5220/0012257900003595
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.5220/0012257900003595
+  source: 'Proceedings of the 15th International Joint Conference on Computational
+    Intelligence, IJCCI 2023, Rome, Italy, November 13-15, 2023.: 450-458 (2023).'
+  title: 'Molecule Builder: Environment for Testing Reinforcement Learning Agents.'
+  year: 2023
 DBLP:conf/ijcci/KubalikB15:
   authors: "Jir\xED Kubal\xEDk, Robert Babuska"
   dblp: conf/ijcci/KubalikB15
