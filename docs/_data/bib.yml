@@ -2428,6 +2428,18 @@ DBLP:conf/fmcad/JanotaBFR21:
     October 19-22, 2021: 256-260 (2021).'
   title: Fair and Adventurous Enumeration of Quantifier Instantiations.
   year: 2021
+DBLP:conf/fmcad/JanotaN23:
+  authors: Mikolas Janota, Nina Narodytska
+  dblp: conf/fmcad/JanotaN23
+  doi: https://doi.org/10.34727/2023/isbn.978-3-85448-060-0_8
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.34727/2023/isbn.978-3-85448-060-0_8
+  source: 'Formal Methods in Computer-Aided Design, FMCAD 2023, Ames, IA, USA, October
+    24-27, 2023: 1-2 (2023).'
+  title: The FMCAD 2023 Student Forum.
+  year: 2023
 DBLP:conf/fmcad/Nagashima20:
   authors: Yutaka Nagashima
   dblp: conf/fmcad/Nagashima20
@@ -6650,7 +6662,7 @@ DBLP:conf/wodes/LopesBSB10:
   title: Modeling and control of legged locomotion via switching max-plus systems.
   year: 2010
 DBLP:conf/www/YangHM019:
-  authors: "Carl Yang, Do Huy Hoang, Tom\xE1s Mikolov, Jiawei Han"
+  authors: "Carl J. Yang, Do Huy Hoang, Tom\xE1s Mikolov, Jiawei Han"
   dblp: conf/www/YangHM019
   doi: https://doi.org/10.1145/3308558.3313456
   groups:
@@ -8480,7 +8492,7 @@ DBLP:journals/corr/abs-1908-03627:
   year: 2019
 DBLP:journals/corr/abs-1910-04861:
   arXiv: http://arxiv.org/abs/1910.04861
-  authors: "Carl Yang, Do Huy Hoang, Tom\xE1s Mikolov, Jiawei Han"
+  authors: "Carl J. Yang, Do Huy Hoang, Tom\xE1s Mikolov, Jiawei Han"
   dblp: journals/corr/abs-1910-04861
   groups:
   - FAI
