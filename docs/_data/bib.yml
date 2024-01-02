@@ -9521,6 +9521,17 @@ DBLP:journals/corr/abs-2311-14772:
   source: arXiv CoRR abs/2311.14772 (2023).
   title: 'Trainwreck: A damaging adversarial attack on image classifiers.'
   year: 2023
+DBLP:journals/corr/abs-2312-03735:
+  authors: "David Herel, Tom\xE1s Mikolov"
+  dblp: journals/corr/abs-2312-03735
+  doi: https://doi.org/10.48550/arXiv.2312.03735
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.48550/arXiv.2312.03735
+  source: arXiv CoRR abs/2312.03735 (2023).
+  title: Advancing State of the Art in Language Modeling.
+  year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
