@@ -2175,6 +2175,20 @@ DBLP:conf/emo/JimenezGRB01:
   title: Accurate, Transparent, and Compact Fuzzy Models for Function Approximation
     and Dynamic Modeling through Multi-objective Evolutionary Optimization.
   year: 2001
+DBLP:conf/epia/AntonovSJ23:
+  authors: "Nikolai Antonov, Premysl Sucha, Mikol\xE1s Janota"
+  dblp: conf/epia/AntonovSJ23
+  doi: https://doi.org/10.1007/978-3-031-49008-8_38
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-49008-8_38
+  source: 'Progress in Artificial Intelligence - 22nd EPIA Conference on Artificial
+    Intelligence, EPIA 2023, Faial Island, Azores, September 5-8, 2023, Proceedings,
+    Part I: 483-494 (2023).'
+  title: Data-driven Single Machine Scheduling Minimizing Weighted Number of Tardy
+    Jobs.
+  year: 2023
 DBLP:conf/epia/Janota19:
   authors: "Mikol\xE1s Janota"
   dblp: conf/epia/Janota19
