@@ -6879,6 +6879,29 @@ DBLP:journals/aisy/KulkarniKBS22:
   title: Learning Assembly Tasks in a Few Minutes by Combining Impedance Control and
     Residual Recurrent Reinforcement Learning.
   year: 2022
+DBLP:journals/alife/HudcovaM22:
+  authors: "Barbora Hudcov\xE1, Tom\xE1s Mikolov"
+  dblp: journals/alife/HudcovaM22
+  doi: https://doi.org/10.1162/artl_a_00342
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.1162/artl_a_00342
+  source: 'Artif. Life 27: 220-245 (2022/03).'
+  title: Classification of Discrete Dynamical Systems Based on Transients.
+  year: 2022
+DBLP:journals/alife/KruszewskiM22:
+  authors: "Germ\xE1n Kruszewski, Tom\xE1s Mikolov"
+  dblp: journals/alife/KruszewskiM22
+  doi: https://doi.org/10.1162/artl_a_00355
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.1162/artl_a_00355
+  source: 'Artif. Life 27: 277-299 (2022/03).'
+  title: Emergence of Self-Reproducing Metabolisms as Recursive Algorithms in an Artificial
+    Chemistry.
+  year: 2022
 DBLP:journals/amc/HelmanV01:
   authors: Paul Helman, Robert Veroff
   dblp: journals/amc/HelmanV01
