@@ -9569,6 +9569,17 @@ DBLP:journals/corr/abs-2312-03735:
   source: arXiv CoRR abs/2312.03735 (2023).
   title: Advancing State of the Art in Language Modeling.
   year: 2023
+DBLP:journals/corr/abs-2312-16070:
+  authors: "Erik Derner, Dalibor Kucera, Nuria Oliver, Jan Zah\xE1lka"
+  dblp: journals/corr/abs-2312-16070
+  doi: https://doi.org/10.48550/arXiv.2312.16070
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2312.16070
+  source: arXiv CoRR abs/2312.16070 (2023).
+  title: Can ChatGPT Read Who You Are?
+  year: 2023
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
