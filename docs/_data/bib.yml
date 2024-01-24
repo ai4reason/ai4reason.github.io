@@ -3294,6 +3294,18 @@ DBLP:conf/icassp/MikolovKBGC09:
     (2009).'
   title: Neural network based language models for highly inflective languages.
   year: 2009
+DBLP:conf/iccv/KulhanekS23:
+  authors: "Jon\xE1s Kulh\xE1nek, Torsten Sattler"
+  dblp: conf/iccv/KulhanekS23
+  doi: https://doi.org/10.1109/ICCV51070.2023.01692
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/ICCV51070.2023.01692
+  source: 'IEEE/CVF International Conference on Computer Vision, ICCV 2023, Paris,
+    France, October 1-6, 2023: 18412-18423 (2023).'
+  title: 'Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra.'
+  year: 2023
 DBLP:conf/icdl-epirob/WangHB14:
   authors: Chang Wang, Koen V. Hindriks, Robert Babuska
   dblp: conf/icdl-epirob/WangHB14
@@ -9580,6 +9592,42 @@ DBLP:journals/corr/abs-2312-16070:
   source: arXiv CoRR abs/2312.16070 (2023).
   title: Can ChatGPT Read Who You Are?
   year: 2023
+DBLP:journals/corr/abs-2401-02948:
+  authors: "Lasse Blaauwbroek, Miroslav Ols\xE1k, Herman Geuvers"
+  dblp: journals/corr/abs-2401-02948
+  doi: https://doi.org/10.48550/arXiv.2401.02948
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.48550/arXiv.2401.02948
+  source: arXiv CoRR abs/2401.02948 (2024).
+  title: "Hashing Modulo Context-Sensitive \u03B1-Equivalence."
+  year: 2024
+DBLP:journals/corr/abs-2401-02949:
+  authors: "Jason Rute, Miroslav Ols\xE1k, Lasse Blaauwbroek, Fidel Ivan Schaposnik\
+    \ Massolo, Jelle Piepenbrock, Vasily Pestun"
+  dblp: journals/corr/abs-2401-02949
+  doi: https://doi.org/10.48550/arXiv.2401.02949
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2401.02949
+  source: arXiv CoRR abs/2401.02949 (2024).
+  title: 'Graph2Tac: Learning Hierarchical Representations of Math Concepts in Theorem
+    proving.'
+  year: 2024
+DBLP:journals/corr/abs-2401-02950:
+  authors: Lasse Blaauwbroek
+  dblp: journals/corr/abs-2401-02950
+  doi: https://doi.org/10.48550/arXiv.2401.02950
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.48550/arXiv.2401.02950
+  source: arXiv CoRR abs/2401.02950 (2024).
+  title: The Tactician's Web of Large-Scale Formal Knowledge.
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
