@@ -6688,7 +6688,7 @@ DBLP:conf/wodes/LopesBSB10:
   title: Modeling and control of legged locomotion via switching max-plus systems.
   year: 2010
 DBLP:conf/www/YangHM019:
-  authors: "Carl J. Yang, Do Huy Hoang, Tom\xE1s Mikolov, Jiawei Han"
+  authors: "Carl Yang, Do Huy Hoang, Tom\xE1s Mikolov, Jiawei Han"
   dblp: conf/www/YangHM019
   doi: https://doi.org/10.1145/3308558.3313456
   groups:
@@ -8541,7 +8541,7 @@ DBLP:journals/corr/abs-1908-03627:
   year: 2019
 DBLP:journals/corr/abs-1910-04861:
   arXiv: http://arxiv.org/abs/1910.04861
-  authors: "Carl J. Yang, Do Huy Hoang, Tom\xE1s Mikolov, Jiawei Han"
+  authors: "Carl Yang, Do Huy Hoang, Tom\xE1s Mikolov, Jiawei Han"
   dblp: journals/corr/abs-1910-04861
   groups:
   - FAI
