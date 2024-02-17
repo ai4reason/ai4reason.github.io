@@ -9628,6 +9628,18 @@ DBLP:journals/corr/abs-2401-02950:
   source: arXiv CoRR abs/2401.02950 (2024).
   title: The Tactician's Web of Large-Scale Formal Knowledge.
   year: 2024
+DBLP:journals/corr/abs-2402-06196:
+  authors: "Shervin Minaee, Tom\xE1s Mikolov, Narjes Nikzad, Meysam Chenaghlu, Richard\
+    \ Socher, Xavier Amatriain, Jianfeng Gao"
+  dblp: journals/corr/abs-2402-06196
+  doi: https://doi.org/10.48550/arXiv.2402.06196
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.48550/arXiv.2402.06196
+  source: arXiv CoRR abs/2402.06196 (2024).
+  title: 'Large Language Models: A Survey.'
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
