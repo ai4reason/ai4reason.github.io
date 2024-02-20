@@ -9640,6 +9640,19 @@ DBLP:journals/corr/abs-2402-06196:
   source: arXiv CoRR abs/2402.06196 (2024).
   title: 'Large Language Models: A Survey.'
   year: 2024
+DBLP:journals/corr/abs-2402-07757:
+  authors: Mikail Khona, Maya Okawa, Jan Hula, Rahul Ramesh, Kento Nishi, Robert P.
+    Dick, Ekdeep Singh Lubana, Hidenori Tanaka
+  dblp: journals/corr/abs-2402-07757
+  doi: https://doi.org/10.48550/arXiv.2402.07757
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2402.07757
+  source: arXiv CoRR abs/2402.07757 (2024).
+  title: 'Towards an Understanding of Stepwise Inference in Transformers: A Synthetic
+    Graph Navigation Model.'
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
