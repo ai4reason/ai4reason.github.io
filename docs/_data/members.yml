@@ -66,7 +66,8 @@
     - Formalization and verification of Mathematics
   image: /images/members/janota.png
   email: mikolas DOT janota AT gmail DOT com
-  homepage: https://sat.inesc-id.pt/~mikolas
+  #homepage: https://sat.inesc-id.pt/~mikolas
+  homepage: https://people.ciirc.cvut.cz/~janotmik/
   scholar: SFg4raQAAAAJ
   dblp: pid/56/2424
   orcid: 0000-0003-3487-784X
@@ -135,7 +136,8 @@
     - Automated Planning
     - Multiagent Systems
     - Air Traffic Control 
-  image: https://usermap.cvut.cz/profile/photos/0c1ea120-069f-4234-8ddd-d0a86c3c5568?type=jpg
+  #image: https://usermap.cvut.cz/profile/photos/0c1ea120-069f-4234-8ddd-d0a86c3c5568?type=jpg
+  image: /images/members/jakubuv.png
   email: jakubuv_AT_gmail_DOT_com
   homepage: https://people.ciirc.cvut.cz/~jakubja5
   scholar: -9PelKYAAAAJ
