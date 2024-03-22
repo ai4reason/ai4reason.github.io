@@ -4098,11 +4098,11 @@ DBLP:conf/isaim/Urban16:
   groups:
   - AR
   - main
-  link: http://isaim2016.cs.virginia.edu/papers/ISAIM2016_Proofs_Urban.pdf
+  link: https://isaim2016.cs.ou.edu/papers/ISAIM2016_Proofs_Urban.pdf
   source: 'International Symposium on Artificial Intelligence and Mathematics, ISAIM
     2016, Fort Lauderdale, Florida, USA, January 4-6, 2016.: (2016).'
   title: Learning Intelligent Theorem Proving from Large Formal Corpora.
-  url: http://isaim2016.cs.virginia.edu/papers/ISAIM2016_Proofs_Urban.pdf
+  url: https://isaim2016.cs.ou.edu/papers/ISAIM2016_Proofs_Urban.pdf
   year: 2016
 DBLP:conf/isalalife/CisnerosSM20:
   authors: "Hugo Cisneros, Josef Sivic, Tom\xE1s Mikolov"
