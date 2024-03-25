@@ -6733,6 +6733,18 @@ DBLP:journals/access/KubalikDZB21:
   source: 'IEEE Access 9: 139697-139711 (2021).'
   title: Symbolic Regression Methods for Reinforcement Learning.
   year: 2021
+DBLP:journals/access/VastlKKDB24:
+  authors: "Martin Vastl, Jon\xE1s Kulh\xE1nek, Jir\xED Kubal\xEDk, Erik Derner, Robert\
+    \ Babuska"
+  dblp: journals/access/VastlKKDB24
+  doi: https://doi.org/10.1109/ACCESS.2024.3374649
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/ACCESS.2024.3374649
+  source: 'IEEE Access 12: 37840-37849 (2024).'
+  title: 'SymFormer: End-to-End Symbolic Regression Using Transformer-Based Architecture.'
+  year: 2024
 DBLP:journals/afp/Nagashima16:
   authors: Yutaka Nagashima
   dblp: journals/afp/Nagashima16
