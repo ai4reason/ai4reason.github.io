@@ -3506,6 +3506,33 @@ DBLP:conf/icon-nlp/BafnaVB21:
   title: Constrained Decoding for Technical Term Retention in English-Hindi MT.
   url: https://aclanthology.org/2021.icon-main.1
   year: 2021
+DBLP:conf/icpram/AdamczykH24:
+  authors: David Adamczyk, Jan Hula
+  dblp: conf/icpram/AdamczykH24
+  doi: https://doi.org/10.5220/0012349800003654
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.5220/0012349800003654
+  source: 'Proceedings of the 13th International Conference on Pattern Recognition
+    Applications and Methods, ICPRAM 2024, Rome, Italy, February 24-26, 2024.: 695-705
+    (2024).'
+  title: Efficient Use of Large Language Models for Analysis of Text Corpora.
+  year: 2024
+DBLP:conf/icpram/MojzisekH24:
+  authors: "David Mojz\xEDsek, Jan Hula"
+  dblp: conf/icpram/MojzisekH24
+  doi: https://doi.org/10.5220/0012393600003654
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.5220/0012393600003654
+  source: 'Proceedings of the 13th International Conference on Pattern Recognition
+    Applications and Methods, ICPRAM 2024, Rome, Italy, February 24-26, 2024.: 360-369
+    (2024).'
+  title: Efficient Solver Scheduling and Selection for Satisfiability Modulo Theories
+    (SMT) Problems.
+  year: 2024
 DBLP:conf/icra/BehrensSB20:
   authors: "Jan Kristof Behrens, Karla St\xE9p\xE1nov\xE1, Robert Babuska"
   dblp: conf/icra/BehrensSB20
