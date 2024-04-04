@@ -9707,6 +9707,19 @@ DBLP:journals/corr/abs-2402-07757:
   title: 'Towards an Understanding of Stepwise Inference in Transformers: A Synthetic
     Graph Navigation Model.'
   year: 2024
+DBLP:journals/corr/abs-2403-04017:
+  authors: Lasse Blaauwbroek, David M. Cerna, Thibault Gauthier, Jan Jakubuv, Cezary
+    Kaliszyk, Martin Suda, Josef Urban
+  dblp: journals/corr/abs-2403-04017
+  doi: https://doi.org/10.48550/arXiv.2403.04017
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2403.04017
+  source: arXiv CoRR abs/2403.04017 (2024).
+  title: 'Learning Guided Automated Reasoning: A Brief Survey.'
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
