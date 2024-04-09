@@ -9720,6 +9720,18 @@ DBLP:journals/corr/abs-2403-04017:
   source: arXiv CoRR abs/2403.04017 (2024).
   title: 'Learning Guided Automated Reasoning: A Brief Survey.'
   year: 2024
+DBLP:journals/corr/abs-2403-12869:
+  authors: "Filip B\xE1rtek, Karel Chvalovsk\xFD, Martin Suda"
+  dblp: journals/corr/abs-2403-12869
+  doi: https://doi.org/10.48550/arXiv.2403.12869
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2403.12869
+  source: arXiv CoRR abs/2403.12869 (2024).
+  title: Regularization in Spider-Style Strategy Discovery and Schedule Construction.
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
