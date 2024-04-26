@@ -7018,14 +7018,14 @@ DBLP:journals/asc/DernerKAB20:
 DBLP:journals/asc/KremmelKB11:
   authors: "Thomas Kremmel, Jir\xED Kubal\xEDk, Stefan Biffl"
   dblp: journals/asc/KremmelKB11
-  doi: https://doi.org/10.1016/j.asoc.2010.04.013
   groups:
   - ML
   - main
-  link: https://doi.org/10.1016/j.asoc.2010.04.013
+  link: https://orkg.org/orkg/resource/R28870
   source: 'Appl. Soft Comput. 11: 1416-1426 (2011).'
   title: Software project portfolio optimization with advanced multiobjective evolutionary
     algorithms.
+  url: https://orkg.org/orkg/resource/R28870
   year: 2011
 DBLP:journals/automatica/AbouheafLVHB14:
   authors: Mohammed I. Abouheaf, Frank L. Lewis, Kyriakos G. Vamvoudakis, Sofie Haesaert,
