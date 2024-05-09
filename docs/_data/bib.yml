@@ -2060,7 +2060,7 @@ DBLP:conf/ecai/TozickaJK14:
     Machines.
   year: 2014
 DBLP:conf/eccv/KulhanekDSB22:
-  authors: "Jon\xE1s Kulh\xE1nek, Erik Derner, Torsten Sattler, Robert Babuska"
+  authors: Jonas Kulhanek, Erik Derner, Torsten Sattler, Robert Babuska
   dblp: conf/eccv/KulhanekDSB22
   doi: https://doi.org/10.1007/978-3-031-19784-0_12
   groups:
@@ -2125,7 +2125,7 @@ DBLP:conf/ecmr/HernandezGDB19:
   title: Indoor Scene Recognition based on Weighted Voting Schemes.
   year: 2019
 DBLP:conf/ecmr/KulhanekDBB19:
-  authors: "Jon\xE1s Kulh\xE1nek, Erik Derner, Tim de Bruin, Robert Babuska"
+  authors: Jonas Kulhanek, Erik Derner, Tim de Bruin, Robert Babuska
   dblp: conf/ecmr/KulhanekDBB19
   doi: https://doi.org/10.1109/ECMR.2019.8870964
   groups:
@@ -3310,7 +3310,7 @@ DBLP:conf/icassp/MikolovKBGC09:
   title: Neural network based language models for highly inflective languages.
   year: 2009
 DBLP:conf/iccv/KulhanekS23:
-  authors: "Jon\xE1s Kulh\xE1nek, Torsten Sattler"
+  authors: Jonas Kulhanek, Torsten Sattler
   dblp: conf/iccv/KulhanekS23
   doi: https://doi.org/10.1109/ICCV51070.2023.01692
   groups:
@@ -6776,7 +6776,7 @@ DBLP:journals/access/KubalikDZB21:
   title: Symbolic Regression Methods for Reinforcement Learning.
   year: 2021
 DBLP:journals/access/VastlKKDB24:
-  authors: "Martin Vastl, Jon\xE1s Kulh\xE1nek, Jir\xED Kubal\xEDk, Erik Derner, Robert\
+  authors: "Martin Vastl, Jonas Kulhanek, Jir\xED Kubal\xEDk, Erik Derner, Robert\
     \ Babuska"
   dblp: journals/access/VastlKKDB24
   doi: https://doi.org/10.1109/ACCESS.2024.3374649
@@ -8584,7 +8584,7 @@ DBLP:journals/corr/abs-1907-08368:
   year: 2019
 DBLP:journals/corr/abs-1908-03627:
   arXiv: http://arxiv.org/abs/1908.03627
-  authors: "Jon\xE1s Kulh\xE1nek, Erik Derner, Tim de Bruin, Robert Babuska"
+  authors: Jonas Kulhanek, Erik Derner, Tim de Bruin, Robert Babuska
   dblp: journals/corr/abs-1908-03627
   groups:
   - ML
@@ -8978,7 +8978,7 @@ DBLP:journals/corr/abs-2010-10296:
   year: 2020
 DBLP:journals/corr/abs-2010-10903:
   arXiv: https://arxiv.org/abs/2010.10903
-  authors: "Jon\xE1s Kulh\xE1nek, Erik Derner, Robert Babuska"
+  authors: Jonas Kulhanek, Erik Derner, Robert Babuska
   dblp: journals/corr/abs-2010-10903
   groups:
   - ML
@@ -9012,7 +9012,7 @@ DBLP:journals/corr/abs-2102-03529:
   year: 2021
 DBLP:journals/corr/abs-2102-05126:
   arXiv: https://arxiv.org/abs/2102.05126
-  authors: "Jon\xE1s Kulh\xE1nek, Vojtech Hudecek, Tom\xE1s Nekvinda, Ondrej Dusek"
+  authors: "Jonas Kulhanek, Vojtech Hudecek, Tom\xE1s Nekvinda, Ondrej Dusek"
   dblp: journals/corr/abs-2102-05126
   groups:
   - ML
@@ -9271,7 +9271,7 @@ DBLP:journals/corr/abs-2203-02381:
     Planning.'
   year: 2022
 DBLP:journals/corr/abs-2203-10157:
-  authors: "Jon\xE1s Kulh\xE1nek, Erik Derner, Torsten Sattler, Robert Babuska"
+  authors: Jonas Kulhanek, Erik Derner, Torsten Sattler, Robert Babuska
   dblp: journals/corr/abs-2203-10157
   doi: https://doi.org/10.48550/arXiv.2203.10157
   groups:
@@ -9319,7 +9319,7 @@ DBLP:journals/corr/abs-2205-06640:
   title: Lash 1.0 (System Description).
   year: 2022
 DBLP:journals/corr/abs-2205-15764:
-  authors: "Martin Vastl, Jon\xE1s Kulh\xE1nek, Jir\xED Kubal\xEDk, Erik Derner, Robert\
+  authors: "Martin Vastl, Jonas Kulhanek, Jir\xED Kubal\xEDk, Erik Derner, Robert\
     \ Babuska"
   dblp: journals/corr/abs-2205-15764
   doi: https://doi.org/10.48550/arXiv.2205.15764
@@ -9510,7 +9510,7 @@ DBLP:journals/corr/abs-2304-02986:
   title: A Mathematical Benchmark for Inductive Theorem Provers.
   year: 2023
 DBLP:journals/corr/abs-2304-09987:
-  authors: "Jon\xE1s Kulh\xE1nek, Torsten Sattler"
+  authors: Jonas Kulhanek, Torsten Sattler
   dblp: journals/corr/abs-2304-09987
   doi: https://doi.org/10.48550/arXiv.2304.09987
   groups:
@@ -9731,6 +9731,18 @@ DBLP:journals/corr/abs-2403-12869:
   link: https://doi.org/10.48550/arXiv.2403.12869
   source: arXiv CoRR abs/2403.12869 (2024).
   title: Regularization in Spider-Style Strategy Discovery and Schedule Construction.
+  year: 2024
+DBLP:journals/corr/abs-2404-01761:
+  authors: Thibault Gauthier, Chad E. Brown
+  dblp: journals/corr/abs-2404-01761
+  doi: https://doi.org/10.48550/arXiv.2404.01761
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2404.01761
+  source: arXiv CoRR abs/2404.01761 (2024).
+  title: A Formal Proof of R(4, 5)=25.
   year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
@@ -10951,7 +10963,7 @@ DBLP:journals/ral/KoryakovskiyKVB18:
   url: https://www.wikidata.org/entity/Q62562053
   year: 2018
 DBLP:journals/ral/KulhanekDB21:
-  authors: "Jon\xE1s Kulh\xE1nek, Erik Derner, Robert Babuska"
+  authors: Jonas Kulhanek, Erik Derner, Robert Babuska
   dblp: journals/ral/KulhanekDB21
   doi: https://doi.org/10.1109/LRA.2021.3068106
   groups:
