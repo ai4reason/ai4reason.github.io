@@ -9744,6 +9744,17 @@ DBLP:journals/corr/abs-2404-01761:
   source: arXiv CoRR abs/2404.01761 (2024).
   title: A Formal Proof of R(4, 5)=25.
   year: 2024
+DBLP:journals/corr/abs-2404-02305:
+  authors: "David Herel, Tom\xE1s Mikolov"
+  dblp: journals/corr/abs-2404-02305
+  doi: https://doi.org/10.48550/arXiv.2404.02305
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.48550/arXiv.2404.02305
+  source: arXiv CoRR abs/2404.02305 (2024).
+  title: Collapse of Self-trained Language Models.
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
