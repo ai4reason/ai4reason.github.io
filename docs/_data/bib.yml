@@ -6470,6 +6470,19 @@ DBLP:conf/synasc/DamestaniK019:
     Computing, SYNASC 2019, Timisoara, Romania, September 4-7, 2019: 95-99 (2019).'
   title: Superposition Reasoning about Quantified Bitvector Formulas.
   year: 2019
+DBLP:conf/synasc/JanotaPC23:
+  authors: "Mikol\xE1s Janota, Bartosz Piotrowski, Karel Chvalovsk\xFD"
+  dblp: conf/synasc/JanotaPC23
+  doi: https://doi.org/10.1109/SYNASC61333.2023.00018
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1109/SYNASC61333.2023.00018
+  source: '25th International Symposium on Symbolic and Numeric Algorithms for Scientific
+    Computing, SYNASC 2023, Nancy, France, September 11-14, 2023: 82-85 (2023).'
+  title: Towards Learning Infinite SMT Models (Work in Progress).
+  year: 2023
 DBLP:conf/synasc/KaliszykUV17:
   authors: "Cezary Kaliszyk, Josef Urban, Jir\xED Vyskocil"
   dblp: conf/synasc/KaliszykUV17
