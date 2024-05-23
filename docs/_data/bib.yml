@@ -9768,6 +9768,17 @@ DBLP:journals/corr/abs-2404-02305:
   source: arXiv CoRR abs/2404.02305 (2024).
   title: Collapse of Self-trained Language Models.
   year: 2024
+DBLP:journals/corr/abs-2404-12048:
+  authors: "Chad E. Brown, Mikol\xE1s Janota, Mirek Ols\xE1k"
+  dblp: journals/corr/abs-2404-12048
+  doi: https://doi.org/10.48550/arXiv.2404.12048
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2404.12048
+  source: arXiv CoRR abs/2404.12048 (2024).
+  title: Symbolic Computation for All the Fun.
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
