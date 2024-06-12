@@ -3901,8 +3901,8 @@ DBLP:conf/interspeech/ChelbaMSGBKR14:
   - FAI
   - main
   link: https://doi.org/10.21437/Interspeech.2014-564
-  source: 'INTERSPEECH 2014, 15th Annual Conference of the International Speech Communication
-    Association, Singapore, September 14-18, 2014: 2635-2639 (2014).'
+  source: '15th Annual Conference of the International Speech Communication Association,
+    INTERSPEECH 2014, Singapore, September 14-18, 2014: 2635-2639 (2014).'
   title: One billion word benchmark for measuring progress in statistical language
     modeling.
   year: 2014
@@ -3914,8 +3914,8 @@ DBLP:conf/interspeech/GlembekMBM08:
   - FAI
   - main
   link: https://doi.org/10.21437/Interspeech.2008-231
-  source: 'INTERSPEECH 2008, 9th Annual Conference of the International Speech Communication
-    Association, Brisbane, Australia, September 22-26, 2008: 743-746 (2008).'
+  source: '9th Annual Conference of the International Speech Communication Association,
+    INTERSPEECH 2008, Brisbane, Australia, September 22-26, 2008: 743-746 (2008).'
   title: Advances in phonotactic language recognition.
   year: 2008
 DBLP:conf/interspeech/KombrinkMKB11:
@@ -3926,8 +3926,8 @@ DBLP:conf/interspeech/KombrinkMKB11:
   - FAI
   - main
   link: https://doi.org/10.21437/Interspeech.2011-720
-  source: 'INTERSPEECH 2011, 12th Annual Conference of the International Speech Communication
-    Association, Florence, Italy, August 27-31, 2011: 2877-2880 (2011).'
+  source: '12th Annual Conference of the International Speech Communication Association,
+    INTERSPEECH 2011, Florence, Italy, August 27-31, 2011: 2877-2880 (2011).'
   title: Recurrent Neural Network Based Language Modeling in Meeting Recognition.
   year: 2011
 DBLP:conf/interspeech/MatejkaBGSHFMPC08:
@@ -3939,8 +3939,8 @@ DBLP:conf/interspeech/MatejkaBGSHFMPC08:
   - FAI
   - main
   link: https://doi.org/10.21437/Interspeech.2008-230
-  source: 'INTERSPEECH 2008, 9th Annual Conference of the International Speech Communication
-    Association, Brisbane, Australia, September 22-26, 2008: 739-742 (2008).'
+  source: '9th Annual Conference of the International Speech Communication Association,
+    INTERSPEECH 2008, Brisbane, Australia, September 22-26, 2008: 739-742 (2008).'
   title: BUT language recognition system for NIST 2007 evaluations.
   year: 2008
 DBLP:conf/interspeech/Mikolov21:
@@ -3950,8 +3950,8 @@ DBLP:conf/interspeech/Mikolov21:
   - FAI
   - main
   link: https://www.isca-speech.org/archive/interspeech_2021/mikolov21_interspeech.html
-  source: 'Interspeech 2021, 22nd Annual Conference of the International Speech Communication
-    Association, Brno, Czechia, 30 August - 3 September 2021.: (2021).'
+  source: '22nd Annual Conference of the International Speech Communication Association,
+    Interspeech 2021, Brno, Czechia, August 30 - September 3, 2021.: (2021).'
   title: Language Modeling and Artificial Intelligence.
   url: https://www.isca-speech.org/archive/interspeech_2021/mikolov21_interspeech.html
   year: 2021
@@ -3964,8 +3964,8 @@ DBLP:conf/interspeech/MikolovDKBC11:
   - FAI
   - main
   link: https://doi.org/10.21437/Interspeech.2011-242
-  source: 'INTERSPEECH 2011, 12th Annual Conference of the International Speech Communication
-    Association, Florence, Italy, August 27-31, 2011: 605-608 (2011).'
+  source: '12th Annual Conference of the International Speech Communication Association,
+    INTERSPEECH 2011, Florence, Italy, August 27-31, 2011: 605-608 (2011).'
   title: Empirical Evaluation and Combination of Advanced Language Modeling Techniques.
   year: 2011
 DBLP:conf/interspeech/MikolovKBCK10:
@@ -3977,8 +3977,8 @@ DBLP:conf/interspeech/MikolovKBCK10:
   - FAI
   - main
   link: https://doi.org/10.21437/Interspeech.2010-343
-  source: 'INTERSPEECH 2010, 11th Annual Conference of the International Speech Communication
-    Association, Makuhari, Chiba, Japan, September 26-30, 2010: 1045-1048 (2010).'
+  source: '11th Annual Conference of the International Speech Communication Association,
+    INTERSPEECH 2010, Makuhari, Chiba, Japan, September 26-30, 2010: 1045-1048 (2010).'
   title: Recurrent neural network based language model.
   year: 2010
 DBLP:conf/ipmu/HulaMA22:
@@ -11252,6 +11252,17 @@ DBLP:journals/tcci/TozickaJK18:
     Planning.
   url: https://www.wikidata.org/entity/Q62044865
   year: 2018
+DBLP:journals/tcs/HudcovaK24:
+  authors: "Barbora Hudcov\xE1, Jakub Kr\xE1sensk\xFD"
+  dblp: journals/tcs/HudcovaK24
+  doi: https://doi.org/10.1016/j.tcs.2024.114606
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.1016/j.tcs.2024.114606
+  source: 'Theor. Comput. Sci. 1003: (2024).'
+  title: Simulation limitations of affine cellular automata.
+  year: 2024
 DBLP:journals/tcs/JanotaM15:
   authors: "Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
   dblp: journals/tcs/JanotaM15
