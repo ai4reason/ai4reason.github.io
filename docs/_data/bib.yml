@@ -6958,6 +6958,18 @@ DBLP:journals/aisy/KulkarniKBS22:
   title: Learning Assembly Tasks in a Few Minutes by Combining Impedance Control and
     Residual Recurrent Reinforcement Learning.
   year: 2022
+DBLP:journals/alife/HollerHLB24:
+  authors: "Silvia Holler, Barbora Hudcov\xE1, Richard L\xF6ffler, Stuart Bartlett"
+  dblp: journals/alife/HollerHLB24
+  doi: https://doi.org/10.1162/artl_e_00439
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.1162/artl_e_00439
+  source: 'Artif. Life 30: 144-146 (2024).'
+  title: Editorial Introduction to the 2022 Conference on Artificial Life Special
+    Issue.
+  year: 2024
 DBLP:journals/alife/HudcovaM22:
   authors: "Barbora Hudcov\xE1, Tom\xE1s Mikolov"
   dblp: journals/alife/HudcovaM22
