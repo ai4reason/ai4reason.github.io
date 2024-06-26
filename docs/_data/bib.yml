@@ -4637,6 +4637,19 @@ DBLP:conf/lpar/AlamaKU12:
     \ (2012)."
   title: 'Automated and Human Proofs in General Mathematics: An Initial Comparison.'
   year: 2012
+DBLP:conf/lpar/AleksandrovaJK24:
+  authors: Kristina Aleksandrova, Jan Jakubuv, Cezary Kaliszyk
+  dblp: conf/lpar/AleksandrovaJK24
+  doi: https://doi.org/10.29007/sd6t
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.29007/sd6t
+  source: 'LPAR 2024: Proceedings of 25th Conference on Logic for Programming, Artificial
+    Intelligence and Reasoning, Port Louis, Mauritius, May 26-31, 2024: 360-369 (2024).'
+  title: 'Prover9 Unleashed: Automated Configuration for Enhanced Proof Discovery.'
+  year: 2024
 DBLP:conf/lpar/Bartek023:
   authors: "Filip B\xE1rtek, Martin Suda"
   dblp: conf/lpar/Bartek023
@@ -4869,6 +4882,19 @@ DBLP:conf/lpar/ParsertBJK23:
     317-328 (2023).'
   title: Experiments on Infinite Model Finding in SMT Solving.
   year: 2023
+DBLP:conf/lpar/PiepenbrockJUJ24:
+  authors: Jelle Piepenbrock, Mikolas Janota, Josef Urban, Jan Jakubuv
+  dblp: conf/lpar/PiepenbrockJUJ24
+  doi: https://doi.org/10.29007/h5dr
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.29007/h5dr
+  source: 'LPAR 2024: Proceedings of 25th Conference on Logic for Programming, Artificial
+    Intelligence and Reasoning, Port Louis, Mauritius, May 26-31, 2024: 264-277 (2024).'
+  title: First Experiments with Neural cvc5.
+  year: 2024
 DBLP:conf/lpar/PiotrowskiU20:
   authors: Bartosz Piotrowski, Josef Urban
   dblp: conf/lpar/PiotrowskiU20
@@ -4882,6 +4908,18 @@ DBLP:conf/lpar/PiotrowskiU20:
     Intelligence and Reasoning, Alicante, Spain, May 22-27, 2020.: 409-422 (2020).'
   title: Stateful Premise Selection by Recurrent Neural Networks.
   year: 2020
+DBLP:conf/lpar/RanalterBK24:
+  authors: Daniel Ranalter, Chad E. Brown, Cezary Kaliszyk
+  dblp: conf/lpar/RanalterBK24
+  doi: https://doi.org/10.29007/2v8h
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.29007/2v8h
+  source: 'LPAR 2024: Proceedings of 25th Conference on Logic for Programming, Artificial
+    Intelligence and Reasoning, Port Louis, Mauritius, May 26-31, 2024: 311-320 (2024).'
+  title: Experiments with Choice in Dependently-Typed Higher-Order Logic.
+  year: 2024
 DBLP:conf/lpar/Rebola-PardoS18:
   authors: "Adri\xE1n Rebola-Pardo, Martin Suda"
   dblp: conf/lpar/Rebola-PardoS18
