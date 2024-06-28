@@ -633,6 +633,20 @@ DBLP:conf/biostec/KlemaZAK14a:
   title: Interaction-Based Aggregation of mRNA and miRNA Expression Profiles to Differentiate
     Myelodysplastic Syndrome.
   year: 2014
+DBLP:conf/birthday/BlaauwbroekCGJK24:
+  authors: Lasse Blaauwbroek, David M. Cerna, Thibault Gauthier, Jan Jakubuv, Cezary
+    Kaliszyk, Martin Suda, Josef Urban
+  dblp: conf/birthday/BlaauwbroekCGJK24
+  doi: https://doi.org/10.1007/978-3-031-61716-4_4
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-61716-4_4
+  source: 'Logics and Type Systems in Theory and Practice - Essays Dedicated to Herman
+    Geuvers on The Occasion of His 60th Birthday: 54-83 (2024).'
+  title: 'Learning Guided Automated Reasoning: A Brief Survey.'
+  year: 2024
 DBLP:conf/birthday/KinyonVV13:
   authors: "Michael K. Kinyon, Robert Veroff, Petr Vojtechovsk\xFD"
   dblp: conf/birthday/KinyonVV13
