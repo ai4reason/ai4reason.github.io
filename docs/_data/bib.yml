@@ -4109,9 +4109,9 @@ DBLP:conf/iros/LijnLB10:
   year: 2010
 DBLP:conf/iros/PassalisPBBDFGG22:
   authors: Nikolaos Passalis, S. Pedrazzi, Robert Babuska, Wolfram Burgard, D. Dias,
-    F. Ferro, Moncef Gabbouj, O. Green, Alexandros Iosifidis, E. Kayacan, Jens Kober,
-    O. Michel, Nikos Nikolaidis, Paraskevi Nousi, Roel Pieters, Maria Tzelepi, Abhinav
-    Valada, Anastasios Tefas
+    F. Ferro, Moncef Gabbouj, O. Green, Alexandros Iosifidis, Erdal Kayacan, Jens
+    Kober, O. Michel, Nikos Nikolaidis, Paraskevi Nousi, Roel Pieters, Maria Tzelepi,
+    Abhinav Valada, Anastasios Tefas
   dblp: conf/iros/PassalisPBBDFGG22
   doi: https://doi.org/10.1109/IROS47612.2022.9981703
   groups:
@@ -5940,6 +5940,50 @@ DBLP:conf/odyssey/MikolovPGBC10:
   title: PCA-based Feature Extraction for Phonotactic Language Recognition.
   url: http://www.isca-speech.org/archive_open/odyssey_2010/od10_042.html
   year: 2010
+DBLP:conf/paar/2024:
+  authors: "Christopher W. Brown, Daniela Kaufmann, Cl\xE1udia Nalon, Alexander Steen,\
+    \ Martin Suda"
+  dblp: conf/paar/2024
+  groups:
+  - AR
+  - main
+  link: https://nbn-resolving.org/urn:nbn:de:0074-3717-7
+  source: CEUR Workshop Proceedings 3717 (2024).
+  title: Joint Proceedings of the 9th Workshop on Practical Aspects of Automated Reasoning
+    (PAAR) and the 9th Satisfiability Checking and Symbolic Computation Workshop (SC-Square),
+    2024 co-located with the 12th International Joint Conference on Automated Reasoning
+    (IJCAR 2024), Nancy, France, July 2, 2024.
+  url: https://nbn-resolving.org/urn:nbn:de:0074-3717-7
+  year: 2024
+DBLP:conf/paar/BartekC024:
+  authors: "Filip B\xE1rtek, Karel Chvalovsk\xFD, Martin Suda"
+  dblp: conf/paar/BartekC024
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://ceur-ws.org/Vol-3717/short2.pdf
+  source: 'Joint Proceedings of the 9th Workshop on Practical Aspects of Automated
+    Reasoning (PAAR) and the 9th Satisfiability Checking and Symbolic Computation
+    Workshop (SC-Square), 2024 co-located with the 12th International Joint Conference
+    on Automated Reasoning (IJCAR 2024), Nancy, France, July 2, 2024.: 28-36 (2024).'
+  title: Cautious Specialization of Strategy Schedules (Extended Abstract).
+  url: https://ceur-ws.org/Vol-3717/short2.pdf
+  year: 2024
+DBLP:conf/paar/BrownJO24:
+  authors: "Chad E. Brown, Mikolas Janota, Mirek Ols\xE1k"
+  dblp: conf/paar/BrownJO24
+  groups:
+  - FM
+  - main
+  link: https://ceur-ws.org/Vol-3717/paper6.pdf
+  source: 'Joint Proceedings of the 9th Workshop on Practical Aspects of Automated
+    Reasoning (PAAR) and the 9th Satisfiability Checking and Symbolic Computation
+    Workshop (SC-Square), 2024 co-located with the 12th International Joint Conference
+    on Automated Reasoning (IJCAR 2024), Nancy, France, July 2, 2024.: 111-121 (2024).'
+  title: Symbolic Computation for All the Fun.
+  url: https://ceur-ws.org/Vol-3717/paper6.pdf
+  year: 2024
 DBLP:conf/paar/Rawson0HR22:
   authors: "Michael Rawson, Martin Suda, Petra Hozzov\xE1, Giles Reger"
   dblp: conf/paar/Rawson0HR22
@@ -9321,8 +9365,8 @@ DBLP:journals/corr/abs-2202-11908:
   year: 2022
 DBLP:journals/corr/abs-2203-00403:
   authors: Nikolaos Passalis, S. Pedrazzi, Robert Babuska, Wolfram Burgard, D. Dias,
-    F. Ferro, Moncef Gabbouj, O. Green, Alexandros Iosifidis, E. Kayacan, Jens Kober,
-    O. Michel, Nikolaos Nikolaidis, Paraskevi Nousi, Roel Pieters, Maria Tzelepi,
+    F. Ferro, Moncef Gabbouj, O. Green, Alexandros Iosifidis, Erdal Kayacan, Jens
+    Kober, O. Michel, Nikolaos Nikolaidis, Paraskevi Nousi, Roel Pieters, Maria Tzelepi,
     Abhinav Valada, Anastasios Tefas
   dblp: journals/corr/abs-2203-00403
   doi: https://doi.org/10.48550/arXiv.2203.00403
