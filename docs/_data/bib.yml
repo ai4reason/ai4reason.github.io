@@ -9898,6 +9898,31 @@ DBLP:journals/corr/abs-2405-08644:
   source: arXiv CoRR abs/2405.08644 (2024).
   title: Thinking Tokens for Language Modeling.
   year: 2024
+DBLP:journals/corr/abs-2406-03175:
+  authors: "Tobias Fischer, Jonas Kulhanek, Samuel Rota Bul\xF2, Lorenzo Porzi, Marc\
+    \ Pollefeys, Peter Kontschieder"
+  dblp: journals/corr/abs-2406-03175
+  doi: https://doi.org/10.48550/arXiv.2406.03175
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2406.03175
+  source: arXiv CoRR abs/2406.03175 (2024).
+  title: Dynamic 3D Gaussian Fields for Urban Areas.
+  year: 2024
+DBLP:journals/corr/abs-2406-04165:
+  authors: Alicja Ziarko, Albert Q. Jiang, Bartosz Piotrowski, Wenda Li, Mateja Jamnik,
+    Piotr Milos
+  dblp: journals/corr/abs-2406-04165
+  doi: https://doi.org/10.48550/arXiv.2406.04165
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2406.04165
+  source: arXiv CoRR abs/2406.04165 (2024).
+  title: 'Repurposing Language Models into Embedding Models: Finding the Compute-Optimal
+    Recipe.'
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
