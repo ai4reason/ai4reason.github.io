@@ -5062,6 +5062,19 @@ DBLP:conf/lrec/MikolovGBPJ18:
   title: Advances in Pre-Training Distributed Word Representations.
   url: http://www.lrec-conf.org/proceedings/lrec2018/summaries/721.html
   year: 2018
+DBLP:conf/med/ColemanBKS24:
+  authors: "Tom\xE1s Coleman, Robert Babuska, Jens Kober, Cosimo Della Santina"
+  dblp: conf/med/ColemanBKS24
+  doi: https://doi.org/10.1109/MED61351.2024.10566173
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/MED61351.2024.10566173
+  source: '32nd Mediterranean Conference on Control and Automation, MED 2024, Chania
+    - Crete, Greece, June 11-14, 2024: 921-928 (2024).'
+  title: An Empirical Investigation on Variational Autoencoder-Based Dynamic Modeling
+    of Deformable Objects from RGB Data.
+  year: 2024
 DBLP:conf/med/EngulesHA15:
   authors: Deniz Engules, Murat Hot, Baran Alikoc
   dblp: conf/med/EngulesHA15
