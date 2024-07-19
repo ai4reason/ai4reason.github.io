@@ -9936,6 +9936,18 @@ DBLP:journals/corr/abs-2406-04165:
   title: 'Repurposing Language Models into Embedding Models: Finding the Compute-Optimal
     Recipe.'
   year: 2024
+DBLP:journals/corr/abs-2406-11506:
+  authors: "Dennis Benders, Johannes K\xF6hler, Thijs Niesten, Robert Babuska, Javier\
+    \ Alonso-Mora, Laura Ferranti"
+  dblp: journals/corr/abs-2406-11506
+  doi: https://doi.org/10.48550/arXiv.2406.11506
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2406.11506
+  source: arXiv CoRR abs/2406.11506 (2024).
+  title: Embedded Hierarchical MPC for Autonomous Navigation.
+  year: 2024
 DBLP:journals/corr/abs-2406-13677:
   authors: "Erik Derner, Sara Sansalvador de la Fuente, Yoan Guti\xE9rrez, Paloma\
     \ Moreda, Nuria Oliver"
