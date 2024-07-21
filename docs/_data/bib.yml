@@ -3804,6 +3804,56 @@ DBLP:conf/ijcai/VeroffH81:
   title: Application of Automatic Transformations to Program Verification.
   url: http://ijcai.org/Proceedings/81-1/Papers/087.pdf
   year: 1981
+DBLP:conf/ijcar/BartekCS24:
+  authors: "Filip B\xE1rtek, Karel Chvalovsk\xFD, Martin Suda"
+  dblp: conf/ijcar/BartekCS24
+  doi: https://doi.org/10.1007/978-3-031-63498-7_12
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-63498-7_12
+  source: 'Automated Reasoning - 12th International Joint Conference, IJCAR 2024,
+    Nancy, France, July 3-6, 2024, Proceedings, Part I: 194-213 (2024).'
+  title: Regularization in Spider-Style Strategy Discovery and Schedule Construction.
+  year: 2024
+DBLP:conf/ijcar/BhayatS24:
+  authors: Ahmed Bhayat, Martin Suda
+  dblp: conf/ijcar/BhayatS24
+  doi: https://doi.org/10.1007/978-3-031-63498-7_5
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.1007/978-3-031-63498-7_5
+  source: 'Automated Reasoning - 12th International Joint Conference, IJCAR 2024,
+    Nancy, France, July 3-6, 2024, Proceedings, Part I: 75-85 (2024).'
+  title: A Higher-Order Vampire (Short Paper).
+  year: 2024
+DBLP:conf/ijcar/EinarsdottirHJSS24:
+  authors: "S\xF3lr\xFAn Halla Einarsd\xF3ttir, M\xE1rton Hajd\xFA, Moa Johansson,\
+    \ Nicholas Smallbone, Martin Suda"
+  dblp: conf/ijcar/EinarsdottirHJSS24
+  doi: https://doi.org/10.1007/978-3-031-63498-7_13
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.1007/978-3-031-63498-7_13
+  source: 'Automated Reasoning - 12th International Joint Conference, IJCAR 2024,
+    Nancy, France, July 3-6, 2024, Proceedings, Part I: 214-232 (2024).'
+  title: Lemma Discovery and Strategies for Automated Induction.
+  year: 2024
+DBLP:conf/ijcar/NiederhauserBK24:
+  authors: Johannes Niederhauser, Chad E. Brown, Cezary Kaliszyk
+  dblp: conf/ijcar/NiederhauserBK24
+  doi: https://doi.org/10.1007/978-3-031-63498-7_6
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-63498-7_6
+  source: 'Automated Reasoning - 12th International Joint Conference, IJCAR 2024,
+    Nancy, France, July 3-6, 2024, Proceedings, Part I: 86-104 (2024).'
+  title: Tableaux for Automated Reasoning in Dependently-Typed Higher-Order Logic.
+  year: 2024
 DBLP:conf/ijcci/CernyK13:
   authors: "J\xE1n Cern\xFD, Jir\xED Kubal\xEDk"
   dblp: conf/ijcci/CernyK13
@@ -11143,6 +11193,17 @@ DBLP:journals/neco/OrorbiaMR17:
   title: Learning Simpler Language Models with the Differential State Framework.
   url: https://www.wikidata.org/entity/Q47908146
   year: 2017
+DBLP:journals/pacmpl/BlaauwbroekOG24:
+  authors: "Lasse Blaauwbroek, Miroslav Ols\xE1k, Herman Geuvers"
+  dblp: journals/pacmpl/BlaauwbroekOG24
+  doi: https://doi.org/10.1145/3656459
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.1145/3656459
+  source: 'Proc. ACM Program. Lang. 8: 2027-2050 (2024).'
+  title: "Hashing Modulo Context-Sensitive \U0001D6FC-Equivalence."
+  year: 2024
 DBLP:journals/ral/BruinKTB18:
   authors: Tim de Bruin, Jens Kober, Karl Tuyls, Robert Babuska
   dblp: journals/ral/BruinKTB18
