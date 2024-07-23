@@ -10010,6 +10010,30 @@ DBLP:journals/corr/abs-2406-13677:
   source: arXiv CoRR abs/2406.13677 (2024).
   title: Leveraging Large Language Models to Measure Gender Bias in Gendered Languages.
   year: 2024
+DBLP:journals/corr/abs-2406-17345:
+  authors: Jonas Kulhanek, Torsten Sattler
+  dblp: journals/corr/abs-2406-17345
+  doi: https://doi.org/10.48550/arXiv.2406.17345
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2406.17345
+  source: arXiv CoRR abs/2406.17345 (2024).
+  title: 'NerfBaselines: Consistent and Reproducible Evaluation of Novel View Synthesis
+    Methods.'
+  year: 2024
+DBLP:journals/corr/abs-2406-17762:
+  authors: "Jan Jakubuv, Mikol\xE1s Janota, Josef Urban"
+  dblp: journals/corr/abs-2406-17762
+  doi: https://doi.org/10.48550/arXiv.2406.17762
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2406.17762
+  source: arXiv CoRR abs/2406.17762 (2024).
+  title: Solving Hard Mizar Problems with Instantiation and Strategy Invention.
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
