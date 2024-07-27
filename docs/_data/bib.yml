@@ -3410,6 +3410,18 @@ DBLP:conf/iclr/Chvalovsky19:
   title: Top-Down Neural Model For Formulae.
   url: https://openreview.net/forum?id=Byg5QhR5FQ
   year: 2019
+DBLP:conf/iclr/HerelM24:
+  authors: "David Herel, Tom\xE1s Mikolov"
+  dblp: conf/iclr/HerelM24
+  groups:
+  - FAI
+  - main
+  link: https://openreview.net/forum?id=DeuBfEWyR4
+  source: 'The Second Tiny Papers Track at ICLR 2024, Tiny Papers @ ICLR 2024, Vienna,
+    Austria, May 11, 2024: (2024).'
+  title: Collapse of Self-trained Language Models.
+  url: https://openreview.net/forum?id=DeuBfEWyR4
+  year: 2024
 DBLP:conf/iclr/JerniteGJM17:
   authors: "Yacine Jernite, Edouard Grave, Armand Joulin, Tom\xE1s Mikolov"
   dblp: conf/iclr/JerniteGJM17
