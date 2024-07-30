@@ -2271,7 +2271,7 @@ DBLP:conf/eucc/BabuskaSV99:
   title: Predictive control of nonlinear systems based on fuzzy and neural models.
   year: 1999
 DBLP:conf/eucc/MollovVB01:
-  authors: Stanimir Mollov, P. J. van der Veen, Robert Babuska
+  authors: Stanimir Mollov, Peter J. van der Veen, Robert Babuska
   dblp: conf/eucc/MollovVB01
   doi: https://doi.org/10.23919/ECC.2001.7076080
   groups:
@@ -2295,7 +2295,7 @@ DBLP:conf/eucc/SatyavadaBB16:
   url: https://www.wikidata.org/entity/Q107162405
   year: 2016
 DBLP:conf/eucc/VeenBV99:
-  authors: P. J. van der Veen, Robert Babuska, Henk B. Verbruggen
+  authors: Peter J. van der Veen, Robert Babuska, Henk B. Verbruggen
   dblp: conf/eucc/VeenBV99
   doi: https://doi.org/10.23919/ECC.1999.7100056
   groups:
@@ -2645,7 +2645,7 @@ DBLP:conf/fuzzIEEE/BabuskaO03:
   title: Design of optimal membership functions for fuzzy gain-scheduled control.
   year: 2003
 DBLP:conf/fuzzIEEE/BabuskaVK02:
-  authors: Robert Babuska, P. J. van der Veen, Uzay Kaymak
+  authors: Robert Babuska, Peter J. van der Veen, Uzay Kaymak
   dblp: conf/fuzzIEEE/BabuskaVK02
   doi: https://doi.org/10.1109/FUZZ.2002.1006654
   groups:
