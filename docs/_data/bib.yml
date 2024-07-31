@@ -5995,12 +5995,12 @@ DBLP:conf/odyssey/JancikPBBGHKMMSC10:
   groups:
   - FAI
   - main
-  link: http://www.isca-speech.org/archive_open/odyssey_2010/od10_037.html
+  link: https://www.isca-archive.org/odyssey_2010/jancik10_odyssey.html
   source: 'Odyssey 2010: The Speaker and Language Recognition Workshop, Brno, Czech
     Republic, June 28 - July 1, 2010: (2010).'
   title: Data selection and calibration issues in automatic language recognition -
     investigation with BUT-AGNITIO NIST LRE 2009 system.
-  url: http://www.isca-speech.org/archive_open/odyssey_2010/od10_037.html
+  url: https://www.isca-archive.org/odyssey_2010/jancik10_odyssey.html
   year: 2010
 DBLP:conf/odyssey/MikolovPGBC10:
   authors: "Tom\xE1s Mikolov, Oldrich Plchot, Ondrej Glembek, Luk\xE1s Burget, Jan\
@@ -6009,11 +6009,11 @@ DBLP:conf/odyssey/MikolovPGBC10:
   groups:
   - FAI
   - main
-  link: http://www.isca-speech.org/archive_open/odyssey_2010/od10_042.html
+  link: https://www.isca-archive.org/odyssey_2010/mikolov10_odyssey.html
   source: 'Odyssey 2010: The Speaker and Language Recognition Workshop, Brno, Czech
     Republic, June 28 - July 1, 2010: (2010).'
   title: PCA-based Feature Extraction for Phonotactic Language Recognition.
-  url: http://www.isca-speech.org/archive_open/odyssey_2010/od10_042.html
+  url: https://www.isca-archive.org/odyssey_2010/mikolov10_odyssey.html
   year: 2010
 DBLP:conf/paar/2024:
   authors: "Christopher W. Brown, Daniela Kaufmann, Cl\xE1udia Nalon, Alexander Steen,\
