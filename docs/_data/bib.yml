@@ -268,6 +268,18 @@ DBLP:conf/adprl/BusoniuMSB11:
   title: Optimistic planning for sparsely stochastic systems.
   url: https://www.wikidata.org/entity/Q107159664
   year: 2011
+DBLP:conf/agi/Goertzel24:
+  authors: Zarathustra Amadeus Goertzel
+  dblp: conf/agi/Goertzel24
+  doi: https://doi.org/10.1007/978-3-031-65572-2_9
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.1007/978-3-031-65572-2_9
+  source: 'Artificial General Intelligence - 17th International Conference, AGI 2024,
+    Seattle, WA, USA, August 13-16, 2024, Proceedings: 84-88 (2024).'
+  title: 'Beneficial AGI: Care and Collaboration Are All You Need.'
+  year: 2024
 DBLP:conf/aiia/JanotaGM17:
   authors: "Mikol\xE1s Janota, Radu Grigore, Vasco M. Manquinho"
   dblp: conf/aiia/JanotaGM17
