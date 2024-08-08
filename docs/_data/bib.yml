@@ -3446,6 +3446,20 @@ DBLP:conf/iclr/JerniteGJM17:
   title: Variable Computation in Recurrent Neural Networks.
   url: https://openreview.net/forum?id=S1LVSrcge
   year: 2017
+DBLP:conf/iclr/MikulaTAPJZSKMW24:
+  authors: Maciej Mikula, Szymon Tworkowski, Szymon Antoniak, Bartosz Piotrowski,
+    Albert Q. Jiang, Jin Peng Zhou, Christian Szegedy, Lukasz Kucinski, Piotr Milos,
+    Yuhuai Wu
+  dblp: conf/iclr/MikulaTAPJZSKMW24
+  groups:
+  - FM
+  - main
+  link: https://openreview.net/forum?id=oYjPk8mqAV
+  source: 'The Twelfth International Conference on Learning Representations, ICLR
+    2024, Vienna, Austria, May 7-11, 2024: (2024).'
+  title: 'Magnushammer: A Transformer-Based Approach to Premise Selection.'
+  url: https://openreview.net/forum?id=oYjPk8mqAV
+  year: 2024
 DBLP:conf/icml/LeM14:
   authors: "Quoc V. Le, Tom\xE1s Mikolov"
   dblp: conf/icml/LeM14
