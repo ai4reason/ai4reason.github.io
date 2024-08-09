@@ -11729,6 +11729,17 @@ DBLP:journals/tfs/SindelarB04:
   source: 'IEEE Trans. Fuzzy Syst. 12: 688-696 (2004).'
   title: Input selection for nonlinear regression models.
   year: 2004
+DBLP:journals/tmlr/HeijdenFKB24:
+  authors: Bas van der Heijden, Laura Ferranti, Jens Kober, Robert Babuska
+  dblp: journals/tmlr/HeijdenFKB24
+  groups:
+  - ML
+  - main
+  link: https://openreview.net/forum?id=VzKXbCzNoU
+  source: 'Trans. Mach. Learn. Res. 2024: (2024).'
+  title: Efficient Parallelized Simulation of Cyber-Physical Systems.
+  url: https://openreview.net/forum?id=VzKXbCzNoU
+  year: 2024
 DBLP:journals/tmm/WorringKZ16:
   authors: "Marcel Worring, Dennis C. Koelma, Jan Zah\xE1lka"
   dblp: journals/tmm/WorringKZ16
