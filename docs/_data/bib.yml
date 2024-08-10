@@ -1635,6 +1635,19 @@ DBLP:conf/cdc/PaneNB16:
     USA, December 12-14, 2016: 5819-5826 (2016).'
   title: Actor-critic reinforcement learning for tracking control in robotics.
   year: 2016
+DBLP:conf/cdc/PereiraDB00:
+  authors: "Carlos Pereira, Ant\xF3nio Dourado, Robert Babuska"
+  dblp: conf/cdc/PereiraDB00
+  doi: https://doi.org/10.1109/CDC.2000.912256
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/CDC.2000.912256
+  source: '39th IEEE Conference on Decision and Control, CDC 2000, Sydney, Australia,
+    December 12-15, 2000: 3556-3561 (2000).'
+  title: Constructive on-line learning for a neuro-fuzzy network with fuzzy sets obtained
+    by Delaunay triangulation.
+  year: 2000
 DBLP:conf/cec/AstBS08:
   authors: Jelmer van Ast, Robert Babuska, Bart De Schutter
   dblp: conf/cec/AstBS08
