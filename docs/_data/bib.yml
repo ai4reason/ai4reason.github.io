@@ -10107,6 +10107,18 @@ DBLP:journals/corr/abs-2407-05208:
   source: arXiv CoRR abs/2407.05208 (2024).
   title: A Higher-Order Vampire (Short Paper).
   year: 2024
+DBLP:journals/corr/abs-2407-08447:
+  authors: Jonas Kulhanek, Songyou Peng, Zuzana Kukelova, Marc Pollefeys, Torsten
+    Sattler
+  dblp: journals/corr/abs-2407-08447
+  doi: https://doi.org/10.48550/arXiv.2407.08447
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2407.08447
+  source: arXiv CoRR abs/2407.08447 (2024).
+  title: 'WildGaussians: 3D Gaussian Splatting in the Wild.'
+  year: 2024
 DBLP:journals/corr/abs-2407-09337:
   authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco M. Manquinho"
   dblp: journals/corr/abs-2407-09337
