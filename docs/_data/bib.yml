@@ -3611,6 +3611,18 @@ DBLP:conf/icra/BehrensSB20:
   title: Simultaneous task allocation and motion scheduling for complex tasks executed
     by multiple robots.
   year: 2020
+DBLP:conf/icra/BentCB24:
+  authors: "Luuk van den Bent, Tom\xE1s Coleman, Robert Babuska"
+  dblp: conf/icra/BentCB24
+  doi: https://doi.org/10.1109/ICRA57147.2024.10610089
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/ICRA57147.2024.10610089
+  source: 'IEEE International Conference on Robotics and Automation, ICRA 2024, Yokohama,
+    Japan, May 13-17, 2024: 13947-13953 (2024).'
+  title: Robotic Grasping of Harvested Tomato Trusses Using Vision and Online Learning.
+  year: 2024
 DBLP:conf/icra/BurgerBBB17:
   authors: Ruben Burger, Mukunda Bharatheesha, Marc van Bert, Robert Babuska
   dblp: conf/icra/BurgerBBB17
