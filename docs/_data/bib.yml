@@ -5497,6 +5497,19 @@ DBLP:conf/mkm/HulaJJK22:
     2022, Tbilisi, Georgia, September 19-23, 2022, Proceedings: 256-271 (2022).'
   title: Targeted Configuration of an SMT Solver.
   year: 2022
+DBLP:conf/mkm/JakubuvJU24:
+  authors: "Jan Jakubuv, Mikol\xE1s Janota, Josef Urban"
+  dblp: conf/mkm/JakubuvJU24
+  doi: https://doi.org/10.1007/978-3-031-66997-2_18
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-66997-2_18
+  source: "Intelligent Computer Mathematics - 17th International Conference, CICM\
+    \ 2024, Montr\xE9al, QC, Canada, August 5-9, 2024, Proceedings: 315-333 (2024)."
+  title: Solving Hard Mizar Problems with Instantiation and Strategy Invention.
+  year: 2024
 DBLP:conf/mkm/JakubuvK23:
   authors: Jan Jakubuv, Cezary Kaliszyk
   dblp: conf/mkm/JakubuvK23
