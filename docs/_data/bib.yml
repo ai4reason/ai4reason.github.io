@@ -3473,6 +3473,34 @@ DBLP:conf/iclr/MikulaTAPJZSKMW24:
   title: 'Magnushammer: A Transformer-Based Approach to Premise Selection.'
   url: https://openreview.net/forum?id=oYjPk8mqAV
   year: 2024
+DBLP:conf/icml/BlaauwbroekORMP24:
+  authors: "Lasse Blaauwbroek, Mirek Ols\xE1k, Jason Rute, Fidel Ivan Schaposnik Massolo,\
+    \ Jelle Piepenbrock, Vasily Pestun"
+  dblp: conf/icml/BlaauwbroekORMP24
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://openreview.net/forum?id=A7CtiozznN
+  source: 'Forty-first International Conference on Machine Learning, ICML 2024, Vienna,
+    Austria, July 21-27, 2024: (2024).'
+  title: 'Graph2Tac: Online Representation Learning of Formal Math Concepts.'
+  url: https://openreview.net/forum?id=A7CtiozznN
+  year: 2024
+DBLP:conf/icml/KhonaOHRNDLT24:
+  authors: Mikail Khona, Maya Okawa, Jan Hula, Rahul Ramesh, Kento Nishi, Robert P.
+    Dick, Ekdeep Singh Lubana, Hidenori Tanaka
+  dblp: conf/icml/KhonaOHRNDLT24
+  groups:
+  - FM
+  - main
+  link: https://openreview.net/forum?id=8VEGkphQaK
+  source: 'Forty-first International Conference on Machine Learning, ICML 2024, Vienna,
+    Austria, July 21-27, 2024: (2024).'
+  title: 'Towards an Understanding of Stepwise Inference in Transformers: A Synthetic
+    Graph Navigation Model.'
+  url: https://openreview.net/forum?id=8VEGkphQaK
+  year: 2024
 DBLP:conf/icml/LeM14:
   authors: "Quoc V. Le, Tom\xE1s Mikolov"
   dblp: conf/icml/LeM14
@@ -4471,6 +4499,19 @@ DBLP:conf/itp/CarneiroBU23:
     \ July 31 to August 4, 2023, Bia\u0142ystok, Poland: 9:1-9:19 (2023)."
   title: Automated Theorem Proving for Metamath.
   year: 2023
+DBLP:conf/itp/GauthierB24:
+  authors: Thibault Gauthier, Chad E. Brown
+  dblp: conf/itp/GauthierB24
+  doi: https://doi.org/10.4230/LIPIcs.ITP.2024.16
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.4230/LIPIcs.ITP.2024.16
+  source: '15th International Conference on Interactive Theorem Proving, ITP 2024,
+    September 9-14, 2024, Tbilisi, Georgia: 16:1-16:18 (2024).'
+  title: A Formal Proof of R(4, 5)=25.
+  year: 2024
 DBLP:conf/itp/GoertzelJ0U18:
   authors: Zarathustra Amadeus Goertzel, Jan Jakubuv, Stephan Schulz, Josef Urban
   dblp: conf/itp/GoertzelJ0U18
