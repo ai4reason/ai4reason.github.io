@@ -11079,10 +11079,10 @@ DBLP:journals/jmlr/BruinKTB18:
   groups:
   - ML
   - main
-  link: http://jmlr.org/papers/v19/17-131.html
+  link: https://jmlr.org/papers/v19/17-131.html
   source: 'J. Mach. Learn. Res. 19: 9:1-9:56 (2018).'
   title: Experience Selection in Deep Reinforcement Learning for Control.
-  url: http://jmlr.org/papers/v19/17-131.html
+  url: https://jmlr.org/papers/v19/17-131.html
   year: 2018
 DBLP:journals/jql/CechHKCM19:
   authors: "Radek Cech, Jan Hula, Miroslav Kub\xE1t, Xinying Chen, Jir\xED Milicka"
