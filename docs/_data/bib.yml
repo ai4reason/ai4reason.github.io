@@ -281,7 +281,7 @@ DBLP:conf/agi/Goertzel24:
   title: 'Beneficial AGI: Care and Collaboration Are All You Need.'
   year: 2024
 DBLP:conf/aiia/JanotaGM17:
-  authors: "Mikol\xE1s Janota, Radu Grigore, Vasco M. Manquinho"
+  authors: "Mikol\xE1s Janota, Radu Grigore, Vasco Manquinho"
   dblp: conf/aiia/JanotaGM17
   groups:
   - FM
@@ -1827,8 +1827,7 @@ DBLP:conf/cp/BelovJLM12:
   url: https://www.wikidata.org/entity/Q62047283
   year: 2012
 DBLP:conf/cp/JanotaMSM21:
-  authors: "Mikol\xE1s Janota, Ant\xF3nio Morgado, Jos\xE9 Fragoso Santos, Vasco M.\
-    \ Manquinho"
+  authors: "Mikol\xE1s Janota, Ant\xF3nio Morgado, Jos\xE9 Fragoso Santos, Vasco Manquinho"
   dblp: conf/cp/JanotaMSM21
   doi: https://doi.org/10.4230/LIPIcs.CP.2021.31
   groups:
@@ -1867,7 +1866,7 @@ DBLP:conf/cp/KlieberJMC13:
   url: https://www.wikidata.org/entity/Q62047281
   year: 2013
 DBLP:conf/cp/SiZMJIN16:
-  authors: "Xujie Si, Xin Zhang, Vasco M. Manquinho, Mikol\xE1s Janota, Alexey Ignatiev,\
+  authors: "Xujie Si, Xin Zhang, Vasco Manquinho, Mikol\xE1s Janota, Alexey Ignatiev,\
     \ Mayur Naik"
   dblp: conf/cp/SiZMJIN16
   doi: https://doi.org/10.1007/978-3-319-44953-1_30
@@ -2071,7 +2070,7 @@ DBLP:conf/ecai/OlsakKU20:
   title: Property Invariant Embedding for Automated Reasoning.
   year: 2020
 DBLP:conf/ecai/OrvalhoPJM23:
-  authors: "Pedro Orvalho, Jelle Piepenbrock, Mikol\xE1s Janota, Vasco M. Manquinho"
+  authors: "Pedro Orvalho, Jelle Piepenbrock, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: conf/ecai/OrvalhoPJM23
   doi: https://doi.org/10.3233/FAIA230468
   groups:
@@ -2484,6 +2483,19 @@ DBLP:conf/fm/CookseyHBGJ19:
     7-11, 2019, Revised Selected Papers, Part II: 507-525 (2019).'
   title: 'PrideMM: Second Order Model Checking for Memory Consistency Models.'
   year: 2019
+DBLP:conf/fm/OrvalhoJM24:
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco M. Manquinho"
+  dblp: conf/fm/OrvalhoJM24
+  doi: https://doi.org/10.1007/978-3-031-71162-6_24
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-71162-6_24
+  source: 'Formal Methods - 26th International Symposium, FM 2024, Milan, Italy, September
+    9-13, 2024, Proceedings, Part I: 463-481 (2024).'
+  title: 'cfaults: Model-Based Diagnosis for Fault Localization in C with Multiple
+    Test Cases.'
+  year: 2024
 DBLP:conf/fmcad/JanotaBFR21:
   authors: "Mikol\xE1s Janota, Haniel Barbosa, Pascal Fontaine, Andrew Reynolds"
   dblp: conf/fmcad/JanotaBFR21
@@ -6340,7 +6352,7 @@ DBLP:conf/sat/BeyersdorffCS016:
   url: https://www.wikidata.org/entity/Q59893521
   year: 2016
 DBLP:conf/sat/CabralJM22:
-  authors: "Miguel Cabral, Mikol\xE1s Janota, Vasco M. Manquinho"
+  authors: "Miguel Cabral, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: conf/sat/CabralJM22
   doi: https://doi.org/10.4230/LIPIcs.SAT.2022.29
   groups:
@@ -6450,8 +6462,7 @@ DBLP:conf/sat/JanotaS11:
   title: Abstraction-Based Algorithm for 2QBF.
   year: 2011
 DBLP:conf/sat/NevesMJLM15:
-  authors: "Miguel Neves, Ruben Martins, Mikol\xE1s Janota, In\xEAs Lynce, Vasco M.\
-    \ Manquinho"
+  authors: "Miguel Neves, Ruben Martins, Mikol\xE1s Janota, In\xEAs Lynce, Vasco Manquinho"
   dblp: conf/sat/NevesMJLM15
   doi: https://doi.org/10.1007/978-3-319-24318-4_20
   groups:
@@ -6513,7 +6524,7 @@ DBLP:conf/sigsoft/JanotaGM07:
   url: https://www.wikidata.org/entity/Q62047288
   year: 2007
 DBLP:conf/sigsoft/OrvalhoJM22:
-  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco M. Manquinho"
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: conf/sigsoft/OrvalhoJM22
   doi: https://doi.org/10.1145/3540250.3558931
   groups:
@@ -8009,8 +8020,7 @@ DBLP:journals/corr/NagashimaO16:
   year: 2016
 DBLP:journals/corr/NevesMJLM15:
   arXiv: http://arxiv.org/abs/1505.02405
-  authors: "Miguel Neves, Ruben Martins, Mikol\xE1s Janota, In\xEAs Lynce, Vasco M.\
-    \ Manquinho"
+  authors: "Miguel Neves, Ruben Martins, Mikol\xE1s Janota, In\xEAs Lynce, Vasco Manquinho"
   dblp: journals/corr/NevesMJLM15
   groups:
   - FM
@@ -8457,7 +8467,7 @@ DBLP:journals/corr/abs-1305-5710:
   year: 2013
 DBLP:journals/corr/abs-1708-01745:
   arXiv: http://arxiv.org/abs/1708.01745
-  authors: Mikolas Janota, Radu Grigore, Vasco M. Manquinho
+  authors: Mikolas Janota, Radu Grigore, Vasco Manquinho
   dblp: journals/corr/abs-1708-01745
   groups:
   - FM
@@ -9632,7 +9642,7 @@ DBLP:journals/corr/abs-2205-15764:
   title: 'SymFormer: End-to-end symbolic regression using transformer-based architecture.'
   year: 2022
 DBLP:journals/corr/abs-2206-08768:
-  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco M. Manquinho"
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: journals/corr/abs-2206-08768
   doi: https://doi.org/10.48550/arXiv.2206.08768
   groups:
@@ -9643,7 +9653,7 @@ DBLP:journals/corr/abs-2206-08768:
   title: 'C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments.'
   year: 2022
 DBLP:journals/corr/abs-2206-14175:
-  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco M. Manquinho"
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: journals/corr/abs-2206-14175
   doi: https://doi.org/10.48550/arXiv.2206.14175
   groups:
@@ -9845,7 +9855,7 @@ DBLP:journals/corr/abs-2305-08005:
   title: 'Beyond the Safeguards: Exploring the Security Risks of ChatGPT.'
   year: 2023
 DBLP:journals/corr/abs-2307-13014:
-  authors: "Pedro Orvalho, Jelle Piepenbrock, Mikol\xE1s Janota, Vasco M. Manquinho"
+  authors: "Pedro Orvalho, Jelle Piepenbrock, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: journals/corr/abs-2307-13014
   doi: https://doi.org/10.48550/arXiv.2307.13014
   groups:
@@ -10186,7 +10196,7 @@ DBLP:journals/corr/abs-2407-08447:
   title: 'WildGaussians: 3D Gaussian Splatting in the Wild.'
   year: 2024
 DBLP:journals/corr/abs-2407-09337:
-  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco M. Manquinho"
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: journals/corr/abs-2407-09337
   doi: https://doi.org/10.48550/arXiv.2407.09337
   groups:
@@ -11141,7 +11151,7 @@ DBLP:journals/jsat/JanotaJKLSG14:
   title: 'The QBFGallery 2014: The QBF Competition at the FLoC Olympic Games.'
   year: 2014
 DBLP:journals/jsat/JanotaLMM12:
-  authors: "Mikol\xE1s Janota, In\xEAs Lynce, Vasco M. Manquinho, Jo\xE3o Marques-Silva"
+  authors: "Mikol\xE1s Janota, In\xEAs Lynce, Vasco Manquinho, Jo\xE3o Marques-Silva"
   dblp: journals/jsat/JanotaLMM12
   doi: https://doi.org/10.3233/sat190090
   groups:
