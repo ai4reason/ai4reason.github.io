@@ -3752,6 +3752,18 @@ DBLP:conf/icra/VerboomTWRBC15:
   title: Attitude and altitude estimation and control on board a Flapping Wing Micro
     Air Vehicle.
   year: 2015
+DBLP:conf/icse-apr/OrvalhoJM24:
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
+  dblp: conf/icse-apr/OrvalhoJM24
+  doi: https://doi.org/10.1145/3643788.3648010
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1145/3643788.3648010
+  source: 'IEEE/ACM International Workshop on Automated Program Repair, APR@ICSE 2024,
+    Lisbon, Portugal, April 20, 2024: 14-21 (2024).'
+  title: 'C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments.'
+  year: 2024
 DBLP:conf/icse/IgnatievJM14:
   authors: "Alexey Ignatiev, Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
   dblp: conf/icse/IgnatievJM14
