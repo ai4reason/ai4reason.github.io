@@ -10219,6 +10219,17 @@ DBLP:journals/corr/abs-2407-09337:
   title: 'CFaults: Model-Based Diagnosis for Fault Localization in C Programs with
     Multiple Test Cases.'
   year: 2024
+DBLP:journals/corr/abs-2408-08206:
+  authors: Huapeng Li, Wenxuan Song, Tianao Xu, Alexandre Elsig, Jonas Kulhanek
+  dblp: journals/corr/abs-2408-08206
+  doi: https://doi.org/10.48550/arXiv.2408.08206
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2408.08206
+  source: arXiv CoRR abs/2408.08206 (2024).
+  title: 'WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting.'
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
