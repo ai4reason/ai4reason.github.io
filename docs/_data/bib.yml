@@ -7053,6 +7053,18 @@ DBLP:conf/www/YangHM019:
     2019: 3420-3426 (2019).'
   title: Place Deduplication with Embeddings.
   year: 2019
+DBLP:journals/access/DernerBZB24:
+  authors: "Erik Derner, Kristina Batistic, Jan Zah\xE1lka, Robert Babuska"
+  dblp: journals/access/DernerBZB24
+  doi: https://doi.org/10.1109/ACCESS.2024.3450388
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/ACCESS.2024.3450388
+  source: 'IEEE Access 12: 126176-126187 (2024).'
+  title: A Security Risk Taxonomy for Prompt-Based Interaction With Large Language
+    Models.
+  year: 2024
 DBLP:journals/access/DernerKB21:
   authors: "Erik Derner, Jir\xED Kubal\xEDk, Robert Babuska"
   dblp: journals/access/DernerKB21
