@@ -10242,6 +10242,18 @@ DBLP:journals/corr/abs-2408-08206:
   source: arXiv CoRR abs/2408.08206 (2024).
   title: 'WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting.'
   year: 2024
+DBLP:journals/corr/abs-2408-14338:
+  authors: "Jan Jakubuv, Mikol\xE1s Janota, Jelle Piepenbrock, Josef Urban"
+  dblp: journals/corr/abs-2408-14338
+  doi: https://doi.org/10.48550/arXiv.2408.14338
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2408.14338
+  source: arXiv CoRR abs/2408.14338 (2024).
+  title: Machine Learning for Quantifier Selection in cvc5.
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
