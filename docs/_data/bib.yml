@@ -10254,6 +10254,17 @@ DBLP:journals/corr/abs-2408-14338:
   source: arXiv CoRR abs/2408.14338 (2024).
   title: Machine Learning for Quantifier Selection in cvc5.
   year: 2024
+DBLP:journals/corr/abs-2408-15418:
+  authors: "Jan Hula, David Mojz\xEDsek, Mikol\xE1s Janota"
+  dblp: journals/corr/abs-2408-15418
+  doi: https://doi.org/10.48550/arXiv.2408.15418
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2408.15418
+  source: arXiv CoRR abs/2408.15418 (2024).
+  title: Understanding GNNs for Boolean Satisfiability through Approximation Algorithms.
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
