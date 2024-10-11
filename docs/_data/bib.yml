@@ -10265,6 +10265,19 @@ DBLP:journals/corr/abs-2408-15418:
   source: arXiv CoRR abs/2408.15418 (2024).
   title: Understanding GNNs for Boolean Satisfiability through Approximation Algorithms.
   year: 2024
+DBLP:journals/corr/abs-2409-04775:
+  authors: "Rodrigo P\xE9rez-Dattari, Zhaoting Li, Robert Babuska, Jens Kober, Cosimo\
+    \ Della Santina"
+  dblp: journals/corr/abs-2409-04775
+  doi: https://doi.org/10.48550/arXiv.2409.04775
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2409.04775
+  source: arXiv CoRR abs/2409.04775 (2024).
+  title: Leveraging LLMs, Graphs and Object Hierarchies for Task Planning in Large-Scale
+    Environments.
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
