@@ -10278,6 +10278,18 @@ DBLP:journals/corr/abs-2409-04775:
   title: Leveraging LLMs, Graphs and Object Hierarchies for Task Planning in Large-Scale
     Environments.
   year: 2024
+DBLP:journals/corr/abs-2409-07362:
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
+  dblp: journals/corr/abs-2409-07362
+  doi: https://doi.org/10.48550/arXiv.2409.07362
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2409.07362
+  source: arXiv CoRR abs/2409.07362 (2024).
+  title: 'GitSEED: A Git-backed Automated Assessment Tool for Software Engineering
+    and Programming Education.'
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
