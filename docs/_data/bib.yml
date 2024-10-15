@@ -10557,6 +10557,17 @@ DBLP:journals/entcs/UrbanB07:
     UITP@FLoC 2006, Seattle, WA, USA, August 21, 2006: 63-74 (2006).'
   title: Presenting and Explaining Mizar.
   year: 2006
+DBLP:journals/eor/KouteckaSHM25:
+  authors: "Pavl\xEDna Kouteck\xE1, Premysl Sucha, Jan Hula, Broos Maenhout"
+  dblp: journals/eor/KouteckaSHM25
+  doi: https://doi.org/10.1016/j.ejor.2024.07.029
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1016/j.ejor.2024.07.029
+  source: 'Eur. J. Oper. Res. 320: 328-342 (2025).'
+  title: A machine learning approach to rank pricing problems in branch-and-price.
+  year: 2025
 DBLP:journals/eswa/KubalikDB21:
   authors: "Jir\xED Kubal\xEDk, Erik Derner, Robert Babuska"
   dblp: journals/eswa/KubalikDB21
