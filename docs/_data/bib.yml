@@ -10290,6 +10290,18 @@ DBLP:journals/corr/abs-2409-07362:
   title: 'GitSEED: A Git-backed Automated Assessment Tool for Software Engineering
     and Programming Education.'
   year: 2024
+DBLP:journals/corr/abs-2409-13338:
+  authors: "David Herel, Vojtech Bartek, Tom\xE1s Mikolov"
+  dblp: journals/corr/abs-2409-13338
+  doi: https://doi.org/10.48550/arXiv.2409.13338
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.48550/arXiv.2409.13338
+  source: arXiv CoRR abs/2409.13338 (2024).
+  title: 'Time Awareness in Large Language Models: Benchmarking Fact Recall Across
+    Time.'
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
