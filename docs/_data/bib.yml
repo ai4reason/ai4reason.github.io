@@ -2030,6 +2030,19 @@ DBLP:conf/eacl/GraveMJB17:
   title: Bag of Tricks for Efficient Text Classification.
   url: https://aclanthology.org/E17-2068/
   year: 2017
+DBLP:conf/ecai/ChowJ024:
+  authors: "Choiwah Chow, Mikol\xE1s Janota, Jo\xE3o Ara\xFAjo"
+  dblp: conf/ecai/ChowJ024
+  doi: https://doi.org/10.3233/FAIA240980
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.3233/FAIA240980
+  source: 'ECAI 2024 - 27th European Conference on Artificial Intelligence, 19-24
+    October 2024, Santiago de Compostela, Spain - Including 13th Conference on Prestigious
+    Applications of Intelligent Systems (PAIS 2024): 4100-4107 (2024).'
+  title: Cube-Based Isomorph-Free Finite Model Finding.
+  year: 2024
 DBLP:conf/ecai/HerelCM23:
   authors: "David Herel, Hugo Cisneros, Tom\xE1s Mikolov"
   dblp: conf/ecai/HerelCM23
@@ -2043,6 +2056,20 @@ DBLP:conf/ecai/HerelCM23:
     \ Applications of Intelligent Systems (PAIS 2023): 1036-1043 (2023)."
   title: Preserving Semantics in Textual Adversarial Attacks.
   year: 2023
+DBLP:conf/ecai/JakubuvJPU24:
+  authors: "Jan Jakubuv, Mikol\xE1s Janota, Jelle Piepenbrock, Josef Urban"
+  dblp: conf/ecai/JakubuvJPU24
+  doi: https://doi.org/10.3233/FAIA241009
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.3233/FAIA241009
+  source: 'ECAI 2024 - 27th European Conference on Artificial Intelligence, 19-24
+    October 2024, Santiago de Compostela, Spain - Including 13th Conference on Prestigious
+    Applications of Intelligent Systems (PAIS 2024): 4336-4343 (2024).'
+  title: Machine Learning for Quantifier Selection in cvc5.
+  year: 2024
 DBLP:conf/ecai/Marques-SilvaJL10:
   authors: "Jo\xE3o Marques-Silva, Mikol\xE1s Janota, In\xEAs Lynce"
   dblp: conf/ecai/Marques-SilvaJL10
