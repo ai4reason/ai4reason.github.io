@@ -1764,6 +1764,19 @@ DBLP:conf/cikm/GauthierKU16:
   title: Initial Experiments with Statistical Conjecturing over Large Formal Corpora.
   url: https://ceur-ws.org/Vol-1785/W23.pdf
   year: 2016
+DBLP:conf/cikm/HulaMJ24:
+  authors: "Jan Hula, David Mojz\xEDsek, Mikol\xE1s Janota"
+  dblp: conf/cikm/HulaMJ24
+  doi: https://doi.org/10.1145/3627673.3679813
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1145/3627673.3679813
+  source: 'Proceedings of the 33rd ACM International Conference on Information and
+    Knowledge Management, CIKM 2024, Boise, ID, USA, October 21-25, 2024: 953-961
+    (2024).'
+  title: Understanding GNNs for Boolean Satisfiability through Approximation Algorithms.
+  year: 2024
 DBLP:conf/coling/Mikolov14:
   authors: "Tom\xE1s Mikolov"
   dblp: conf/coling/Mikolov14
