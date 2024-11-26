@@ -10342,6 +10342,17 @@ DBLP:journals/corr/abs-2409-13338:
   title: 'Time Awareness in Large Language Models: Benchmarking Fact Recall Across
     Time.'
   year: 2024
+DBLP:journals/corr/abs-2410-08874:
+  authors: Daniel Ranalter, Chad E. Brown, Cezary Kaliszyk
+  dblp: journals/corr/abs-2410-08874
+  doi: https://doi.org/10.48550/arXiv.2410.08874
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2410.08874
+  source: arXiv CoRR abs/2410.08874 (2024).
+  title: Experiments with Choice in Dependently-Typed Higher-Order Logic.
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
