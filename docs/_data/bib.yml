@@ -6563,6 +6563,19 @@ DBLP:conf/semweb/KaliszykU14:
   title: Wikis and Collaborative Systems for Large Formal Mathematics.
   url: https://www.wikidata.org/entity/Q108482146
   year: 2014
+DBLP:conf/sigcse/OrvalhoJM24:
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
+  dblp: conf/sigcse/OrvalhoJM24
+  doi: https://doi.org/10.1145/3649165.3690106
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1145/3649165.3690106
+  source: 'Proceedings of the 2024 ACM Virtual Global Computing Education Conference
+    V. 1, SIGCSE Virtual 2024, Virtual Event, NC, USA, December 5-8, 2024: (2024).'
+  title: 'GitSEED: A Git-backed Automated Assessment Tool for Software Engineering
+    and Programming Education.'
+  year: 2024
 DBLP:conf/sigsoft/JanotaGM07:
   authors: "Mikol\xE1s Janota, Radu Grigore, Michal Moskal"
   dblp: conf/sigsoft/JanotaGM07
