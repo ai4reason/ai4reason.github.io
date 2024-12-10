@@ -11376,6 +11376,20 @@ DBLP:journals/jsc/KaliszykU15:
   title: Learning-assisted theorem proving with millions of lemmas.
   url: https://www.wikidata.org/entity/Q35829526
   year: 2015
+DBLP:journals/jsc/PiepenbrockUKOHJ25:
+  authors: "Jelle Piepenbrock, Josef Urban, Konstantin Korovin, Miroslav Ols\xE1k,\
+    \ Tom Heskes, Mikol\xE1s Janota"
+  dblp: journals/jsc/PiepenbrockUKOHJ25
+  doi: https://doi.org/10.1016/j.jsc.2024.102375
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1016/j.jsc.2024.102375
+  source: 'J. Symb. Comput. 128: (2025).'
+  title: Invariant neural architecture for learning term synthesis in instantiation
+    proving.
+  year: 2025
 DBLP:journals/jsyml/BenzmullerBK04:
   authors: "Christoph Benzm\xFCller, Chad E. Brown, Michael Kohlhase"
   dblp: journals/jsyml/BenzmullerBK04
