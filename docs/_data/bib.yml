@@ -10390,6 +10390,18 @@ DBLP:journals/corr/abs-2410-14232:
   title: Tableaux for Automated Reasoning in Dependently-Typed Higher-Order Logic
     (Extended Version).
   year: 2024
+DBLP:journals/corr/abs-2411-06409:
+  authors: Liao Zhang, Fabian Mitterwallner, Jan Jakubuv, Cezary Kaliszyk
+  dblp: journals/corr/abs-2411-06409
+  doi: https://doi.org/10.48550/arXiv.2411.06409
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2411.06409
+  source: arXiv CoRR abs/2411.06409 (2024).
+  title: Automated Strategy Invention for Confluence of Term Rewrite Systems.
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
