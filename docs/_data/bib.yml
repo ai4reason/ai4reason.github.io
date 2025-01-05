@@ -268,8 +268,20 @@ DBLP:conf/adprl/BusoniuMSB11:
   title: Optimistic planning for sparsely stochastic systems.
   url: https://www.wikidata.org/entity/Q107159664
   year: 2011
+DBLP:conf/agi/Goertzel24:
+  authors: Zarathustra Amadeus Goertzel
+  dblp: conf/agi/Goertzel24
+  doi: https://doi.org/10.1007/978-3-031-65572-2_9
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.1007/978-3-031-65572-2_9
+  source: 'Artificial General Intelligence - 17th International Conference, AGI 2024,
+    Seattle, WA, USA, August 13-16, 2024, Proceedings: 84-88 (2024).'
+  title: 'Beneficial AGI: Care and Collaboration Are All You Need.'
+  year: 2024
 DBLP:conf/aiia/JanotaGM17:
-  authors: "Mikol\xE1s Janota, Radu Grigore, Vasco M. Manquinho"
+  authors: "Mikol\xE1s Janota, Radu Grigore, Vasco Manquinho"
   dblp: conf/aiia/JanotaGM17
   groups:
   - FM
@@ -1623,6 +1635,19 @@ DBLP:conf/cdc/PaneNB16:
     USA, December 12-14, 2016: 5819-5826 (2016).'
   title: Actor-critic reinforcement learning for tracking control in robotics.
   year: 2016
+DBLP:conf/cdc/PereiraDB00:
+  authors: "Carlos Pereira, Ant\xF3nio Dourado, Robert Babuska"
+  dblp: conf/cdc/PereiraDB00
+  doi: https://doi.org/10.1109/CDC.2000.912256
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/CDC.2000.912256
+  source: '39th IEEE Conference on Decision and Control, CDC 2000, Sydney, Australia,
+    December 12-15, 2000: 3556-3561 (2000).'
+  title: Constructive on-line learning for a neuro-fuzzy network with fuzzy sets obtained
+    by Delaunay triangulation.
+  year: 2000
 DBLP:conf/cec/AstBS08:
   authors: Jelmer van Ast, Robert Babuska, Bart De Schutter
   dblp: conf/cec/AstBS08
@@ -1739,6 +1764,19 @@ DBLP:conf/cikm/GauthierKU16:
   title: Initial Experiments with Statistical Conjecturing over Large Formal Corpora.
   url: https://ceur-ws.org/Vol-1785/W23.pdf
   year: 2016
+DBLP:conf/cikm/HulaMJ24:
+  authors: "Jan Hula, David Mojz\xEDsek, Mikol\xE1s Janota"
+  dblp: conf/cikm/HulaMJ24
+  doi: https://doi.org/10.1145/3627673.3679813
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1145/3627673.3679813
+  source: 'Proceedings of the 33rd ACM International Conference on Information and
+    Knowledge Management, CIKM 2024, Boise, ID, USA, October 21-25, 2024: 953-961
+    (2024).'
+  title: Understanding GNNs for Boolean Satisfiability through Approximation Algorithms.
+  year: 2024
 DBLP:conf/coling/Mikolov14:
   authors: "Tom\xE1s Mikolov"
   dblp: conf/coling/Mikolov14
@@ -1802,8 +1840,7 @@ DBLP:conf/cp/BelovJLM12:
   url: https://www.wikidata.org/entity/Q62047283
   year: 2012
 DBLP:conf/cp/JanotaMSM21:
-  authors: "Mikol\xE1s Janota, Ant\xF3nio Morgado, Jos\xE9 Fragoso Santos, Vasco M.\
-    \ Manquinho"
+  authors: "Mikol\xE1s Janota, Ant\xF3nio Morgado, Jos\xE9 Fragoso Santos, Vasco Manquinho"
   dblp: conf/cp/JanotaMSM21
   doi: https://doi.org/10.4230/LIPIcs.CP.2021.31
   groups:
@@ -1842,7 +1879,7 @@ DBLP:conf/cp/KlieberJMC13:
   url: https://www.wikidata.org/entity/Q62047281
   year: 2013
 DBLP:conf/cp/SiZMJIN16:
-  authors: "Xujie Si, Xin Zhang, Vasco M. Manquinho, Mikol\xE1s Janota, Alexey Ignatiev,\
+  authors: "Xujie Si, Xin Zhang, Vasco Manquinho, Mikol\xE1s Janota, Alexey Ignatiev,\
     \ Mayur Naik"
   dblp: conf/cp/SiZMJIN16
   doi: https://doi.org/10.1007/978-3-319-44953-1_30
@@ -2006,6 +2043,19 @@ DBLP:conf/eacl/GraveMJB17:
   title: Bag of Tricks for Efficient Text Classification.
   url: https://aclanthology.org/E17-2068/
   year: 2017
+DBLP:conf/ecai/ChowJ024:
+  authors: "Choiwah Chow, Mikol\xE1s Janota, Jo\xE3o Ara\xFAjo"
+  dblp: conf/ecai/ChowJ024
+  doi: https://doi.org/10.3233/FAIA240980
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.3233/FAIA240980
+  source: 'ECAI 2024 - 27th European Conference on Artificial Intelligence, 19-24
+    October 2024, Santiago de Compostela, Spain - Including 13th Conference on Prestigious
+    Applications of Intelligent Systems (PAIS 2024): 4100-4107 (2024).'
+  title: Cube-Based Isomorph-Free Finite Model Finding.
+  year: 2024
 DBLP:conf/ecai/HerelCM23:
   authors: "David Herel, Hugo Cisneros, Tom\xE1s Mikolov"
   dblp: conf/ecai/HerelCM23
@@ -2019,6 +2069,20 @@ DBLP:conf/ecai/HerelCM23:
     \ Applications of Intelligent Systems (PAIS 2023): 1036-1043 (2023)."
   title: Preserving Semantics in Textual Adversarial Attacks.
   year: 2023
+DBLP:conf/ecai/JakubuvJPU24:
+  authors: "Jan Jakubuv, Mikol\xE1s Janota, Jelle Piepenbrock, Josef Urban"
+  dblp: conf/ecai/JakubuvJPU24
+  doi: https://doi.org/10.3233/FAIA241009
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.3233/FAIA241009
+  source: 'ECAI 2024 - 27th European Conference on Artificial Intelligence, 19-24
+    October 2024, Santiago de Compostela, Spain - Including 13th Conference on Prestigious
+    Applications of Intelligent Systems (PAIS 2024): 4336-4343 (2024).'
+  title: Machine Learning for Quantifier Selection in cvc5.
+  year: 2024
 DBLP:conf/ecai/Marques-SilvaJL10:
   authors: "Jo\xE3o Marques-Silva, Mikol\xE1s Janota, In\xEAs Lynce"
   dblp: conf/ecai/Marques-SilvaJL10
@@ -2046,7 +2110,7 @@ DBLP:conf/ecai/OlsakKU20:
   title: Property Invariant Embedding for Automated Reasoning.
   year: 2020
 DBLP:conf/ecai/OrvalhoPJM23:
-  authors: "Pedro Orvalho, Jelle Piepenbrock, Mikol\xE1s Janota, Vasco M. Manquinho"
+  authors: "Pedro Orvalho, Jelle Piepenbrock, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: conf/ecai/OrvalhoPJM23
   doi: https://doi.org/10.3233/FAIA230468
   groups:
@@ -2271,7 +2335,7 @@ DBLP:conf/eucc/BabuskaSV99:
   title: Predictive control of nonlinear systems based on fuzzy and neural models.
   year: 1999
 DBLP:conf/eucc/MollovVB01:
-  authors: Stanimir Mollov, P. J. van der Veen, Robert Babuska
+  authors: Stanimir Mollov, Peter J. van der Veen, Robert Babuska
   dblp: conf/eucc/MollovVB01
   doi: https://doi.org/10.23919/ECC.2001.7076080
   groups:
@@ -2295,7 +2359,7 @@ DBLP:conf/eucc/SatyavadaBB16:
   url: https://www.wikidata.org/entity/Q107162405
   year: 2016
 DBLP:conf/eucc/VeenBV99:
-  authors: P. J. van der Veen, Robert Babuska, Henk B. Verbruggen
+  authors: Peter J. van der Veen, Robert Babuska, Henk B. Verbruggen
   dblp: conf/eucc/VeenBV99
   doi: https://doi.org/10.23919/ECC.1999.7100056
   groups:
@@ -2459,6 +2523,19 @@ DBLP:conf/fm/CookseyHBGJ19:
     7-11, 2019, Revised Selected Papers, Part II: 507-525 (2019).'
   title: 'PrideMM: Second Order Model Checking for Memory Consistency Models.'
   year: 2019
+DBLP:conf/fm/OrvalhoJM24:
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco M. Manquinho"
+  dblp: conf/fm/OrvalhoJM24
+  doi: https://doi.org/10.1007/978-3-031-71162-6_24
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-71162-6_24
+  source: 'Formal Methods - 26th International Symposium, FM 2024, Milan, Italy, September
+    9-13, 2024, Proceedings, Part I: 463-481 (2024).'
+  title: 'cfaults: Model-Based Diagnosis for Fault Localization in C with Multiple
+    Test Cases.'
+  year: 2024
 DBLP:conf/fmcad/JanotaBFR21:
   authors: "Mikol\xE1s Janota, Haniel Barbosa, Pascal Fontaine, Andrew Reynolds"
   dblp: conf/fmcad/JanotaBFR21
@@ -2645,7 +2722,7 @@ DBLP:conf/fuzzIEEE/BabuskaO03:
   title: Design of optimal membership functions for fuzzy gain-scheduled control.
   year: 2003
 DBLP:conf/fuzzIEEE/BabuskaVK02:
-  authors: Robert Babuska, P. J. van der Veen, Uzay Kaymak
+  authors: Robert Babuska, Peter J. van der Veen, Uzay Kaymak
   dblp: conf/fuzzIEEE/BabuskaVK02
   doi: https://doi.org/10.1109/FUZZ.2002.1006654
   groups:
@@ -3410,6 +3487,18 @@ DBLP:conf/iclr/Chvalovsky19:
   title: Top-Down Neural Model For Formulae.
   url: https://openreview.net/forum?id=Byg5QhR5FQ
   year: 2019
+DBLP:conf/iclr/HerelM24:
+  authors: "David Herel, Tom\xE1s Mikolov"
+  dblp: conf/iclr/HerelM24
+  groups:
+  - FAI
+  - main
+  link: https://openreview.net/forum?id=DeuBfEWyR4
+  source: 'The Second Tiny Papers Track at ICLR 2024, Tiny Papers @ ICLR 2024, Vienna,
+    Austria, May 11, 2024: (2024).'
+  title: Collapse of Self-trained Language Models.
+  url: https://openreview.net/forum?id=DeuBfEWyR4
+  year: 2024
 DBLP:conf/iclr/JerniteGJM17:
   authors: "Yacine Jernite, Edouard Grave, Armand Joulin, Tom\xE1s Mikolov"
   dblp: conf/iclr/JerniteGJM17
@@ -3422,6 +3511,48 @@ DBLP:conf/iclr/JerniteGJM17:
   title: Variable Computation in Recurrent Neural Networks.
   url: https://openreview.net/forum?id=S1LVSrcge
   year: 2017
+DBLP:conf/iclr/MikulaTAPJZSKMW24:
+  authors: Maciej Mikula, Szymon Tworkowski, Szymon Antoniak, Bartosz Piotrowski,
+    Albert Q. Jiang, Jin Peng Zhou, Christian Szegedy, Lukasz Kucinski, Piotr Milos,
+    Yuhuai Wu
+  dblp: conf/iclr/MikulaTAPJZSKMW24
+  groups:
+  - FM
+  - main
+  link: https://openreview.net/forum?id=oYjPk8mqAV
+  source: 'The Twelfth International Conference on Learning Representations, ICLR
+    2024, Vienna, Austria, May 7-11, 2024: (2024).'
+  title: 'Magnushammer: A Transformer-Based Approach to Premise Selection.'
+  url: https://openreview.net/forum?id=oYjPk8mqAV
+  year: 2024
+DBLP:conf/icml/BlaauwbroekORMP24:
+  authors: "Lasse Blaauwbroek, Mirek Ols\xE1k, Jason Rute, Fidel Ivan Schaposnik Massolo,\
+    \ Jelle Piepenbrock, Vasily Pestun"
+  dblp: conf/icml/BlaauwbroekORMP24
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://openreview.net/forum?id=A7CtiozznN
+  source: 'Forty-first International Conference on Machine Learning, ICML 2024, Vienna,
+    Austria, July 21-27, 2024: (2024).'
+  title: 'Graph2Tac: Online Representation Learning of Formal Math Concepts.'
+  url: https://openreview.net/forum?id=A7CtiozznN
+  year: 2024
+DBLP:conf/icml/KhonaOHRNDLT24:
+  authors: Mikail Khona, Maya Okawa, Jan Hula, Rahul Ramesh, Kento Nishi, Robert P.
+    Dick, Ekdeep Singh Lubana, Hidenori Tanaka
+  dblp: conf/icml/KhonaOHRNDLT24
+  groups:
+  - FM
+  - main
+  link: https://openreview.net/forum?id=8VEGkphQaK
+  source: 'Forty-first International Conference on Machine Learning, ICML 2024, Vienna,
+    Austria, July 21-27, 2024: (2024).'
+  title: 'Towards an Understanding of Stepwise Inference in Transformers: A Synthetic
+    Graph Navigation Model.'
+  url: https://openreview.net/forum?id=8VEGkphQaK
+  year: 2024
 DBLP:conf/icml/LeM14:
   authors: "Quoc V. Le, Tom\xE1s Mikolov"
   dblp: conf/icml/LeM14
@@ -3560,6 +3691,18 @@ DBLP:conf/icra/BehrensSB20:
   title: Simultaneous task allocation and motion scheduling for complex tasks executed
     by multiple robots.
   year: 2020
+DBLP:conf/icra/BentCB24:
+  authors: "Luuk van den Bent, Tom\xE1s Coleman, Robert Babuska"
+  dblp: conf/icra/BentCB24
+  doi: https://doi.org/10.1109/ICRA57147.2024.10610089
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/ICRA57147.2024.10610089
+  source: 'IEEE International Conference on Robotics and Automation, ICRA 2024, Yokohama,
+    Japan, May 13-17, 2024: 13947-13953 (2024).'
+  title: Robotic Grasping of Harvested Tomato Trusses Using Vision and Online Learning.
+  year: 2024
 DBLP:conf/icra/BurgerBBB17:
   authors: Ruben Burger, Mukunda Bharatheesha, Marc van Bert, Robert Babuska
   dblp: conf/icra/BurgerBBB17
@@ -3649,6 +3792,18 @@ DBLP:conf/icra/VerboomTWRBC15:
   title: Attitude and altitude estimation and control on board a Flapping Wing Micro
     Air Vehicle.
   year: 2015
+DBLP:conf/icse-apr/OrvalhoJM24:
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
+  dblp: conf/icse-apr/OrvalhoJM24
+  doi: https://doi.org/10.1145/3643788.3648010
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1145/3643788.3648010
+  source: 'IEEE/ACM International Workshop on Automated Program Repair, APR@ICSE 2024,
+    Lisbon, Portugal, April 20, 2024: 14-21 (2024).'
+  title: 'C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments.'
+  year: 2024
 DBLP:conf/icse/IgnatievJM14:
   authors: "Alexey Ignatiev, Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
   dblp: conf/icse/IgnatievJM14
@@ -3878,6 +4033,18 @@ DBLP:conf/ijcci/HynerHJ23:
     Intelligence, IJCCI 2023, Rome, Italy, November 13-15, 2023.: 450-458 (2023).'
   title: 'Molecule Builder: Environment for Testing Reinforcement Learning Agents.'
   year: 2023
+DBLP:conf/ijcci/HynerMAHS24:
+  authors: "Petr Hyner, Petr Marek, David Adamczyk, Jan Hula, Jan Sediv\xFD"
+  dblp: conf/ijcci/HynerMAHS24
+  doi: https://doi.org/10.5220/0013064500003837
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.5220/0013064500003837
+  source: 'Proceedings of the 16th International Joint Conference on Computational
+    Intelligence, IJCCI 2024, Porto, Portugal, November 20-22, 2024.: 606-612 (2024).'
+  title: 'Stealing Brains: From English to Czech Language Model.'
+  year: 2024
 DBLP:conf/ijcci/KubalikB15:
   authors: "Jir\xED Kubal\xEDk, Robert Babuska"
   dblp: conf/ijcci/KubalikB15
@@ -4408,6 +4575,19 @@ DBLP:conf/itp/CarneiroBU23:
     \ July 31 to August 4, 2023, Bia\u0142ystok, Poland: 9:1-9:19 (2023)."
   title: Automated Theorem Proving for Metamath.
   year: 2023
+DBLP:conf/itp/GauthierB24:
+  authors: Thibault Gauthier, Chad E. Brown
+  dblp: conf/itp/GauthierB24
+  doi: https://doi.org/10.4230/LIPIcs.ITP.2024.16
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.4230/LIPIcs.ITP.2024.16
+  source: '15th International Conference on Interactive Theorem Proving, ITP 2024,
+    September 9-14, 2024, Tbilisi, Georgia: 16:1-16:18 (2024).'
+  title: A Formal Proof of R(4, 5)=25.
+  year: 2024
 DBLP:conf/itp/GoertzelJ0U18:
   authors: Zarathustra Amadeus Goertzel, Jan Jakubuv, Stephan Schulz, Josef Urban
   dblp: conf/itp/GoertzelJ0U18
@@ -5434,6 +5614,19 @@ DBLP:conf/mkm/HulaJJK22:
     2022, Tbilisi, Georgia, September 19-23, 2022, Proceedings: 256-271 (2022).'
   title: Targeted Configuration of an SMT Solver.
   year: 2022
+DBLP:conf/mkm/JakubuvJU24:
+  authors: "Jan Jakubuv, Mikol\xE1s Janota, Josef Urban"
+  dblp: conf/mkm/JakubuvJU24
+  doi: https://doi.org/10.1007/978-3-031-66997-2_18
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-66997-2_18
+  source: "Intelligent Computer Mathematics - 17th International Conference, CICM\
+    \ 2024, Montr\xE9al, QC, Canada, August 5-9, 2024, Proceedings: 315-333 (2024)."
+  title: Solving Hard Mizar Problems with Instantiation and Strategy Invention.
+  year: 2024
 DBLP:conf/mkm/JakubuvK23:
   authors: Jan Jakubuv, Cezary Kaliszyk
   dblp: conf/mkm/JakubuvK23
@@ -5983,12 +6176,12 @@ DBLP:conf/odyssey/JancikPBBGHKMMSC10:
   groups:
   - FAI
   - main
-  link: http://www.isca-speech.org/archive_open/odyssey_2010/od10_037.html
+  link: https://www.isca-archive.org/odyssey_2010/jancik10_odyssey.html
   source: 'Odyssey 2010: The Speaker and Language Recognition Workshop, Brno, Czech
     Republic, June 28 - July 1, 2010: (2010).'
   title: Data selection and calibration issues in automatic language recognition -
     investigation with BUT-AGNITIO NIST LRE 2009 system.
-  url: http://www.isca-speech.org/archive_open/odyssey_2010/od10_037.html
+  url: https://www.isca-archive.org/odyssey_2010/jancik10_odyssey.html
   year: 2010
 DBLP:conf/odyssey/MikolovPGBC10:
   authors: "Tom\xE1s Mikolov, Oldrich Plchot, Ondrej Glembek, Luk\xE1s Burget, Jan\
@@ -5997,11 +6190,11 @@ DBLP:conf/odyssey/MikolovPGBC10:
   groups:
   - FAI
   - main
-  link: http://www.isca-speech.org/archive_open/odyssey_2010/od10_042.html
+  link: https://www.isca-archive.org/odyssey_2010/mikolov10_odyssey.html
   source: 'Odyssey 2010: The Speaker and Language Recognition Workshop, Brno, Czech
     Republic, June 28 - July 1, 2010: (2010).'
   title: PCA-based Feature Extraction for Phonotactic Language Recognition.
-  url: http://www.isca-speech.org/archive_open/odyssey_2010/od10_042.html
+  url: https://www.isca-archive.org/odyssey_2010/mikolov10_odyssey.html
   year: 2010
 DBLP:conf/paar/2024:
   authors: "Christopher W. Brown, Daniela Kaufmann, Cl\xE1udia Nalon, Alexander Steen,\
@@ -6223,7 +6416,7 @@ DBLP:conf/sat/BeyersdorffCS016:
   url: https://www.wikidata.org/entity/Q59893521
   year: 2016
 DBLP:conf/sat/CabralJM22:
-  authors: "Miguel Cabral, Mikol\xE1s Janota, Vasco M. Manquinho"
+  authors: "Miguel Cabral, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: conf/sat/CabralJM22
   doi: https://doi.org/10.4230/LIPIcs.SAT.2022.29
   groups:
@@ -6333,8 +6526,7 @@ DBLP:conf/sat/JanotaS11:
   title: Abstraction-Based Algorithm for 2QBF.
   year: 2011
 DBLP:conf/sat/NevesMJLM15:
-  authors: "Miguel Neves, Ruben Martins, Mikol\xE1s Janota, In\xEAs Lynce, Vasco M.\
-    \ Manquinho"
+  authors: "Miguel Neves, Ruben Martins, Mikol\xE1s Janota, In\xEAs Lynce, Vasco Manquinho"
   dblp: conf/sat/NevesMJLM15
   doi: https://doi.org/10.1007/978-3-319-24318-4_20
   groups:
@@ -6383,6 +6575,19 @@ DBLP:conf/semweb/KaliszykU14:
   title: Wikis and Collaborative Systems for Large Formal Mathematics.
   url: https://www.wikidata.org/entity/Q108482146
   year: 2014
+DBLP:conf/sigcse/OrvalhoJM24:
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
+  dblp: conf/sigcse/OrvalhoJM24
+  doi: https://doi.org/10.1145/3649165.3690106
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1145/3649165.3690106
+  source: 'Proceedings of the 2024 ACM Virtual Global Computing Education Conference
+    V. 1, SIGCSE Virtual 2024, Virtual Event, NC, USA, December 5-8, 2024: (2024).'
+  title: 'GitSEED: A Git-backed Automated Assessment Tool for Software Engineering
+    and Programming Education.'
+  year: 2024
 DBLP:conf/sigsoft/JanotaGM07:
   authors: "Mikol\xE1s Janota, Radu Grigore, Michal Moskal"
   dblp: conf/sigsoft/JanotaGM07
@@ -6396,7 +6601,7 @@ DBLP:conf/sigsoft/JanotaGM07:
   url: https://www.wikidata.org/entity/Q62047288
   year: 2007
 DBLP:conf/sigsoft/OrvalhoJM22:
-  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco M. Manquinho"
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: conf/sigsoft/OrvalhoJM22
   doi: https://doi.org/10.1145/3540250.3558931
   groups:
@@ -6913,6 +7118,18 @@ DBLP:conf/www/YangHM019:
     2019: 3420-3426 (2019).'
   title: Place Deduplication with Embeddings.
   year: 2019
+DBLP:journals/access/DernerBZB24:
+  authors: "Erik Derner, Kristina Batistic, Jan Zah\xE1lka, Robert Babuska"
+  dblp: journals/access/DernerBZB24
+  doi: https://doi.org/10.1109/ACCESS.2024.3450388
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/ACCESS.2024.3450388
+  source: 'IEEE Access 12: 126176-126187 (2024).'
+  title: A Security Risk Taxonomy for Prompt-Based Interaction With Large Language
+    Models.
+  year: 2024
 DBLP:journals/access/DernerKB21:
   authors: "Erik Derner, Jir\xED Kubal\xEDk, Robert Babuska"
   dblp: journals/access/DernerKB21
@@ -7892,8 +8109,7 @@ DBLP:journals/corr/NagashimaO16:
   year: 2016
 DBLP:journals/corr/NevesMJLM15:
   arXiv: http://arxiv.org/abs/1505.02405
-  authors: "Miguel Neves, Ruben Martins, Mikol\xE1s Janota, In\xEAs Lynce, Vasco M.\
-    \ Manquinho"
+  authors: "Miguel Neves, Ruben Martins, Mikol\xE1s Janota, In\xEAs Lynce, Vasco Manquinho"
   dblp: journals/corr/NevesMJLM15
   groups:
   - FM
@@ -8340,7 +8556,7 @@ DBLP:journals/corr/abs-1305-5710:
   year: 2013
 DBLP:journals/corr/abs-1708-01745:
   arXiv: http://arxiv.org/abs/1708.01745
-  authors: Mikolas Janota, Radu Grigore, Vasco M. Manquinho
+  authors: Mikolas Janota, Radu Grigore, Vasco Manquinho
   dblp: journals/corr/abs-1708-01745
   groups:
   - FM
@@ -9515,7 +9731,7 @@ DBLP:journals/corr/abs-2205-15764:
   title: 'SymFormer: End-to-end symbolic regression using transformer-based architecture.'
   year: 2022
 DBLP:journals/corr/abs-2206-08768:
-  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco M. Manquinho"
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: journals/corr/abs-2206-08768
   doi: https://doi.org/10.48550/arXiv.2206.08768
   groups:
@@ -9526,7 +9742,7 @@ DBLP:journals/corr/abs-2206-08768:
   title: 'C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments.'
   year: 2022
 DBLP:journals/corr/abs-2206-14175:
-  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco M. Manquinho"
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: journals/corr/abs-2206-14175
   doi: https://doi.org/10.48550/arXiv.2206.14175
   groups:
@@ -9728,7 +9944,7 @@ DBLP:journals/corr/abs-2305-08005:
   title: 'Beyond the Safeguards: Exploring the Security Risks of ChatGPT.'
   year: 2023
 DBLP:journals/corr/abs-2307-13014:
-  authors: "Pedro Orvalho, Jelle Piepenbrock, Mikol\xE1s Janota, Vasco M. Manquinho"
+  authors: "Pedro Orvalho, Jelle Piepenbrock, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: journals/corr/abs-2307-13014
   doi: https://doi.org/10.48550/arXiv.2307.13014
   groups:
@@ -10034,6 +10250,158 @@ DBLP:journals/corr/abs-2406-17762:
   source: arXiv CoRR abs/2406.17762 (2024).
   title: Solving Hard Mizar Problems with Instantiation and Strategy Invention.
   year: 2024
+DBLP:journals/corr/abs-2407-04328:
+  authors: Bas van der Heijden, Jelle Luijkx, Laura Ferranti, Jens Kober, Robert Babuska
+  dblp: journals/corr/abs-2407-04328
+  doi: https://doi.org/10.48550/arXiv.2407.04328
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2407.04328
+  source: arXiv CoRR abs/2407.04328 (2024).
+  title: 'EAGERx: Graph-Based Framework for Sim2real Robot Learning.'
+  year: 2024
+DBLP:journals/corr/abs-2407-05208:
+  authors: Ahmed Bhayat, Martin Suda
+  dblp: journals/corr/abs-2407-05208
+  doi: https://doi.org/10.48550/arXiv.2407.05208
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.48550/arXiv.2407.05208
+  source: arXiv CoRR abs/2407.05208 (2024).
+  title: A Higher-Order Vampire (Short Paper).
+  year: 2024
+DBLP:journals/corr/abs-2407-08447:
+  authors: Jonas Kulhanek, Songyou Peng, Zuzana Kukelova, Marc Pollefeys, Torsten
+    Sattler
+  dblp: journals/corr/abs-2407-08447
+  doi: https://doi.org/10.48550/arXiv.2407.08447
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2407.08447
+  source: arXiv CoRR abs/2407.08447 (2024).
+  title: 'WildGaussians: 3D Gaussian Splatting in the Wild.'
+  year: 2024
+DBLP:journals/corr/abs-2407-09337:
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
+  dblp: journals/corr/abs-2407-09337
+  doi: https://doi.org/10.48550/arXiv.2407.09337
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2407.09337
+  source: arXiv CoRR abs/2407.09337 (2024).
+  title: 'CFaults: Model-Based Diagnosis for Fault Localization in C Programs with
+    Multiple Test Cases.'
+  year: 2024
+DBLP:journals/corr/abs-2408-08206:
+  authors: Huapeng Li, Wenxuan Song, Tianao Xu, Alexandre Elsig, Jonas Kulhanek
+  dblp: journals/corr/abs-2408-08206
+  doi: https://doi.org/10.48550/arXiv.2408.08206
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2408.08206
+  source: arXiv CoRR abs/2408.08206 (2024).
+  title: 'WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting.'
+  year: 2024
+DBLP:journals/corr/abs-2408-14338:
+  authors: "Jan Jakubuv, Mikol\xE1s Janota, Jelle Piepenbrock, Josef Urban"
+  dblp: journals/corr/abs-2408-14338
+  doi: https://doi.org/10.48550/arXiv.2408.14338
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2408.14338
+  source: arXiv CoRR abs/2408.14338 (2024).
+  title: Machine Learning for Quantifier Selection in cvc5.
+  year: 2024
+DBLP:journals/corr/abs-2408-15418:
+  authors: "Jan Hula, David Mojz\xEDsek, Mikol\xE1s Janota"
+  dblp: journals/corr/abs-2408-15418
+  doi: https://doi.org/10.48550/arXiv.2408.15418
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2408.15418
+  source: arXiv CoRR abs/2408.15418 (2024).
+  title: Understanding GNNs for Boolean Satisfiability through Approximation Algorithms.
+  year: 2024
+DBLP:journals/corr/abs-2409-04775:
+  authors: "Rodrigo P\xE9rez-Dattari, Zhaoting Li, Robert Babuska, Jens Kober, Cosimo\
+    \ Della Santina"
+  dblp: journals/corr/abs-2409-04775
+  doi: https://doi.org/10.48550/arXiv.2409.04775
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2409.04775
+  source: arXiv CoRR abs/2409.04775 (2024).
+  title: Leveraging LLMs, Graphs and Object Hierarchies for Task Planning in Large-Scale
+    Environments.
+  year: 2024
+DBLP:journals/corr/abs-2409-07362:
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
+  dblp: journals/corr/abs-2409-07362
+  doi: https://doi.org/10.48550/arXiv.2409.07362
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2409.07362
+  source: arXiv CoRR abs/2409.07362 (2024).
+  title: 'GitSEED: A Git-backed Automated Assessment Tool for Software Engineering
+    and Programming Education.'
+  year: 2024
+DBLP:journals/corr/abs-2409-13338:
+  authors: "David Herel, Vojtech Bartek, Tom\xE1s Mikolov"
+  dblp: journals/corr/abs-2409-13338
+  doi: https://doi.org/10.48550/arXiv.2409.13338
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.48550/arXiv.2409.13338
+  source: arXiv CoRR abs/2409.13338 (2024).
+  title: 'Time Awareness in Large Language Models: Benchmarking Fact Recall Across
+    Time.'
+  year: 2024
+DBLP:journals/corr/abs-2410-08874:
+  authors: Daniel Ranalter, Chad E. Brown, Cezary Kaliszyk
+  dblp: journals/corr/abs-2410-08874
+  doi: https://doi.org/10.48550/arXiv.2410.08874
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2410.08874
+  source: arXiv CoRR abs/2410.08874 (2024).
+  title: Experiments with Choice in Dependently-Typed Higher-Order Logic.
+  year: 2024
+DBLP:journals/corr/abs-2410-14232:
+  authors: Johannes Niederhauser, Chad E. Brown, Cezary Kaliszyk
+  dblp: journals/corr/abs-2410-14232
+  doi: https://doi.org/10.48550/arXiv.2410.14232
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2410.14232
+  source: arXiv CoRR abs/2410.14232 (2024).
+  title: Tableaux for Automated Reasoning in Dependently-Typed Higher-Order Logic
+    (Extended Version).
+  year: 2024
+DBLP:journals/corr/abs-2411-06409:
+  authors: Liao Zhang, Fabian Mitterwallner, Jan Jakubuv, Cezary Kaliszyk
+  dblp: journals/corr/abs-2411-06409
+  doi: https://doi.org/10.48550/arXiv.2411.06409
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2411.06409
+  source: arXiv CoRR abs/2411.06409 (2024).
+  title: Automated Strategy Invention for Confluence of Term Rewrite Systems.
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
@@ -10301,6 +10669,17 @@ DBLP:journals/entcs/UrbanB07:
     UITP@FLoC 2006, Seattle, WA, USA, August 21, 2006: 63-74 (2006).'
   title: Presenting and Explaining Mizar.
   year: 2006
+DBLP:journals/eor/KouteckaSHM25:
+  authors: "Pavl\xEDna Kouteck\xE1, Premysl Sucha, Jan Hula, Broos Maenhout"
+  dblp: journals/eor/KouteckaSHM25
+  doi: https://doi.org/10.1016/j.ejor.2024.07.029
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1016/j.ejor.2024.07.029
+  source: 'Eur. J. Oper. Res. 320: 328-342 (2025).'
+  title: A machine learning approach to rank pricing problems in branch-and-price.
+  year: 2025
 DBLP:journals/eswa/KubalikDB21:
   authors: "Jir\xED Kubal\xEDk, Erik Derner, Robert Babuska"
   dblp: journals/eswa/KubalikDB21
@@ -10916,10 +11295,10 @@ DBLP:journals/jmlr/BruinKTB18:
   groups:
   - ML
   - main
-  link: http://jmlr.org/papers/v19/17-131.html
+  link: https://jmlr.org/papers/v19/17-131.html
   source: 'J. Mach. Learn. Res. 19: 9:1-9:56 (2018).'
   title: Experience Selection in Deep Reinforcement Learning for Control.
-  url: http://jmlr.org/papers/v19/17-131.html
+  url: https://jmlr.org/papers/v19/17-131.html
   year: 2018
 DBLP:journals/jql/CechHKCM19:
   authors: "Radek Cech, Jan Hula, Miroslav Kub\xE1t, Xinying Chen, Jir\xED Milicka"
@@ -10978,7 +11357,7 @@ DBLP:journals/jsat/JanotaJKLSG14:
   title: 'The QBFGallery 2014: The QBF Competition at the FLoC Olympic Games.'
   year: 2014
 DBLP:journals/jsat/JanotaLMM12:
-  authors: "Mikol\xE1s Janota, In\xEAs Lynce, Vasco M. Manquinho, Jo\xE3o Marques-Silva"
+  authors: "Mikol\xE1s Janota, In\xEAs Lynce, Vasco Manquinho, Jo\xE3o Marques-Silva"
   dblp: journals/jsat/JanotaLMM12
   doi: https://doi.org/10.3233/sat190090
   groups:
@@ -11021,6 +11400,20 @@ DBLP:journals/jsc/KaliszykU15:
   title: Learning-assisted theorem proving with millions of lemmas.
   url: https://www.wikidata.org/entity/Q35829526
   year: 2015
+DBLP:journals/jsc/PiepenbrockUKOHJ25:
+  authors: "Jelle Piepenbrock, Josef Urban, Konstantin Korovin, Miroslav Ols\xE1k,\
+    \ Tom Heskes, Mikol\xE1s Janota"
+  dblp: journals/jsc/PiepenbrockUKOHJ25
+  doi: https://doi.org/10.1016/j.jsc.2024.102375
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1016/j.jsc.2024.102375
+  source: 'J. Symb. Comput. 128: (2025).'
+  title: Invariant neural architecture for learning term synthesis in instantiation
+    proving.
+  year: 2025
 DBLP:journals/jsyml/BenzmullerBK04:
   authors: "Christoph Benzm\xFCller, Chad E. Brown, Michael Kohlhase"
   dblp: journals/jsyml/BenzmullerBK04
@@ -11691,6 +12084,17 @@ DBLP:journals/tfs/SindelarB04:
   source: 'IEEE Trans. Fuzzy Syst. 12: 688-696 (2004).'
   title: Input selection for nonlinear regression models.
   year: 2004
+DBLP:journals/tmlr/HeijdenFKB24:
+  authors: Bas van der Heijden, Laura Ferranti, Jens Kober, Robert Babuska
+  dblp: journals/tmlr/HeijdenFKB24
+  groups:
+  - ML
+  - main
+  link: https://openreview.net/forum?id=VzKXbCzNoU
+  source: 'Trans. Mach. Learn. Res. 2024: (2024).'
+  title: Efficient Parallelized Simulation of Cyber-Physical Systems.
+  url: https://openreview.net/forum?id=VzKXbCzNoU
+  year: 2024
 DBLP:journals/tmm/WorringKZ16:
   authors: "Marcel Worring, Dennis C. Koelma, Jan Zah\xE1lka"
   dblp: journals/tmm/WorringKZ16
