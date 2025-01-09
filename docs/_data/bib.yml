@@ -4843,6 +4843,19 @@ DBLP:conf/ki/SudaSWLM09:
     on AI, Paderborn, Germany, September 15-18, 2009. Proceedings: 281-288 (2009).'
   title: External Sources of Axioms in Automated Theorem Proving.
   year: 2009
+DBLP:conf/kr/Balyo0CSGDBY24:
+  authors: "Tom\xE1s Balyo, Martin Suda, Luk\xE1s Chrpa, Dominik Safr\xE1nek, Stephan\
+    \ Gocht, Filip Dvor\xE1k, Roman Bart\xE1k, G. Michael Youngblood"
+  dblp: conf/kr/Balyo0CSGDBY24
+  doi: https://doi.org/10.24963/kr.2024/76
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.24963/kr.2024/76
+  source: 'Proceedings of the 21st International Conference on Principles of Knowledge
+    Representation and Reasoning, KR 2024, Hanoi, Vietnam. November 2-8, 2024.: (2024).'
+  title: Planning Domain Model Acquisition from State Traces without Action Parameters.
+  year: 2024
 DBLP:conf/kr/BordeauxJSM12:
   authors: "Lucas Bordeaux, Mikol\xE1s Janota, Jo\xE3o Marques-Silva, Pierre Marquis"
   dblp: conf/kr/BordeauxJSM12
@@ -10106,6 +10119,18 @@ DBLP:journals/corr/abs-2402-07757:
   source: arXiv CoRR abs/2402.07757 (2024).
   title: 'Towards an Understanding of Stepwise Inference in Transformers: A Synthetic
     Graph Navigation Model.'
+  year: 2024
+DBLP:journals/corr/abs-2402-10726:
+  authors: "Tom\xE1s Balyo, Martin Suda, Luk\xE1s Chrpa, Dominik Safr\xE1nek, Filip\
+    \ Dvor\xE1k, Roman Bart\xE1k, G. Michael Youngblood"
+  dblp: journals/corr/abs-2402-10726
+  doi: https://doi.org/10.48550/arXiv.2402.10726
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.48550/arXiv.2402.10726
+  source: arXiv CoRR abs/2402.10726 (2024).
+  title: Learning Planning Action Models from State Traces.
   year: 2024
 DBLP:journals/corr/abs-2403-04017:
   authors: Lasse Blaauwbroek, David M. Cerna, Thibault Gauthier, Jan Jakubuv, Cezary
