@@ -10438,6 +10438,21 @@ DBLP:journals/corr/abs-2412-01495:
   source: arXiv CoRR abs/2412.01495 (2024).
   title: Adversarial Attacks on Hyperbolic Networks.
   year: 2024
+DBLP:journals/corr/abs-2412-17933:
+  authors: "Martin Fajcik, Martin Docekal, Jan Dolezal, Karel Ondrej, Karel Benes,\
+    \ Jan Kapsa, Pavel Smrz, Alexander Polok, Michal Hradis, Zuzana Neverilov\xE1\
+    , Ales Hor\xE1k, Radoslav Sabol, Michal Stef\xE1nik, Adam Jirkovsky, David Adamczyk,\
+    \ Petr Hyner, Jan Hula, Hynek Kydl\xEDcek"
+  dblp: journals/corr/abs-2412-17933
+  doi: https://doi.org/10.48550/arXiv.2412.17933
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2412.17933
+  source: arXiv CoRR abs/2412.17933 (2024).
+  title: 'BenCzechMark : A Czech-centric Multitask and Multimetric Benchmark for Large
+    Language Models with Duel Scoring Mechanism.'
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
