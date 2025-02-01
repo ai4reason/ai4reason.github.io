@@ -1767,15 +1767,15 @@ DBLP:conf/cikm/GauthierKU16:
 DBLP:conf/cikm/HulaMJ24:
   authors: "Jan Hula, David Mojz\xEDsek, Mikol\xE1s Janota"
   dblp: conf/cikm/HulaMJ24
-  doi: https://doi.org/10.1145/3627673.3679813
   groups:
   - FM
   - main
-  link: https://doi.org/10.1145/3627673.3679813
+  link: https://www.wikidata.org/entity/Q130994144
   source: 'Proceedings of the 33rd ACM International Conference on Information and
     Knowledge Management, CIKM 2024, Boise, ID, USA, October 21-25, 2024: 953-961
     (2024).'
   title: Understanding GNNs for Boolean Satisfiability through Approximation Algorithms.
+  url: https://www.wikidata.org/entity/Q130994144
   year: 2024
 DBLP:conf/coling/Mikolov14:
   authors: "Tom\xE1s Mikolov"
@@ -3017,15 +3017,15 @@ DBLP:conf/gecco/Babuska19:
 DBLP:conf/gecco/BuryanK10:
   authors: "Petr Buryan, Jir\xED Kubal\xEDk"
   dblp: conf/gecco/BuryanK10
-  doi: https://doi.org/10.1145/1830483.1830680
   groups:
   - ML
   - main
-  link: https://doi.org/10.1145/1830483.1830680
+  link: https://www.wikidata.org/entity/Q130887640
   source: 'Genetic and Evolutionary Computation Conference, GECCO 2010, Proceedings,
     Portland, Oregon, USA, July 7-11, 2010: 1071-1072 (2010).'
   title: Context-sensitive refinements for stochasticoptimization algorithms in inductive
     logic programming.
+  url: https://www.wikidata.org/entity/Q130887640
   year: 2010
 DBLP:conf/gecco/HruskaK15:
   authors: "Frantisek Hruska, Jir\xED Kubal\xEDk"
@@ -3133,14 +3133,14 @@ DBLP:conf/gecco/KubalikBW10:
 DBLP:conf/gecco/KubalikDB20:
   authors: "Jir\xED Kubal\xEDk, Erik Derner, Robert Babuska"
   dblp: conf/gecco/KubalikDB20
-  doi: https://doi.org/10.1145/3377930.3390152
   groups:
   - ML
   - main
-  link: https://doi.org/10.1145/3377930.3390152
+  link: https://www.wikidata.org/entity/Q131114896
   source: "GECCO '20: Genetic and Evolutionary Computation Conference, Canc\xFAn Mexico,\
     \ July 8-12, 2020: 958-966 (2020)."
   title: Symbolic regression driven by training data and prior knowledge.
+  url: https://www.wikidata.org/entity/Q131114896
   year: 2020
 DBLP:conf/gecco/MlejnekK13:
   authors: "Jarom\xEDr Mlejnek, Jir\xED Kubal\xEDk"
@@ -3428,14 +3428,14 @@ DBLP:conf/icfp/OConnorCRALMNSK16:
   authors: Liam O'Connor, Zilin Chen, Christine Rizkallah, Sidney Amani, Japheth Lim,
     Toby C. Murray, Yutaka Nagashima, Thomas Sewell, Gerwin Klein
   dblp: conf/icfp/OConnorCRALMNSK16
-  doi: https://doi.org/10.1145/3022670.2951940
   groups:
   - AR
   - main
-  link: https://doi.org/10.1145/3022670.2951940
+  link: https://www.wikidata.org/entity/Q130970044
   source: 'Proceedings of the 21st ACM SIGPLAN International Conference on Functional
     Programming, ICFP 2016, Nara, Japan, September 18-22, 2016: 89-102 (2016).'
   title: 'Refinement through restraint: bringing down the cost of verification.'
+  url: https://www.wikidata.org/entity/Q130970044
   year: 2016
 DBLP:conf/icinco/BellomoNB04:
   authors: Domenico Bellomo, David Naso, Robert Babuska
@@ -3795,14 +3795,14 @@ DBLP:conf/icra/VerboomTWRBC15:
 DBLP:conf/icse-apr/OrvalhoJM24:
   authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: conf/icse-apr/OrvalhoJM24
-  doi: https://doi.org/10.1145/3643788.3648010
   groups:
   - FM
   - main
-  link: https://doi.org/10.1145/3643788.3648010
+  link: https://www.wikidata.org/entity/Q130817065
   source: 'IEEE/ACM International Workshop on Automated Program Repair, APR@ICSE 2024,
     Lisbon, Portugal, April 20, 2024: 14-21 (2024).'
   title: 'C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments.'
+  url: https://www.wikidata.org/entity/Q130817065
   year: 2024
 DBLP:conf/icse/IgnatievJM14:
   authors: "Alexey Ignatiev, Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
@@ -4843,6 +4843,19 @@ DBLP:conf/ki/SudaSWLM09:
     on AI, Paderborn, Germany, September 15-18, 2009. Proceedings: 281-288 (2009).'
   title: External Sources of Axioms in Automated Theorem Proving.
   year: 2009
+DBLP:conf/kr/Balyo0CSGDBY24:
+  authors: "Tom\xE1s Balyo, Martin Suda, Luk\xE1s Chrpa, Dominik Safr\xE1nek, Stephan\
+    \ Gocht, Filip Dvor\xE1k, Roman Bart\xE1k, G. Michael Youngblood"
+  dblp: conf/kr/Balyo0CSGDBY24
+  doi: https://doi.org/10.24963/kr.2024/76
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.24963/kr.2024/76
+  source: 'Proceedings of the 21st International Conference on Principles of Knowledge
+    Representation and Reasoning, KR 2024, Hanoi, Vietnam. November 2-8, 2024.: (2024).'
+  title: Planning Domain Model Acquisition from State Traces without Action Parameters.
+  year: 2024
 DBLP:conf/kr/BordeauxJSM12:
   authors: "Lucas Bordeaux, Mikol\xE1s Janota, Jo\xE3o Marques-Silva, Pierre Marquis"
   dblp: conf/kr/BordeauxJSM12
@@ -6603,16 +6616,16 @@ DBLP:conf/sigsoft/JanotaGM07:
 DBLP:conf/sigsoft/OrvalhoJM22:
   authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
   dblp: conf/sigsoft/OrvalhoJM22
-  doi: https://doi.org/10.1145/3540250.3558931
   groups:
   - FM
   - main
-  link: https://doi.org/10.1145/3540250.3558931
+  link: https://www.wikidata.org/entity/Q130850383
   source: 'Proceedings of the 30th ACM Joint European Software Engineering Conference
     and Symposium on the Foundations of Software Engineering, ESEC/FSE 2022, Singapore,
     Singapore, November 14-18, 2022: 1657-1661 (2022).'
   title: 'MultIPAs: applying program transformations to introductory programming assignments
     for data augmentation.'
+  url: https://www.wikidata.org/entity/Q130850383
   year: 2022
 DBLP:conf/slt/MikolovZ12:
   authors: "Tom\xE1s Mikolov, Geoffrey Zweig"
@@ -6970,15 +6983,15 @@ DBLP:conf/tacas/BartocciBBFGHHK19:
     Arnd Hartmanns, Marieke Huisman, Fabrice Kordon, Julian Nagele, Mihaela Sighireanu,
     Bernhard Steffen, Martin Suda, Geoff Sutcliffe, Tjark Weber, Akihisa Yamada
   dblp: conf/tacas/BartocciBBFGHHK19
-  doi: https://doi.org/10.1007/978-3-030-17502-3_1
   groups:
   - AR
   - main
-  link: https://doi.org/10.1007/978-3-030-17502-3_1
+  link: https://www.wikidata.org/entity/Q124212523
   source: 'Tools and Algorithms for the Construction and Analysis of Systems - 25
     Years of TACAS: TOOLympics, Held as Part of ETAPS 2019, Prague, Czech Republic,
     April 6-11, 2019, Proceedings, Part III: 3-24 (2019).'
   title: 'TOOLympics 2019: An Overview of Competitions in Formal Methods.'
+  url: https://www.wikidata.org/entity/Q124212523
   year: 2019
 DBLP:conf/tacas/Reger0V18:
   authors: Giles Reger, Martin Suda, Andrei Voronkov
@@ -7268,13 +7281,13 @@ DBLP:journals/ai/WosWSVH84:
 DBLP:journals/aicom/FontaineKSU18:
   authors: Pascal Fontaine, Cezary Kaliszyk, Stephan Schulz, Josef Urban
   dblp: journals/aicom/FontaineKSU18
-  doi: https://doi.org/10.3233/AIC-180765
   groups:
   - AR
   - main
-  link: https://doi.org/10.3233/AIC-180765
+  link: https://www.wikidata.org/entity/Q129921304
   source: 'AI Commun. 31: 235-236 (2018).'
   title: Foreword to the Special Issue on Automated Reasoning.
+  url: https://www.wikidata.org/entity/Q129921304
   year: 2018
 DBLP:journals/aicom/JakubuvU18:
   authors: Jan Jakubuv, Josef Urban
@@ -7372,14 +7385,14 @@ DBLP:journals/alife/KruszewskiM22:
 DBLP:journals/amc/HelmanV01:
   authors: Paul Helman, Robert Veroff
   dblp: journals/amc/HelmanV01
-  doi: https://doi.org/10.1016/S0096-3003(99)00249-0
   groups:
   - AR
   - main
-  link: https://doi.org/10.1016/S0096-3003(99)00249-0
+  link: https://www.wikidata.org/entity/Q127517130
   source: 'Appl. Math. Comput. 120: 175-194 (2001).'
   title: The application of automated reasoning to formal models of combinatorial
     optimization.
+  url: https://www.wikidata.org/entity/Q127517130
   year: 2001
 DBLP:journals/arc/BabuskaV03:
   authors: Robert Babuska, Henk B. Verbruggen
@@ -10107,6 +10120,18 @@ DBLP:journals/corr/abs-2402-07757:
   title: 'Towards an Understanding of Stepwise Inference in Transformers: A Synthetic
     Graph Navigation Model.'
   year: 2024
+DBLP:journals/corr/abs-2402-10726:
+  authors: "Tom\xE1s Balyo, Martin Suda, Luk\xE1s Chrpa, Dominik Safr\xE1nek, Filip\
+    \ Dvor\xE1k, Roman Bart\xE1k, G. Michael Youngblood"
+  dblp: journals/corr/abs-2402-10726
+  doi: https://doi.org/10.48550/arXiv.2402.10726
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.48550/arXiv.2402.10726
+  source: arXiv CoRR abs/2402.10726 (2024).
+  title: Learning Planning Action Models from State Traces.
+  year: 2024
 DBLP:journals/corr/abs-2403-04017:
   authors: Lasse Blaauwbroek, David M. Cerna, Thibault Gauthier, Jan Jakubuv, Cezary
     Kaliszyk, Martin Suda, Josef Urban
@@ -10402,6 +10427,32 @@ DBLP:journals/corr/abs-2411-06409:
   source: arXiv CoRR abs/2411.06409 (2024).
   title: Automated Strategy Invention for Confluence of Term Rewrite Systems.
   year: 2024
+DBLP:journals/corr/abs-2412-01495:
+  authors: "Max van Spengler, Jan Zah\xE1lka, Pascal Mettes"
+  dblp: journals/corr/abs-2412-01495
+  doi: https://doi.org/10.48550/arXiv.2412.01495
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2412.01495
+  source: arXiv CoRR abs/2412.01495 (2024).
+  title: Adversarial Attacks on Hyperbolic Networks.
+  year: 2024
+DBLP:journals/corr/abs-2412-17933:
+  authors: "Martin Fajcik, Martin Docekal, Jan Dolezal, Karel Ondrej, Karel Benes,\
+    \ Jan Kapsa, Pavel Smrz, Alexander Polok, Michal Hradis, Zuzana Neverilov\xE1\
+    , Ales Hor\xE1k, Radoslav Sabol, Michal Stef\xE1nik, Adam Jirkovsky, David Adamczyk,\
+    \ Petr Hyner, Jan Hula, Hynek Kydl\xEDcek"
+  dblp: journals/corr/abs-2412-17933
+  doi: https://doi.org/10.48550/arXiv.2412.17933
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2412.17933
+  source: arXiv CoRR abs/2412.17933 (2024).
+  title: 'BenCzechMark : A Czech-centric Multitask and Multimetric Benchmark for Large
+    Language Models with Duel Scoring Mechanism.'
+  year: 2024
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
@@ -10486,13 +10537,13 @@ DBLP:journals/eaai/LendekBS08:
 DBLP:journals/eaai/PaneNKB19:
   authors: Yudha P. Pane, Subramanya Nageshrao, Jens Kober, Robert Babuska
   dblp: journals/eaai/PaneNKB19
-  doi: https://doi.org/10.1016/j.engappai.2018.11.006
   groups:
   - ML
   - main
-  link: https://doi.org/10.1016/j.engappai.2018.11.006
+  link: https://www.wikidata.org/entity/Q128749844
   source: 'Eng. Appl. Artif. Intell. 78: 236-247 (2019).'
   title: Reinforcement learning based compensation methods for robot manipulators.
+  url: https://www.wikidata.org/entity/Q128749844
   year: 2019
 DBLP:journals/eaai/RohaninejadJH23:
   authors: "Mohammad Rohaninejad, Mikol\xE1s Janota, Zdenek Hanz\xE1lek"
@@ -10897,25 +10948,25 @@ DBLP:journals/jagi/MonettLTBBGBCCS20:
     \ Stone, Richard S. Sutton, Roman V. Yampolskiy, Pei Wang, Roger C. Schank, Aaron\
     \ Sloman, Alan F. T. Winfield"
   dblp: journals/jagi/MonettLTBBGBCCS20
-  doi: https://doi.org/10.2478/jagi-2020-0003
   groups:
   - FAI
   - main
-  link: https://doi.org/10.2478/jagi-2020-0003
+  link: https://www.wikidata.org/entity/Q124805814
   source: 'J. Artif. Gen. Intell. 11: 1-100 (2020).'
   title: Special Issue "On Defining Artificial Intelligence" - Commentaries and Author's
     Response.
+  url: https://www.wikidata.org/entity/Q124805814
   year: 2020
 DBLP:journals/jair/Suda14:
   authors: Martin Suda
   dblp: journals/jair/Suda14
-  doi: https://doi.org/10.1613/jair.4231
   groups:
   - AR
   - main
-  link: https://doi.org/10.1613/jair.4231
+  link: https://www.wikidata.org/entity/Q129493795
   source: 'J. Artif. Intell. Res. 50: 265-319 (2014).'
   title: Property Directed Reachability for Automated Planning.
+  url: https://www.wikidata.org/entity/Q129493795
   year: 2014
 DBLP:journals/japll/AndrewsB06:
   authors: Peter B. Andrews, Chad E. Brown
@@ -11303,13 +11354,13 @@ DBLP:journals/jmlr/BruinKTB18:
 DBLP:journals/jql/CechHKCM19:
   authors: "Radek Cech, Jan Hula, Miroslav Kub\xE1t, Xinying Chen, Jir\xED Milicka"
   dblp: journals/jql/CechHKCM19
-  doi: https://doi.org/10.1080/09296174.2018.1491748
   groups:
   - FM
   - main
-  link: https://doi.org/10.1080/09296174.2018.1491748
+  link: https://www.wikidata.org/entity/Q125022853
   source: 'J. Quant. Linguistics 26: 187-204 (2019).'
   title: The Development of Context Specificity of Lemma. A Word Embeddings Approach.
+  url: https://www.wikidata.org/entity/Q125022853
   year: 2019
 DBLP:journals/jsat/HeuleJS19:
   authors: "Marijn J. H. Heule, Matti J\xE4rvisalo, Martin Suda"
@@ -12143,13 +12194,13 @@ DBLP:journals/tnn/BruinVB17:
 DBLP:journals/toct/BeyersdorffCJ19:
   authors: "Olaf Beyersdorff, Leroy Chew, Mikol\xE1s Janota"
   dblp: journals/toct/BeyersdorffCJ19
-  doi: https://doi.org/10.1145/3352155
   groups:
   - FM
   - main
-  link: https://doi.org/10.1145/3352155
+  link: https://www.wikidata.org/entity/Q127239097
   source: 'ACM Trans. Comput. Theory 11: 26:1-26:42 (2019).'
   title: New Resolution-Based QBF Calculi and Their Proof Complexity.
+  url: https://www.wikidata.org/entity/Q127239097
   year: 2019
 DBLP:journals/tr/VerbertSB18:
   authors: Kim Verbert, Bart De Schutter, Robert Babuska
