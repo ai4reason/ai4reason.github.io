@@ -6167,6 +6167,20 @@ DBLP:conf/nips/KaliszykUMO18:
   title: Reinforcement Learning of Theorem Proving.
   url: http://papers.nips.cc/paper/8098-reinforcement-learning-of-theorem-proving
   year: 2018
+DBLP:conf/nips/KulhanekPKPS24:
+  authors: Jonas Kulhanek, Songyou Peng, Zuzana Kukelova, Marc Pollefeys, Torsten
+    Sattler
+  dblp: conf/nips/KulhanekPKPS24
+  groups:
+  - ML
+  - main
+  link: http://papers.nips.cc/paper_files/paper/2024/hash/25c0fe7b157821dd3140727dc07461da-Abstract-Conference.html
+  source: 'Advances in Neural Information Processing Systems 38: Annual Conference
+    on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver, BC, Canada,
+    December 10 - 15, 2024.: (2024).'
+  title: 'WildGaussians: 3D Gaussian Splatting In the Wild.'
+  url: http://papers.nips.cc/paper_files/paper/2024/hash/25c0fe7b157821dd3140727dc07461da-Abstract-Conference.html
+  year: 2024
 DBLP:conf/nips/MikolovSCCD13:
   authors: "Tom\xE1s Mikolov, Ilya Sutskever, Kai Chen, Gregory S. Corrado, Jeffrey\
     \ Dean"
