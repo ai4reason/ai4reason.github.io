@@ -6141,6 +6141,21 @@ DBLP:conf/nips/IrvingSAECU16:
   title: DeepMath - Deep Sequence Models for Premise Selection.
   url: http://papers.nips.cc/paper/6280-deepmath-deep-sequence-models-for-premise-selection
   year: 2016
+DBLP:conf/nips/JiangZPLJM24:
+  authors: Albert Q. Jiang, Alicja Ziarko, Bartosz Piotrowski, Wenda Li, Mateja Jamnik,
+    Piotr Milos
+  dblp: conf/nips/JiangZPLJM24
+  groups:
+  - FM
+  - main
+  link: http://papers.nips.cc/paper_files/paper/2024/hash/707a2d58641b2192203b4bf4c532cfe1-Abstract-Conference.html
+  source: 'Advances in Neural Information Processing Systems 38: Annual Conference
+    on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver, BC, Canada,
+    December 10 - 15, 2024.: (2024).'
+  title: 'Repurposing Language Models into Embedding Models: Finding the Compute-Optimal
+    Recipe.'
+  url: http://papers.nips.cc/paper_files/paper/2024/hash/707a2d58641b2192203b4bf4c532cfe1-Abstract-Conference.html
+  year: 2024
 DBLP:conf/nips/JoulinM15:
   authors: "Armand Joulin, Tom\xE1s Mikolov"
   dblp: conf/nips/JoulinM15
