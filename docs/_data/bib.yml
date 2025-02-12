@@ -6113,6 +6113,20 @@ DBLP:conf/naacl/ZhilaYMZM13:
   title: Combining Heterogeneous Models for Measuring Relational Similarity.
   url: https://aclanthology.org/N13-1120/
   year: 2013
+DBLP:conf/nips/0004KBPPK24:
+  authors: "Tobias Fischer, Jonas Kulhanek, Samuel Rota Bul\xF2, Lorenzo Porzi, Marc\
+    \ Pollefeys, Peter Kontschieder"
+  dblp: conf/nips/0004KBPPK24
+  groups:
+  - ML
+  - main
+  link: http://papers.nips.cc/paper_files/paper/2024/hash/93397b489222f1e66a862f795fc32b96-Abstract-Conference.html
+  source: 'Advances in Neural Information Processing Systems 38: Annual Conference
+    on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver, BC, Canada,
+    December 10 - 15, 2024.: (2024).'
+  title: Dynamic 3D Gaussian Fields for Urban Areas.
+  url: http://papers.nips.cc/paper_files/paper/2024/hash/93397b489222f1e66a862f795fc32b96-Abstract-Conference.html
+  year: 2024
 DBLP:conf/nips/FromeCSBDRM13:
   authors: "Andrea Frome, Gregory S. Corrado, Jonathon Shlens, Samy Bengio, Jeffrey\
     \ Dean, Marc'Aurelio Ranzato, Tom\xE1s Mikolov"
