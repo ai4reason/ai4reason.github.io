@@ -10496,6 +10496,29 @@ DBLP:journals/corr/abs-2412-17933:
   title: 'BenCzechMark : A Czech-centric Multitask and Multimetric Benchmark for Large
     Language Models with Duel Scoring Mechanism.'
   year: 2024
+DBLP:journals/corr/abs-2501-08157:
+  authors: "Choiwah Chow, Mikol\xE1s Janota, Jo\xE3o Ara\xFAjo"
+  dblp: journals/corr/abs-2501-08157
+  doi: https://doi.org/10.48550/arXiv.2501.08157
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2501.08157
+  source: arXiv CoRR abs/2501.08157 (2025/01).
+  title: Cube-based Isomorph-free Finite Model Finding.
+  year: 2025
+DBLP:journals/corr/abs-2501-08206:
+  authors: "Mikol\xE1s Janota, Choiwah Chow, Jo\xE3o Ara\xFAjo, Michael Codish, Petr\
+    \ Vojtechovsk\xFD"
+  dblp: journals/corr/abs-2501-08206
+  doi: https://doi.org/10.48550/arXiv.2501.08206
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2501.08206
+  source: arXiv CoRR abs/2501.08206 (2025/01).
+  title: SAT-Based Techniques for Lexicographically Smallest Finite Models.
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
