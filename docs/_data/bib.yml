@@ -10519,6 +10519,18 @@ DBLP:journals/corr/abs-2501-08206:
   source: arXiv CoRR abs/2501.08206 (2025/01).
   title: SAT-Based Techniques for Lexicographically Smallest Finite Models.
   year: 2025
+DBLP:journals/corr/abs-2501-09379:
+  authors: "Jelle Piepenbrock, Mikol\xE1s Janota, Jan Jakubuv"
+  dblp: journals/corr/abs-2501-09379
+  doi: https://doi.org/10.48550/arXiv.2501.09379
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2501.09379
+  source: arXiv CoRR abs/2501.09379 (2025/01).
+  title: First Experiments with Neural cvc5.
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
