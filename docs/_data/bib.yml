@@ -10531,6 +10531,31 @@ DBLP:journals/corr/abs-2501-09379:
   source: arXiv CoRR abs/2501.09379 (2025/01).
   title: First Experiments with Neural cvc5.
   year: 2025
+DBLP:journals/corr/abs-2502-07645:
+  authors: "Zhaoting Li, Rodrigo P\xE9rez-Dattari, Robert Babuska, Cosimo Della Santina,\
+    \ Jens Kober"
+  dblp: journals/corr/abs-2502-07645
+  doi: https://doi.org/10.48550/arXiv.2502.07645
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2502.07645
+  source: arXiv CoRR abs/2502.07645 (2025/02).
+  title: 'Beyond Behavior Cloning: Robustness through Interactive Imitation and Contrastive
+    Learning.'
+  year: 2025
+DBLP:journals/corr/abs-2502-07786:
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
+  dblp: journals/corr/abs-2502-07786
+  doi: https://doi.org/10.48550/arXiv.2502.07786
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2502.07786
+  source: arXiv CoRR abs/2502.07786 (2025/02).
+  title: Counterexample Guided Program Repair Using Zero-Shot Learning and MaxSAT-based
+    Fault Localization.
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
