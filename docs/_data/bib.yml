@@ -10556,6 +10556,28 @@ DBLP:journals/corr/abs-2502-07786:
   title: Counterexample Guided Program Repair Using Zero-Shot Learning and MaxSAT-based
     Fault Localization.
   year: 2025
+DBLP:journals/corr/abs-2502-10056:
+  authors: "Michael Codish, Mikol\xE1s Janota"
+  dblp: journals/corr/abs-2502-10056
+  doi: https://doi.org/10.48550/arXiv.2502.10056
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2502.10056
+  source: arXiv CoRR abs/2502.10056 (2025/02).
+  title: Breaking Symmetries from a Set-Covering Perspective.
+  year: 2025
+DBLP:journals/corr/abs-2502-10155:
+  authors: "Marek Danco, Mikol\xE1s Janota, Michael Codish, Jo\xE3o Ara\xFAjo"
+  dblp: journals/corr/abs-2502-10155
+  doi: https://doi.org/10.48550/arXiv.2502.10155
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2502.10155
+  source: arXiv CoRR abs/2502.10155 (2025/02).
+  title: Complete Symmetry Breaking for Finite Models.
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
