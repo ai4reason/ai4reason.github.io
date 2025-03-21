@@ -10578,6 +10578,17 @@ DBLP:journals/corr/abs-2502-10155:
   source: arXiv CoRR abs/2502.10155 (2025/02).
   title: Complete Symmetry Breaking for Finite Models.
   year: 2025
+DBLP:journals/corr/abs-2502-15078:
+  authors: "Mikol\xE1s Janota, Markus Kirchweger, Tom\xE1s Peitl, Stefan Szeider"
+  dblp: journals/corr/abs-2502-15078
+  doi: https://doi.org/10.48550/arXiv.2502.15078
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2502.15078
+  source: arXiv CoRR abs/2502.15078 (2025/02).
+  title: 'Breaking Symmetries in Quantified Graph Search: A Comparative Study.'
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
