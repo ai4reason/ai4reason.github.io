@@ -336,6 +336,57 @@
   orcid: 0000-0003-3279-3685
   github: 
 
+- name: Marek Danco
+  role: student
+  position: PhD student
+  active:
+    from: 2025
+  groups:
+    - FM
+  interests:
+    - Automated Reasoning
+    - Artificial Intelligence
+  image: /images/members/user.png
+  homepage: 
+  scholar:
+  dblp: pid/400/1018
+  orcid: 
+  github: 
+
+- name: Petra Hozzová
+  role: staff
+  position: Researcher
+  active:
+    from: 2025
+  groups:
+    - FM
+  interests:
+    - Automated Reasoning
+    - Artificial Intelligence
+  image: /images/members/user.png
+  homepage: 
+  scholar:
+  dblp: pid/270/6036
+  orcid: 
+  github: 
+
+- name: Qiqi Gu
+  role: student
+  position: PhD student 
+  active:
+    from: 2025
+  groups:
+    - FM
+  interests:
+    - Automated Reasoning
+    - Artificial Intelligence
+  image: /images/members/user.png
+  homepage: 
+  scholar:
+  dblp: pid/250/1108
+  orcid:
+  github: 
+
 - name: Barbora Hudcová
   role: student
   groups:
