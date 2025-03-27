@@ -617,6 +617,19 @@ DBLP:conf/ate/Urban11:
   title: An Overview of Methods for Large-Theory Automated Theorem Proving.
   url: https://ceur-ws.org/Vol-760/paper2.pdf
   year: 2011
+DBLP:conf/atva/LimaMT24:
+  authors: "Leonardo Lima, Jonathan Juli\xE1n Huerta y Munive, Dmitriy Traytel"
+  dblp: conf/atva/LimaMT24
+  doi: https://doi.org/10.1007/978-3-031-78750-8_4
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-78750-8_4
+  source: 'Automated Technology for Verification and Analysis - 22nd International
+    Symposium, ATVA 2024, Kyoto, Japan, October 21-25, 2024, Proceedings, Part II:
+    76-90 (2024).'
+  title: 'WhyMon: A Runtime Monitoring Tool with Explanations as Verdicts.'
+  year: 2024
 DBLP:conf/biostec/KlemaZAK14:
   authors: "Jir\xED Kl\xE9ma, Jan Zah\xE1lka, Michael Andel, Zdenek Krejc\xEDk"
   dblp: conf/biostec/KlemaZAK14
@@ -7036,6 +7049,20 @@ DBLP:conf/tacas/BartocciBBFGHHK19:
   title: 'TOOLympics 2019: An Overview of Competitions in Formal Methods.'
   url: https://www.wikidata.org/entity/Q124212523
   year: 2019
+DBLP:conf/tacas/LimaMT24:
+  authors: "Leonardo Lima, Jonathan Juli\xE1n Huerta y Munive, Dmitriy Traytel"
+  dblp: conf/tacas/LimaMT24
+  doi: https://doi.org/10.1007/978-3-031-57246-3_16
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-57246-3_16
+  source: 'Tools and Algorithms for the Construction and Analysis of Systems - 30th
+    International Conference, TACAS 2024, Held as Part of the European Joint Conferences
+    on Theory and Practice of Software, ETAPS 2024, Luxembourg City, Luxembourg, April
+    6-11, 2024, Proceedings, Part I: 288-307 (2024).'
+  title: Explainable Online Monitoring of Metric First-Order Temporal Logic.
+  year: 2024
 DBLP:conf/tacas/Reger0V18:
   authors: Giles Reger, Martin Suda, Andrei Voronkov
   dblp: conf/tacas/Reger0V18
@@ -7231,6 +7258,18 @@ DBLP:journals/access/VastlKKDB24:
   link: https://doi.org/10.1109/ACCESS.2024.3374649
   source: 'IEEE Access 12: 37840-37849 (2024).'
   title: 'SymFormer: End-to-End Symbolic Regression Using Transformer-Based Architecture.'
+  year: 2024
+DBLP:journals/afp/HerasimauMLRT24:
+  authors: "Andrei Herasimau, Jonathan Juli\xE1n Huerta y Munive, Leonardo Lima, Martin\
+    \ Raszyk, Dmitriy Traytel"
+  dblp: journals/afp/HerasimauMLRT24
+  groups:
+  - FM
+  - main
+  link: https://www.isa-afp.org/entries/MFOTL_Checker.html
+  source: 'Arch. Formal Proofs 2024: (2024).'
+  title: A Verified Proof Checker for Metric First-Order Temporal Logic.
+  url: https://www.isa-afp.org/entries/MFOTL_Checker.html
   year: 2024
 DBLP:journals/afp/Nagashima16:
   authors: Yutaka Nagashima
@@ -10138,6 +10177,18 @@ DBLP:journals/corr/abs-2401-02950:
   source: arXiv CoRR abs/2401.02950 (2024).
   title: The Tactician's Web of Large-Scale Formal Knowledge.
   year: 2024
+DBLP:journals/corr/abs-2401-12061:
+  authors: "Jonathan Juli\xE1n Huerta y Munive, Simon Foster, Mario Gleirscher, Georg\
+    \ Struth, Christian Pardillo Laursen, Thomas Hickman"
+  dblp: journals/corr/abs-2401-12061
+  doi: https://doi.org/10.48550/arXiv.2401.12061
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2401.12061
+  source: arXiv CoRR abs/2401.12061 (2024).
+  title: Scalable Automated Verification for Cyber-Physical Systems in Isabelle/HOL.
+  year: 2024
 DBLP:journals/corr/abs-2402-06196:
   authors: "Shervin Minaee, Tom\xE1s Mikolov, Narjes Nikzad, Meysam Chenaghlu, Richard\
     \ Socher, Xavier Amatriain, Jianfeng Gao"
@@ -11309,6 +11360,18 @@ DBLP:journals/jar/McCuneVFHFW02:
   title: Short Single Axioms for Boolean Algebra.
   url: https://www.wikidata.org/entity/Q60061107
   year: 2002
+DBLP:journals/jar/MuniveFGSLH24:
+  authors: "Jonathan Juli\xE1n Huerta y Munive, Simon Foster, Mario Gleirscher, Georg\
+    \ Struth, Christian Pardillo Laursen, Thomas Hickman"
+  dblp: journals/jar/MuniveFGSLH24
+  doi: https://doi.org/10.1007/s10817-024-09709-2
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1007/s10817-024-09709-2
+  source: 'J. Autom. Reason. 68: (2024/12).'
+  title: 'IsaVODEs: Interactive Verification of Cyber-Physical Systems at Scale.'
+  year: 2024
 DBLP:journals/jar/Urban04:
   authors: Josef Urban
   dblp: journals/jar/Urban04
