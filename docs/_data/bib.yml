@@ -2585,6 +2585,18 @@ DBLP:conf/fmcad/Nagashima20:
     September 21-24, 2020: 245-254 (2020).'
   title: Smart Induction for Isabelle/HOL (Tool Paper).
   year: 2020
+DBLP:conf/fmcad/Urban24:
+  authors: Josef Urban
+  dblp: conf/fmcad/Urban24
+  doi: https://doi.org/10.34727/2024/isbn.978-3-85448-065-5_3
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.34727/2024/isbn.978-3-85448-065-5_3
+  source: 'Formal Methods in Computer-Aided Design, FMCAD 2024, Prague, Czech Republic,
+    October 15-18, 2024: (2024).'
+  title: Some Adventures in Learning Proving, Instantiation and Synthesis.
+  year: 2024
 DBLP:conf/frocos/2023:
   authors: Uli Sattler, Martin Suda
   dblp: conf/frocos/2023
