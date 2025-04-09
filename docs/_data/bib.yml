@@ -10652,6 +10652,17 @@ DBLP:journals/corr/abs-2502-15078:
   source: arXiv CoRR abs/2502.15078 (2025/02).
   title: 'Breaking Symmetries in Quantified Graph Search: A Comparative Study.'
   year: 2025
+DBLP:journals/corr/abs-2503-01389:
+  authors: Thibault Gauthier, Josef Urban
+  dblp: journals/corr/abs-2503-01389
+  doi: https://doi.org/10.48550/arXiv.2503.01389
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.48550/arXiv.2503.01389
+  source: arXiv CoRR abs/2503.01389 (2025/03).
+  title: Learning Conjecturing from Scratch.
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
