@@ -10676,6 +10676,42 @@ DBLP:journals/corr/abs-2503-01389:
   source: arXiv CoRR abs/2503.01389 (2025/03).
   title: Learning Conjecturing from Scratch.
   year: 2025
+DBLP:journals/corr/abs-2503-07792:
+  authors: Martin Suda
+  dblp: journals/corr/abs-2503-07792
+  doi: https://doi.org/10.48550/arXiv.2503.07792
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.48550/arXiv.2503.07792
+  source: arXiv CoRR abs/2503.07792 (2025/03).
+  title: Efficient Neural Clause-Selection Reinforcement.
+  year: 2025
+DBLP:journals/corr/abs-2503-10725:
+  authors: Chenpeng Wu, Qiqi Gu, Heng Shi, Jianguo Yao, Haibing Guan
+  dblp: journals/corr/abs-2503-10725
+  doi: https://doi.org/10.48550/arXiv.2503.10725
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2503.10725
+  source: arXiv CoRR abs/2503.10725 (2025/03).
+  title: 'Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse
+    Tensor Cores.'
+  year: 2025
+DBLP:journals/corr/abs-2503-11688:
+  authors: "V\xE1clav Jirkovsk\xFD, Jir\xED Kubal\xEDk, Petr Kadera, Arnd Schirrmann,\
+    \ Andreas Mitschke, Andreas Zindel"
+  dblp: journals/corr/abs-2503-11688
+  doi: https://doi.org/10.48550/arXiv.2503.11688
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2503.11688
+  source: arXiv CoRR abs/2503.11688 (2025/03).
+  title: 'Towards Resilient and Sustainable Global Industrial Systems: An Evolutionary-Based
+    Approach.'
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
