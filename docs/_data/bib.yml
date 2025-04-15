@@ -166,6 +166,19 @@ DBLP:conf/aaai/KielaGJM18:
     (EAAI-18), New Orleans, Louisiana, USA, February 2-7, 2018: 5198-5204 (2018).'
   title: Efficient Large-Scale Multi-Modal Classification.
   year: 2018
+DBLP:conf/aaai/OrvalhoJM25:
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco M. Manquinho"
+  dblp: conf/aaai/OrvalhoJM25
+  doi: https://doi.org/10.1609/aaai.v39i1.32046
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1609/aaai.v39i1.32046
+  source: 'AAAI-25, Sponsored by the Association for the Advancement of Artificial
+    Intelligence, February 25 - March 4, 2025, Philadelphia, PA, USA: 649-657 (2025).'
+  title: Counterexample Guided Program Repair Using Zero-Shot Learning and MaxSAT-based
+    Fault Localization.
+  year: 2025
 DBLP:conf/aamas/BusoniuESB07:
   authors: Lucian Busoniu, Damien Ernst, Bart De Schutter, Robert Babuska
   dblp: conf/aamas/BusoniuESB07
