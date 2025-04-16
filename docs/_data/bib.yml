@@ -109,6 +109,20 @@ DBLP:conf/aaai/BeyersdorffCJ16:
   title: Extension Variables in QBF Resolution.
   url: http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12612
   year: 2016
+DBLP:conf/aaai/DancoJCA25:
+  authors: "Marek Danco, Mikol\xE1s Janota, Michael Codish, Jo\xE3o Jorge Ara\xFA\
+    jo"
+  dblp: conf/aaai/DancoJCA25
+  doi: https://doi.org/10.1609/aaai.v39i11.33217
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1609/aaai.v39i11.33217
+  source: 'AAAI-25, Sponsored by the Association for the Advancement of Artificial
+    Intelligence, February 25 - March 4, 2025, Philadelphia, PA, USA: 11194-11202
+    (2025).'
+  title: Complete Symmetry Breaking for Finite Models.
+  year: 2025
 DBLP:conf/aaai/GauthierU23:
   authors: Thibault Gauthier, Josef Urban
   dblp: conf/aaai/GauthierU23
@@ -152,6 +166,19 @@ DBLP:conf/aaai/JanotaC0CV24:
     20-27, 2024, Vancouver, Canada: 8048-8056 (2024).'
   title: SAT-Based Techniques for Lexicographically Smallest Finite Models.
   year: 2024
+DBLP:conf/aaai/JanotaKPS25:
+  authors: "Mikol\xE1s Janota, Markus Kirchweger, Tom\xE1s Peitl, Stefan Szeider"
+  dblp: conf/aaai/JanotaKPS25
+  doi: https://doi.org/10.1609/aaai.v39i11.33223
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1609/aaai.v39i11.33223
+  source: 'AAAI-25, Sponsored by the Association for the Advancement of Artificial
+    Intelligence, February 25 - March 4, 2025, Philadelphia, PA, USA: 11246-11254
+    (2025).'
+  title: 'Breaking Symmetries in Quantified Graph Search: A Comparative Study.'
+  year: 2025
 DBLP:conf/aaai/KielaGJM18:
   authors: "Douwe Kiela, Edouard Grave, Armand Joulin, Tom\xE1s Mikolov"
   dblp: conf/aaai/KielaGJM18
@@ -10724,6 +10751,17 @@ DBLP:journals/corr/abs-2503-11688:
   source: arXiv CoRR abs/2503.11688 (2025/03).
   title: 'Towards Resilient and Sustainable Global Industrial Systems: An Evolutionary-Based
     Approach.'
+  year: 2025
+DBLP:journals/corr/abs-2503-15541:
+  authors: Anja Petkovic Komel, Michael Rawson, Martin Suda
+  dblp: journals/corr/abs-2503-15541
+  doi: https://doi.org/10.48550/arXiv.2503.15541
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.48550/arXiv.2503.15541
+  source: arXiv CoRR abs/2503.15541 (2025/03).
+  title: 'Case Study: Verified Vampire Proofs in the LambdaPi-calculus Modulo.'
   year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
