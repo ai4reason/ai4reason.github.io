@@ -10763,6 +10763,18 @@ DBLP:journals/corr/abs-2503-15541:
   source: arXiv CoRR abs/2503.15541 (2025/03).
   title: 'Case Study: Verified Vampire Proofs in the LambdaPi-calculus Modulo.'
   year: 2025
+DBLP:journals/corr/abs-2503-16982:
+  authors: "Mikol\xE1s Janota, Bartosz Piotrowski, Karel Chvalovsk\xFD"
+  dblp: journals/corr/abs-2503-16982
+  doi: https://doi.org/10.48550/arXiv.2503.16982
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2503.16982
+  source: arXiv CoRR abs/2503.16982 (2025/03).
+  title: Towards Learning Infinite SMT Models (Work in Progress).
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
