@@ -10775,6 +10775,29 @@ DBLP:journals/corr/abs-2503-16982:
   source: arXiv CoRR abs/2503.16982 (2025/03).
   title: Towards Learning Infinite SMT Models (Work in Progress).
   year: 2025
+DBLP:journals/corr/abs-2504-01173:
+  authors: "David Mojz\xEDsek, Jan Hula, Ziwei Li, Ziyu Zhou, Mikol\xE1s Janota"
+  dblp: journals/corr/abs-2504-01173
+  doi: https://doi.org/10.48550/arXiv.2504.01173
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2504.01173
+  source: arXiv CoRR abs/2504.01173 (2025/04).
+  title: 'Neural Approaches to SAT Solving: Design Choices and Interpretability.'
+  year: 2025
+DBLP:journals/corr/abs-2504-02018:
+  authors: "Jan Hula, David Mojz\xEDsek, Jir\xED Janecek, David Herel, Mikol\xE1s\
+    \ Janota"
+  dblp: journals/corr/abs-2504-02018
+  doi: https://doi.org/10.48550/arXiv.2504.02018
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2504.02018
+  source: arXiv CoRR abs/2504.02018 (2025/04).
+  title: Geometric Reasoning in the Embedding Space.
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
