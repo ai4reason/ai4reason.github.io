@@ -10798,6 +10798,18 @@ DBLP:journals/corr/abs-2504-02018:
   source: arXiv CoRR abs/2504.02018 (2025/04).
   title: Geometric Reasoning in the Embedding Space.
   year: 2025
+DBLP:journals/corr/abs-2504-06138:
+  authors: "Marcel Worring, Jan Zah\xE1lka, Stef van den Elzen, Maximilian T. Fischer,\
+    \ Daniel A. Keim"
+  dblp: journals/corr/abs-2504-06138
+  doi: https://doi.org/10.48550/arXiv.2504.06138
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2504.06138
+  source: arXiv CoRR abs/2504.06138 (2025/04).
+  title: A Multimedia Analytics Model for the Foundation Model Era.
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
