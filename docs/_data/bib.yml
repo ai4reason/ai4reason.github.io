@@ -10810,6 +10810,53 @@ DBLP:journals/corr/abs-2504-06138:
   source: arXiv CoRR abs/2504.06138 (2025/04).
   title: A Multimedia Analytics Model for the Foundation Model Era.
   year: 2025
+DBLP:journals/corr/abs-2504-15645:
+  authors: "Chad E. Brown, Karel Chvalovsk\xFD, Mikol\xE1s Janota, Mirek Ols\xE1k,\
+    \ Stefan Ratschan"
+  dblp: journals/corr/abs-2504-15645
+  doi: https://doi.org/10.48550/arXiv.2504.15645
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2504.15645
+  source: arXiv CoRR abs/2504.15645 (2025/04).
+  title: 'SMT and Functional Equation Solving over the Reals: Challenges from the
+    IMO.'
+  year: 2025
+DBLP:journals/corr/abs-2504-16503:
+  authors: "Jir\xED Kubal\xEDk, Robert Babuska"
+  dblp: journals/corr/abs-2504-16503
+  doi: https://doi.org/10.48550/arXiv.2504.16503
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2504.16503
+  source: arXiv CoRR abs/2504.16503 (2025/04).
+  title: Neuro-Evolutionary Approach to Physics-Aware Symbolic Regression.
+  year: 2025
+DBLP:journals/corr/abs-2504-16536:
+  authors: "Petra Hozzov\xE1, Nikolaj Bj\xF8rner"
+  dblp: journals/corr/abs-2504-16536
+  doi: https://doi.org/10.48550/arXiv.2504.16536
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2504.16536
+  source: arXiv CoRR abs/2504.16536 (2025/04).
+  title: 'Synthesiz3 This: an SMT-Based Approach for Synthesis with Uncomputable Symbols.'
+  year: 2025
+DBLP:journals/corr/abs-2504-16760:
+  authors: Bartosz Piotrowski, Witold Drzewakowski, Konrad Staniszewski, Piotr Milos
+  dblp: journals/corr/abs-2504-16760
+  doi: https://doi.org/10.48550/arXiv.2504.16760
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2504.16760
+  source: arXiv CoRR abs/2504.16760 (2025/04).
+  title: Lightweight Latent Verifiers for Efficient Meta-Generation Strategies.
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
