@@ -12147,6 +12147,18 @@ DBLP:journals/ral/MazharBK21:
   title: 'GEM: Glare or Gloom, I Can Still See You - End-to-End Multi-Modal Object
     Detection.'
   year: 2021
+DBLP:journals/ral/MazharBK25:
+  authors: Osama Mazhar, Robert Babuska, Jens Kober
+  dblp: journals/ral/MazharBK25
+  doi: https://doi.org/10.1109/LRA.2025.3562415
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/LRA.2025.3562415
+  source: 'IEEE Robotics Autom. Lett. 10: (2025/06).'
+  title: 'Correction to "GEM: Glare or Gloom, I Can Still See You - End-to-End Multi-Modal
+    Object Detection".'
+  year: 2025
 DBLP:journals/ral/SedlarSSBTSSB23:
   authors: "Jir\xED Sedl\xE1r, Karla St\xE9p\xE1nov\xE1, Radoslav Skoviera, Jan Kristof\
     \ Behrens, Mat\xFAs Tuna, Gabriela Sejnova, Josef Sivic, Robert Babuska"
