@@ -2202,6 +2202,18 @@ DBLP:conf/eccv/KulhanekDSB22:
     October 23-27, 2022, Proceedings, Part XV: 198-216 (2022).'
   title: 'ViewFormer: NeRF-Free Neural Rendering from Few Images Using Transformers.'
   year: 2022
+DBLP:conf/eccv/SpenglerZM24:
+  authors: "Max van Spengler, Jan Zah\xE1lka, Pascal Mettes"
+  dblp: conf/eccv/SpenglerZM24
+  doi: https://doi.org/10.1007/978-3-031-91585-7_22
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1007/978-3-031-91585-7_22
+  source: 'Computer Vision - ECCV 2024 Workshops - Milan, Italy, September 29-October
+    4, 2024, Proceedings, Part XVII: 363-381 (2024).'
+  title: Adversarial Attacks on Hyperbolic Networks.
+  year: 2024
 DBLP:conf/ecir/Khan0RZRGAW20:
   authors: "Omar Shahbaz Khan, Bj\xF6rn \xDE\xF3r J\xF3nsson, Stevan Rudinac, Jan\
     \ Zah\xE1lka, Hanna Ragnarsd\xF3ttir, \xDE\xF3rhildur \xDEorleiksd\xF3ttir, Gylfi\
