@@ -12653,6 +12653,18 @@ DBLP:journals/tr/VerbertSB18:
   title: A Multiple-Model Reliability Prediction Approach for Condition-Based Maintenance.
   url: https://www.wikidata.org/entity/Q107155161
   year: 2018
+DBLP:journals/trob/BendersKNBAF25:
+  authors: "Dennis Benders, Johannes K\xF6hler, Thijs Niesten, Robert Babuska, Javier\
+    \ Alonso-Mora, Laura Ferranti"
+  dblp: journals/trob/BendersKNBAF25
+  doi: https://doi.org/10.1109/TRO.2025.3567529
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/TRO.2025.3567529
+  source: 'IEEE Trans. Robotics 41: 3556-3574 (2025).'
+  title: Embedded Hierarchical MPC for Autonomous Navigation.
+  year: 2025
 DBLP:journals/trob/LopesKBSB14:
   authors: Gabriel A. D. Lopes, Bart Kersbergen, Ton J. J. van den Boom, Bart De Schutter,
     Robert Babuska
