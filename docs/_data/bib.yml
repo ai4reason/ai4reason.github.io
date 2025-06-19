@@ -12586,6 +12586,17 @@ DBLP:journals/tmlr/HeijdenFKB24:
   title: Efficient Parallelized Simulation of Cyber-Physical Systems.
   url: https://openreview.net/forum?id=VzKXbCzNoU
   year: 2024
+DBLP:journals/tmlr/HeijdenKBF25:
+  authors: Bas van der Heijden, Jens Kober, Robert Babuska, Laura Ferranti
+  dblp: journals/tmlr/HeijdenKBF25
+  groups:
+  - ML
+  - main
+  link: https://openreview.net/forum?id=O4CQ5AM5yP
+  source: 'Trans. Mach. Learn. Res. 2025: (2025).'
+  title: 'REX: GPU-Accelerated Sim2Real Framework with Delay and Dynamics Estimation.'
+  url: https://openreview.net/forum?id=O4CQ5AM5yP
+  year: 2025
 DBLP:journals/tmm/WorringKZ16:
   authors: "Marcel Worring, Dennis C. Koelma, Jan Zah\xE1lka"
   dblp: journals/tmm/WorringKZ16
