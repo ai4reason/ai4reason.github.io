@@ -10869,6 +10869,18 @@ DBLP:journals/corr/abs-2504-16760:
   source: arXiv CoRR abs/2504.16760 (2025/04).
   title: Lightweight Latent Verifiers for Efficient Meta-Generation Strategies.
   year: 2025
+DBLP:journals/corr/abs-2505-23158:
+  authors: Jonas Kulhanek, Marie-Julie Rakotosaona, Fabian Manhardt, Christina Tsalicoglou,
+    Michael Niemeyer, Torsten Sattler, Songyou Peng, Federico Tombari
+  dblp: journals/corr/abs-2505-23158
+  doi: https://doi.org/10.48550/arXiv.2505.23158
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2505.23158
+  source: arXiv CoRR abs/2505.23158 (2025/05).
+  title: 'LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering.'
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
