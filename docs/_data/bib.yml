@@ -3894,6 +3894,20 @@ DBLP:conf/icse-apr/OrvalhoJM24:
   title: 'C-Pack of IPAs: A C90 Program Benchmark of Introductory Programming Assignments.'
   url: https://www.wikidata.org/entity/Q130817065
   year: 2024
+DBLP:conf/icse-formalise/TanDMW25:
+  authors: "Chengsong Tan, Alastair F. Donaldson, Jonathan Juli\xE1n Huerta y Munive,\
+    \ John Wickerson"
+  dblp: conf/icse-formalise/TanDMW25
+  doi: https://doi.org/10.1109/FormaliSE66629.2025.00010
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1109/FormaliSE66629.2025.00010
+  source: '13th IEEE/ACM International Conference on Formal Methods in Software Engineering,
+    FormaliSE@ICSE 2025, Ottawa, ON, Canada, April 27-28, 2025: 34-45 (2025).'
+  title: 'The Burden of Proof: Automated Tooling for Rapid Iteration on Large Mechanised
+    Proofs.'
+  year: 2025
 DBLP:conf/icse/IgnatievJM14:
   authors: "Alexey Ignatiev, Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
   dblp: conf/icse/IgnatievJM14
@@ -12196,6 +12210,18 @@ DBLP:journals/ral/SedlarSSBTSSB23:
   title: 'Imitrob: Imitation Learning Dataset for Training and Evaluating 6D Object
     Pose Estimators.'
   year: 2023
+DBLP:journals/ram/HeijdenLFKB25:
+  authors: Bas van der Heijden, Jelle Luijkx, Laura Ferranti, Jens Kober, Robert Babuska
+  dblp: journals/ram/HeijdenLFKB25
+  doi: https://doi.org/10.1109/MRA.2024.3433172
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/MRA.2024.3433172
+  source: 'IEEE Robotics Autom. Mag. 32: 99-112 (2025/06).'
+  title: 'Engine Agnostic Graph Environments for Robotics (EAGERx): A Graph-Based
+    Framework for Sim2real Robot Learning.'
+  year: 2025
 DBLP:journals/ram/PreucilB22:
   authors: Libor Preucil, Robert Babuska
   dblp: journals/ram/PreucilB22
