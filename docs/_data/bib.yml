@@ -10895,6 +10895,31 @@ DBLP:journals/corr/abs-2505-23158:
   source: arXiv CoRR abs/2505.23158 (2025/05).
   title: 'LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering.'
   year: 2025
+DBLP:journals/corr/abs-2506-02903:
+  authors: "Michael Codish, Mikol\xE1s Janota"
+  dblp: journals/corr/abs-2506-02903
+  doi: https://doi.org/10.48550/arXiv.2506.02903
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2506.02903
+  source: arXiv CoRR abs/2506.02903 (2025/06).
+  title: Breaking Symmetries with Involutions.
+  year: 2025
+DBLP:journals/corr/abs-2506-03030:
+  authors: "Filip B\xE1rtek, Ahmed Bhayat, Robin Coutelier, M\xE1rton Hajd\xFA, Matthias\
+    \ Hetzenberger, Petra Hozzov\xE1, Laura Kov\xE1cs, Jakob Rath, Michael Rawson,\
+    \ Giles Reger, Martin Suda, Johannes Schoisswohl, Andrei Voronkov"
+  dblp: journals/corr/abs-2506-03030
+  doi: https://doi.org/10.48550/arXiv.2506.03030
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2506.03030
+  source: arXiv CoRR abs/2506.03030 (2025/06).
+  title: The Vampire Diary.
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
