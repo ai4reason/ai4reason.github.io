@@ -3207,6 +3207,18 @@ DBLP:conf/gecco/Kubalik11:
   title: Evolutionary-based iterative local search algorithm for the shortest common
     supersequence problem.
   year: 2011
+DBLP:conf/gecco/KubalikB25:
+  authors: "Jir\xED Kubal\xEDk, Robert Babuska"
+  dblp: conf/gecco/KubalikB25
+  doi: https://doi.org/10.1145/3712256.3726434
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1145/3712256.3726434
+  source: 'Proceedings of the Genetic and Evolutionary Computation Conference, GECCO
+    2025, NH Malaga Hotel, Malaga, Spain, July 14-18, 2025: 1264-1272 (2025).'
+  title: Neuro-Evolutionary Approach to Physics-Aware Symbolic Regression.
+  year: 2025
 DBLP:conf/gecco/KubalikBW10:
   authors: "Jir\xED Kubal\xEDk, Petr Buryan, Libor Wagner"
   dblp: conf/gecco/KubalikBW10
