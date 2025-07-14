@@ -10932,6 +10932,41 @@ DBLP:journals/corr/abs-2506-03030:
   source: arXiv CoRR abs/2506.03030 (2025/06).
   title: The Vampire Diary.
   year: 2025
+DBLP:journals/corr/abs-2506-21117:
+  authors: Jan Ackermann, Jonas Kulhanek, Shengqu Cai, Haofei Xu, Marc Pollefeys,
+    Gordon Wetzstein, Leonidas J. Guibas, Songyou Peng
+  dblp: journals/corr/abs-2506-21117
+  doi: https://doi.org/10.48550/arXiv.2506.21117
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2506.21117
+  source: arXiv CoRR abs/2506.21117 (2025/06).
+  title: 'CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization.'
+  year: 2025
+DBLP:journals/corr/abs-2506-22035:
+  authors: Qiqi Gu, Chenpeng Wu, Heng Shi, Jianguo Yao
+  dblp: journals/corr/abs-2506-22035
+  doi: https://doi.org/10.48550/arXiv.2506.22035
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2506.22035
+  source: arXiv CoRR abs/2506.22035 (2025/06).
+  title: 'SPTCStencil: Unleashing Sparse Tensor Cores for Stencil Computation via
+    Strided Swap.'
+  year: 2025
+DBLP:journals/corr/abs-2506-22584:
+  authors: "Marek Danco, Petra Hozzov\xE1, Mikol\xE1s Janota"
+  dblp: journals/corr/abs-2506-22584
+  doi: https://doi.org/10.48550/arXiv.2506.22584
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2506.22584
+  source: arXiv CoRR abs/2506.22584 (2025/06).
+  title: From MBQI to Enumerative Instantiation and Back.
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
@@ -12984,6 +13019,18 @@ DBLP:journals/wicomm/UrbanWBNLV01:
   title: BRAIN - an architecture for a broadband radio access network of the next
     generation.
   year: 2001
+DBLP:phd/basesearch/Alibekov21:
+  authors: Eduard Alibekov
+  dblp: phd/basesearch/Alibekov21
+  groups:
+  - ML
+  - main
+  link: https://www.base-search.net/Record/adc5665431fac69d2897c0473e98e72c38f733324eec38c258b5d74cb3cb3c95
+  source: Thesis (2021).
+  title: "Symbolick\xE1 regrese pro posilov\xE1n\xE9 u\u010Den\xED ve spojit\xFDch\
+    \ prostorech ; Symbolic Regression for Reinforcement Learning in Continuous Spaces."
+  url: https://www.base-search.net/Record/adc5665431fac69d2897c0473e98e72c38f733324eec38c258b5d74cb3cb3c95
+  year: 2021
 DBLP:phd/dnb/Suda15:
   authors: Martin Suda
   dblp: phd/dnb/Suda15
