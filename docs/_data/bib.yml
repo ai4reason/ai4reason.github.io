@@ -1945,6 +1945,19 @@ DBLP:conf/cp/SiZMJIN16:
     (2016).'
   title: On Incremental Core-Guided MaxSAT Solving.
   year: 2016
+DBLP:conf/cpaior/CodishJ25:
+  authors: "Michael Codish, Mikol\xE1s Janota"
+  dblp: conf/cpaior/CodishJ25
+  doi: https://doi.org/10.1007/978-3-031-95973-8_11
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-95973-8_11
+  source: 'Integration of Constraint Programming, Artificial Intelligence, and Operations
+    Research - 22nd International Conference, CPAIOR 2025, Melbourne, VIC, Australia,
+    November 10-13, 2025, Proceedings, Part I: 169-187 (2025).'
+  title: Breaking Symmetries from a Set-Covering Perspective.
+  year: 2025
 DBLP:conf/cpp/GauthierK15:
   authors: Thibault Gauthier, Cezary Kaliszyk
   dblp: conf/cpp/GauthierK15
