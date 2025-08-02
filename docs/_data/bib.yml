@@ -12004,6 +12004,18 @@ DBLP:journals/jsc/PiepenbrockUKOHJ25:
   title: Invariant neural architecture for learning term synthesis in instantiation
     proving.
   year: 2025
+DBLP:journals/jss/OrvalhoJM25:
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
+  dblp: journals/jss/OrvalhoJM25
+  doi: https://doi.org/10.1016/j.jss.2025.112481
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1016/j.jss.2025.112481
+  source: 'J. Syst. Softw. 230: (2025).'
+  title: 'InvAASTCluster: On Applying Invariant-Based Program Clustering to Introductory
+    Programming Assignments.'
+  year: 2025
 DBLP:journals/jsyml/BenzmullerBK04:
   authors: "Christoph Benzm\xFCller, Chad E. Brown, Michael Kohlhase"
   dblp: journals/jsyml/BenzmullerBK04
