@@ -1510,6 +1510,21 @@ DBLP:conf/cason/VojtasPNSMKNM11:
   title: "SoSIRe\u010CR - IT professional social network."
   url: https://www.wikidata.org/entity/Q57240537
   year: 2011
+DBLP:conf/cav/BartekBCHHHKRRRSSV25:
+  authors: "Filip B\xE1rtek, Ahmed Bhayat, Robin Coutelier, M\xE1rton Hajd\xFA, Matthias\
+    \ Hetzenberger, Petra Hozzov\xE1, Laura Kov\xE1cs, Jakob Rath, Michael Rawson,\
+    \ Giles Reger, Martin Suda, Johannes Schoisswohl, Andrei Voronkov"
+  dblp: conf/cav/BartekBCHHHKRRRSSV25
+  doi: https://doi.org/10.1007/978-3-031-98682-6_4
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-98682-6_4
+  source: 'Computer Aided Verification - 37th International Conference, CAV 2025,
+    Zagreb, Croatia, July 23-25, 2025, Proceedings, Part III: 57-71 (2025).'
+  title: The Vampire Diary.
+  year: 2025
 DBLP:conf/cav/BrownKGU22:
   authors: Chad E. Brown, Cezary Kaliszyk, Thibault Gauthier, Josef Urban
   dblp: conf/cav/BrownKGU22
