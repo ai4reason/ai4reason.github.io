@@ -44,6 +44,18 @@ DBLP:books/sp/LendekGBS11:
   title: Stability Analysis and Nonlinear Observer Design Using Takagi-Sugeno Fuzzy
     Models
   year: 2011
+DBLP:conf/3dim/LiSXEK25:
+  authors: Huapeng Li, Wenxuan Song, Tianao Xu, Alexandre Elsig, Jonas Kulhanek
+  dblp: conf/3dim/LiSXEK25
+  doi: https://doi.org/10.1109/3DV66043.2025.00094
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/3DV66043.2025.00094
+  source: 'International Conference on 3D Vision, 3DV 2025, Singapore, March 25-28,
+    2025: 969-978 (2025).'
+  title: 'WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting.'
+  year: 2025
 DBLP:conf/IEEEares/KubalikM07:
   authors: "Jir\xED Kubal\xEDk, Richard Mordinyi"
   dblp: conf/IEEEares/KubalikM07
@@ -969,6 +981,21 @@ DBLP:conf/cade/Brown12:
     UK, June 26-29, 2012. Proceedings: 111-117 (2012).'
   title: 'Satallax: An Automatic Higher-Order Prover.'
   year: 2012
+DBLP:conf/cade/BrownCJOR25:
+  authors: "Chad E. Brown, Karel Chvalovsk\xFD, Mikol\xE1s Janota, Mirek Ols\xE1k,\
+    \ Stefan Ratschan"
+  dblp: conf/cade/BrownCJOR25
+  doi: https://doi.org/10.1007/978-3-031-99984-0_9
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-031-99984-0_9
+  source: 'Automated Deduction - CADE 30 - 30th International Conference on Automated
+    Deduction, Stuttgart, Germany, July 28-31, 2025, Proceedings: 150-163 (2025).'
+  title: 'SMT and Functional Equation Solving over the Reals: Challenges from the
+    IMO.'
+  year: 2025
 DBLP:conf/cade/BrownGKSU19:
   authors: Chad E. Brown, Thibault Gauthier, Cezary Kaliszyk, Geoff Sutcliffe, Josef
     Urban
@@ -1058,6 +1085,18 @@ DBLP:conf/cade/GauthierKKN14:
     Vienna, Austria, 2014: 50-59 (2014).'
   title: Beagle as a HOL4 external ATP method.
   year: 2014
+DBLP:conf/cade/GauthierU25:
+  authors: Thibault Gauthier, Josef Urban
+  dblp: conf/cade/GauthierU25
+  doi: https://doi.org/10.1007/978-3-031-99984-0_23
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.1007/978-3-031-99984-0_23
+  source: 'Automated Deduction - CADE 30 - 30th International Conference on Automated
+    Deduction, Stuttgart, Germany, July 28-31, 2025, Proceedings: 423-445 (2025).'
+  title: Learning Conjecturing from Scratch.
+  year: 2025
 DBLP:conf/cade/Gleiss020:
   authors: Bernhard Gleiss, Martin Suda
   dblp: conf/cade/Gleiss020
@@ -1373,6 +1412,18 @@ DBLP:conf/cade/Suda22:
     Haifa, Israel, August 8-10, 2022, Proceedings: 659-667 (2022).'
   title: 'Vampire Getting Noisy: Will Random Bits Help Conquer Chaos? (System Description).'
   year: 2022
+DBLP:conf/cade/Suda25:
+  authors: Martin Suda
+  dblp: conf/cade/Suda25
+  doi: https://doi.org/10.1007/978-3-031-99984-0_22
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.1007/978-3-031-99984-0_22
+  source: 'Automated Deduction - CADE 30 - 30th International Conference on Automated
+    Deduction, Stuttgart, Germany, July 28-31, 2025, Proceedings: 403-422 (2025).'
+  title: Efficient Neural Clause-Selection Reinforcement.
+  year: 2025
 DBLP:conf/cade/SudaW12:
   authors: Martin Suda, Christoph Weidenbach
   dblp: conf/cade/SudaW12
@@ -1907,6 +1958,18 @@ DBLP:conf/cp/BelovJLM12:
   title: On Computing Minimal Equivalent Subformulas.
   url: https://www.wikidata.org/entity/Q62047283
   year: 2012
+DBLP:conf/cp/CodishJ25:
+  authors: "Michael Codish, Mikol\xE1s Janota"
+  dblp: conf/cp/CodishJ25
+  doi: https://doi.org/10.4230/LIPIcs.CP.2025.8
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.4230/LIPIcs.CP.2025.8
+  source: '31st International Conference on Principles and Practice of Constraint
+    Programming, CP 2025, August 10-15, 2025, Glasgow, Scotland: 8:1-8:17 (2025).'
+  title: Breaking Symmetries with Involutions.
+  year: 2025
 DBLP:conf/cp/JanotaMSM21:
   authors: "Mikol\xE1s Janota, Ant\xF3nio Morgado, Jos\xE9 Fragoso Santos, Vasco Manquinho"
   dblp: conf/cp/JanotaMSM21
@@ -4026,6 +4089,21 @@ DBLP:conf/ifip5-3/RolloNKP04:
     109-116 (2004).'
   title: Alarm Root Cause Detection System.
   year: 2004
+DBLP:conf/ijcai/BalyoBCCDGLMRR025:
+  authors: "Tom\xE1s Balyo, Roman Bart\xE1k, Luk\xE1s Chrpa, Michal Cervenka, Filip\
+    \ Dvor\xE1k, Stephan Gocht, Luk\xE1s Lipc\xE1k, Viktor Macek, Dominik Roh\xE1\
+    cek, Josef Ryz\xED, Martin Suda, Dominik Safr\xE1nek, Slavom\xEDr Svanc\xE1r,\
+    \ G. Michael Youngblood"
+  dblp: conf/ijcai/BalyoBCCDGLMRR025
+  doi: https://doi.org/10.24963/ijcai.2025/1250
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.24963/ijcai.2025/1250
+  source: 'Proceedings of the Thirty-Fourth International Joint Conference on Artificial
+    Intelligence, IJCAI 2025, Montreal, Canada, August 16-22, 2025: 11004-11008 (2025).'
+  title: Using Planning for Automated Testing of Video Games.
+  year: 2025
 DBLP:conf/ijcai/JanotaM15:
   authors: "Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
   dblp: conf/ijcai/JanotaM15
@@ -4103,6 +4181,19 @@ DBLP:conf/ijcai/VeroffH81:
   title: Application of Automatic Transformations to Program Verification.
   url: http://ijcai.org/Proceedings/81-1/Papers/087.pdf
   year: 1981
+DBLP:conf/ijcai/ZhangMJK25:
+  authors: Liao Zhang, Fabian Mitterwallner, Jan Jakubuv, Cezary Kaliszyk
+  dblp: conf/ijcai/ZhangMJK25
+  doi: https://doi.org/10.24963/ijcai.2025/526
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.24963/ijcai.2025/526
+  source: 'Proceedings of the Thirty-Fourth International Joint Conference on Artificial
+    Intelligence, IJCAI 2025, Montreal, Canada, August 16-22, 2025: 4724-4732 (2025).'
+  title: Automated Strategy Invention for Confluence of Term Rewrite Systems.
+  year: 2025
 DBLP:conf/ijcar/BartekCS24:
   authors: "Filip B\xE1rtek, Karel Chvalovsk\xFD, Martin Suda"
   dblp: conf/ijcar/BartekCS24
@@ -7332,6 +7423,18 @@ DBLP:conf/www/YangHM019:
     2019: 3420-3426 (2019).'
   title: Place Deduplication with Embeddings.
   year: 2019
+DBLP:data/11/PeitlKJS24:
+  authors: "Tom\xE1s Peitl, Markus Kirchweger, Mikol\xE1s Janota, Stefan Szeider"
+  dblp: data/11/PeitlKJS24
+  doi: https://doi.org/10.5281/zenodo.14530908
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.5281/zenodo.14530908
+  source: Zenodo (2024/12)
+  title: 'Supplementary Material for Breaking Symmetries in Quantified Graph Search:
+    A Comparative Study.'
+  year: 2024
 DBLP:journals/access/DernerBZB24:
   authors: "Erik Derner, Kristina Batistic, Jan Zah\xE1lka, Robert Babuska"
   dblp: journals/access/DernerBZB24
@@ -7735,6 +7838,19 @@ DBLP:journals/cbm/GilfeatherHHHLLV07:
   title: Learning and modeling biosignatures from tissue images.
   url: https://www.wikidata.org/entity/Q33282059
   year: 2007
+DBLP:journals/cbm/WeiSPHH25:
+  authors: Siqi Wei, Christo Sasi, Jelle Piepenbrock, Martijn A. Huynen, Peter A.
+    C. 't Hoen
+  dblp: journals/cbm/WeiSPHH25
+  doi: https://doi.org/10.1016/j.compbiomed.2025.110873
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1016/j.compbiomed.2025.110873
+  source: 'Comput. Biol. Medicine 196: (2025).'
+  title: 'The use of knowledge graphs for drug repurposing: From classical machine
+    learning algorithms to graph neural networks.'
+  year: 2025
 DBLP:journals/cim/Babuska07:
   authors: Robert Babuska
   dblp: journals/cim/Babuska07
@@ -7758,6 +7874,21 @@ DBLP:journals/cmpb/KlemaKL05:
   title: Optimized model tuning in medical systems.
   url: https://www.wikidata.org/entity/Q51984282
   year: 2005
+DBLP:journals/cmpb/PazoutNMJKNMPSVWZVBD25:
+  authors: "Jaroslav Pazout, Milan Nemy, Jakub Mikes, Jan Jirman, Jan Kubr, Eliska\
+    \ Niebauerov\xE1, Miroslav Mac\xEDk, Michal Pech, Michal Stajnrt, Jakub Vanek,\
+    \ Petr Waldauf, Vaclav Zvon\xEDcek, Lenka Vyslouzilova, Robert Babuska, Frantisek\
+    \ Duska"
+  dblp: journals/cmpb/PazoutNMJKNMPSVWZVBD25
+  doi: https://doi.org/10.1016/j.cmpb.2025.108927
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1016/j.cmpb.2025.108927
+  source: 'Comput. Methods Programs Biomed. 269: (2025).'
+  title: 'SmartAlert: Machine learning-based patient-ventilator asynchrony detection
+    system in intensive care units.'
+  year: 2025
 DBLP:journals/complexity/BrablcZGB21:
   authors: Martin Brablc, Jan Zegklitz, Robert Grepl, Robert Babuska
   dblp: journals/complexity/BrablcZGB21
@@ -10994,6 +11125,101 @@ DBLP:journals/corr/abs-2506-22584:
   link: https://doi.org/10.48550/arXiv.2506.22584
   source: arXiv CoRR abs/2506.22584 (2025/06).
   title: From MBQI to Enumerative Instantiation and Back.
+  year: 2025
+DBLP:journals/corr/abs-2507-19827:
+  authors: "M\xE1rton Hajd\xFA, Petra Hozzov\xE1, Laura Kov\xE1cs, Andrei Voronkov,\
+    \ Eva Maria Wagner, Richard Steven Zilinc\xEDk"
+  dblp: journals/corr/abs-2507-19827
+  doi: https://doi.org/10.48550/arXiv.2507.19827
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2507.19827
+  source: arXiv CoRR abs/2507.19827 (2025/07).
+  title: Synthesis Benchmarks for Automated Reasoning.
+  year: 2025
+DBLP:journals/corr/abs-2507-22885:
+  authors: Brent Yi, Chung Min Kim, Justin Kerr, Gina Wu, Rebecca Feng, Anthony Zhang,
+    Jonas Kulhanek, Hongsuk Choi, Yi Ma, Matthew Tancik, Angjoo Kanazawa
+  dblp: journals/corr/abs-2507-22885
+  doi: https://doi.org/10.48550/arXiv.2507.22885
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2507.22885
+  source: arXiv CoRR abs/2507.22885 (2025/07).
+  title: 'Viser: Imperative, Web-based 3D Visualization in Python.'
+  year: 2025
+DBLP:journals/corr/abs-2508-04039:
+  authors: Thilo Hagendorff, Erik Derner, Nuria Oliver
+  dblp: journals/corr/abs-2508-04039
+  doi: https://doi.org/10.48550/arXiv.2508.04039
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2508.04039
+  source: arXiv CoRR abs/2508.04039 (2025/08).
+  title: Large Reasoning Models Are Autonomous Jailbreak Agents.
+  year: 2025
+DBLP:journals/corr/abs-2508-07045:
+  authors: "Dennis Benders, Johannes K\xF6hler, Robert Babuska, Javier Alonso-Mora,\
+    \ Laura Ferranti"
+  dblp: journals/corr/abs-2508-07045
+  doi: https://doi.org/10.48550/arXiv.2508.07045
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2508.07045
+  source: arXiv CoRR abs/2508.07045 (2025/08).
+  title: 'From Data to Safe Mobile Robot Navigation: An Efficient and Modular Robust
+    MPC Design Pipeline.'
+  year: 2025
+DBLP:journals/corr/abs-2508-09768:
+  authors: "C\xE9dric Koller, Barbora Hudcov\xE1"
+  dblp: journals/corr/abs-2508-09768
+  doi: https://doi.org/10.48550/arXiv.2508.09768
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.48550/arXiv.2508.09768
+  source: arXiv CoRR abs/2508.09768 (2025/08).
+  title: Counting Short Trajectories in Elementary Cellular Automata using the Transfer
+    Matrix Method.
+  year: 2025
+DBLP:journals/corr/abs-2508-13703:
+  authors: "Nikolai Antonov, Premysl Sucha, Mikol\xE1s Janota, Jan Hula"
+  dblp: journals/corr/abs-2508-13703
+  doi: https://doi.org/10.48550/arXiv.2508.13703
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2508.13703
+  source: arXiv CoRR abs/2508.13703 (2025/08).
+  title: 'Minimizing the Weighted Number of Tardy Jobs: Data-Driven Heuristic for
+    Single-Machine Scheduling.'
+  year: 2025
+DBLP:journals/corr/abs-2508-13811:
+  authors: "Jan Jakubuv, Mikol\xE1s Janota"
+  dblp: journals/corr/abs-2508-13811
+  doi: https://doi.org/10.48550/arXiv.2508.13811
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2508.13811
+  source: arXiv CoRR abs/2508.13811 (2025/08).
+  title: 'Quantifier Instantiations: To Mimic or To Revolt?'
+  year: 2025
+DBLP:journals/corr/abs-2508-15856:
+  authors: "Mikol\xE1s Janota"
+  dblp: journals/corr/abs-2508-15856
+  doi: https://doi.org/10.48550/arXiv.2508.15856
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2508.15856
+  source: arXiv CoRR abs/2508.15856 (2025/08).
+  title: Experimental Results for Vampire on the Equational Theories Project.
   year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026

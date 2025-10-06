@@ -65,11 +65,16 @@ def normalize_entry(entry, groups, authorinfo):
    elif entry["TY"] == "EDBOOK":
       journal = "%s, %s (%s)." % (entry["T3"], entry["PB"], year)
    elif entry["TY"] == "DATA":
-      journal = "%s (%s)" % (entry["JO"], year)
+      key = "JO" if "JO" in entry else "PB"
+      if key in entry:
+         journal = "%s (%s)" % (entry[key], year)
+      else:
+         journal = "YAN TODO: %s " % entry["TY"]
+         journal += str(entry)
    elif entry["TY"] == "ENCYC":
       journal = "%s (%s)" % (entry["BT"], year)
    else:
-      journal = "YAN TODO: %s" % entry["TY"]
+      journal = "YAN TODO: %s " % entry["TY"]
       journal += str(entry)
 
    url = entry["UR"] if "UR" in entry else ""
