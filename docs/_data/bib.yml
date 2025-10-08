@@ -12730,6 +12730,21 @@ DBLP:journals/tacl/BojanowskiGJM17:
   title: Enriching Word Vectors with Subword Information.
   url: https://www.wikidata.org/entity/Q28775150
   year: 2017
+DBLP:journals/tacl/FajcikDDOBKSPHNHSSJAHHK25:
+  authors: "Martin Fajcik, Martin Docekal, Jan Dolezal, Karel Ondrej, Karel Benes,\
+    \ Jan Kapsa, Pavel Smrz, Alexander Polok, Michal Hradis, Zuzana Neverilov\xE1\
+    , Ales Hor\xE1k, Radoslav Sabol, Michal Stef\xE1nik, Adam Jirkovsky, David Adamczyk,\
+    \ Petr Hyner, Jan Hula, Hynek Kydl\xEDcek"
+  dblp: journals/tacl/FajcikDDOBKSPHNHSSJAHHK25
+  doi: https://doi.org/10.1162/tacl.a.32
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1162/tacl.a.32
+  source: 'Trans. Assoc. Comput. Linguistics 13: 1068-1095 (2025).'
+  title: 'BenCzechMark : A Czech-Centric Multitask and Multimetric Benchmark for Large
+    Language Models with Duel Scoring Mechanism.'
+  year: 2025
 DBLP:journals/tbe/MesicBHV03:
   authors: Samir Mesic, Robert Babuska, Henk C. Hoogsteden, Anton F. M. Verbraak
   dblp: journals/tbe/MesicBHV03
