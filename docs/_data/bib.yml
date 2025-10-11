@@ -5028,6 +5028,19 @@ DBLP:conf/iwann/HulaPM17:
     Part II: 747-758 (2017).'
   title: Towards Visual Training Set Generation Framework.
   year: 2017
+DBLP:conf/iwann/HynerMKH25:
+  authors: "Petr Hyner, Jan Mr\xF3gala, Krystof Krmaschek, Jan Hula"
+  dblp: conf/iwann/HynerMKH25
+  doi: https://doi.org/10.1007/978-3-032-02725-2_24
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-032-02725-2_24
+  source: "Advances in Computational Intelligence - 18th International Work-Conference\
+    \ on Artificial Neural Networks, IWANN 2025, A Coru\xF1a, Spain, June 16-18, 2025,\
+    \ Proceedings, Part I: 310-321 (2025)."
+  title: Learning to Search with Subgoals.
+  year: 2025
 DBLP:conf/jcis/KubalikRL02:
   authors: "Jir\xED Kubal\xEDk, L\xE9on J. M. Rothkrantz, Jir\xED Lazansk\xFD"
   dblp: conf/jcis/KubalikRL02
