@@ -12339,6 +12339,18 @@ DBLP:journals/lu/PaoliSV08:
   source: 'Logica Universalis 2: 209-233 (2008).'
   title: Abelian Logic and the Logics of Pointed Lattice-Ordered Varieties.
   year: 2008
+DBLP:journals/make/MojzisekHJHJ25:
+  authors: "David Mojz\xEDsek, Jan Hula, Jir\xED Janecek, David Herel, Mikol\xE1s\
+    \ Janota"
+  dblp: journals/make/MojzisekHJHJ25
+  doi: https://doi.org/10.3390/make7030093
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.3390/make7030093
+  source: 'Mach. Learn. Knowl. Extr. 7: (2025).'
+  title: Geometric Reasoning in the Embedding Space.
+  year: 2025
 DBLP:journals/mics/JakubuvK20:
   authors: Jan Jakubuv, Cezary Kaliszyk
   dblp: journals/mics/JakubuvK20
