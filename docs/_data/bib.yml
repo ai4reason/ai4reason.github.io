@@ -11234,6 +11234,42 @@ DBLP:journals/corr/abs-2508-15856:
   source: arXiv CoRR abs/2508.15856 (2025/08).
   title: Experimental Results for Vampire on the Equational Theories Project.
   year: 2025
+DBLP:journals/corr/abs-2509-08264:
+  authors: Chad E. Brown, Cezary Kaliszyk, Martin Suda, Josef Urban
+  dblp: journals/corr/abs-2509-08264
+  doi: https://doi.org/10.48550/arXiv.2509.08264
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2509.08264
+  source: arXiv CoRR abs/2509.08264 (2025/09).
+  title: Hammering Higher Order Set Theory.
+  year: 2025
+DBLP:journals/corr/abs-2509-08267:
+  authors: Chad E. Brown, Cezary Kaliszyk, Josef Urban
+  dblp: journals/corr/abs-2509-08267
+  doi: https://doi.org/10.48550/arXiv.2509.08267
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2509.08267
+  source: arXiv CoRR abs/2509.08267 (2025/09).
+  title: 'Exploring Formal Math on the Blockchain: An Explorer for Proofgold.'
+  year: 2025
+DBLP:journals/corr/abs-2509-08268:
+  authors: Chad E. Brown, Cezary Kaliszyk, Josef Urban
+  dblp: journals/corr/abs-2509-08268
+  doi: https://doi.org/10.48550/arXiv.2509.08268
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2509.08268
+  source: arXiv CoRR abs/2509.08268 (2025/09).
+  title: Payment Channels with Proofs.
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
