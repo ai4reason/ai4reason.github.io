@@ -7436,6 +7436,34 @@ DBLP:conf/www/YangHM019:
     2019: 3420-3426 (2019).'
   title: Place Deduplication with Embeddings.
   year: 2019
+DBLP:data/11/BartekBCHHHKRRRSSV25:
+  authors: "Filip B\xE1rtek, Ahmed Bhayat, Robin Coutelier, M\xE1rton Hajd\xFA, Matthias\
+    \ Hetzenberger, Petra Hozzov\xE1, Laura Kov\xE1cs, Jakob Rath, Michael Rawson,\
+    \ Giles Reger, Johannes Schoisswohl, Martin Suda, Andrei Voronkov"
+  dblp: data/11/BartekBCHHHKRRRSSV25
+  doi: https://doi.org/10.5281/zenodo.15205674
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.5281/zenodo.15205674
+  source: Zenodo (2025/04)
+  title: Vampire. (Version 4.9)
+  year: 2025
+DBLP:data/11/BartekBCHHHKRRRSSV25a:
+  authors: "Filip B\xE1rtek, Ahmed Bhayat, Robin Coutelier, M\xE1rton Hajd\xFA, Matthias\
+    \ Hetzenberger, Petra Hozzov\xE1, Laura Kov\xE1cs, Jakob Rath, Michael Rawson,\
+    \ Giles Reger, Johannes Schoisswohl, Martin Suda, Andrei Voronkov"
+  dblp: data/11/BartekBCHHHKRRRSSV25a
+  doi: https://doi.org/10.5281/zenodo.15207788
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.5281/zenodo.15207788
+  source: Zenodo (2025/04)
+  title: Vampire. (Version 4.9 (errata 1))
+  year: 2025
 DBLP:data/11/PeitlKJS24:
   authors: "Tom\xE1s Peitl, Markus Kirchweger, Mikol\xE1s Janota, Stefan Szeider"
   dblp: data/11/PeitlKJS24
@@ -7936,6 +7964,18 @@ DBLP:journals/constraints/IgnatievJM16:
   source: 'Constraints An Int. J. 21: 277-302 (2016).'
   title: Quantified maximum satisfiability.
   year: 2016
+DBLP:journals/cor/AntonovSJH26:
+  authors: "Nikolai Antonov, Premysl Sucha, Mikol\xE1s Janota, Jan Hula"
+  dblp: journals/cor/AntonovSJH26
+  doi: https://doi.org/10.1016/j.cor.2025.107281
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1016/j.cor.2025.107281
+  source: 'Comput. Oper. Res. 185: (2026).'
+  title: 'Minimizing the weighted number of tardy jobs: data-driven heuristic for
+    single-machine scheduling.'
+  year: 2026
 DBLP:journals/cor/BenediktASCH21:
   authors: "Ondrej Benedikt, Baran Alikoc, Premysl Sucha, Sergej Celikovsk\xFD, Zdenek\
     \ Hanz\xE1lek"
@@ -11269,6 +11309,19 @@ DBLP:journals/corr/abs-2509-08268:
   link: https://doi.org/10.48550/arXiv.2509.08268
   source: arXiv CoRR abs/2509.08268 (2025/09).
   title: Payment Channels with Proofs.
+  year: 2025
+DBLP:journals/corr/abs-2509-24857:
+  authors: "Adri\xE1n Arnaiz-Rodr\xEDguez, Miguel Baidal, Erik Derner, Jenn Layton\
+    \ Annable, Mark Ball, Mark Ince, Elvira Perez Vallejos, Nuria Oliver"
+  dblp: journals/corr/abs-2509-24857
+  doi: https://doi.org/10.48550/arXiv.2509.24857
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2509.24857
+  source: arXiv CoRR abs/2509.24857 (2025/09).
+  title: 'Between Help and Harm: An Evaluation of Mental Health Crisis Handling by
+    LLMs.'
   year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
