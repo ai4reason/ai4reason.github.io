@@ -5788,6 +5788,32 @@ DBLP:conf/mkm/Brown06:
     Wokingham, UK, August 11-12, 2006, Proceedings: 110-123 (2006).'
   title: Verifying and Invalidating Textbook Proofs Using Scunak.
   year: 2006
+DBLP:conf/mkm/BrownKSU25:
+  authors: Chad E. Brown, Cezary Kaliszyk, Martin Suda, Josef Urban
+  dblp: conf/mkm/BrownKSU25
+  doi: https://doi.org/10.1007/978-3-032-07021-0_1
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-032-07021-0_1
+  source: 'Intelligent Computer Mathematics - 18th International Conference, CICM
+    2025, Brasilia, Brazil, October 6-10, 2025, Proceedings: 3-20 (2025).'
+  title: Hammering Higher Order Set Theory.
+  year: 2025
+DBLP:conf/mkm/BrownKU25:
+  authors: Chad E. Brown, Cezary Kaliszyk, Josef Urban
+  dblp: conf/mkm/BrownKU25
+  doi: https://doi.org/10.1007/978-3-032-07021-0_5
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-032-07021-0_5
+  source: 'Intelligent Computer Mathematics - 18th International Conference, CICM
+    2025, Brasilia, Brazil, October 6-10, 2025, Proceedings: 71-90 (2025).'
+  title: 'Exploring Formal Math on the Blockchain: An Explorer for Proofgold.'
+  year: 2025
 DBLP:conf/mkm/BrownP19:
   authors: Chad E. Brown, Karol Pak
   dblp: conf/mkm/BrownP19
@@ -5849,6 +5875,19 @@ DBLP:conf/mkm/GauthierK14:
   title: Matching Concepts across HOL Libraries.
   url: https://www.wikidata.org/entity/Q108482167
   year: 2014
+DBLP:conf/mkm/HajduHKVWZ25:
+  authors: "M\xE1rton Hajd\xFA, Petra Hozzov\xE1, Laura Kov\xE1cs, Andrei Voronkov,\
+    \ Eva Maria Wagner, Richard Steven Zilinc\xEDk"
+  dblp: conf/mkm/HajduHKVWZ25
+  doi: https://doi.org/10.1007/978-3-032-07021-0_2
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-032-07021-0_2
+  source: 'Intelligent Computer Mathematics - 18th International Conference, CICM
+    2025, Brasilia, Brazil, October 6-10, 2025, Proceedings: 21-28 (2025).'
+  title: Synthesis Benchmarks for Automated Reasoning.
+  year: 2025
 DBLP:conf/mkm/HorozalB07:
   authors: Feryal Fulya Horozal, Chad E. Brown
   dblp: conf/mkm/HorozalB07
