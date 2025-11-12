@@ -7503,6 +7503,18 @@ DBLP:data/11/BartekBCHHHKRRRSSV25a:
   source: Zenodo (2025/04)
   title: Vampire. (Version 4.9 (errata 1))
   year: 2025
+DBLP:data/11/HozzovaHKWZV25:
+  authors: "Petra Hozzov\xE1, M\xE1rton Hajd\xFA, Laura Kov\xE1cs, Eva Maria Wagner,\
+    \ Richard Steven Zilinc\xEDk, Andrei Voronkov"
+  dblp: data/11/HozzovaHKWZV25
+  doi: https://doi.org/10.5281/zenodo.16967257
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.5281/zenodo.16967257
+  source: Zenodo (2025/08)
+  title: Synthesis Benchmarks for Automated Reasoning.
+  year: 2025
 DBLP:data/11/PeitlKJS24:
   authors: "Tom\xE1s Peitl, Markus Kirchweger, Mikol\xE1s Janota, Stefan Szeider"
   dblp: data/11/PeitlKJS24
