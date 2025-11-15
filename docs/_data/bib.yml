@@ -11374,6 +11374,18 @@ DBLP:journals/corr/abs-2509-24857:
   title: 'Between Help and Harm: An Evaluation of Mental Health Crisis Handling by
     LLMs.'
   year: 2025
+DBLP:journals/corr/abs-2510-15700:
+  authors: Alex Gu, Bartosz Piotrowski, Fabian Gloeckle, Kaiyu Yang, Aram H. Markosyan
+  dblp: journals/corr/abs-2510-15700
+  doi: https://doi.org/10.48550/arXiv.2510.15700
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2510.15700
+  source: arXiv CoRR abs/2510.15700 (2025/10).
+  title: 'ProofOptimizer: Training Language Models to Simplify Proofs without Human
+    Demonstrations.'
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
