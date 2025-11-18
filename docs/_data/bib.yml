@@ -11374,6 +11374,17 @@ DBLP:journals/corr/abs-2509-24857:
   title: 'Between Help and Harm: An Evaluation of Mental Health Crisis Handling by
     LLMs.'
   year: 2025
+DBLP:journals/corr/abs-2510-08342:
+  authors: "Jordan Cotler, Cl\xE9ment Hongler, Barbora Hudcov\xE1"
+  dblp: journals/corr/abs-2510-08342
+  doi: https://doi.org/10.48550/arXiv.2510.08342
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.48550/arXiv.2510.08342
+  source: arXiv CoRR abs/2510.08342 (2025/10).
+  title: Self-replication and Computational Universality.
+  year: 2025
 DBLP:journals/corr/abs-2510-15700:
   authors: Alex Gu, Bartosz Piotrowski, Fabian Gloeckle, Kaiyu Yang, Aram H. Markosyan
   dblp: journals/corr/abs-2510-15700
