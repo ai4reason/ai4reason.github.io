@@ -139,10 +139,10 @@ def download_db(authors, year):
       try:
          data = urlopen(url)
       except HTTPError as e:
-         print(f"ERROR: {e}")
-         print("Waiting for 10 seconds...")
+         sys.stderr.write(f"ERROR: {e}\n")
+         sys.stderr.write("Waiting for 10 seconds...\n")
          time.sleep(10)
-         print("Re-trying...")
+         sys.stderr.write("Re-trying...\n")
          data = urlopen(url)
       ris = data.read().decode("utf-8")
       authordb = parse_ris(ris, year)
