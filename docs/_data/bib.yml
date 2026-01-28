@@ -115,11 +115,11 @@ DBLP:conf/aaai/BeyersdorffCJ16:
   groups:
   - FM
   - main
-  link: http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12612
+  link: https://aaai.org/papers/aaaiw-ws0197-16-12612/
   source: 'Beyond NP, Papers from the 2016 AAAI Workshop, Phoenix, Arizona, USA, February
     12, 2016.: (2016).'
   title: Extension Variables in QBF Resolution.
-  url: http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12612
+  url: https://aaai.org/papers/aaaiw-ws0197-16-12612/
   year: 2016
 DBLP:conf/aaai/DancoJCA25:
   authors: "Marek Danco, Mikol\xE1s Janota, Michael Codish, Jo\xE3o Jorge Ara\xFA\
@@ -1586,7 +1586,7 @@ DBLP:conf/cav/BrownKGU22:
   - main
   link: https://doi.org/10.4230/OASIcs.FMBC.2022.4
   source: '4th International Workshop on Formal Methods for Blockchains, FMBC@CAV
-    2022, August 11, 2022, Haifa, Israel.: 4:1-4:15 (2022).'
+    2022, Haifa, Israel, August 11, 2022: 4:1-4:15 (2022).'
   title: 'Proofgold: Blockchain for Formal Methods.'
   year: 2022
 DBLP:conf/cav/Marques-SilvaJB13:
@@ -2705,6 +2705,18 @@ DBLP:conf/fm/OrvalhoJM24:
   title: 'cfaults: Model-Based Diagnosis for Fault Localization in C with Multiple
     Test Cases.'
   year: 2024
+DBLP:conf/fmcad/HozzovaB25:
+  authors: "Petra Hozzov\xE1, Nikolaj Bj\xF8rner"
+  dblp: conf/fmcad/HozzovaB25
+  doi: https://doi.org/10.34727/2025/isbn.978-3-85448-084-6_28
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.34727/2025/isbn.978-3-85448-084-6_28
+  source: 'Proceedings of the 25th Conference on Formal Methods in Computer-Aided
+    Design, FMCAD 2025, Menlo Park, CA, USA, October 6-10, 2025: (2025).'
+  title: 'Synthesiz3 This: an SMT-Based Approach for Synthesis with Uncomputable Symbols.'
+  year: 2025
 DBLP:conf/fmcad/JanotaBFR21:
   authors: "Mikol\xE1s Janota, Haniel Barbosa, Pascal Fontaine, Andrew Reynolds"
   dblp: conf/fmcad/JanotaBFR21
@@ -3630,6 +3642,18 @@ DBLP:conf/icfp/OConnorCRALMNSK16:
   title: 'Refinement through restraint: bringing down the cost of verification.'
   url: https://www.wikidata.org/entity/Q130970044
   year: 2016
+DBLP:conf/icinco/Babuska25:
+  authors: Robert Babuska
+  dblp: conf/icinco/Babuska25
+  groups:
+  - ML
+  - main
+  link: ''
+  source: 'Proceedings of the 22nd International Conference on Informatics in Control,
+    Automation and Robotics, ICINCO 2025, Marbella, Spain, October 20-22, 2025, Volume
+    1.: (2025).'
+  title: Towards Transparent, Physically Consistent Machine Learning Models.
+  year: 2025
 DBLP:conf/icinco/BellomoNB04:
   authors: Domenico Bellomo, David Naso, Robert Babuska
   dblp: conf/icinco/BellomoNB04
@@ -5110,11 +5134,11 @@ DBLP:conf/kr/BordeauxJSM12:
   groups:
   - FM
   - main
-  link: http://www.aaai.org/ocs/index.php/KR/KR12/paper/view/4534
+  link: https://aaai.org/papers/14-4534-on-unit-refutation-complete-formulae-with-existentially-quantified-variables/
   source: 'Principles of Knowledge Representation and Reasoning: Proceedings of the
     Thirteenth International Conference, KR 2012, Rome, Italy, June 10-14, 2012: (2012).'
   title: On Unit-Refutation Complete Formulae with Existentially Quantified Variables.
-  url: http://www.aaai.org/ocs/index.php/KR/KR12/paper/view/4534
+  url: https://aaai.org/papers/14-4534-on-unit-refutation-complete-formulae-with-existentially-quantified-variables/
   year: 2012
 DBLP:conf/lpar/2018w:
   authors: Gilles Barthe, Konstantin Korovin, Stephan Schulz, Martin Suda, Geoff Sutcliffe,
@@ -7620,7 +7644,7 @@ DBLP:journals/ai/BelovJLM14:
   title: Algorithms for computing minimal equivalent subformulas.
   year: 2014
 DBLP:journals/ai/FroleyksHIJS21:
-  authors: "Nils Froleyks, Marijn Heule, Markus Iser, Matti J\xE4rvisalo, Martin Suda"
+  authors: "Nils Froleyks, Marijn Heule, Ashlin Iser, Matti J\xE4rvisalo, Martin Suda"
   dblp: journals/ai/FroleyksHIJS21
   doi: https://doi.org/10.1016/j.artint.2021.103572
   groups:
@@ -7849,6 +7873,17 @@ DBLP:journals/asc/KremmelKB11:
     algorithms.
   url: https://orkg.org/orkg/resource/R28870
   year: 2011
+DBLP:journals/auasjlog/SpinksBV14:
+  authors: Matthew Spinks, Robert J. Bignall, Robert Veroff
+  dblp: journals/auasjlog/SpinksBV14
+  doi: https://doi.org/10.26686/ajl.v11i2.2020
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.26686/ajl.v11i2.2020
+  source: 'Australas. J. Log. 11: (2014).'
+  title: Discriminator logics (Research announcement).
+  year: 2014
 DBLP:journals/automatica/AbouheafLVHB14:
   authors: Mohammed I. Abouheaf, Frank L. Lewis, Kyriakos G. Vamvoudakis, Sofie Haesaert,
     Robert Babuska
@@ -11397,6 +11432,29 @@ DBLP:journals/corr/abs-2510-15700:
   title: 'ProofOptimizer: Training Language Models to Simplify Proofs without Human
     Demonstrations.'
   year: 2025
+DBLP:journals/corr/abs-2511-20550:
+  authors: "Dustin Bryant, Jonathan Juli\xE1n Huerta y Munive, Simon Foster"
+  dblp: journals/corr/abs-2511-20550
+  doi: https://doi.org/10.48550/arXiv.2511.20550
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2511.20550
+  source: arXiv CoRR abs/2511.20550 (2025/11).
+  title: Verifying Numerical Methods with Isabelle/HOL.
+  year: 2025
+DBLP:journals/corr/abs-2512-02898:
+  authors: "Pedro Orvalho, Marta Kwiatkowska, Mikol\xE1s Janota, Vasco Manquinho"
+  dblp: journals/corr/abs-2512-02898
+  doi: https://doi.org/10.48550/arXiv.2512.02898
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2512.02898
+  source: arXiv CoRR abs/2512.02898 (2025/12).
+  title: 'Model-Based Diagnosis with Multiple Observations: A Unified Approach for
+    C Software and Boolean Circuits.'
+  year: 2025
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
@@ -11817,6 +11875,29 @@ DBLP:journals/ijar/HartogBDGVV97:
   title: Knowledge-based fuzzy model for performance prediction of a rock-cutting
     trencher.
   year: 1997
+DBLP:journals/ijar/JakubuvJPU26:
+  authors: "Jan Jakubuv, Mikol\xE1s Janota, Jelle Piepenbrock, Josef Urban"
+  dblp: journals/ijar/JakubuvJPU26
+  doi: https://doi.org/10.1016/j.ijar.2025.109602
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1016/j.ijar.2025.109602
+  source: 'Int. J. Approx. Reason. 189: (2026).'
+  title: Machine learning for quantifier selection in cvc5.
+  year: 2026
+DBLP:journals/ijar/MojzisekHLZJ26:
+  authors: "David Mojz\xEDsek, Jan Hula, Ziwei Li, Ziyu Zhou, Mikol\xE1s Janota"
+  dblp: journals/ijar/MojzisekHLZJ26
+  doi: https://doi.org/10.1016/j.ijar.2025.109609
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1016/j.ijar.2025.109609
+  source: 'Int. J. Approx. Reason. 190: (2026).'
+  title: 'Neural approaches to SAT solving: Design choices and interpretability.'
+  year: 2026
 DBLP:journals/ijar/RoubosMBV99:
   authors: Johannes A. Roubos, Stanimir Mollov, Robert Babuska, Henk B. Verbruggen
   dblp: journals/ijar/RoubosMBV99

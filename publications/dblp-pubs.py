@@ -3,7 +3,9 @@
 
 import sys
 import re
+import time
 from urllib.request import urlopen
+from urllib.error import HTTPError
 import yaml
 
 RIS = re.compile(r"^([A-Z][A-Z0-9])  - (.*)$")
@@ -134,7 +136,14 @@ def download_db(authors, year):
    #for author in sorted(authors)[:3]:
       sys.stderr.write("Donwloading %s\n" % author)
       url = "https://dblp.uni-trier.de/%s.ris" % authors[author]["dblp"]
-      data = urlopen(url)
+      try:
+         data = urlopen(url)
+      except HTTPError as e:
+         print(f"ERROR: {e}")
+         print("Waiting for 10 seconds...")
+         time.sleep(10)
+         print("Re-trying...")
+         data = urlopen(url)
       ris = data.read().decode("utf-8")
       authordb = parse_ris(ris, year)
       groups = authors[author]["groups"] if "groups" in authors[author] else []
@@ -142,6 +151,7 @@ def download_db(authors, year):
       groups.add("main")
       normalize_entries(authordb, groups, authors[author])
       update_db(db, authordb)
+      time.sleep(3)
    db = finalize_db(db)
    sys.stderr.write("Relevant entries found: %d\n" % len(db))
    return db
