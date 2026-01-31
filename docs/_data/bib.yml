@@ -6633,6 +6633,20 @@ DBLP:conf/pimrc/WiselyMU00:
   title: Broadband Radio Access for IP-based networks (BRAIN)-a key enabler for mobile
     Internet access.
   year: 2000
+DBLP:conf/ppopp/GuW0Y26:
+  authors: Qiqi Gu, Chenpeng Wu, Heng Shi, Jianguo Yao
+  dblp: conf/ppopp/GuW0Y26
+  doi: https://doi.org/10.1145/3774934.3786414
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1145/3774934.3786414
+  source: 'Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and
+    Practice of Parallel Programming, PPoPP 2026, Sydney, NSW, Australia, 31 January
+    2026 - 4 February 2026: 218-231 (2026).'
+  title: 'SPIDER: Unleashing Sparse Tensor Cores for Stencil Computation via Strided
+    Swapping.'
+  year: 2026
 DBLP:conf/ppsn/KubalikPH06:
   authors: "Jir\xED Kubal\xEDk, Petr Pos\xEDk, Jan Herold"
   dblp: conf/ppsn/KubalikPH06
@@ -12514,6 +12528,18 @@ DBLP:journals/jss/OrvalhoJM25:
   title: 'InvAASTCluster: On Applying Invariant-Based Program Clustering to Introductory
     Programming Assignments.'
   year: 2025
+DBLP:journals/jss/OrvalhoJM26:
+  authors: "Pedro Orvalho, Mikol\xE1s Janota, Vasco Manquinho"
+  dblp: journals/jss/OrvalhoJM26
+  doi: https://doi.org/10.1016/j.jss.2025.112690
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1016/j.jss.2025.112690
+  source: 'J. Syst. Softw. 234: (2026).'
+  title: 'MENTOR: Fixing introductory programming assignments with formula-based fault
+    localization and LLM-driven program repair.'
+  year: 2026
 DBLP:journals/jsyml/BenzmullerBK04:
   authors: "Christoph Benzm\xFCller, Chad E. Brown, Michael Kohlhase"
   dblp: journals/jsyml/BenzmullerBK04
