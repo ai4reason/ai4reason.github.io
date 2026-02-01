@@ -2590,19 +2590,6 @@ DBLP:conf/eurogp/SuchyK05:
     March 30 - April 1, 2005, Proceedings: 301-310 (2005).'
   title: Inducing Diverse Decision Forests with Genetic Programing.
   year: 2005
-DBLP:conf/eurosys/WuGSYG25:
-  authors: Chenpeng Wu, Qiqi Gu, Heng Shi, Jianguo Yao, Haibing Guan
-  dblp: conf/eurosys/WuGSYG25
-  doi: https://doi.org/10.1145/3689031.3717455
-  groups:
-  - FM
-  - main
-  link: https://doi.org/10.1145/3689031.3717455
-  source: 'Proceedings of the Twentieth European Conference on Computer Systems, EuroSys
-    2025, Rotterdam, The Netherlands, 30 March 2025 - 3 April 2025: 293-310 (2025).'
-  title: 'Samoyeds: Accelerating MoE Models with Structured Sparsity Leveraging Sparse
-    Tensor Cores.'
-  year: 2025
 DBLP:conf/eusflat/Babuska03:
   authors: Robert Babuska
   dblp: conf/eusflat/Babuska03
