@@ -7952,19 +7952,6 @@ DBLP:journals/cbm/GilfeatherHHHLLV07:
   title: Learning and modeling biosignatures from tissue images.
   url: https://www.wikidata.org/entity/Q33282059
   year: 2007
-DBLP:journals/cbm/WeiSPHH25:
-  authors: Siqi Wei, Christo Sasi, Jelle Piepenbrock, Martijn A. Huynen, Peter A.
-    C. 't Hoen
-  dblp: journals/cbm/WeiSPHH25
-  doi: https://doi.org/10.1016/j.compbiomed.2025.110873
-  groups:
-  - FM
-  - main
-  link: https://doi.org/10.1016/j.compbiomed.2025.110873
-  source: 'Comput. Biol. Medicine 196: (2025).'
-  title: 'The use of knowledge graphs for drug repurposing: From classical machine
-    learning algorithms to graph neural networks.'
-  year: 2025
 DBLP:journals/cim/Babuska07:
   authors: Robert Babuska
   dblp: journals/cim/Babuska07
@@ -11157,17 +11144,6 @@ DBLP:journals/corr/abs-2504-16536:
   source: arXiv CoRR abs/2504.16536 (2025/04).
   title: 'Synthesiz3 This: an SMT-Based Approach for Synthesis with Uncomputable Symbols.'
   year: 2025
-DBLP:journals/corr/abs-2504-16760:
-  authors: Bartosz Piotrowski, Witold Drzewakowski, Konrad Staniszewski, Piotr Milos
-  dblp: journals/corr/abs-2504-16760
-  doi: https://doi.org/10.48550/arXiv.2504.16760
-  groups:
-  - FM
-  - main
-  link: https://doi.org/10.48550/arXiv.2504.16760
-  source: arXiv CoRR abs/2504.16760 (2025/04).
-  title: Lightweight Latent Verifiers for Efficient Meta-Generation Strategies.
-  year: 2025
 DBLP:journals/corr/abs-2505-23158:
   authors: Jonas Kulhanek, Marie-Julie Rakotosaona, Fabian Manhardt, Christina Tsalicoglou,
     Michael Niemeyer, Torsten Sattler, Songyou Peng, Federico Tombari
@@ -11382,18 +11358,6 @@ DBLP:journals/corr/abs-2510-08342:
   link: https://doi.org/10.48550/arXiv.2510.08342
   source: arXiv CoRR abs/2510.08342 (2025/10).
   title: Self-replication and Computational Universality.
-  year: 2025
-DBLP:journals/corr/abs-2510-15700:
-  authors: Alex Gu, Bartosz Piotrowski, Fabian Gloeckle, Kaiyu Yang, Aram H. Markosyan
-  dblp: journals/corr/abs-2510-15700
-  doi: https://doi.org/10.48550/arXiv.2510.15700
-  groups:
-  - FM
-  - main
-  link: https://doi.org/10.48550/arXiv.2510.15700
-  source: arXiv CoRR abs/2510.15700 (2025/10).
-  title: 'ProofOptimizer: Training Language Models to Simplify Proofs without Human
-    Demonstrations.'
   year: 2025
 DBLP:journals/corr/abs-2511-20550:
   authors: "Dustin Bryant, Jonathan Juli\xE1n Huerta y Munive, Simon Foster"
