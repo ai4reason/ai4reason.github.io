@@ -1,5 +1,7 @@
 - name: Josef Urban
   role: pi 
+  active:
+    to: 2025
   position: Head of the AI Department
   groups:
     - main
@@ -100,6 +102,8 @@
 - name: Chad E. Brown
   role: staff
   position: Researcher
+  active:
+    to: 2025
   groups:
     - FM
   interests:
@@ -148,6 +152,8 @@
 - name: Thibault Gauthier
   role: staff
   position: Researcher
+  active:
+    to: 2025
   groups:
     - AR
   interests:
@@ -216,6 +222,8 @@
 - name: Filip Bártek
   role: student
   position: PhD student 
+  active:
+    to: 2025
   groups:
     - AR
   interests:
@@ -232,6 +240,8 @@
 - name: Lasse Blaauwbroek
   role: student
   position: PhD student 
+  active:
+    to: 2024
   groups:
     - AR
   interests:
@@ -289,6 +299,8 @@
 
 - name: Jelle Piepenbrock
   role: student
+  active:
+    to: 2024
   position: PhD student 
   groups:
     - FM
@@ -305,6 +317,8 @@
 
 - name: Bartosz P. Piotrowski
   role: student
+  active:
+    to: 2024
   position: PhD student 
   groups:
     - FM
@@ -324,6 +338,7 @@
   position: PhD student 
   active:
     from: 2024
+    to: 2025
   groups:
     - FM
   interests:
@@ -358,6 +373,7 @@
   position: Researcher
   active:
     from: 2025
+    to: 2025
   groups:
     - FM
   interests:
