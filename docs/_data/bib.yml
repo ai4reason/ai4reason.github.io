@@ -4317,6 +4317,20 @@ DBLP:conf/ijcci/KubalikDB17:
     (2017).'
   title: Enhanced Symbolic Regression Through Local Variable Transformations.
   year: 2017
+DBLP:conf/ijcnlp/HynerMH25:
+  authors: "Petr Hyner, Jan Mr\xF3gala, Jan Hula"
+  dblp: conf/ijcnlp/HynerMH25
+  groups:
+  - FM
+  - main
+  link: https://aclanthology.org/2025.ijcnlp-long.76/
+  source: 'Proceedings of the 14th International Joint Conference on Natural Language
+    Processing and the 4th Conference of the Asia-Pacific Chapter of the Association
+    for Computational Linguistics, IJCNLP-AACL 2025, Mumbai, India, December 20-24,
+    2025: 1374-1381 (2025).'
+  title: Ability Transfer Through Language Mixing.
+  url: https://aclanthology.org/2025.ijcnlp-long.76/
+  year: 2025
 DBLP:conf/ijcnn/AstB06:
   authors: Jelmer van Ast, Robert Babuska
   dblp: conf/ijcnn/AstB06
