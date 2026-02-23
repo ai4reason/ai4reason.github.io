@@ -6317,6 +6317,32 @@ DBLP:conf/mmm/0001WZRA16:
     USA, January 4-6, 2016, Proceedings, Part II: 290-302 (2016).'
   title: Ten Research Questions for Scalable Multimedia Analytics.
   year: 2016
+DBLP:conf/mmm/2026-2:
+  authors: "Jakub Lokoc, Ladislav Peska, Jan Zah\xE1lka, Stevan Rudinac, Marc A. Kastner,\
+    \ Jingjing Chen, Min-Chun Hu, Jiaxin Wu, Ujjwal Sharma"
+  dblp: conf/mmm/2026-2
+  doi: https://doi.org/10.1007/978-981-95-6957-1
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1007/978-981-95-6957-1
+  source: Lecture Notes in Computer Science 16413 (2026).
+  title: MultiMedia Modeling - 32nd International Conference on Multimedia Modeling,
+    MMM 2026, Prague, Czech Republic, January 29-31, 2026, Proceedings, Part II
+  year: 2026
+DBLP:conf/mmm/2026-4:
+  authors: "Jakub Lokoc, Ladislav Peska, Jan Zah\xE1lka, Stevan Rudinac, Marc A. Kastner,\
+    \ Jingjing Chen, Min-Chun Hu, Jiaxin Wu, Ujjwal Sharma"
+  dblp: conf/mmm/2026-4
+  doi: https://doi.org/10.1007/978-981-95-6963-2
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1007/978-981-95-6963-2
+  source: Lecture Notes in Computer Science 16415 (2026).
+  title: MultiMedia Modeling - 32nd International Conference on Multimedia Modeling,
+    MMM 2026, Prague, Czech Republic, January 29-31, 2026, Proceedings, Part IV
+  year: 2026
 DBLP:conf/mmm/BagiSKZJ21:
   authors: "Alexandra M. Bagi, Kim I. Schild, Omar Shahbaz Khan, Jan Zah\xE1lka, Bj\xF6\
     rn \xDE\xF3r J\xF3nsson"
