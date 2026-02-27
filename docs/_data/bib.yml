@@ -11422,6 +11422,17 @@ DBLP:journals/corr/abs-2512-02898:
   title: 'Model-Based Diagnosis with Multiple Observations: A Unified Approach for
     C Software and Boolean Circuits.'
   year: 2025
+DBLP:journals/corr/abs-2601-01932:
+  authors: "Barbora Hudcov\xE1, Frantisek Dusek, Marco Tuccio, Cl\xE9ment Hongler"
+  dblp: journals/corr/abs-2601-01932
+  doi: https://doi.org/10.48550/arXiv.2601.01932
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.48550/arXiv.2601.01932
+  source: arXiv CoRR abs/2601.01932 (2026/01).
+  title: Visualizing the Structure of Lenia Parameter Space.
+  year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
