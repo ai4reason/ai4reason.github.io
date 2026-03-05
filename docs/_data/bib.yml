@@ -275,7 +275,7 @@ DBLP:conf/acl/WangHXPMPKTHYJC19:
     Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, Samuel R. Bowman
   dblp: conf/acl/WangHXPMPKTHYJC19
   groups:
-  - AR
+  - FAI
   - main
   link: https://aclanthology.org/P19-1439/
   source: 'Proceedings of the 57th Conference of the Association for Computational
@@ -1938,7 +1938,7 @@ DBLP:conf/cikm/HulaMJ24:
   authors: "Jan Hula, David Mojz\xEDsek, Mikol\xE1s Janota"
   dblp: conf/cikm/HulaMJ24
   groups:
-  - AR
+  - FAI
   - FM
   - main
   link: https://www.wikidata.org/entity/Q130994144
@@ -2219,7 +2219,7 @@ DBLP:conf/dsmp/Hula20:
   dblp: conf/dsmp/Hula20
   doi: https://doi.org/10.1109/DSMP47368.2020.9204219
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.1109/DSMP47368.2020.9204219
   source: 'IEEE Third International Conference on Data Stream Mining, Processing,
@@ -2231,7 +2231,7 @@ DBLP:conf/dsmp/HulaMAC20:
   dblp: conf/dsmp/HulaMAC20
   doi: https://doi.org/10.1109/DSMP47368.2020.9204229
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.1109/DSMP47368.2020.9204229
   source: 'IEEE Third International Conference on Data Stream Mining, Processing,
@@ -3513,7 +3513,7 @@ DBLP:conf/icaart/HulaAJ23:
   dblp: conf/icaart/HulaAJ23
   doi: https://doi.org/10.5220/0011699900003393
   groups:
-  - AR
+  - FAI
   - FM
   - main
   link: https://doi.org/10.5220/0011699900003393
@@ -3844,7 +3844,7 @@ DBLP:conf/icml/KhonaOHRNDLT24:
     Dick, Ekdeep Singh Lubana, Hidenori Tanaka
   dblp: conf/icml/KhonaOHRNDLT24
   groups:
-  - AR
+  - FAI
   - main
   link: https://openreview.net/forum?id=8VEGkphQaK
   source: 'Forty-first International Conference on Machine Learning, ICML 2024, Vienna,
@@ -3955,7 +3955,7 @@ DBLP:conf/icpram/AdamczykH24:
   dblp: conf/icpram/AdamczykH24
   doi: https://doi.org/10.5220/0012349800003654
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.5220/0012349800003654
   source: 'Proceedings of the 13th International Conference on Pattern Recognition
@@ -3968,7 +3968,7 @@ DBLP:conf/icpram/MojzisekH24:
   dblp: conf/icpram/MojzisekH24
   doi: https://doi.org/10.5220/0012393600003654
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.5220/0012393600003654
   source: 'Proceedings of the 13th International Conference on Pattern Recognition
@@ -4134,7 +4134,7 @@ DBLP:conf/ictai/HulaMJ21:
   dblp: conf/ictai/HulaMJ21
   doi: https://doi.org/10.1109/ICTAI52525.2021.00072
   groups:
-  - AR
+  - FAI
   - FM
   - main
   link: https://doi.org/10.1109/ICTAI52525.2021.00072
@@ -4366,7 +4366,7 @@ DBLP:conf/ijcci/HynerHJ23:
   dblp: conf/ijcci/HynerHJ23
   doi: https://doi.org/10.5220/0012257900003595
   groups:
-  - AR
+  - FAI
   - FM
   - main
   link: https://doi.org/10.5220/0012257900003595
@@ -4379,7 +4379,7 @@ DBLP:conf/ijcci/HynerMAHS24:
   dblp: conf/ijcci/HynerMAHS24
   doi: https://doi.org/10.5220/0013064500003837
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.5220/0013064500003837
   source: 'Proceedings of the 16th International Joint Conference on Computational
@@ -4416,7 +4416,7 @@ DBLP:conf/ijcnlp/HynerMH25:
   authors: "Petr Hyner, Jan Mr\xF3gala, Jan Hula"
   dblp: conf/ijcnlp/HynerMH25
   groups:
-  - AR
+  - FAI
   - main
   link: https://aclanthology.org/2025.ijcnlp-long.76/
   source: 'Proceedings of the 14th International Joint Conference on Natural Language
@@ -4584,7 +4584,7 @@ DBLP:conf/ipmu/HulaMA22:
   dblp: conf/ipmu/HulaMA22
   doi: https://doi.org/10.1007/978-3-031-08974-9_34
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.1007/978-3-031-08974-9_34
   source: 'Information Processing and Management of Uncertainty in Knowledge-Based
@@ -4858,7 +4858,7 @@ DBLP:conf/itat/AdamczykH20:
   authors: David Adamczyk, Jan Hula
   dblp: conf/itat/AdamczykH20
   groups:
-  - AR
+  - FAI
   - main
   link: https://ceur-ws.org/Vol-2718/paper30.pdf
   source: "Proceedings of the 20th Conference Information Technologies - Applications\
@@ -4871,7 +4871,7 @@ DBLP:conf/itat/ChenHD22:
   authors: "Xinying Chen, Jan Hula, Anton\xEDn Dvor\xE1k"
   dblp: conf/itat/ChenHD22
   groups:
-  - AR
+  - FAI
   - main
   link: https://ceur-ws.org/Vol-3226/paper12.pdf
   source: 'Proceedings of the 22nd Conference Information Technologies - Applications
@@ -4884,7 +4884,7 @@ DBLP:conf/itat/HulaAMM21:
   authors: "Jan Hula, David Adamczyk, David Mojz\xEDsek, Vojtech Molek"
   dblp: conf/itat/HulaAMM21
   groups:
-  - AR
+  - FAI
   - main
   link: https://ceur-ws.org/Vol-2962/paper49.pdf
   source: "Proceedings of the 21st Conference Information Technologies - Applications\
@@ -4897,7 +4897,7 @@ DBLP:conf/itat/MojzisekH22:
   authors: "David Mojz\xEDsek, Jan Hula"
   dblp: conf/itat/MojzisekH22
   groups:
-  - AR
+  - FAI
   - main
   link: https://ceur-ws.org/Vol-3226/paper8.pdf
   source: 'Proceedings of the 22nd Conference Information Technologies - Applications
@@ -5152,7 +5152,7 @@ DBLP:conf/iwann/HulaPM17:
   dblp: conf/iwann/HulaPM17
   doi: https://doi.org/10.1007/978-3-319-59147-6_63
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.1007/978-3-319-59147-6_63
   source: 'Advances in Computational Intelligence - 14th International Work-Conference
@@ -5165,7 +5165,7 @@ DBLP:conf/iwann/HynerMKH25:
   dblp: conf/iwann/HynerMKH25
   doi: https://doi.org/10.1007/978-3-032-02725-2_24
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.1007/978-3-032-02725-2_24
   source: "Advances in Computational Intelligence - 18th International Work-Conference\
@@ -6060,7 +6060,7 @@ DBLP:conf/mkm/HulaJJK22:
   dblp: conf/mkm/HulaJJK22
   doi: https://doi.org/10.1007/978-3-031-16681-5_18
   groups:
-  - AR
+  - FAI
   - FM
   - main
   link: https://doi.org/10.1007/978-3-031-16681-5_18
@@ -8339,7 +8339,7 @@ DBLP:journals/cor/AntonovSJH26:
   dblp: journals/cor/AntonovSJH26
   doi: https://doi.org/10.1016/j.cor.2025.107281
   groups:
-  - AR
+  - FAI
   - FM
   - main
   link: https://doi.org/10.1016/j.cor.2025.107281
@@ -9568,7 +9568,7 @@ DBLP:journals/corr/abs-1812-10860:
     Najoung Kim, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen
   dblp: journals/corr/abs-1812-10860
   groups:
-  - AR
+  - FAI
   - main
   link: http://arxiv.org/abs/1812.10860
   source: arXiv CoRR abs/1812.10860 (2018).
@@ -9699,7 +9699,7 @@ DBLP:journals/corr/abs-1905-06782:
   authors: Waren Long, Vadim Markovtsev, Hugo Mougard, Egor Bulychev, Jan Hula
   dblp: journals/corr/abs-1905-06782
   groups:
-  - AR
+  - FAI
   - main
   link: http://arxiv.org/abs/1905.06782
   source: arXiv CoRR abs/1905.06782 (2019).
@@ -10081,7 +10081,7 @@ DBLP:journals/corr/abs-2005-13243:
     \ Tomas Nejezchleba"
   dblp: journals/corr/abs-2005-13243
   groups:
-  - AR
+  - FAI
   - main
   link: https://arxiv.org/abs/2005.13243
   source: arXiv CoRR abs/2005.13243 (2020).
@@ -10948,7 +10948,7 @@ DBLP:journals/corr/abs-2402-07757:
   dblp: journals/corr/abs-2402-07757
   doi: https://doi.org/10.48550/arXiv.2402.07757
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.48550/arXiv.2402.07757
   source: arXiv CoRR abs/2402.07757 (2024).
@@ -11183,7 +11183,7 @@ DBLP:journals/corr/abs-2408-15418:
   dblp: journals/corr/abs-2408-15418
   doi: https://doi.org/10.48550/arXiv.2408.15418
   groups:
-  - AR
+  - FAI
   - FM
   - main
   link: https://doi.org/10.48550/arXiv.2408.15418
@@ -11280,7 +11280,7 @@ DBLP:journals/corr/abs-2412-17933:
   dblp: journals/corr/abs-2412-17933
   doi: https://doi.org/10.48550/arXiv.2412.17933
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.48550/arXiv.2412.17933
   source: arXiv CoRR abs/2412.17933 (2024).
@@ -11442,7 +11442,7 @@ DBLP:journals/corr/abs-2504-01173:
   dblp: journals/corr/abs-2504-01173
   doi: https://doi.org/10.48550/arXiv.2504.01173
   groups:
-  - AR
+  - FAI
   - FM
   - main
   link: https://doi.org/10.48550/arXiv.2504.01173
@@ -11455,7 +11455,7 @@ DBLP:journals/corr/abs-2504-02018:
   dblp: journals/corr/abs-2504-02018
   doi: https://doi.org/10.48550/arXiv.2504.02018
   groups:
-  - AR
+  - FAI
   - FM
   - main
   link: https://doi.org/10.48550/arXiv.2504.02018
@@ -11669,7 +11669,7 @@ DBLP:journals/corr/abs-2508-13703:
   dblp: journals/corr/abs-2508-13703
   doi: https://doi.org/10.48550/arXiv.2508.13703
   groups:
-  - AR
+  - FAI
   - FM
   - main
   link: https://doi.org/10.48550/arXiv.2508.13703
@@ -12253,7 +12253,7 @@ DBLP:journals/eor/KouteckaSHM25:
   dblp: journals/eor/KouteckaSHM25
   doi: https://doi.org/10.1016/j.ejor.2024.07.029
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.1016/j.ejor.2024.07.029
   source: 'Eur. J. Oper. Res. 320: 328-342 (2025).'
@@ -12357,7 +12357,7 @@ DBLP:journals/glottometrics/HulaKCCCPM19:
     \ Pelegrinov\xE1, Jir\xED Milicka"
   dblp: journals/glottometrics/HulaKCCCPM19
   groups:
-  - AR
+  - FAI
   - main
   link: https://www.ram-verlag.eu/wp-content/uploads/2019/04/g45zeit-1.pdf
   source: 'Glottometrics 45: 7-23 (2019).'
@@ -12427,7 +12427,7 @@ DBLP:journals/ijar/MojzisekHLZJ26:
   dblp: journals/ijar/MojzisekHLZJ26
   doi: https://doi.org/10.1016/j.ijar.2025.109609
   groups:
-  - AR
+  - FAI
   - FM
   - main
   link: https://doi.org/10.1016/j.ijar.2025.109609
@@ -12951,7 +12951,7 @@ DBLP:journals/jql/CechHKCM19:
   authors: "Radek Cech, Jan Hula, Miroslav Kub\xE1t, Xinying Chen, Jir\xED Milicka"
   dblp: journals/jql/CechHKCM19
   groups:
-  - AR
+  - FAI
   - main
   link: https://www.wikidata.org/entity/Q125022853
   source: 'J. Quant. Linguistics 26: 187-204 (2019).'
@@ -13179,7 +13179,7 @@ DBLP:journals/make/MojzisekHJHJ25:
   dblp: journals/make/MojzisekHJHJ25
   doi: https://doi.org/10.3390/make7030093
   groups:
-  - AR
+  - FAI
   - FM
   - main
   link: https://doi.org/10.3390/make7030093
@@ -13270,7 +13270,7 @@ DBLP:journals/nca/HurtikMHVVN22:
   dblp: journals/nca/HurtikMHVVN22
   doi: https://doi.org/10.1007/s00521-021-05978-9
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.1007/s00521-021-05978-9
   source: 'Neural Comput. Appl. 34: 8275-8290 (2022).'
@@ -13282,7 +13282,7 @@ DBLP:journals/nca/HurtikTHH22:
   dblp: journals/nca/HurtikTHH22
   doi: https://doi.org/10.1007/s00521-022-07091-x
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.1007/s00521-022-07091-x
   source: 'Neural Comput. Appl. 34: 12029-12041 (2022).'
@@ -13596,7 +13596,7 @@ DBLP:journals/tacl/FajcikDDOBKSPHNHSSJAHHK25:
   dblp: journals/tacl/FajcikDDOBKSPHNHSSJAHHK25
   doi: https://doi.org/10.1162/tacl.a.32
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.1162/tacl.a.32
   source: 'Trans. Assoc. Comput. Linguistics 13: 1068-1095 (2025).'
@@ -13735,7 +13735,7 @@ DBLP:journals/tfs/HurtikMH20:
   dblp: journals/tfs/HurtikMH20
   doi: https://doi.org/10.1109/TFUZZ.2019.2911494
   groups:
-  - AR
+  - FAI
   - main
   link: https://doi.org/10.1109/TFUZZ.2019.2911494
   source: 'IEEE Trans. Fuzzy Syst. 28: 1195-1204 (2020).'
