@@ -62,7 +62,7 @@
   position: Head of the FAI Group
   groups:
     - main
-    - AR
+    - FAI
   interests:
     - Automated Reasoning
     - Artificial Intelligence
@@ -101,7 +101,6 @@
     to: 2025
   position: Founding Head of the FAI Group
   groups:
-    - main
     - FAI
   interests:
     - Artificial Intelligence
@@ -165,7 +164,7 @@
   orcid: 0000-0002-8848-5537
   github: cbboyan
 
-- name: Keneni Tesema Worku
+- name: Keneni W. Tesema
   role: staff
   position: Researcher
   groups:
