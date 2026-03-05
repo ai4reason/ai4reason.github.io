@@ -1,8 +1,8 @@
 - name: Josef Urban
-  role: pi 
+  role: alumni
   active:
     to: 2025
-  position: Head of the AI Department
+  position: Founding Head of the AI Department
   groups:
     - main
     - AR
@@ -18,9 +18,28 @@
   orcid: 0000-0002-1384-1613
   github: JUrban
 
-- name: Tomáš Mikolov
+- name: Jan Hůla
   role: pi
   position: Head of the FAI Group
+  groups:
+    - AR
+  interests:
+    - Automated Reasoning
+    - Artificial Intelligence
+  image: /images/members/user.png
+  email:
+  homepage: 
+  scholar:
+  dblp: pid/200/9929
+  orcid:
+  github: Jan21
+
+
+- name: Tomáš Mikolov
+  role: alumni
+  active:
+    to: 2025
+  position: Founding Head of the FAI Group
   groups:
     - main
     - FAI
@@ -100,7 +119,7 @@
 
 
 - name: Chad E. Brown
-  role: staff
+  role: alumni
   position: Researcher
   active:
     to: 2025
@@ -149,8 +168,40 @@
   orcid: 0000-0002-8848-5537
   github: cbboyan
 
-- name: Thibault Gauthier
+- name: Keneni Tesema Worku
   role: staff
+  position: Researcher
+  groups:
+    - AR
+  interests:
+    - Artificial Intelligence
+    - Machine Learning
+  image: /images/members/user.png
+  email: keneni.tesema AT cvut.cz
+  homepage: 
+  scholar: 7ryP6-kAAAAJ
+  dblp: pid/385/8306
+  orcid: 0009-0003-1247-2435
+  github: keneniwt
+
+- name: Leroy Nicholas Chew
+  role: staff
+  position: Researcher
+  groups:
+    - FM
+  interests:
+    - Artificial Intelligence
+    - Machine Learning
+  image: /images/members/leroy.jpg
+  email: keneni.tesema AT cvut.cz
+  homepage: https://leroychew.wordpress.com/
+  scholar: QEyw9ikAAAAJ
+  dblp: pid/141/7753
+  orcid: 0000-0003-0226-2832
+  github:
+
+- name: Thibault Gauthier
+  role: alumni
   position: Researcher
   active:
     to: 2025
@@ -186,22 +237,6 @@
   orcid:
   github: chvalovsky
 
-- name: Jan Hůla
-  role: staff
-  position: Researcher
-  groups:
-    - FM
-  interests:
-    - Automated Reasoning
-    - Artificial Intelligence
-  image: /images/members/user.png
-  email:
-  homepage: 
-  scholar:
-  dblp: pid/200/9929
-  orcid:
-  github: Jan21
-
 - name: Robert Veroff
   role: staff
   position: Affiliated research professor
@@ -220,7 +255,7 @@
   github: rveroff
 
 - name: Filip Bártek
-  role: student
+  role: alumni
   position: PhD student 
   active:
     to: 2025
@@ -238,7 +273,7 @@
   github: filipbartek 
 
 - name: Lasse Blaauwbroek
-  role: student
+  role: alumni
   position: PhD student 
   active:
     to: 2024
@@ -298,7 +333,7 @@
   github: 
 
 - name: Jelle Piepenbrock
-  role: student
+  role: alumni
   active:
     to: 2024
   position: PhD student 
@@ -316,7 +351,7 @@
   github: JellePiepenbrock
 
 - name: Bartosz P. Piotrowski
-  role: student
+  role: alumni
   active:
     to: 2024
   position: PhD student 
@@ -334,7 +369,7 @@
   github: BartoszPiotrowski
 
 - name: Jonathan Julián Huerta y Munive
-  role: student
+  role: alumni 
   position: PhD student 
   active:
     from: 2024
@@ -351,7 +386,7 @@
   orcid: 0000-0003-3279-3685
   github: 
 
-- name: Marek Danco
+- name: Marek Dančo
   role: student
   position: PhD student
   active:
@@ -369,7 +404,7 @@
   github: MarekDanco
 
 - name: Petra Hozzová
-  role: staff
+  role: alumni
   position: Researcher
   active:
     from: 2025
@@ -530,11 +565,11 @@
   github: 
 
 - name: Jana Popelová
-  role: admin
+  role: alumni
   dblp: 
   groups:
     - main
-  position: Secretary
+  position: Former Secretary
   interests:
   image: /images/members/user.png
   email: jana.popelova_AT_cvut.cz
