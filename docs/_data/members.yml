@@ -22,6 +22,7 @@
   role: pi
   position: Head of the FAI Group
   groups:
+    - main
     - AR
   interests:
     - Automated Reasoning
@@ -176,7 +177,7 @@
   interests:
     - Artificial Intelligence
     - Machine Learning
-  image: /images/members/user.png
+  image: /images/members/keneni.jpg
   email: keneni.tesema AT cvut.cz
   homepage: 
   scholar: 7ryP6-kAAAAJ
