@@ -404,7 +404,6 @@ DBLP:conf/aips/TozickaJSK16:
   authors: "Jan Tozicka, Jan Jakubuv, Martin Svatos, Anton\xEDn Komenda"
   dblp: conf/aips/TozickaJSK16
   groups:
-  - AR
   - FM
   - main
   link: http://www.aaai.org/ocs/index.php/ICAPS/ICAPS16/paper/view/13088
@@ -2336,7 +2335,6 @@ DBLP:conf/ecai/TozickaJK14:
   dblp: conf/ecai/TozickaJK14
   doi: https://doi.org/10.3233/978-1-61499-419-0-1111
   groups:
-  - AR
   - FM
   - main
   link: https://doi.org/10.3233/978-1-61499-419-0-1111
@@ -2609,7 +2607,6 @@ DBLP:conf/eumas/TozickaJK15:
   authors: "Jan Tozicka, Jan Jakubuv, Anton\xEDn Komenda"
   dblp: conf/eumas/TozickaJK15
   groups:
-  - AR
   - FM
   - main
   link: https://www.wikidata.org/entity/Q62044872
@@ -3529,7 +3526,6 @@ DBLP:conf/icaart/JakubuvTK15:
   authors: "Jan Jakubuv, Jan Tozicka, Anton\xEDn Komenda"
   dblp: conf/icaart/JakubuvTK15
   groups:
-  - AR
   - FM
   - main
   link: ''
@@ -3542,7 +3538,6 @@ DBLP:conf/icaart/JakubuvTK15a:
   authors: "Jan Jakubuv, Jan Tozicka, Anton\xEDn Komenda"
   dblp: conf/icaart/JakubuvTK15a
   groups:
-  - AR
   - FM
   - main
   link: https://www.wikidata.org/entity/Q62044878
@@ -3557,7 +3552,6 @@ DBLP:conf/icaart/TozickaJDKP14:
   dblp: conf/icaart/TozickaJDKP14
   doi: https://doi.org/10.5220/0004918701780189
   groups:
-  - AR
   - FM
   - main
   link: https://doi.org/10.5220/0004918701780189
@@ -3571,7 +3565,6 @@ DBLP:conf/icaart/TozickaJK16:
   dblp: conf/icaart/TozickaJK16
   doi: https://doi.org/10.5220/0005754901810191
   groups:
-  - AR
   - FM
   - main
   link: https://doi.org/10.5220/0005754901810191
@@ -3787,7 +3780,6 @@ DBLP:conf/iclr/Chvalovsky19:
   dblp: conf/iclr/Chvalovsky19
   groups:
   - AR
-  - FM
   - main
   link: https://openreview.net/forum?id=Byg5QhR5FQ
   source: '7th International Conference on Learning Representations, ICLR 2019, New
@@ -3913,7 +3905,6 @@ DBLP:conf/icms/JakubuvK18:
   authors: Jan Jakubuv, Cezary Kaliszyk
   dblp: conf/icms/JakubuvK18
   groups:
-  - AR
   - FM
   - main
   link: https://www.wikidata.org/entity/Q108482122
@@ -4302,7 +4293,6 @@ DBLP:conf/ijcai/ZhangMJK25:
   dblp: conf/ijcai/ZhangMJK25
   doi: https://doi.org/10.24963/ijcai.2025/526
   groups:
-  - AR
   - FM
   - main
   link: https://doi.org/10.24963/ijcai.2025/526
@@ -4316,7 +4306,6 @@ DBLP:conf/ijcar/BartekCS24:
   doi: https://doi.org/10.1007/978-3-031-63498-7_12
   groups:
   - AR
-  - FM
   - main
   link: https://doi.org/10.1007/978-3-031-63498-7_12
   source: 'Automated Reasoning - 12th International Joint Conference, IJCAR 2024,
@@ -5314,7 +5303,6 @@ DBLP:conf/lpar/AleksandrovaJK24:
   dblp: conf/lpar/AleksandrovaJK24
   doi: https://doi.org/10.29007/sd6t
   groups:
-  - AR
   - FM
   - main
   link: https://doi.org/10.29007/sd6t
@@ -5379,7 +5367,6 @@ DBLP:conf/lpar/ChvalovskyC10:
   doi: https://doi.org/10.29007/c66c
   groups:
   - AR
-  - FM
   - main
   link: https://doi.org/10.29007/c66c
   source: 'Short papers for 17th International Conference on Logic for Programming,
@@ -6099,7 +6086,6 @@ DBLP:conf/mkm/JakubuvK23:
   dblp: conf/mkm/JakubuvK23
   doi: https://doi.org/10.1007/978-3-031-42753-4_22
   groups:
-  - AR
   - FM
   - main
   link: https://doi.org/10.1007/978-3-031-42753-4_22
@@ -6752,7 +6738,6 @@ DBLP:conf/paar/BartekC024:
   dblp: conf/paar/BartekC024
   groups:
   - AR
-  - FM
   - main
   link: https://ceur-ws.org/Vol-3717/short2.pdf
   source: 'Joint Proceedings of the 9th Workshop on Practical Aspects of Automated
@@ -7309,7 +7294,6 @@ DBLP:conf/smt/JakubuvJPP023:
     \ Andrew Reynolds"
   dblp: conf/smt/JakubuvJPP023
   groups:
-  - AR
   - FM
   - main
   link: https://ceur-ws.org/Vol-3429/short10.pdf
@@ -7323,7 +7307,6 @@ DBLP:conf/smt/JakubuvJR21:
   authors: "Jan Jakubuv, Mikol\xE1s Janota, Andrew Reynolds"
   dblp: conf/smt/JakubuvJR21
   groups:
-  - AR
   - FM
   - main
   link: https://ceur-ws.org/Vol-2908/paper7.pdf
@@ -7673,7 +7656,6 @@ DBLP:conf/tgc/JakubuvW10:
   authors: Jan Jakubuv, J. B. Wells
   dblp: conf/tgc/JakubuvW10
   groups:
-  - AR
   - FM
   - main
   link: https://www.wikidata.org/entity/Q62044883
@@ -9120,7 +9102,6 @@ DBLP:journals/corr/abs-1003-6096:
   authors: Jan Jakubuv, J. B. Wells
   dblp: journals/corr/abs-1003-6096
   groups:
-  - AR
   - FM
   - main
   link: http://arxiv.org/abs/1003.6096
@@ -11005,7 +10986,6 @@ DBLP:journals/corr/abs-2403-12869:
   doi: https://doi.org/10.48550/arXiv.2403.12869
   groups:
   - AR
-  - FM
   - main
   link: https://doi.org/10.48550/arXiv.2403.12869
   source: arXiv CoRR abs/2403.12869 (2024).
@@ -11275,7 +11255,6 @@ DBLP:journals/corr/abs-2411-06409:
   dblp: journals/corr/abs-2411-06409
   doi: https://doi.org/10.48550/arXiv.2411.06409
   groups:
-  - AR
   - FM
   - main
   link: https://doi.org/10.48550/arXiv.2411.06409
@@ -11336,7 +11315,6 @@ DBLP:journals/corr/abs-2501-09379:
   dblp: journals/corr/abs-2501-09379
   doi: https://doi.org/10.48550/arXiv.2501.09379
   groups:
-  - AR
   - FM
   - main
   link: https://doi.org/10.48550/arXiv.2501.09379
@@ -11704,7 +11682,6 @@ DBLP:journals/corr/abs-2508-13811:
   dblp: journals/corr/abs-2508-13811
   doi: https://doi.org/10.48550/arXiv.2508.13811
   groups:
-  - AR
   - FM
   - main
   link: https://doi.org/10.48550/arXiv.2508.13811
@@ -12322,7 +12299,6 @@ DBLP:journals/fss/Chvalovsky12:
   doi: https://doi.org/10.1016/j.fss.2011.10.018
   groups:
   - AR
-  - FM
   - main
   link: https://doi.org/10.1016/j.fss.2011.10.018
   source: 'Fuzzy Sets Syst. 197: 123-129 (2012).'
@@ -12440,7 +12416,6 @@ DBLP:journals/ijar/JakubuvJPU26:
   dblp: journals/ijar/JakubuvJPU26
   doi: https://doi.org/10.1016/j.ijar.2025.109602
   groups:
-  - AR
   - FM
   - main
   link: https://doi.org/10.1016/j.ijar.2025.109602
@@ -13138,7 +13113,6 @@ DBLP:journals/jsyml/Chvalovsky15:
   doi: https://doi.org/10.1017/jsl.2014.39
   groups:
   - AR
-  - FM
   - main
   link: https://doi.org/10.1017/jsl.2014.39
   source: 'J. Symb. Log. 80: 567-586 (2015).'
@@ -13150,7 +13124,6 @@ DBLP:journals/jsyml/ChvalovskyH16:
   doi: https://doi.org/10.1017/jsl.2015.18
   groups:
   - AR
-  - FM
   - main
   link: https://doi.org/10.1017/jsl.2015.18
   source: 'J. Symb. Log. 81: 524-540 (2016).'
@@ -13160,7 +13133,6 @@ DBLP:journals/kais/TozickaJKP16:
   authors: "Jan Tozicka, Jan Jakubuv, Anton\xEDn Komenda, Michal Pechoucek"
   dblp: journals/kais/TozickaJKP16
   groups:
-  - AR
   - FM
   - main
   link: https://www.wikidata.org/entity/Q62044875
@@ -13218,7 +13190,6 @@ DBLP:journals/mics/JakubuvK20:
   authors: Jan Jakubuv, Cezary Kaliszyk
   dblp: journals/mics/JakubuvK20
   groups:
-  - AR
   - FM
   - main
   link: https://www.wikidata.org/entity/Q108482108
@@ -13288,7 +13259,6 @@ DBLP:journals/mlq/ChvalovskyC12:
   doi: https://doi.org/10.1002/malq.201110065
   groups:
   - AR
-  - FM
   - main
   link: https://doi.org/10.1002/malq.201110065
   source: 'Math. Log. Q. 58: 236-243 (2012).'
@@ -13660,7 +13630,6 @@ DBLP:journals/tcci/TozickaJDK15:
   authors: "Jan Tozicka, Jan Jakubuv, Karel Durkota, Anton\xEDn Komenda"
   dblp: journals/tcci/TozickaJDK15
   groups:
-  - AR
   - FM
   - main
   link: https://www.wikidata.org/entity/Q62044876
@@ -13672,7 +13641,6 @@ DBLP:journals/tcci/TozickaJK18:
   authors: "Jan Tozicka, Jan Jakubuv, Anton\xEDn Komenda"
   dblp: journals/tcci/TozickaJK18
   groups:
-  - AR
   - FM
   - main
   link: https://www.wikidata.org/entity/Q62044865
@@ -14249,7 +14217,6 @@ DBLP:phd/ethos/Jakubuv10:
   authors: Jan Jakubuv
   dblp: phd/ethos/Jakubuv10
   groups:
-  - AR
   - FM
   - main
   link: https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.547706
