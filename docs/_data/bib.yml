@@ -2309,6 +2309,7 @@ DBLP:conf/ecai/OlsakKU20:
   doi: https://doi.org/10.3233/FAIA200244
   groups:
   - AR
+  - FM
   - main
   link: https://doi.org/10.3233/FAIA200244
   source: 'ECAI 2020 - 24th European Conference on Artificial Intelligence, 29 August-8
@@ -3597,6 +3598,18 @@ DBLP:conf/icalp/BeyersdorffCMS15:
   title: Feasible Interpolation for QBF Resolution Calculi.
   url: https://www.wikidata.org/entity/Q61835453
   year: 2015
+DBLP:conf/icalp/FicakKOS19:
+  authors: "Miron Ficak, Marcin Kozik, Miroslav Ols\xE1k, Szymon Stankiewicz"
+  dblp: conf/icalp/FicakKOS19
+  doi: https://doi.org/10.4230/LIPIcs.ICALP.2019.57
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.4230/LIPIcs.ICALP.2019.57
+  source: '46th International Colloquium on Automata, Languages, and Programming,
+    ICALP 2019, Patras, Greece, July 9-12, 2019: 57:1-57:12 (2019).'
+  title: Dichotomy for Symmetric Boolean PCSPs.
+  year: 2019
 DBLP:conf/icannga/Kubalik09:
   authors: "Jir\xED Kubal\xEDk"
   dblp: conf/icannga/Kubalik09
@@ -3787,6 +3800,18 @@ DBLP:conf/iclr/Chvalovsky19:
   title: Top-Down Neural Model For Formulae.
   url: https://openreview.net/forum?id=Byg5QhR5FQ
   year: 2019
+DBLP:conf/iclr/FriederOBL24:
+  authors: "Simon Frieder, Mirek Ols\xE1k, Julius Berner, Thomas Lukasiewicz"
+  dblp: conf/iclr/FriederOBL24
+  groups:
+  - FM
+  - main
+  link: https://openreview.net/forum?id=HYuKXhgzjm
+  source: 'The Second Tiny Papers Track at ICLR 2024, Tiny Papers @ ICLR 2024, Vienna,
+    Austria, May 11, 2024: (2024).'
+  title: 'The IMO Small Challenge: Not-Too-Hard Olympiad Math Datasets for LLMs.'
+  url: https://openreview.net/forum?id=HYuKXhgzjm
+  year: 2024
 DBLP:conf/iclr/HerelM24:
   authors: "David Herel, Tom\xE1s Mikolov"
   dblp: conf/iclr/HerelM24
@@ -3913,6 +3938,18 @@ DBLP:conf/icms/JakubuvK18:
   title: Towards a Unified Ordering for Superposition-Based Automated Reasoning.
   url: https://www.wikidata.org/entity/Q108482122
   year: 2018
+DBLP:conf/icms/Olsak20:
+  authors: "Miroslav Ols\xE1k"
+  dblp: conf/icms/Olsak20
+  doi: https://doi.org/10.1007/978-3-030-52200-1_26
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-030-52200-1_26
+  source: 'Mathematical Software - ICMS 2020 - 7th International Conference, Braunschweig,
+    Germany, July 13-16, 2020, Proceedings: 263-271 (2020).'
+  title: GeoLogic - Graphical Interactive Theorem Prover for Euclidean Geometry.
+  year: 2020
 DBLP:conf/icms/UrbanHV10:
   authors: Josef Urban, Krystof Hoder, Andrei Voronkov
   dblp: conf/icms/UrbanHV10
@@ -5272,6 +5309,34 @@ DBLP:conf/lata/BeyersdorffCS15:
   title: A Game Characterisation of Tree-like Q-resolution Size.
   url: https://www.wikidata.org/entity/Q61835452
   year: 2015
+DBLP:conf/lics/BartoKOPP17:
+  authors: "Libor Barto, Michael Kompatscher, Miroslav Ols\xE1k, Trung Van Pham, Michael\
+    \ Pinsker"
+  dblp: conf/lics/BartoKOPP17
+  doi: https://doi.ieeecomputersociety.org/10.1109/LICS.2017.8005128
+  groups:
+  - FM
+  - main
+  link: https://doi.ieeecomputersociety.org/10.1109/LICS.2017.8005128
+  source: '32nd Annual ACM/IEEE Symposium on Logic in Computer Science, LICS 2017,
+    Reykjavik, Iceland, June 20-23, 2017: 1-12 (2017).'
+  title: The equivalence of two dichotomy conjectures for infinite domain constraint
+    satisfaction problems.
+  year: 2017
+DBLP:conf/lics/BodirskyMOOPW19:
+  authors: "Manuel Bodirsky, Antoine Mottet, Miroslav Ols\xE1k, Jakub Oprsal, Michael\
+    \ Pinsker, Ross Willard"
+  dblp: conf/lics/BodirskyMOOPW19
+  doi: https://doi.org/10.1109/LICS.2019.8785883
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1109/LICS.2019.8785883
+  source: '34th Annual ACM/IEEE Symposium on Logic in Computer Science, LICS 2019,
+    Vancouver, BC, Canada, June 24-27, 2019: 1-12 (2019).'
+  title: Topology is relevant (in a dichotomy conjecture for infinite-domain constraint
+    satisfaction problems).
+  year: 2019
 DBLP:conf/lpar/2018w:
   authors: Gilles Barthe, Konstantin Korovin, Stephan Schulz, Martin Suda, Geoff Sutcliffe,
     Margus Veanes
@@ -6192,6 +6257,7 @@ DBLP:conf/mkm/MackeSOUS21:
   doi: https://doi.org/10.1007/978-3-030-81097-9_14
   groups:
   - AR
+  - FM
   - main
   link: https://doi.org/10.1007/978-3-030-81097-9_14
   source: 'Intelligent Computer Mathematics - 14th International Conference, CICM
@@ -6593,6 +6659,19 @@ DBLP:conf/nips/0004KBPPK24:
   title: Dynamic 3D Gaussian Fields for Urban Areas.
   url: http://papers.nips.cc/paper_files/paper/2024/hash/93397b489222f1e66a862f795fc32b96-Abstract-Conference.html
   year: 2024
+DBLP:conf/nips/BagatellaORM21:
+  authors: "Marco Bagatella, Miroslav Ols\xE1k, Michal Rol\xEDnek, Georg Martius"
+  dblp: conf/nips/BagatellaORM21
+  groups:
+  - FM
+  - main
+  link: https://proceedings.neurips.cc/paper/2021/hash/cf708fc1decf0337aded484f8f4519ae-Abstract.html
+  source: 'Advances in Neural Information Processing Systems 34: Annual Conference
+    on Neural Information Processing Systems 2021, NeurIPS 2021, December 6-14, 2021,
+    virtual.: 24707-24718 (2021).'
+  title: Planning from Pixels in Environments with Combinatorially Hard Search Spaces.
+  url: https://proceedings.neurips.cc/paper/2021/hash/cf708fc1decf0337aded484f8f4519ae-Abstract.html
+  year: 2021
 DBLP:conf/nips/FromeCSBDRM13:
   authors: "Andrea Frome, Gregory S. Corrado, Jonathon Shlens, Samy Bengio, Jeffrey\
     \ Dean, Marc'Aurelio Ranzato, Tom\xE1s Mikolov"
@@ -6654,6 +6733,7 @@ DBLP:conf/nips/KaliszykUMO18:
   dblp: conf/nips/KaliszykUMO18
   groups:
   - AR
+  - FM
   - main
   link: http://papers.nips.cc/paper/8098-reinforcement-learning-of-theorem-proving
   source: "Advances in Neural Information Processing Systems 31: Annual Conference\
@@ -7589,6 +7669,7 @@ DBLP:conf/tableaux/ZomboriUO21:
   doi: https://doi.org/10.1007/978-3-030-86059-2_13
   groups:
   - AR
+  - FM
   - main
   link: https://doi.org/10.1007/978-3-030-86059-2_13
   source: 'Automated Reasoning with Analytic Tableaux and Related Methods - 30th International
@@ -8384,6 +8465,19 @@ DBLP:journals/corr/BaroniJJKLSM17:
   source: arXiv CoRR abs/1701.08954 (2017).
   title: 'CommAI: Evaluating the first steps towards a useful general AI.'
   year: 2017
+DBLP:journals/corr/BartoKOPP16:
+  arXiv: http://arxiv.org/abs/1612.07551
+  authors: "Libor Barto, Michael Kompatscher, Miroslav Ols\xE1k, Michael Pinsker,\
+    \ Van Trung Pham"
+  dblp: journals/corr/BartoKOPP16
+  groups:
+  - FM
+  - main
+  link: http://arxiv.org/abs/1612.07551
+  source: arXiv CoRR abs/1612.07551 (2016).
+  title: "Equations in oligomorphic clones and the Constraint Satisfaction Problem\
+    \ for $\u03C9$-categorical structures."
+  year: 2016
 DBLP:journals/corr/BeyersdorffC14:
   arXiv: http://arxiv.org/abs/1405.1565
   authors: Olaf Beyersdorff, Leroy Chew
@@ -9523,6 +9617,7 @@ DBLP:journals/corr/abs-1805-07563:
   dblp: journals/corr/abs-1805-07563
   groups:
   - AR
+  - FM
   - main
   link: http://arxiv.org/abs/1805.07563
   source: arXiv CoRR abs/1805.07563 (2018).
@@ -9585,6 +9680,19 @@ DBLP:journals/corr/abs-1901-00428:
   link: http://arxiv.org/abs/1901.00428
   source: arXiv CoRR abs/1901.00428 (2019).
   title: 'PrideMM: A Solver for Relaxed Memory Models.'
+  year: 2019
+DBLP:journals/corr/abs-1901-04237:
+  arXiv: http://arxiv.org/abs/1901.04237
+  authors: "Manuel Bodirsky, Antoine Mottet, Miroslav Ols\xE1k, Jakub Oprsal, Michael\
+    \ Pinsker, Ross Willard"
+  dblp: journals/corr/abs-1901-04237
+  groups:
+  - FM
+  - main
+  link: http://arxiv.org/abs/1901.04237
+  source: arXiv CoRR abs/1901.04237 (2019).
+  title: Topology is relevant (in the infinite-domain dichotomy conjecture for constraint
+    satisfaction problems).
   year: 2019
 DBLP:journals/corr/abs-1901-08335:
   arXiv: http://arxiv.org/abs/1901.08335
@@ -9693,6 +9801,17 @@ DBLP:journals/corr/abs-1904-09193:
   link: http://arxiv.org/abs/1904.09193
   source: arXiv CoRR abs/1904.09193 (2019).
   title: Cantor-Bernstein implies Excluded Middle.
+  year: 2019
+DBLP:journals/corr/abs-1904-12424:
+  arXiv: http://arxiv.org/abs/1904.12424
+  authors: "Miron Ficak, Marcin Kozik, Miroslav Ols\xE1k, Szymon Stankiewicz"
+  dblp: journals/corr/abs-1904-12424
+  groups:
+  - FM
+  - main
+  link: http://arxiv.org/abs/1904.12424
+  source: arXiv CoRR abs/1904.12424 (2019).
+  title: Dichotomy for symmetric Boolean PCSPs.
   year: 2019
 DBLP:journals/corr/abs-1905-06782:
   arXiv: http://arxiv.org/abs/1905.06782
@@ -9885,6 +10004,7 @@ DBLP:journals/corr/abs-1911-12073:
   dblp: journals/corr/abs-1911-12073
   groups:
   - AR
+  - FM
   - main
   link: http://arxiv.org/abs/1911.12073
   source: arXiv CoRR abs/1911.12073 (2019).
@@ -10064,6 +10184,17 @@ DBLP:journals/corr/abs-2005-02149:
   source: arXiv CoRR abs/2005.02149 (2020).
   title: 'II-20: Intelligent and pragmatic analytic categorization of image collections.'
   year: 2020
+DBLP:journals/corr/abs-2005-03586:
+  arXiv: https://arxiv.org/abs/2005.03586
+  authors: "Miroslav Ols\xE1k"
+  dblp: journals/corr/abs-2005-03586
+  groups:
+  - FM
+  - main
+  link: https://arxiv.org/abs/2005.03586
+  source: arXiv CoRR abs/2005.03586 (2020).
+  title: GeoLogic - Graphical interactive theorem prover for Euclidean geometry.
+  year: 2020
 DBLP:journals/corr/abs-2005-12737:
   arXiv: https://arxiv.org/abs/2005.12737
   authors: Yutaka Nagashima
@@ -10099,6 +10230,18 @@ DBLP:journals/corr/abs-2005-14664:
   link: https://arxiv.org/abs/2005.14664
   source: arXiv CoRR abs/2005.14664 (2020).
   title: First Neural Conjecturing Datasets and Experiments.
+  year: 2020
+DBLP:journals/corr/abs-2006-12254:
+  arXiv: https://arxiv.org/abs/2006.12254
+  authors: "Manuel Bodirsky, Antoine Mottet, Miroslav Ols\xE1k, Jakub Oprsal, Michael\
+    \ Pinsker, Ross Willard"
+  dblp: journals/corr/abs-2006-12254
+  groups:
+  - FM
+  - main
+  link: https://arxiv.org/abs/2006.12254
+  source: arXiv CoRR abs/2006.12254 (2020).
+  title: "\u03C9-categorical structures avoiding height 1 identities."
   year: 2020
 DBLP:journals/corr/abs-2007-10085:
   arXiv: https://arxiv.org/abs/2007.10085
@@ -10345,6 +10488,7 @@ DBLP:journals/corr/abs-2105-14706:
   dblp: journals/corr/abs-2105-14706
   groups:
   - AR
+  - FM
   - main
   link: https://arxiv.org/abs/2105.14706
   source: arXiv CoRR abs/2105.14706 (2021).
@@ -10357,6 +10501,7 @@ DBLP:journals/corr/abs-2106-14195:
   dblp: journals/corr/abs-2106-14195
   groups:
   - AR
+  - FM
   - main
   link: https://arxiv.org/abs/2106.14195
   source: arXiv CoRR abs/2106.14195 (2021).
@@ -10421,6 +10566,17 @@ DBLP:journals/corr/abs-2109-03234:
     in Software Science, SCSS 2021, Hagenberg, Austria, September 8-10, 2021.: 78-85
     (2021).'
   title: Learned Provability Likelihood for Tactical Search.
+  year: 2021
+DBLP:journals/corr/abs-2110-06149:
+  arXiv: https://arxiv.org/abs/2110.06149
+  authors: "Marco Bagatella, Mirek Ols\xE1k, Michal Rol\xEDnek, Georg Martius"
+  dblp: journals/corr/abs-2110-06149
+  groups:
+  - FM
+  - main
+  link: https://arxiv.org/abs/2110.06149
+  source: arXiv CoRR abs/2110.06149 (2021).
+  title: Planning from Pixels in Environments with Combinatorially Hard Search Spaces.
   year: 2021
 DBLP:journals/corr/abs-2201-10516:
   arXiv: https://arxiv.org/abs/2201.10516
@@ -10669,6 +10825,7 @@ DBLP:journals/corr/abs-2301-11479:
   doi: https://doi.org/10.48550/arXiv.2301.11479
   groups:
   - AR
+  - FM
   - main
   link: https://doi.org/10.48550/arXiv.2301.11479
   source: arXiv CoRR abs/2301.11479 (2023).
@@ -10877,6 +11034,7 @@ DBLP:journals/corr/abs-2401-02948:
   doi: https://doi.org/10.48550/arXiv.2401.02948
   groups:
   - AR
+  - FM
   - main
   link: https://doi.org/10.48550/arXiv.2401.02948
   source: arXiv CoRR abs/2401.02948 (2024).
@@ -11320,6 +11478,18 @@ DBLP:journals/corr/abs-2501-09379:
   link: https://doi.org/10.48550/arXiv.2501.09379
   source: arXiv CoRR abs/2501.09379 (2025/01).
   title: First Experiments with Neural cvc5.
+  year: 2025
+DBLP:journals/corr/abs-2502-03544:
+  authors: "Yuri Chervonyi, Trieu H. Trinh, Miroslav Ols\xE1k, Xiaomeng Yang, Hoang\
+    \ Nguyen, Marcelo Menegali, Junehyuk Jung, Vikas Verma, Quoc V. Le, Thang Luong"
+  dblp: journals/corr/abs-2502-03544
+  doi: https://doi.org/10.48550/arXiv.2502.03544
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2502.03544
+  source: arXiv CoRR abs/2502.03544 (2025/02).
+  title: Gold-medalist Performance in Solving Olympiad Geometry with AlphaGeometry2.
   year: 2025
 DBLP:journals/corr/abs-2502-07645:
   authors: "Zhaoting Li, Rodrigo P\xE9rez-Dattari, Robert Babuska, Cosimo Della Santina,\
@@ -12375,6 +12545,17 @@ DBLP:journals/iandc/BeyersdorffCMS18:
   title: Understanding cutting planes for QBFs.
   url: https://www.wikidata.org/entity/Q63378008
   year: 2018
+DBLP:journals/ijac/Olsak20:
+  authors: "Miroslav Ols\xE1k"
+  dblp: journals/ijac/Olsak20
+  groups:
+  - FM
+  - main
+  link: https://www.wikidata.org/entity/Q114614801
+  source: 'Int. J. Algebra Comput. 30: 467-499 (2020).'
+  title: Loop conditions for strongly connected digraphs.
+  url: https://www.wikidata.org/entity/Q114614801
+  year: 2020
 DBLP:journals/ijait/Urban06:
   authors: Josef Urban
   dblp: journals/ijait/Urban06
@@ -12393,6 +12574,7 @@ DBLP:journals/ijar/GauthierOU23:
   doi: https://doi.org/10.1016/j.ijar.2023.109009
   groups:
   - AR
+  - FM
   - main
   link: https://doi.org/10.1016/j.ijar.2023.109009
   source: 'Int. J. Approx. Reason. 162: (2023/11).'
@@ -12936,6 +13118,32 @@ DBLP:journals/jim/BabuskaDHM03:
   source: 'J. Intell. Manuf. 14: 255-265 (2003).'
   title: Intelligent adaptive control of bioreactors.
   year: 2003
+DBLP:journals/jml/BartoKOPP19:
+  authors: "Libor Barto, Michael Kompatscher, Miroslav Ols\xE1k, Van Trung Pham, Michael\
+    \ Pinsker"
+  dblp: journals/jml/BartoKOPP19
+  doi: https://doi.org/10.1142/S0219061319500107
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1142/S0219061319500107
+  source: 'J. Math. Log. 19: 1950010:1-1950010:31 (2019).'
+  title: "Equations in oligomorphic clones and the constraint satisfaction problem\
+    \ for \u03C9-categorical structures."
+  year: 2019
+DBLP:journals/jml/BartoKOPP21:
+  authors: "Libor Barto, Michael Kompatscher, Miroslav Ols\xE1k, Trung Van Pham, Michael\
+    \ Pinsker"
+  dblp: journals/jml/BartoKOPP21
+  doi: https://doi.org/10.1142/S021906132192001X
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1142/S021906132192001X
+  source: 'J. Math. Log. 21: (2021).'
+  title: "Erratum: Equations in oligomorphic clones and the constraint satisfaction\
+    \ problem for \u03C9-categorical structures."
+  year: 2021
 DBLP:journals/jmlr/BruinKTB18:
   authors: Tim de Bruin, Jens Kober, Karl Tuyls, Robert Babuska
   dblp: journals/jmlr/BruinKTB18
@@ -13129,6 +13337,17 @@ DBLP:journals/jsyml/ChvalovskyH16:
   source: 'J. Symb. Log. 81: 524-540 (2016).'
   title: Full Lambek Calculus with Contraction is Undecidable.
   year: 2016
+DBLP:journals/jsyml/Olsak21:
+  authors: "Miroslav Ols\xE1k"
+  dblp: journals/jsyml/Olsak21
+  doi: https://doi.org/10.1017/jsl.2021.14
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.1017/jsl.2021.14
+  source: 'J. Symb. Log. 86: 1432-1451 (2021).'
+  title: Maltsev conditions for General Congruence Meet-semidistributive Algebras.
+  year: 2021
 DBLP:journals/kais/TozickaJKP16:
   authors: "Jan Tozicka, Jan Jakubuv, Anton\xEDn Komenda, Michal Pechoucek"
   dblp: journals/kais/TozickaJKP16
@@ -13317,6 +13536,7 @@ DBLP:journals/pacmpl/BlaauwbroekOG24:
   doi: https://doi.org/10.1145/3656459
   groups:
   - AR
+  - FM
   - main
   link: https://doi.org/10.1145/3656459
   source: 'Proc. ACM Program. Lang. 8: 2027-2050 (2024).'
