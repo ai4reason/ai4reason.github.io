@@ -180,6 +180,24 @@
   orcid: 0009-0003-1247-2435
   github: keneniwt
 
+- name: Miroslav Olšák
+  role: staff
+  position: Researcher
+  groups:
+    - FM
+  interests:
+    - Theorem Proving
+    - Artificial Intelligence
+    - Machine Learning
+    - Large Language Models
+  image: /images/members/user.png
+  email: miroslav.olsak AT cvut.cz
+  homepage: 
+  scholar: 
+  dblp: pid/192/1864
+  orcid: 0000-0002-9361-1921
+  github: mirefek
+
 - name: Leroy Nicholas Chew
   role: staff
   position: Researcher
