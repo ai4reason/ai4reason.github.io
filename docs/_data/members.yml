@@ -115,6 +115,23 @@
   orcid: 0000-0002-6938-5426
   github: 
 
+- name: Karel Chvalovský
+  role: staff
+  position: Researcher
+  groups:
+    - AR
+  interests:
+    - Automated Theorem Proving
+    - Logic in Computer Science
+    - Algorithmic Learning Theory 
+  image: /images/members/ai4reason/kchvalovsky.jpg
+  email: karel (at) chvalovsky.cz
+  homepage: https://karel.chvalovsky.cz/
+  scholar:
+  dblp: pid/39/11138
+  orcid:
+  github: chvalovsky
+
 - name: Chad E. Brown
   role: alumni
   position: Researcher
@@ -164,6 +181,26 @@
   orcid: 0000-0002-8848-5537
   github: cbboyan
 
+- name: Zarathustra A. Goertzel
+  role: staff
+  position: Researcher
+  groups:
+    - AR
+  interests:
+    - Automated Theorem Proving
+    - Artificial General Intelligence
+    - Automated Reasoning
+    - Inference Guidance
+    - Knolwedge Graph Learning
+    - Representation Learning 
+  image: /images/members/ai4reason/zgoertzel.jpg
+  email: zariuq (at) gmail (dot) com 
+  homepage: 
+  scholar:
+  dblp: pid/263/3219
+  orcid:
+  github: zariuq
+
 - name: Keneni W. Tesema
   role: staff
   position: Researcher
@@ -179,6 +216,24 @@
   dblp: pid/385/8306
   orcid: 0009-0003-1247-2435
   github: keneniwt
+
+- name: Robert Veroff
+  role: staff
+  position: Affiliated research professor
+  groups:
+    - AR
+  interests:
+    - Automated Theorem Proving
+    - Mathematical Structures
+    - Abelian Inner Mappings 
+  image: /images/members/ai4reason/bveroff.jpg
+  email:
+  homepage: 
+  scholar:
+  dblp: pid/v/RobertVeroff
+  orcid:
+  github: rveroff
+
 
 - name: Miroslav Olšák
   role: staff
@@ -233,40 +288,6 @@
   orcid:
   github: barakeel
 
-- name: Karel Chvalovský
-  role: staff
-  position: Researcher
-  groups:
-    - AR
-  interests:
-    - Automated Theorem Proving
-    - Logic in Computer Science
-    - Algorithmic Learning Theory 
-  image: /images/members/ai4reason/kchvalovsky.jpg
-  email: karel (at) chvalovsky.cz
-  homepage: https://karel.chvalovsky.cz/
-  scholar:
-  dblp: pid/39/11138
-  orcid:
-  github: chvalovsky
-
-- name: Robert Veroff
-  role: staff
-  position: Affiliated research professor
-  groups:
-    - AR
-  interests:
-    - Automated Theorem Proving
-    - Mathematical Structures
-    - Abelian Inner Mappings 
-  image: /images/members/ai4reason/bveroff.jpg
-  email:
-  homepage: 
-  scholar:
-  dblp: pid/v/RobertVeroff
-  orcid:
-  github: rveroff
-
 - name: Filip Bártek
   role: alumni
   position: PhD student 
@@ -304,26 +325,6 @@
   dblp: pid/261/3275
   orcid:
   github: 
-
-- name: Zarathustra A. Goertzel
-  role: staff
-  position: Researcher
-  groups:
-    - AR
-  interests:
-    - Automated Theorem Proving
-    - Artificial General Intelligence
-    - Automated Reasoning
-    - Inference Guidance
-    - Knolwedge Graph Learning
-    - Representation Learning 
-  image: /images/members/ai4reason/zgoertzel.jpg
-  email: zariuq (at) gmail (dot) com 
-  homepage: 
-  scholar:
-  dblp: pid/263/3219
-  orcid:
-  github: zariuq
 
 - name: Yutaka Nagashima
   role: alumni
