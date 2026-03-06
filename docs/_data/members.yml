@@ -391,7 +391,7 @@
   interests:
     - Automated Reasoning
     - Artificial Intelligence
-  image: /images/members/user.png
+  image: /images/members/marek.jpg
   homepage: https://people.ciirc.cvut.cz/~dancomar/
   scholar: QLhn-hEAAAAJ
   dblp: pid/400/1018
@@ -417,8 +417,8 @@
   github: 
 
 - name: Qiqi Gu
-  role: student
-  position: PhD student 
+  role: staff
+  position: Researcher
   active:
     from: 2025
   groups:
@@ -426,7 +426,7 @@
   interests:
     - Automated Reasoning
     - Artificial Intelligence
-  image: /images/members/user.png
+  image: /images/members/qiqi.jpg
   homepage: 
   scholar:
   dblp: pid/250/1108
