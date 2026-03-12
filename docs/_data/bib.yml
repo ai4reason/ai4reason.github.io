@@ -708,6 +708,19 @@ DBLP:conf/atva/LimaMT24:
     76-90 (2024).'
   title: 'WhyMon: A Runtime Monitoring Tool with Explanations as Verdicts.'
   year: 2024
+DBLP:conf/bcca/BrownKU25:
+  authors: Chad E. Brown, Cezary Kaliszyk, Josef Urban
+  dblp: conf/bcca/BrownKU25
+  doi: https://doi.org/10.1109/BCCA66705.2025.11229570
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1109/BCCA66705.2025.11229570
+  source: '7th International Conference on Blockchain Computing and Applications,
+    BCCA 2025, Durbovnic, Croatia, October 14-17, 2025: 271-277 (2025).'
+  title: Payment Channels with Proofs.
+  year: 2025
 DBLP:conf/biostec/KlemaZAK14:
   authors: "Jir\xED Kl\xE9ma, Jan Zah\xE1lka, Michael Andel, Zdenek Krejc\xEDk"
   dblp: conf/biostec/KlemaZAK14
