@@ -14455,6 +14455,18 @@ DBLP:phd/basesearch/Alibekov21:
     \ prostorech ; Symbolic Regression for Reinforcement Learning in Continuous Spaces."
   url: https://www.base-search.net/Record/adc5665431fac69d2897c0473e98e72c38f733324eec38c258b5d74cb3cb3c95
   year: 2021
+DBLP:phd/basesearch/Derner22:
+  authors: Erik Derner
+  dblp: phd/basesearch/Derner22
+  groups:
+  - ML
+  - main
+  link: https://www.base-search.net/Record/3b90c2a04826d994a37adc80910808ac880f4b67e04d4782e78b8061204064db
+  source: Thesis (2022).
+  title: "Efektivn\xED metody pro u\u010Den\xED model\u016F a \u0159\xEDzen\xED v\
+    \ robotice ; Data-efficient methods for model learning and control in robotics."
+  url: https://www.base-search.net/Record/3b90c2a04826d994a37adc80910808ac880f4b67e04d4782e78b8061204064db
+  year: 2022
 DBLP:phd/dnb/Suda15:
   authors: Martin Suda
   dblp: phd/dnb/Suda15
