@@ -11994,6 +11994,52 @@ DBLP:journals/corr/abs-2601-01932:
   source: arXiv CoRR abs/2601.01932 (2026/01).
   title: Visualizing the Structure of Lenia Parameter Space.
   year: 2026
+DBLP:journals/corr/abs-2602-16324:
+  authors: "Mikol\xE1s Janota, Michael Rawson, Stephan Schulz"
+  dblp: journals/corr/abs-2602-16324
+  doi: https://doi.org/10.48550/arXiv.2602.16324
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2602.16324
+  source: arXiv CoRR abs/2602.16324 (2026/02).
+  title: 'Case Study: Saturations as Explicit Models in Equational Theories.'
+  year: 2026
+DBLP:journals/corr/abs-2602-16335:
+  authors: "Stefan Ratschan, Anggha Nugraha, Mikol\xE1s Janota, Marek Danco"
+  dblp: journals/corr/abs-2602-16335
+  doi: https://doi.org/10.48550/arXiv.2602.16335
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2602.16335
+  source: arXiv CoRR abs/2602.16335 (2026/02).
+  title: Inductive Satisfiability Certification for Universal Quantifiers and Uninterpreted
+    Function Symbols.
+  year: 2026
+DBLP:journals/corr/abs-2602-16410:
+  authors: "Leroy Chew, Mikol\xE1s Janota, Miroslav Ols\xE1k, Martin Suda"
+  dblp: journals/corr/abs-2602-16410
+  doi: https://doi.org/10.48550/arXiv.2602.16410
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2602.16410
+  source: arXiv CoRR abs/2602.16410 (2026/02).
+  title: Reintroducing the Second Player in EPR.
+  year: 2026
+DBLP:journals/corr/abs-2602-17850:
+  authors: Erik Derner, Dalibor Kucera, Aditya Gulati, Ayoub Bagheri, Nuria Oliver
+  dblp: journals/corr/abs-2602-17850
+  doi: https://doi.org/10.48550/arXiv.2602.17850
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2602.17850
+  source: arXiv CoRR abs/2602.17850 (2026/02).
+  title: 'Mind the Style: Impact of Communication Style on Human-Chatbot Interaction.'
+  year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
