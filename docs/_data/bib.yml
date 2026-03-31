@@ -8374,6 +8374,17 @@ DBLP:journals/cg/TesemaHJT25:
   title: 'Denoising-While-Completing Network (DWCNet): Robust point cloud completion
     under corruption.'
   year: 2025
+DBLP:journals/chbah/DernerKOZ24:
+  authors: "Erik Derner, Dalibor Kucera, Nuria Oliver, Jan Zah\xE1lka"
+  dblp: journals/chbah/DernerKOZ24
+  doi: https://doi.org/10.1016/j.chbah.2024.100088
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1016/j.chbah.2024.100088
+  source: 'Comput. Hum. Behav. Artif. Humans 2: (2024).'
+  title: Can ChatGPT read who you are?
+  year: 2024
 DBLP:journals/cim/Babuska07:
   authors: Robert Babuska
   dblp: journals/cim/Babuska07
