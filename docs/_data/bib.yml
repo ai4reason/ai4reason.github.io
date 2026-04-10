@@ -12051,6 +12051,17 @@ DBLP:journals/corr/abs-2602-17850:
   source: arXiv CoRR abs/2602.17850 (2026/02).
   title: 'Mind the Style: Impact of Communication Style on Human-Chatbot Interaction.'
   year: 2026
+DBLP:journals/corr/abs-2603-06931:
+  authors: "Mikol\xE1s Janota, Mirek Ols\xE1k"
+  dblp: journals/corr/abs-2603-06931
+  doi: https://doi.org/10.48550/arXiv.2603.06931
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2603.06931
+  source: arXiv CoRR abs/2603.06931 (2026/03).
+  title: 'LLM2SMT: Building an SMT Solver with Zero Human-Written Code.'
+  year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
