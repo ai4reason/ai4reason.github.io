@@ -12062,6 +12062,17 @@ DBLP:journals/corr/abs-2603-06931:
   source: arXiv CoRR abs/2603.06931 (2026/03).
   title: 'LLM2SMT: Building an SMT Solver with Zero Human-Written Code.'
   year: 2026
+DBLP:journals/corr/abs-2603-29391:
+  authors: Max Lodel, Nils Wilde, Robert Babuska, Javier Alonso-Mora
+  dblp: journals/corr/abs-2603-29391
+  doi: https://doi.org/10.48550/arXiv.2603.29391
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2603.29391
+  source: arXiv CoRR abs/2603.29391 (2026/03).
+  title: Learning Semantic Priorities for Autonomous Target Search.
+  year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
