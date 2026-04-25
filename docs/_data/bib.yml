@@ -7255,6 +7255,33 @@ DBLP:conf/sat/Reger0V16:
     Conference, Bordeaux, France, July 5-8, 2016, Proceedings: 323-341 (2016).'
   title: Finding Finite Models in Multi-sorted First-Order Logic.
   year: 2016
+DBLP:conf/scsquare/2025:
+  authors: "Madalina Erascu, Mikol\xE1s Janota"
+  dblp: conf/scsquare/2025
+  groups:
+  - FM
+  - main
+  link: https://nbn-resolving.org/urn:nbn:de:0074-4116-x
+  source: CEUR Workshop Proceedings 4116 (2025).
+  title: Proceedings of the 10th International Workshop on Satisfiability Checking
+    and Symbolic Computation (SC-Square 2025) Collocated with The 30th International
+    Conference on Automated Deduction (CADE 2025), Stuttgart, Germany, August 2, 2025.
+  url: https://nbn-resolving.org/urn:nbn:de:0074-4116-x
+  year: 2025
+DBLP:conf/scsquare/SudaB25:
+  authors: "Martin Suda, Filip B\xE1rtek"
+  dblp: conf/scsquare/SudaB25
+  groups:
+  - AR
+  - main
+  link: https://ceur-ws.org/Vol-4116/invited2.pdf
+  source: 'Proceedings of the 10th International Workshop on Satisfiability Checking
+    and Symbolic Computation (SC-Square 2025) Collocated with The 30th International
+    Conference on Automated Deduction (CADE 2025), Stuttgart, Germany, August 2, 2025.:
+    12-18 (2025).'
+  title: Boosting Vampire with Neural Networks.
+  url: https://ceur-ws.org/Vol-4116/invited2.pdf
+  year: 2025
 DBLP:conf/sdm/TsivtsivadzeUGH11:
   authors: Evgeni Tsivtsivadze, Josef Urban, Herman Geuvers, Tom Heskes
   dblp: conf/sdm/TsivtsivadzeUGH11
