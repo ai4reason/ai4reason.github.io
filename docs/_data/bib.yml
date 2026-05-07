@@ -6898,6 +6898,54 @@ DBLP:conf/pimrc/WiselyMU00:
   title: Broadband Radio Access for IP-based networks (BRAIN)-a key enabler for mobile
     Internet access.
   year: 2000
+DBLP:conf/pos2/2025:
+  authors: "Jochen Hoenicke, Mikol\xE1s Janota, Aina Niemetz, Sophie Tourret"
+  dblp: conf/pos2/2025
+  groups:
+  - FM
+  - main
+  link: https://nbn-resolving.org/urn:nbn:de:0074-4008-X
+  source: CEUR Workshop Proceedings 4008 (2025).
+  title: Joint Proceedings of the 23rd International Workshop on Satisfiability Modulo
+    Theories and the 16th Pragmatics of SAT International Workshop co-located with
+    the 31st International Conference on Principles and Practice of Constraint Programming,
+    the 28th International Conference on Theory and Applications of Satisfiability
+    Testing and the 18th International Symposium on Combinatorial Search (CP 2025
+    & SAT 2025 & SoCS 2025), Glasgow, UK, August 10-11, 2025.
+  url: https://nbn-resolving.org/urn:nbn:de:0074-4008-X
+  year: 2025
+DBLP:conf/pos2/DancoHJ25:
+  authors: "Marek Danco, Petra Hozzov\xE1, Mikol\xE1s Janota"
+  dblp: conf/pos2/DancoHJ25
+  groups:
+  - FM
+  - main
+  link: https://ceur-ws.org/Vol-4008/SMT_paper10.pdf
+  source: 'Joint Proceedings of the 23rd International Workshop on Satisfiability
+    Modulo Theories and the 16th Pragmatics of SAT International Workshop co-located
+    with the 31st International Conference on Principles and Practice of Constraint
+    Programming, the 28th International Conference on Theory and Applications of Satisfiability
+    Testing and the 18th International Symposium on Combinatorial Search (CP 2025
+    & SAT 2025 & SoCS 2025), Glasgow, UK, August 10-11, 2025.: 52-58 (2025).'
+  title: From MBQI to Enumerative Instantiation and Back.
+  url: https://ceur-ws.org/Vol-4008/SMT_paper10.pdf
+  year: 2025
+DBLP:conf/pos2/JakubuvJ25:
+  authors: "Jan Jakubuv, Mikol\xE1s Janota"
+  dblp: conf/pos2/JakubuvJ25
+  groups:
+  - FM
+  - main
+  link: https://ceur-ws.org/Vol-4008/SMT_paper08.pdf
+  source: 'Joint Proceedings of the 23rd International Workshop on Satisfiability
+    Modulo Theories and the 16th Pragmatics of SAT International Workshop co-located
+    with the 31st International Conference on Principles and Practice of Constraint
+    Programming, the 28th International Conference on Theory and Applications of Satisfiability
+    Testing and the 18th International Symposium on Combinatorial Search (CP 2025
+    & SAT 2025 & SoCS 2025), Glasgow, UK, August 10-11, 2025.: 45-51 (2025).'
+  title: 'Quantifier Instantiations: To Mimic or To Revolt.'
+  url: https://ceur-ws.org/Vol-4008/SMT_paper08.pdf
+  year: 2025
 DBLP:conf/ppsn/KubalikPH06:
   authors: "Jir\xED Kubal\xEDk, Petr Pos\xEDk, Jan Herold"
   dblp: conf/ppsn/KubalikPH06
