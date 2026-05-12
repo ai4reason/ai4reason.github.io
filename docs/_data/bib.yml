@@ -12148,6 +12148,17 @@ DBLP:journals/corr/abs-2603-29391:
   source: arXiv CoRR abs/2603.29391 (2026/03).
   title: Learning Semantic Priorities for Autonomous Target Search.
   year: 2026
+DBLP:journals/corr/abs-2604-13813:
+  authors: "Qiqi Jason Gu, Mikol\xE1s Janota"
+  dblp: journals/corr/abs-2604-13813
+  doi: https://doi.org/10.48550/arXiv.2604.13813
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2604.13813
+  source: arXiv CoRR abs/2604.13813 (2026/04).
+  title: A Universal Textual Merge Strategy Based on Tokens for Version Control Systems.
+  year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
