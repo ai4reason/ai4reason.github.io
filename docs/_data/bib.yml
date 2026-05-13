@@ -3720,6 +3720,19 @@ DBLP:conf/icassp/MikolovKBGC09:
     (2009).'
   title: Neural network based language models for highly inflective languages.
   year: 2009
+DBLP:conf/iccv/AckermannKCXPWGP25:
+  authors: Jan Ackermann, Jonas Kulhanek, Shengqu Cai, Haofei Xu, Marc Pollefeys,
+    Gordon Wetzstein, Leonidas J. Guibas, Songyou Peng
+  dblp: conf/iccv/AckermannKCXPWGP25
+  doi: https://doi.org/10.1109/ICCV51701.2025.00732
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/ICCV51701.2025.00732
+  source: 'IEEE/CVF International Conference on Computer Vision, ICCV 2025, Honolulu,
+    HI, USA, October 19-25, 2025: 7808-7817 (2025).'
+  title: 'CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization.'
+  year: 2025
 DBLP:conf/iccv/KulhanekS23:
   authors: Jonas Kulhanek, Torsten Sattler
   dblp: conf/iccv/KulhanekS23
