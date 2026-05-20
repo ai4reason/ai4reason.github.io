@@ -12172,6 +12172,30 @@ DBLP:journals/corr/abs-2604-13813:
   source: arXiv CoRR abs/2604.13813 (2026/04).
   title: A Universal Textual Merge Strategy Based on Tokens for Version Control Systems.
   year: 2026
+DBLP:journals/corr/abs-2604-18592:
+  authors: "Jan Hula, David Adamczyk, Tom\xE1s Filip, Martin Pavl\xEDcek, Petr Sos\xED\
+    k"
+  dblp: journals/corr/abs-2604-18592
+  doi: https://doi.org/10.48550/arXiv.2604.18592
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.48550/arXiv.2604.18592
+  source: arXiv CoRR abs/2604.18592 (2026/04).
+  title: Two-dimensional early exit optimisation of LLM inference.
+  year: 2026
+DBLP:journals/corr/abs-2604-23803:
+  authors: Jan Warchocki, Xi Wang, Jonas Kulhanek, Jan van Gemert
+  dblp: journals/corr/abs-2604-23803
+  doi: https://doi.org/10.48550/arXiv.2604.23803
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2604.23803
+  source: arXiv CoRR abs/2604.23803 (2026/04).
+  title: 'Bringing a Personal Point of View: Evaluating Dynamic 3D Gaussian Splatting
+    for Egocentric Scene Reconstruction.'
+  year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
