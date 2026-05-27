@@ -6697,7 +6697,7 @@ DBLP:conf/nips/0004KBPPK24:
   - ML
   - main
   link: http://papers.nips.cc/paper_files/paper/2024/hash/93397b489222f1e66a862f795fc32b96-Abstract-Conference.html
-  source: 'Advances in Neural Information Processing Systems 38: Annual Conference
+  source: 'Advances in Neural Information Processing Systems 37: Annual Conference
     on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver, BC, Canada,
     December 10 - 15, 2024.: (2024).'
   title: Dynamic 3D Gaussian Fields for Urban Areas.
@@ -6752,7 +6752,7 @@ DBLP:conf/nips/JiangZPLJM24:
   - FM
   - main
   link: http://papers.nips.cc/paper_files/paper/2024/hash/707a2d58641b2192203b4bf4c532cfe1-Abstract-Conference.html
-  source: 'Advances in Neural Information Processing Systems 38: Annual Conference
+  source: 'Advances in Neural Information Processing Systems 37: Annual Conference
     on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver, BC, Canada,
     December 10 - 15, 2024.: (2024).'
   title: 'Repurposing Language Models into Embedding Models: Finding the Compute-Optimal
@@ -6794,7 +6794,7 @@ DBLP:conf/nips/KulhanekPKPS24:
   - ML
   - main
   link: http://papers.nips.cc/paper_files/paper/2024/hash/25c0fe7b157821dd3140727dc07461da-Abstract-Conference.html
-  source: 'Advances in Neural Information Processing Systems 38: Annual Conference
+  source: 'Advances in Neural Information Processing Systems 37: Annual Conference
     on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver, BC, Canada,
     December 10 - 15, 2024.: (2024).'
   title: 'WildGaussians: 3D Gaussian Splatting In the Wild.'
