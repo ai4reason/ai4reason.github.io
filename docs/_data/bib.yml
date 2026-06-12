@@ -14669,6 +14669,19 @@ DBLP:phd/basesearch/Derner22:
     \ robotice ; Data-efficient methods for model learning and control in robotics."
   url: https://www.base-search.net/Record/3b90c2a04826d994a37adc80910808ac880f4b67e04d4782e78b8061204064db
   year: 2022
+DBLP:phd/basesearch/Goertzel23:
+  authors: Zarathustra Amadeus Goertzel
+  dblp: phd/basesearch/Goertzel23
+  groups:
+  - AR
+  - main
+  link: https://www.base-search.net/Record/6c7e6a927aa76dbcdb3148bb498eb1deef1b2edd32688ce87717ee8219dc1853
+  source: Thesis (2023).
+  title: "Strojov\xE9 u\u010Den\xED pro \u0159\xEDzen\xED inferenc\xED a v automatick\xE9\
+    m dokazov\xE1n\xED v\u011Bt ; Learning Inference Guidance in Automated Theorem\
+    \ Proving."
+  url: https://www.base-search.net/Record/6c7e6a927aa76dbcdb3148bb498eb1deef1b2edd32688ce87717ee8219dc1853
+  year: 2023
 DBLP:phd/dnb/Suda15:
   authors: Martin Suda
   dblp: phd/dnb/Suda15
