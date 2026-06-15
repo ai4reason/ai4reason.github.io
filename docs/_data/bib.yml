@@ -12196,6 +12196,17 @@ DBLP:journals/corr/abs-2604-23803:
   title: 'Bringing a Personal Point of View: Evaluating Dynamic 3D Gaussian Splatting
     for Egocentric Scene Reconstruction.'
   year: 2026
+DBLP:journals/corr/abs-2605-24881:
+  authors: "Miroslav David, Karla St\xE9p\xE1nov\xE1, Robert Babuska"
+  dblp: journals/corr/abs-2605-24881
+  doi: https://doi.org/10.48550/arXiv.2605.24881
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2605.24881
+  source: arXiv CoRR abs/2605.24881 (2026/05).
+  title: Learning Transferable Motor Skills for Geometry-Aware Robotic Surface Tasks.
+  year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
