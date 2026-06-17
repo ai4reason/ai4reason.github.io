@@ -12221,6 +12221,18 @@ DBLP:journals/corr/abs-2605-24881:
   source: arXiv CoRR abs/2605.24881 (2026/05).
   title: Learning Transferable Motor Skills for Geometry-Aware Robotic Surface Tasks.
   year: 2026
+DBLP:journals/corr/abs-2605-29763:
+  authors: "Leroy Chew, Tom\xE1s Peitl"
+  dblp: journals/corr/abs-2605-29763
+  doi: https://doi.org/10.48550/arXiv.2605.29763
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2605.29763
+  source: arXiv CoRR abs/2605.29763 (2026/05).
+  title: Strong (D)QBF Dependency Schemes via Pure Paths with Applications to Proof
+    Checking.
+  year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
   authors: Michael Beeson, Robert Veroff, Larry Wos
