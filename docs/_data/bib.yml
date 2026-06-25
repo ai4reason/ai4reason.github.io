@@ -12532,6 +12532,17 @@ DBLP:journals/eccc/ChedeCKS23:
   title: Understanding Nullstellensatz for QBFs.
   url: https://eccc.weizmann.ac.il/report/2023/129
   year: 2023
+DBLP:journals/eccc/ChedeCKS26:
+  authors: Sravanthi Chede, Leroy Chew, Vaibhav Krishan, Anil Shukla
+  dblp: journals/eccc/ChedeCKS26
+  groups:
+  - FM
+  - main
+  link: https://eccc.weizmann.ac.il/report/2026/101
+  source: informal Electron. Colloquium Comput. Complex. (2026).
+  title: 'On Proof Systems for #QBF.'
+  url: https://eccc.weizmann.ac.il/report/2026/101
+  year: 2026
 DBLP:journals/eccc/ChedeCS24:
   authors: Sravanthi Chede, Leroy Chew, Anil Shukla
   dblp: journals/eccc/ChedeCS24
