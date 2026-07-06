@@ -8362,6 +8362,17 @@ DBLP:journals/arc/HalangSBR06:
   title: 'Information and communication technology embraces control: Status report
     prepared by the IFAC Coordinating Committee on Computers, Cognition and Communication.'
   year: 2006
+DBLP:journals/arobots/SethiLFBA26:
+  authors: Nikhil Sethi, Max Lodel, Laura Ferranti, Robert Babuska, Javier Alonso-Mora
+  dblp: journals/arobots/SethiLFBA26
+  doi: https://doi.org/10.1007/s10514-026-10247-6
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1007/s10514-026-10247-6
+  source: 'Auton. Robots 50: (2026/09).'
+  title: 'STEM: Semantic target search and exploration using MAVs in cluttered environments.'
+  year: 2026
 DBLP:journals/asc/DernerKAB20:
   authors: "Erik Derner, Jir\xED Kubal\xEDk, Nicola Ancona, Robert Babuska"
   dblp: journals/asc/DernerKAB20
@@ -12246,6 +12257,41 @@ DBLP:journals/corr/abs-2605-29763:
   source: arXiv CoRR abs/2605.29763 (2026/05).
   title: Strong (D)QBF Dependency Schemes via Pure Paths with Applications to Proof
     Checking.
+  year: 2026
+DBLP:journals/corr/abs-2606-00762:
+  authors: Nikhil Sethi, Max Lodel, Laura Ferranti, Robert Babuska, Javier Alonso-Mora
+  dblp: journals/corr/abs-2606-00762
+  doi: https://doi.org/10.48550/arXiv.2606.00762
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/arXiv.2606.00762
+  source: arXiv CoRR abs/2606.00762 (2026/06).
+  title: 'STEM: Semantic Target Search and Exploration using MAVs in Cluttered Environments.'
+  year: 2026
+DBLP:journals/corr/abs-2606-02143:
+  authors: Sravanthi Chede, Leroy Chew, Vaibhav Krishan, Anil Shukla
+  dblp: journals/corr/abs-2606-02143
+  doi: https://doi.org/10.48550/arXiv.2606.02143
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2606.02143
+  source: arXiv CoRR abs/2606.02143 (2026/06).
+  title: 'On Proof Systems for #QBF.'
+  year: 2026
+DBLP:journals/corr/abs-2606-03303:
+  authors: "Po-Nien Kung, Linfeng Song, Dawsen Hwang, Jinsung Yoon, Chun-Liang Li,\
+    \ Simone Severini, Mirek Ols\xE1k, Edward Lockhart, Quoc V. Le, Burak Gokturk,\
+    \ Thang Luong, Tomas Pfister, Nanyun Peng"
+  dblp: journals/corr/abs-2606-03303
+  doi: https://doi.org/10.48550/arXiv.2606.03303
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/arXiv.2606.03303
+  source: arXiv CoRR abs/2606.03303 (2026/06).
+  title: 'LEAP: Supercharging LLMs for Formal Mathematics with Agentic Frameworks.'
   year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   arXiv: http://arxiv.org/abs/cs/0301026
