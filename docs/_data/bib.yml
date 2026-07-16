@@ -3441,6 +3441,32 @@ DBLP:conf/gecco/KubalikDB20:
   title: Symbolic regression driven by training data and prior knowledge.
   url: https://www.wikidata.org/entity/Q131114896
   year: 2020
+DBLP:conf/gecco/KubalikFB26:
+  authors: "Jir\xED Kubal\xEDk, Nada Fucelov\xE1, Robert Babuska"
+  dblp: conf/gecco/KubalikFB26
+  doi: https://doi.org/10.1145/3795095.3805164
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1145/3795095.3805164
+  source: 'Proceedings of the Genetic and Evolutionary Computation Conference, GECCO
+    2026, Centro Internacional de Convenciones CIC-ANDE, San Jose, Costa Rica, July
+    13-17, 2026: 984-992 (2026).'
+  title: Asynchronous Neuro-Evolutionary Symbolic Regression with Maturity-Based Replacement.
+  year: 2026
+DBLP:conf/gecco/KubalikMK26:
+  authors: "Jir\xED Kubal\xEDk, Anton\xEDn Miller, Petr Kadera"
+  dblp: conf/gecco/KubalikMK26
+  doi: https://doi.org/10.1145/3795095.3805166
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1145/3795095.3805166
+  source: 'Proceedings of the Genetic and Evolutionary Computation Conference, GECCO
+    2026, Centro Internacional de Convenciones CIC-ANDE, San Jose, Costa Rica, July
+    13-17, 2026: 1111-1119 (2026).'
+  title: Integrating Digital Twins into Evolutionary Optimization of Factory Layouts.
+  year: 2026
 DBLP:conf/gecco/MlejnekK13:
   authors: "Jarom\xEDr Mlejnek, Jir\xED Kubal\xEDk"
   dblp: conf/gecco/MlejnekK13
