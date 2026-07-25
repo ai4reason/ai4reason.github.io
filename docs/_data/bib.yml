@@ -7187,6 +7187,18 @@ DBLP:conf/sat/CabralJM22:
     Testing, SAT 2022, Haifa, Israel, August 2-5, 2022: 29:1-29:19 (2022).'
   title: SAT-Based Leximax Optimisation Algorithms.
   year: 2022
+DBLP:conf/sat/ChedeCKS26:
+  authors: Sravanthi Chede, Leroy Chew, Vaibhav Krishan, Anil Shukla
+  dblp: conf/sat/ChedeCKS26
+  doi: https://doi.org/10.4230/LIPIcs.SAT.2026.32
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.4230/LIPIcs.SAT.2026.32
+  source: '29th International Conference on Theory and Applications of Satisfiability
+    Testing, SAT 2026, Lisbon, Portugal, July 20-23, 2026: 32:1-32:12 (2026).'
+  title: 'On Proof Systems for #QBF (Short Paper).'
+  year: 2026
 DBLP:conf/sat/Chew21:
   authors: Leroy Chew
   dblp: conf/sat/Chew21
@@ -7248,6 +7260,19 @@ DBLP:conf/sat/ChewP25:
     Testing, SAT 2025, Glasgow, Scotland, August 12-15, 2025: 11:1-11:24 (2025).'
   title: Better Extension Variables in DQBF via Independence.
   year: 2025
+DBLP:conf/sat/ChewP26:
+  authors: "Leroy Chew, Tom\xE1s Peitl"
+  dblp: conf/sat/ChewP26
+  doi: https://doi.org/10.4230/LIPIcs.SAT.2026.11
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.4230/LIPIcs.SAT.2026.11
+  source: '29th International Conference on Theory and Applications of Satisfiability
+    Testing, SAT 2026, Lisbon, Portugal, July 20-23, 2026: 11:1-11:20 (2026).'
+  title: Strong (D)QBF Dependency Schemes via Pure Paths with Applications to Proof
+    Checking.
+  year: 2026
 DBLP:conf/sat/IgnatievJM13:
   authors: "Alexey Ignatiev, Mikol\xE1s Janota, Jo\xE3o Marques-Silva"
   dblp: conf/sat/IgnatievJM13
