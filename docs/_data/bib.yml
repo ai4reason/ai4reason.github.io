@@ -14031,6 +14031,19 @@ DBLP:journals/ral/SedlarSSBTSSB23:
   title: 'Imitrob: Imitation Learning Dataset for Training and Evaluating 6D Object
     Pose Estimators.'
   year: 2023
+DBLP:journals/ral/VancFBSSKB25:
+  authors: "Petr Vanc, Giovanni Franzese, Jan Kristof Behrens, Cosimo Della Santina,\
+    \ Karla St\xE9p\xE1nov\xE1, Jens Kober, Robert Babuska"
+  dblp: journals/ral/VancFBSSKB25
+  doi: https://doi.org/10.1109/LRA.2025.3601037
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/LRA.2025.3601037
+  source: 'IEEE Robotics Autom. Lett. 10: 10490-10497 (2025).'
+  title: 'ILeSiA: Interactive Learning of Robot Situational Awareness From Camera
+    Input.'
+  year: 2025
 DBLP:journals/ram/HeijdenLFKB25:
   authors: Bas van der Heijden, Jelle Luijkx, Laura Ferranti, Jens Kober, Robert Babuska
   dblp: journals/ram/HeijdenLFKB25
