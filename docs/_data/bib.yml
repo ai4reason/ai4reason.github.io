@@ -2774,7 +2774,7 @@ DBLP:conf/fm/OrvalhoJM24:
     Test Cases.'
   year: 2024
 DBLP:conf/fmcad/HozzovaB25:
-  authors: "Petra Hozzov\xE1, Nikolaj Bj\xF8rner"
+  authors: "Petra Hozzov\xE1, Nikolaj S. Bj\xF8rner"
   dblp: conf/fmcad/HozzovaB25
   doi: https://doi.org/10.34727/2025/isbn.978-3-85448-084-6_28
   groups:
@@ -11890,7 +11890,7 @@ DBLP:journals/corr/abs-2504-16503:
   title: Neuro-Evolutionary Approach to Physics-Aware Symbolic Regression.
   year: 2025
 DBLP:journals/corr/abs-2504-16536:
-  authors: "Petra Hozzov\xE1, Nikolaj Bj\xF8rner"
+  authors: "Petra Hozzov\xE1, Nikolaj S. Bj\xF8rner"
   dblp: journals/corr/abs-2504-16536
   doi: https://doi.org/10.48550/arXiv.2504.16536
   groups:
