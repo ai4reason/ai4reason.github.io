@@ -18,11 +18,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python 3.13.1
-      uses: actions/setup-python@v2
+    - uses: actions/checkout@v7
+    - name: Set up Python 3.13
+      uses: actions/setup-python@v7
       with:
-        python-version: "3.13.1"
+        python-version: "3.13"
     - run: pip3 install pyyaml pandas openpyxl
     - name: download bibliography
       run: |
@@ -34,7 +34,7 @@ jobs:
         git add .
         git commit -m "Auto update pubs" || true
     - name: push changes 
-      uses: ad-m/github-push-action@master
+      uses: ad-m/github-push-action@v1
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        force: true
+        force: false

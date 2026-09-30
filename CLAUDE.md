@@ -69,7 +69,7 @@ Output contracts that the rest of the site depends on:
 - `.github/workflows/bib.yml` (`update-bibliography-database`): on push to
   `main`, daily at 00:00 UTC, and manually. Installs `pyyaml pandas
   openpyxl` on Python 3.13, runs `./update-bib.sh`, commits everything as
-  "Auto update pubs" and force-pushes to `main`. A failing
+  "Auto update pubs" and pushes to `main` (not forced: a concurrent push makes the job fail). A failing
   `update-bib.sh` fails the job, so nothing is committed.
 - `.github/workflows/jekyll-gh-pages.yml`: runs after the bib workflow
   completes (or manually); builds `./docs/` with `actions/jekyll-build-pages`
