@@ -7,7 +7,11 @@ PUBS=docs/download/publications
 CSV=${PUBS}.csv
 
 mv $CSV ${CSV}.tmp
-python publications/dblp-pubs.py --yaml $BIB --csv $CSV $MEMBERS 
+if ! python publications/dblp-pubs.py --yaml $BIB --csv $CSV $MEMBERS; then
+   # keep the previous CSV and fail the workflow so nothing gets committed
+   mv ${CSV}.tmp $CSV
+   exit 1
+fi
 
 if ! diff $CSV ${CSV}.tmp > /dev/null; then
    echo "Generating Excel..."
