@@ -4,6 +4,7 @@
 import sys
 import re
 import json
+import unicodedata
 from urllib.request import Request, urlopen
 from urllib.parse import urlencode
 import yaml
@@ -14,6 +15,21 @@ DBLP = "https://dblp.org/rdf/schema#"
 BIBTEX = "http://purl.org/net/nknouf/ns/bibtex#"
 BATCH_SIZE = 50
 TIMEOUT = 300
+
+# dblp names lack diacritics outside Latin-1 (š č ř ž ů ě ň ...): Mikolás,
+# Jakubuv. Name words of department members are fixed automatically (see
+# name_fixes); add other name words here.
+NAME_FIXES = {
+   "Kulhanek": "Kulhánek",
+   "Vyskocil": "Vyskočil",
+}
+
+# Author names that are correct as they are, despite a matching name fix.
+NAME_KEEP = {
+   "Tomas Pfister",
+   "Tomás Coleman",
+   "Tomás Robles Valladares",
+}
 
 # One row per (publication, field value); multi-valued fields repeat rows.
 QUERY_PUBS = """
@@ -72,6 +88,28 @@ def sparql(query):
 def clean_name(name):
    "Drop dblp's homonym suffix, e.g. 'Wei Wang 0001' -> 'Wei Wang'."
    return re.sub(r"\s\d{4}$", "", name)
+
+def strip_accents(word, keep_latin1):
+   return "".join(c if keep_latin1 and ord(c) < 256 else
+      "".join(d for d in unicodedata.normalize("NFD", c) if not unicodedata.combining(d))
+      for c in word)
+
+def name_fixes(items):
+   "Map dblp (Latin-1 or ASCII) spellings of member name words to the real ones."
+   fixes = {}
+   for it in items:
+      for word in (it.get("name") or "").split():
+         if all(ord(c) < 256 for c in word):
+            continue # dblp can represent it
+         for key in (strip_accents(word, True), strip_accents(word, False)):
+            fixes[key] = word
+   fixes.update(NAME_FIXES)
+   return fixes
+
+def fix_name(name, fixes):
+   if name in NAME_KEEP:
+      return name
+   return " ".join(fixes.get(word, word) for word in name.split())
 
 def download_pubs(pids):
    pubs = {}
@@ -158,7 +196,7 @@ def is_active(authorinfo, year):
       return False
    return True
 
-def build_db(pubs, members, year):
+def build_db(pubs, members, fixes, year):
    db = {}
    for (iri, pub) in pubs.items():
       # event year for conference papers (as in dblp listings), otherwise publication year
@@ -182,7 +220,7 @@ def build_db(pubs, members, year):
       record = iri.removeprefix(DBLP_PREFIX + "rec/")
       link = primary_link(pub)
       entry = dict(
-         authors=", ".join(name for (name, _) in sigs),
+         authors=", ".join(fix_name(name, fixes) for (name, _) in sigs),
          title=pub["title"] + (" (%s)" % pub["version"] if "version" in pub else ""),
          source=format_source(pub, pubyear, date),
          year=pubyear,
@@ -195,8 +233,7 @@ def build_db(pubs, members, year):
    sys.stderr.write("Relevant entries found: %d\n" % len(db))
    return db
 
-def read_members(ids_file):
-   items = yaml.safe_load(open(ids_file))
+def read_members(items):
    return {it["dblp"].strip("/"): it for it in items if it.get("name") and it.get("dblp")}
 
 def csv_dump(db, out):
@@ -207,9 +244,10 @@ def csv_dump(db, out):
          entry["title"], entry["year"], groups, entry["link"], entry["source"]))
 
 def bibliography(ids_file, year, out_yaml, out_csv):
-   members = read_members(ids_file)
+   items = yaml.safe_load(open(ids_file))
+   members = read_members(items)
    pubs = download_pubs(sorted(members))
-   db = build_db(pubs, members, year)
+   db = build_db(pubs, members, name_fixes(items), year)
    if not db:
       sys.exit("ERROR: No publications found; refusing to write empty output.")
    if out_yaml:

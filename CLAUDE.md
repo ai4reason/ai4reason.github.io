@@ -40,7 +40,11 @@ member-authors who are `active` in its year, plus `main`; records with no
 active member are dropped. `year` is the event year when dblp has one
 (conference papers), else the publication year. `source` reproduces the
 old RIS-based citation strings (full proceedings/book title of the parent
-record, page ranges only, `year/month` where RIS had it). The script
+record, page ranges only, `year/month` where RIS had it). dblp names lack
+diacritics outside Latin-1 (`Mikolás`, `Jakubuv`), so author names are
+fixed word by word (applied to all authors, not only members) with a
+table generated from the `name`s in `members.yml` plus the hand-made
+`NAME_FIXES`; full names in `NAME_KEEP` are left as they are. The script
 exits non-zero rather than write empty output, and `update-bib.sh` then
 restores the previous CSV and fails.
 
