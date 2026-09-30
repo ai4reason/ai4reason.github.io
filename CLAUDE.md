@@ -82,12 +82,16 @@ committing locally.
 
 ```sh
 ./update-bib.sh                       # regenerate bib.yml, CSV, XLSX (from repo root)
-cd docs && ./docker-serve.sh          # Jekyll preview at http://localhost:4000 (docker, jekyll/builder:3.8)
-cd docs && ./docker-update.sh         # bundle update: refreshes docs/Gemfile.lock + docs/vendor/bundle
+cd docs && ./docker-serve.sh          # Jekyll preview at http://localhost:4000
+cd docs && ./docker-run.sh jekyll build   # any command, run via `bundle exec`
 ```
 
-The Gemfile/Gemfile.lock only matter for local preview: the Pages build
-(`actions/jekyll-build-pages`) uses its own pinned `github-pages` gem set.
+Both scripts run `ghcr.io/actions/jekyll-build-pages:<tag>`, the same
+image `actions/jekyll-build-pages@v1` uses on GitHub, with its preinstalled
+`github-pages` gems (`BUNDLE_GEMFILE=/Gemfile` inside the image), so the
+preview matches the Pages build. When the action releases a new image,
+bump `IMAGE` in both scripts. `docs/Gemfile` only declares `github-pages`
+(no lock file); the action merely checks that its gems satisfy it.
 Python deps for `update-bib.sh` are installed in the bib workflow's `pip3`
 line, not managed by any file in the repo.
 
