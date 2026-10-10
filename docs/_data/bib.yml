@@ -12459,6 +12459,28 @@ DBLP:journals/corr/abs-2608-14322:
   source: arXiv CoRR abs/2608.14322 (2026/08).
   title: Solving QBF with Counterexample Guided Refinement.
   year: 2026
+DBLP:journals/corr/abs-2609-16228:
+  authors: "Karel Chvalovsk\xFD, Martin Suda, Josef Urban"
+  dblp: journals/corr/abs-2609-16228
+  doi: https://doi.org/10.48550/ARXIV.2609.16228
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.48550/ARXIV.2609.16228
+  source: arXiv CoRR abs/2609.16228 (2026/09).
+  title: 'Teaching Vampire New Tricks: An Experimental Study of Neural Clause Selection.'
+  year: 2026
+DBLP:journals/corr/abs-2609-16706:
+  authors: "Mikol\xE1\u0161 Janota, Jan Jakub\u016Fv"
+  dblp: journals/corr/abs-2609-16706
+  doi: https://doi.org/10.48550/ARXIV.2609.16706
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/ARXIV.2609.16706
+  source: arXiv CoRR abs/2609.16706 (2026/09).
+  title: 'Vibe-Coded and Tuned: A State-of-the-Art SMT Solver for QF-LRA.'
+  year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   authors: Michael Beeson, Robert Veroff, Larry Wos
   dblp: journals/corr/cs-LO-0301026

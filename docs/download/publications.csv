@@ -27,6 +27,8 @@ Po-Nien Kung, Linfeng Song, Dawsen Hwang, Jinsung Yoon, Chun-Liang Li, Simone Se
 Marek Dančo, Karel Chvalovský, Mikoláš Janota 	 Revisiting Incremental Linearization for Nonlinear Integer Arithmetic. 	 2026 	 AR, FM 	 https://doi.org/10.48550/ARXIV.2608.04835 	 arXiv CoRR abs/2608.04835 (2026/08).
 Mikoláš Janota, João Marques-Silva 	 Solving QBF by Clause Selection. 	 2026 	 FM 	 https://doi.org/10.48550/ARXIV.2608.14274 	 arXiv CoRR abs/2608.14274 (2026/08).
 Mikoláš Janota, William Klieber, João Marques-Silva, Edmund M. Clarke 	 Solving QBF with Counterexample Guided Refinement. 	 2026 	 FM 	 https://doi.org/10.48550/ARXIV.2608.14322 	 arXiv CoRR abs/2608.14322 (2026/08).
+Karel Chvalovský, Martin Suda, Josef Urban 	 Teaching Vampire New Tricks: An Experimental Study of Neural Clause Selection. 	 2026 	 AR 	 https://doi.org/10.48550/ARXIV.2609.16228 	 arXiv CoRR abs/2609.16228 (2026/09).
+Mikoláš Janota, Jan Jakubův 	 Vibe-Coded and Tuned: A State-of-the-Art SMT Solver for QF-LRA. 	 2026 	 FM 	 https://doi.org/10.48550/ARXIV.2609.16706 	 arXiv CoRR abs/2609.16706 (2026/09).
 Sravanthi Chede, Leroy Chew, Vaibhav Krishan, Anil Shukla 	 On Proof Systems for #QBF. 	 2026 	 FM 	 https://eccc.weizmann.ac.il/report/2026/101 	 informal Electron. Colloquium Comput. Complex. (2026).
 Jan Jakubův, Mikoláš Janota, Jelle Piepenbrock, Josef Urban 	 Machine learning for quantifier selection in cvc5. 	 2026 	 FM 	 https://doi.org/10.1016/J.IJAR.2025.109602 	 Int. J. Approx. Reason. 189: (2026).
 David Mojzísek, Jan Hůla, Ziwei Li, Ziyu Zhou, Mikoláš Janota 	 Neural approaches to SAT solving: Design choices and interpretability. 	 2026 	 FAI, FM 	 https://doi.org/10.1016/J.IJAR.2025.109609 	 Int. J. Approx. Reason. 190: (2026).
