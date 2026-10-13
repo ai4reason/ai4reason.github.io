@@ -12481,6 +12481,17 @@ DBLP:journals/corr/abs-2609-16706:
   source: arXiv CoRR abs/2609.16706 (2026/09).
   title: 'Vibe-Coded and Tuned: A State-of-the-Art SMT Solver for QF-LRA.'
   year: 2026
+DBLP:journals/corr/abs-2609-21555:
+  authors: "Michael Codish, Mikol\xE1\u0161 Janota, Peter J. Stuckey"
+  dblp: journals/corr/abs-2609-21555
+  doi: https://doi.org/10.48550/ARXIV.2609.21555
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/ARXIV.2609.21555
+  source: arXiv CoRR abs/2609.21555 (2026/09).
+  title: Compact Partial Symmetry Breaking for Graph Search Problems.
+  year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   authors: Michael Beeson, Robert Veroff, Larry Wos
   dblp: journals/corr/cs-LO-0301026
