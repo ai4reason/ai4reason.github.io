@@ -4154,6 +4154,18 @@ DBLP:conf/icra/LodelBSFBA22:
   title: 'Where to Look Next: Learning Viewpoint Recommendations for Informative Trajectory
     Planning.'
   year: 2022
+DBLP:conf/icra/LodelWBA26:
+  authors: "Max Lodel, Nils Wilde, Robert Babu\u0161ka, Javier Alonso-Mora"
+  dblp: conf/icra/LodelWBA26
+  doi: https://doi.org/10.1109/ICRA57385.2026.11697522
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.1109/ICRA57385.2026.11697522
+  source: 'IEEE International Conference on Robotics and Automation, ICRA 2026, Vienna,
+    Austria, June 1-5, 2026: 4706-4713 (2026).'
+  title: Learning Semantic Priorities for Autonomous Target Search.
+  year: 2026
 DBLP:conf/icra/PenCWB13:
   authors: "Jurren Pen, Wouter Caarls, Martijn Wisse, Robert Babu\u0161ka"
   dblp: conf/icra/PenCWB13
@@ -12491,6 +12503,17 @@ DBLP:journals/corr/abs-2609-21555:
   link: https://doi.org/10.48550/ARXIV.2609.21555
   source: arXiv CoRR abs/2609.21555 (2026/09).
   title: Compact Partial Symmetry Breaking for Graph Search Problems.
+  year: 2026
+DBLP:journals/corr/abs-2609-27874:
+  authors: "Mikol\xE1\u0161 Janota, Ant\xF3nio Morgado"
+  dblp: journals/corr/abs-2609-27874
+  doi: https://doi.org/10.48550/ARXIV.2609.27874
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.48550/ARXIV.2609.27874
+  source: arXiv CoRR abs/2609.27874 (2026/09).
+  title: SAT-based Encodings for Optimal Decision Trees with Explicit Paths.
   year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   authors: Michael Beeson, Robert Veroff, Larry Wos
