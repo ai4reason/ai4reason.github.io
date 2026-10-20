@@ -6251,6 +6251,19 @@ DBLP:conf/mkm/JakubuvK23:
     2023, Cambridge, UK, September 5-8, 2023, Proceedings: 303-308 (2023).'
   title: 'VizAR: Visualization of Automated Reasoning Proofs (System Description).'
   year: 2023
+DBLP:conf/mkm/JakubuvKS26:
+  authors: "Jan Jakub\u016Fv, Cezary Kaliszyk, Martin Suda"
+  dblp: conf/mkm/JakubuvKS26
+  doi: https://doi.org/10.1007/978-3-032-38214-6_20
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-032-38214-6_20
+  source: 'Intelligent Computer Mathematics - 19th International Conference, CICM
+    2026, Ljubljana, Slovenia, September 21-25, 2026, Proceedings: 330-339 (2026).'
+  title: Learning-Guided Higher-Order Automated Reasoning for Isabelle/HOL.
+  year: 2026
 DBLP:conf/mkm/JakubuvU16:
   authors: "Jan Jakub\u016Fv, Josef Urban"
   dblp: conf/mkm/JakubuvU16
