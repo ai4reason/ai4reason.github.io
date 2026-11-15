@@ -12528,6 +12528,19 @@ DBLP:journals/corr/abs-2609-27874:
   source: arXiv CoRR abs/2609.27874 (2026/09).
   title: SAT-based Encodings for Optimal Decision Trees with Explicit Paths.
   year: 2026
+DBLP:journals/corr/abs-2610-02500:
+  authors: "Jo\xE3o Ara\xFAjo, Jan H\u016Fla, Mikol\xE1\u0161 Janota, Edmond W. H.\
+    \ Lee, Bartosz Naskrecki"
+  dblp: journals/corr/abs-2610-02500
+  doi: https://doi.org/10.48550/ARXIV.2610.02500
+  groups:
+  - FAI
+  - FM
+  - main
+  link: https://doi.org/10.48550/ARXIV.2610.02500
+  source: arXiv CoRR abs/2610.02500 (2026/10).
+  title: Proving at Scale for Universal Algebra.
+  year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   authors: Michael Beeson, Robert Veroff, Larry Wos
   dblp: journals/corr/cs-LO-0301026
