@@ -12541,6 +12541,17 @@ DBLP:journals/corr/abs-2610-02500:
   source: arXiv CoRR abs/2610.02500 (2026/10).
   title: Proving at Scale for Universal Algebra.
   year: 2026
+DBLP:journals/corr/abs-2610-15081:
+  authors: "Silv\xE8re Gangloff, Jan H\u016Fla"
+  dblp: journals/corr/abs-2610-15081
+  doi: https://doi.org/10.48550/ARXIV.2610.15081
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.48550/ARXIV.2610.15081
+  source: arXiv CoRR abs/2610.15081 (2026/10).
+  title: Knowledge transfer between simple discrete worlds.
+  year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   authors: Michael Beeson, Robert Veroff, Larry Wos
   dblp: journals/corr/cs-LO-0301026
