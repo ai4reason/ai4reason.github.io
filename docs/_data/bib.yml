@@ -12552,6 +12552,18 @@ DBLP:journals/corr/abs-2610-15081:
   source: arXiv CoRR abs/2610.15081 (2026/10).
   title: Knowledge transfer between simple discrete worlds.
   year: 2026
+DBLP:journals/corr/abs-2610-27908:
+  authors: "Diego Miguel Lozano, Erik Derner, Juan Antonio P\xE9rez-Ortiz, Nuria Oliver"
+  dblp: journals/corr/abs-2610-27908
+  doi: https://doi.org/10.48550/ARXIV.2610.27908
+  groups:
+  - ML
+  - main
+  link: https://doi.org/10.48550/ARXIV.2610.27908
+  source: arXiv CoRR abs/2610.27908 (2026/10).
+  title: 'Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym
+    Substitution, and Adversarial Framing.'
+  year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   authors: Michael Beeson, Robert Veroff, Larry Wos
   dblp: journals/corr/cs-LO-0301026
