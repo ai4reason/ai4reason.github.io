@@ -12564,6 +12564,17 @@ DBLP:journals/corr/abs-2610-27908:
   title: 'Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym
     Substitution, and Adversarial Framing.'
   year: 2026
+DBLP:journals/corr/abs-2610-36981:
+  authors: "Nikolai Antonov, Luk\xE1s Chrpa, Andrii Nyporko, Jan H\u016Fla"
+  dblp: journals/corr/abs-2610-36981
+  doi: https://doi.org/10.48550/ARXIV.2610.36981
+  groups:
+  - FAI
+  - main
+  link: https://doi.org/10.48550/ARXIV.2610.36981
+  source: arXiv CoRR abs/2610.36981 (2026/10).
+  title: GNN-Guided Network Reduction for Centralized Urban Traffic Routing.
+  year: 2026
 DBLP:journals/corr/cs-LO-0301026:
   authors: Michael Beeson, Robert Veroff, Larry Wos
   dblp: journals/corr/cs-LO-0301026
