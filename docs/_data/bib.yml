@@ -2538,6 +2538,20 @@ DBLP:conf/epia/AntonovSJ23:
   title: Data-driven Single Machine Scheduling Minimizing Weighted Number of Tardy
     Jobs.
   year: 2023
+DBLP:conf/epia/DancoCJ26:
+  authors: "Marek Dan\u010Do, Karel Chvalovsk\xFD, Mikol\xE1\u0161 Janota"
+  dblp: conf/epia/DancoCJ26
+  doi: https://doi.org/10.1007/978-3-032-44472-1_2
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.1007/978-3-032-44472-1_2
+  source: 'Progress in Artificial Intelligence - 25th EPIA Conference on Artificial
+    Intelligence, EPIA 2026, Madeira, Portugal, September 2-4, 2026, Proceedings,
+    Part I: 16-28 (2026).'
+  title: Revisiting Incremental Linearization for Nonlinear Integer Arithmetic.
+  year: 2026
 DBLP:conf/epia/Janota19:
   authors: "Mikol\xE1\u0161 Janota"
   dblp: conf/epia/Janota19
@@ -5301,6 +5315,30 @@ DBLP:conf/iwann/HynerMKH25:
     \ Proceedings, Part I: 310-321 (2025)."
   title: Learning to Search with Subgoals.
   year: 2025
+DBLP:conf/iwil/ChvalovskySU26:
+  authors: "Karel Chvalovsk\xFD, Martin Suda, Josef Urban"
+  dblp: conf/iwil/ChvalovskySU26
+  doi: https://doi.org/10.29007/ZWKW
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.29007/ZWKW
+  source: 'IWIL-2026: Proceedings of 16th International Workshop on the Implementation
+    on Logics, Spetses, Greece, October 25, 2026: 10-20 (2026).'
+  title: Neural Conjecturing for Saturation Theorem Provers.
+  year: 2026
+DBLP:conf/iwil/JanotaJ26:
+  authors: "Mikol\xE1\u0161 Janota, Jan Jakub\u016Fv"
+  dblp: conf/iwil/JanotaJ26
+  doi: https://doi.org/10.29007/RN52
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.29007/RN52
+  source: 'IWIL-2026: Proceedings of 16th International Workshop on the Implementation
+    on Logics, Spetses, Greece, October 25, 2026: 44-56 (2026).'
+  title: 'Vibe-Coded and Tuned: A State-of-the-Art SMT Solver for QF-LRA.'
+  year: 2026
 DBLP:conf/jcis/KubalikRL02:
   authors: "Ji\u0159\xED Kubal\xEDk, L\xE9on J. M. Rothkrantz, Ji\u0159\xED Lazansk\xFD"
   dblp: conf/jcis/KubalikRL02
@@ -5518,6 +5556,19 @@ DBLP:conf/lpar/BlaauwbroekUG20:
     Intelligence and Reasoning, Alicante, Spain, May 22-27, 2020.: 138-150 (2020).'
   title: Tactic Learning and Proving for the Coq Proof Assistant.
   year: 2020
+DBLP:conf/lpar/ChewJOS26:
+  authors: "Leroy Chew, Mikol\xE1\u0161 Janota, Miroslav Ol\u0161\xE1k, Martin Suda"
+  dblp: conf/lpar/ChewJOS26
+  doi: https://doi.org/10.29007/SFG8
+  groups:
+  - AR
+  - FM
+  - main
+  link: https://doi.org/10.29007/SFG8
+  source: 'LPAR-26: Proceedings of the 26th Conference on Logic for Programming, Artificial
+    Intelligence, and Reasoning, Spetses, Greece, October 25-30, 2026: 61-79 (2026).'
+  title: Reintroducing the Second Player in EPR.
+  year: 2026
 DBLP:conf/lpar/ChvalovskyC10:
   authors: "Karel Chvalovsk\xFD, Petr Cintula"
   dblp: conf/lpar/ChvalovskyC10
@@ -5545,6 +5596,30 @@ DBLP:conf/lpar/ChvalovskyKPU23:
     112-123 (2023).'
   title: Guiding an Instantiation Prover with Graph Neural Networks.
   year: 2023
+DBLP:conf/lpar/ChvalovskySU26:
+  authors: "Karel Chvalovsk\xFD, Martin Suda, Josef Urban"
+  dblp: conf/lpar/ChvalovskySU26
+  doi: https://doi.org/10.29007/9DKC
+  groups:
+  - AR
+  - main
+  link: https://doi.org/10.29007/9DKC
+  source: 'LPAR-26: Proceedings of the 26th Conference on Logic for Programming, Artificial
+    Intelligence, and Reasoning, Spetses, Greece, October 25-30, 2026: 42-60 (2026).'
+  title: 'Teaching Vampire New Tricks: An Experimental Study of Neural Clause Selection.'
+  year: 2026
+DBLP:conf/lpar/CodishJS26:
+  authors: "Michael Codish, Mikol\xE1\u0161 Janota, Peter J. Stuckey"
+  dblp: conf/lpar/CodishJS26
+  doi: https://doi.org/10.29007/XVNX
+  groups:
+  - FM
+  - main
+  link: https://doi.org/10.29007/XVNX
+  source: 'LPAR-26: Proceedings of the 26th Conference on Logic for Programming, Artificial
+    Intelligence, and Reasoning, Spetses, Greece, October 25-30, 2026: 401-417 (2026).'
+  title: Compact Partial Symmetry Breaking for Graph Search Problems.
+  year: 2026
 DBLP:conf/lpar/Gauthier20:
   authors: Thibault Gauthier
   dblp: conf/lpar/Gauthier20
@@ -15125,6 +15200,19 @@ DBLP:phd/ethos/Jakubuv10:
   title: Generic process shape types and the Poly* system
   url: https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.547706
   year: 2010
+DBLP:phd/tr/Alikoc17:
+  authors: Baran Alikoc
+  dblp: phd/tr/Alikoc17
+  groups:
+  - ML
+  - main
+  link: https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=gLpBbQbOR-wukzWI3gxnEA&no=wMc2iygZhjj_Ym6dqKnlyw
+  source: Thesis (2017).
+  title: "Stability analysis of multiple time-delay systems and design of time-delay\
+    \ filters (\xC7oklu zaman gecikmeli sistemlerin kararl\u0131l\u0131k analizi ve\
+    \ gecikme tabanl\u0131 filtre tasar\u0131m\u0131)"
+  url: https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=gLpBbQbOR-wukzWI3gxnEA&no=wMc2iygZhjj_Ym6dqKnlyw
+  year: 2017
 DBLP:series/faia/BeyersdorffJLS21:
   authors: "Olaf Beyersdorff, Mikol\xE1\u0161 Janota, Florian Lonsing, Martina Seidl"
   dblp: series/faia/BeyersdorffJLS21
